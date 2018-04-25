@@ -12,6 +12,8 @@ Download the project, install the requirements (`python -m pip install -r requir
 
 #### Resources Directory
 
+The K topics created by the topic models are located in `topics.txt`. 
+
 The `ETD_metadata` directory is an *annotated* collection containing the title, department, keywords, and abstract for each ETD.
 It is collected by running the `main()` function from the `scraper.py` script, which downloads the information using GET requests
 from [http://surface.syr.edu/etd/](http://surface.syr.edu/etd/).
