@@ -1,0 +1,11 @@
+$TITLE:
+Drift Mobility Measurements and Electrical Characterization in Thin Film Cadmium Telluride Solar Cells
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+CdTe, Characterization, Drift mobility, Semiconductor device physics, Thin film solar cell
+
+$ABSTRACT:
+Thin film CdTe solar cells are leading the production in the thin film photovoltaic industry for the recent few years. The electric properties and mechanism for fabrication of high efficiency solar cells are still not well established. In this thesis, I’ll report electron and hole drift mobilities measurements in thin film CdTe solar cells based on two characterization methods: time-of-flight and photocapacitance. For a deposition process similar to that used for high-efficiency cells, the electron drift mobilities are in the range 10^-1 – 10^0 cm^2/Vs, and holes are in the range 10^0 – 10^1 cm^2/Vs. The electron drift mobilities are three orders of magnitude smaller than those measured in single crystal CdTe, the hole mobilities are about ten times smaller. Cells were examined before and after a vapor phase treatment with CdCl2; treatment had little effect on the hole drift mobility, but decreased the electron mobility. The electron mobility shows an interesting inverse correlation with the open-circuit voltage for the CdTe coupons with and without the CdCl2 treatment. We speculate that this correlation is due to the diffusion limited recombination. We also discuss the mechanisms reducing the mobilities from the single crystal values. In this thesis, we are able to exclude bandtail trapping and dispersion as a mechanism for the small drift mobilities in thin film CdTe. Other mechanisms like classic scattering, grain boundaries effect, and also polaron interaction will also be discussed in this thesis. All mechanisms mentioned above show little evidence on the influence to the mobility value. The true reason for such a huge change of the drift mobility from its single crystal values still need more interpretations.

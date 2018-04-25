@@ -1,0 +1,11 @@
+$TITLE:
+Elevational and Seasonal Patterns in Methylmercury Production Across the Montane Landscape of Whiteface Mountain in the Adirondack Region of New York
+
+$DEPARTMENT:
+Civil and Environmental Engineering
+
+$KEYWORDS:
+Adirondacks, Forest, Mercury, Methylmercury, Soil
+
+$ABSTRACT:
+Global mercury contamination results from direct primary atmospheric and secondary legacy emissions, which can be deposited to ecosystems, converted to methylmercury, and bioaccumulated along food chains.  I examined soil samples collected across an elevational gradient on Whiteface Mountain in the Adirondack region of New York State to determine spatial patterns in methylmercury concentrations across a forested montane landscape.  I found that soil methylmercury concentrations were highest in the mid-elevation coniferous zone (0.39 ± 0.07 ng/g) compared to the alpine (0.28 ± 0.04 ng/g) and deciduous zones (0.17 ± 0.02 ng/g), while the percent mercury as methylmercury in soils decreased linearly with elevation.  In multivariate linear analysis, soil sulfur concentrations had the greatest positive influence on soil MeHg concentrations, although they only explained 3.2% of the variability in soil MeHg concentrations.  Soil MeHg concentrations appear to be driven by internal processing of Hg and not by deposition of MeHg to the forest floor and vary seasonally.  These findings for methylmercury concentrations are consistent with patterns of mercury concentrations in terrestrial bird species and suggest that future declines in mercury emissions could be important to reducing concentrations of mercury in montane avian species.

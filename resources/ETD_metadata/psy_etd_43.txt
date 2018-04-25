@@ -1,0 +1,11 @@
+$TITLE:
+Exploration of age-related differences in executive control processes of verbal and visuo-spatial working memory: Evidence from the repetition detection paradigm
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Age-related, Executive control, Verbal memory, Visuospatial memory, Working memory, Repetition detection
+
+$ABSTRACT:
+The current study explores executive control processes of working memory in order to attempt to identify the factor underlying age-related differences. A new and unique paradigm, repetition detection, is manipulated to create four processing conditions (baseline, transformation, supervision, and coordination) examined in analogous verbal and visuo-spatial domains. The baseline condition requires the participant to find a repeat in a series of stimuli. The transformation condition requires on-line transformation and updating of stimuli in addition to the baseline task. The supervision condition requires a repeat to be located in two distinct "channels" or processing streams. The coordination condition requires simultaneous access in order to find a repeat across channels. The results from three experiments suggest age-insensitivity for the baseline and transformation conditions, but age-sensitivity for the supervision and coordination conditions. Experiment 3 suggests that the age-related differences in working memory are specific to the process of "focus switching", a condition requiring the maintenance of distinct processing streams. The findings provide support for a process-specific account of age-related differences in executive control, as well as for the fractionalization of working memory.

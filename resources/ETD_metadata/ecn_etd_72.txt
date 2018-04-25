@@ -1,0 +1,11 @@
+$TITLE:
+Three essays on labor market transitions
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Self-employment, Income, United States, Germany, Taxation, Labor, Market transitions
+
+$ABSTRACT:
+This dissertation comprises three essays on the subject labor market transitions. The first essay presents an empirical analysis of the self-employment behavior of men and women in the United States for the years 1970 to 1990 using data from the Panel Study of Income Dynamics. Using hazard modeling techniques, I determine that age and veteran status are the most important covariates for predicting self-employment quit rates for men, while yearly income is the most significant factor for women.The second essay presents a theoretical model of the behavior of an entrepreneur who is considering establishing a start-up business based on a new idea. A simple model illustrates the effects of differential taxation on income from self-employment and income from ordinary labor market activity. I find that both small business subsidies and differential taxation of personal and small business income are necessary to achieve a first best outcome.The third essay presents a cross-national examination of transitions between different income levels in the United States and Germany during the 1980s. The labor earnings mobility of prime age men and women appears similar using a variety of measures, despite major differences in labor market institutions. ARMA models of labor earnings dynamics suggest a great deal of persistence in earnings levels in both countries. For men in the United States and women in both countries, earnings dynamics are driven by permanent individual-specific differences and yearly shocks. Yearly earnings of German, but not American, men have a large auto-regressive component.

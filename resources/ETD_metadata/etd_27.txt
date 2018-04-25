@@ -1,0 +1,11 @@
+$TITLE:
+Structure, Rheology and Optical Properties of Plasmonic Fluids
+
+$DEPARTMENT:
+Biomedical and Chemical Engineering
+
+$KEYWORDS:
+Micelle, Nanoparticle, Plasmonic, Rheology, Surfactant
+
+$ABSTRACT:
+Fluids with tunable optical and rheological properties are of fundamental and practical interest. They can be easily processed to manufacture thin films and interfaces for applications such as molecular detection and light trapping in photovoltaics. Cationic surfactants such as cetyl-trimethylammonium bromide have the ability to self assemble with metallic nanoparticles to form a corona or a double-layer vesicular structure. These structures upon further interaction with wormlike micelle fragments are hypothesized to form micelle-nanoparticle elastic networks. In this dissertation, solution phase self-assembly is utilized to uniformly distribute various metallic nanoparticles to produce stable multicomponent plasmonic fluids with remarkable color uniformity. The optical properties of the fluids can be robustly tuned by varying the species, concentration, size and/or shape of the nanoparticles. Multicomponent plasmonic fluids capable of broadband absorption of visible light are produced via the self-assembly route. Small angle X-ray scattering and rheological studies suggest that the nanoparticles are incorporated into the wormlike micelle network to form a more compact double network.These fluids exhibit rich rheological behavior depending on the nanoparticle concentration and the salt to surfactant molar ratio. Specifically, non-monotonic dependence of zero shear viscosity on nanoparticle concentration, rheopexy, shear thickening, shear banding and shear thinning are observed. The fluids exhibit enhanced viscoelasticity upon the addition of more nanoparticles. The mechanical, rheological and optical properties of plasmonic fluids greatly depend upon the temperature due to the structural changes of the micellar solutions. The application of plasmonic fluids to efficient light trapping in photovoltaic cells, plasmon-enhanced microalgal growth and optofluidic devices have been designed and demonstrated in this dissertation.

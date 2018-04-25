@@ -1,0 +1,11 @@
+$TITLE:
+Scalable parallel algorithms for random data accesses and shared-memory simulation
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Computer science
+
+$ABSTRACT:
+This dissertation focuses on scalable parallel algorithms for irregular communication, random data accesses, and shared memory simulation on a coarse-grained parallel machine. It contains the first deterministic, optimal and communication-efficient algorithm, the transportation algorithm, for dealing with irregular communication. The transportation algorithm forms the basis for performing dynamic permutations (one-to-one random data accesses) and random data accesses with hot spots (one-to-many and many-to-one accesses). These results are expected to be of interest to researchers in parallel algorithms, in the design of scalable runtime libraries for parallel languages such as High Performance Fortran, and in the building of parallel applications in a relatively architecture-independent fashion. The final part of this dissertation uses the results of the irregular communication and random data access algorithms in the simulation of shared memory on a distributed memory parallel machine. The simulation algorithms are further extended to deal with content-addressable shared memory.

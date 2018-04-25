@@ -1,0 +1,11 @@
+$TITLE:
+Structural and functional studies on the catalytic mechanism of glucose 6-phosphate dehydrogenase from Leuconostoc mesenteroides
+
+$DEPARTMENT:
+Biology
+
+$KEYWORDS:
+Catalytic, Glucose 6-phosphate dehydrogenase, Phosphate dehydrogenase, Leuconostoc mesenteroides
+
+$ABSTRACT:
+A protein structure-function-based approach was used to study the catalytic mechanism of glucose 6-phosphate dehydrogenase from Leuconostoc mesenteroides . Site directed mutagenesis was used to replace Asp-177, His-178, and His-240 with asparagine, and the structural and functional characteristics of the mutated enzymes were assessed. The results show that His-240 is the general base that abstracts a proton from the C1-OH of glucose 6-phosphate (G6P), and that the charge supplied by Asp-177 functions to make His-240 a better general base by affecting its pK a  , forming a His-Asp catalytic dyad. The function of His-178 is to bind the phosphate moiety of the G6P.The three-dimensional structure of the first ternary complex for G6PD is reported. The results indicate that upon formation of the ternary complex, the enzyme becomes more compact bringing several residues into close contact with the substrate presumably to provide additional binding energy that is used to help stabilize the transition state. Additionally, the binding site for a ternary complex-specific water molecule is observed that may help to regenerate the enzyme after oxidation of substrate. Binding of G6P and ordering His-178 appears to be necessary in forming this water-binding site.Finally, the 500 MHz 1 H-NMR chemical shifts of the C[varepsilon] and Cδ protons of His-240 were assigned by comparing spectra of the wild-type and H240N G6PDs. This information was used to determine the pK a of His-240 within the three dimensional structure of this 109 kD enzyme. The results indicate that 1 H-NMR can be a useful tool for functional analysis of some moderate-to-large sized proteins.

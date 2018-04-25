@@ -1,0 +1,11 @@
+$TITLE:
+Crowdsourcing Scientific Work: A Comparative Study of Technologies, Processes, and Outcomes in Citizen Science
+
+$DEPARTMENT:
+Information Science and Technology
+
+$KEYWORDS:
+Citizen Science, Crowdsourcing, Distributed Work, Scientific Collaboration, Sociotechnical Systems, Virtual Organizations
+
+$ABSTRACT:
+Citizen science projects involve the public with scientists in collaborative research. Information and communication technologies for citizen science can enable massive virtual collaborations based on voluntary contributions by diverse participants. As the popularity of citizen science increases, scientists need a more thorough understanding of how project design and implementation decisions affect scientific outcomes.Applying a comparative case study methodology, the study investigated project organizers' perspectives and experiences in Mountain Watch, the Great Sunflower Project, and eBird, three observation-based ecological citizen science projects in different scientific domains. Five themes are highlighted in the findings: the influence of project design approaches that favor science versus lifestyle; project design and organizing implications of engaging communities of practice; relationships between physical environment, technologies, participant experiences, and data quality; the constraints and affordances of information and communication technologies; and the relationship of resources and sustainability to institutions and scale of participation.This research contributes an empirically-grounded theoretical model of citizen science projects, with comparative analysis that produced new insights into the design of technologies and processes to support public participation in the production of scientific knowledge.

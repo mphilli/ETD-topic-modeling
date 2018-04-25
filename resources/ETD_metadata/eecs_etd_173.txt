@@ -1,0 +1,11 @@
+$TITLE:
+Evolutionary algorithms for the design of stack filters
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Evolutionary algorithms, Stack filters
+
+$ABSTRACT:
+Non-linear digital filters have been demonstrated to be useful in a variety of situations. But most of them take a higher amount of time to filter an image than linear filters. It is important to obtain fast implementations of non-linear filters, and this became possible when stack filters were introduced. Stack filters provide a new way of representing a large subgroup of non-linear filters specially suitable for fast implementations in VLSI. The difficult problem is to find the stack filter corresponding to a given set of desired properties. The size of the search space makes it impractical to perform exhaustive search. This dissertation implements evolutionary algorithms that have been successful in solving problems for filters with large window sizes. This dissertation demonstrates that selection probabilities can be used to obtain performance measures to compare different filters.It is also shown that greater success is achieved in designing stack filters using tree representations rather than bit string representations in the evolutionary algorithms.

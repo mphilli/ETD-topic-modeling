@@ -1,0 +1,11 @@
+$TITLE:
+Exploring the relationship between self-regulating Intentional Internet search (IIS) and critical thinking skills
+
+$DEPARTMENT:
+Instructional Design, Development and Evaluation
+
+$KEYWORDS:
+Internet search, Metacognitive strategies, Critical thinking, Information literacy, Motivation, General value expectancy theory
+
+$ABSTRACT:
+This study argues that Intentional Internet searching (IIS), an activity prompting learners to intentionally, strategically, and purposively  search the Internet for information, engages learners in deliberately practicing critical thinking skills. The General Expectance-Value theory and previous research studies have conceptually implied that the level of self-regulation (i.e. motivation and metacognitive) is related to the degree of engagement in IIS, taking into account learners' Internet search strategies use. This study investigated a structural equation model incorporating the interaction among three indicators of self-regulating IIS (i.e. motivation, search strategies, and metacognitive strategies), and how these indicators influence critical thinking skills.Data from 307 participants, matriculated graduate or undergraduate students, were collected via a web-survey and analyzed using the structural equation modeling analysis (SEM) technique. The results supported the research hypothesis that motivation influences the strength of the predictive relationship between Internet Search and critical thinking; however the moderation effect of metacognitive strategies was not supported. The post-hoc analysis suggested that the prediction of Internet search on critical thinking for the low motivation group was stronger than for the high and medium motivation groups. Additionally, given that data were collected from participants of different academic status and majors the multiple-group analysis results have contributed to the validation of the measures and theoretical constructs. However, the structure models that were invariant to diverse groups did not reach significant and acceptable model fit due to the small size of the sub-groups. Implications for theories are discussed and an instructional framework for facilitating learners in deliberately practicing IIS are recommended.

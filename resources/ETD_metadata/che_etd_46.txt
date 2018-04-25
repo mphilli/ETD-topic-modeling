@@ -1,0 +1,11 @@
+$TITLE:
+Proteorhodopsin: A study on its photocycle and its place in the evolution of the bacteriorhodopsin superfamily
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Proteorhodopsin, Photocycle, Bacteriorhodopsin, Membrane protein
+
+$ABSTRACT:
+Proteorhodopsin (pR) is a light-activated proton pump homologous to bacteriorhodopsin and recently discovered in oceanic [gamma]-proteobacteria. One perplexing difference between these two proteins is the absence in pR of homologues of bacteriorhodopsin residues Glu-194 and Glu-204. These two residues, along with Arg-82, have been implicated in light-activated fast H + release to the extracellular medium in bR. A purification protocol was developed and flash-photolysis experiments were performed to show that fast H + release does occur in proteorhodopsin, at least under elevated pH conditions that resemble somewhat those of [gamma]-proteobactefa's native open ocean environment.Further studies of proteorhodopsin's structure utilizing Resonance Raman indicate that there are 2 subpopulations of pR in a light-adapted state. These populations most likely arise from different post-translational modifications of the heterologously-expressed protein. The identities of these modifications were not investigated.Finally, the evolutionary history of proteorhodopsin, bacteriorhodopsin and their homologues was investigated utilizing protein sequence comparison techniques. Two alternative hypotheses of the origin of the archaeal rhodopsins and their homologues are discussed. First, the extant rhodopsins may have evolved from a H + pump protein in a last universal common ancestor (LUCA). Second, these light-activated H + pumps may have emerged after LUCA.

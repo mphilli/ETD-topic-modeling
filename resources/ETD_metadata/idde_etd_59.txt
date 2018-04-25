@@ -1,0 +1,11 @@
+$TITLE:
+A Relationship between Course-level Implementation of First Principles of Instruction and Cognitive Engagement: A Multilevel Analysis
+
+$DEPARTMENT:
+Instructional Design, Development and Evaluation
+
+$KEYWORDS:
+Cognitive Engagement, Cognitive Strategy, First Principles of Instruction, Goal Orientation, Multilevel Mediation Model, Self-regulated Strategy
+
+$ABSTRACT:
+Cognitive engagement is an indicator of how students engage in their learning process in classroom context, and the levels of cognitive engagement are conceptualized by the use of cognitive and metacognitive strategies. As the levels of cognitive engagement are thought to be a result of interactions between students and learning contexts, previous studies have explored how certain practices within a course promote student cognitive engagement, but placed less emphasis on the integration of instructional design principles. Given the theoretical and practical importance of First Principles of Instruction, this dissertation answers the question of whether the degree to which the First Principles are implemented in courses makes a difference in students' cognitive engagement when taking into account the mediating role of individual goals, another key predictor of cognitive engagement. A multilevel mediation analysis demonstrates that the influences of course-level implementation of First Principles are transmitted to cognitive engagement through individual intrinsic goal orientation. The implementation of First Principles affects students' deep cognitive strategy use directly as well as indirectly through intrinsic goal orientation. The effect of the First Principles on surface strategy use and self-regulated strategy use appears to be mediated by intrinsic goal orientations. The dissertation concludes that students in a course with greater implementation of First Principles are interested in learning and mastery of academic materials, and ultimately are likely to become engaged in learning in cognitive and self-regulated fashion.

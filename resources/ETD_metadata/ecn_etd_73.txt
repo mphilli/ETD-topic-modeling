@@ -1,0 +1,11 @@
+$TITLE:
+Three essays on poverty, inequality and retirement in Central and Eastern Europe
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Czech Republic, Hungary, Poland, Slovakia
+
+$ABSTRACT:
+Nearly every government has some form of implicit social contract between the government and its citizens. Pressures of globalization, deregulation and demographic change are altering these relationships as we move toward the twenty-first century. There is probably no better place in which to study these changes than in Central and Eastern Europe (CEE).$\sp1$ The social contract between the governments and the citizens of former State Socialist CEE countries was such that the State ensured full employment; a strong safety net to protect the aged and those unable to work; and an absence of significant poverty or high levels of inequality. As the CEE goes through a transition from a planed to a market economy, many aspects of this compact no longer apply. These essays document how individuals are responding to these changes and how society itself is changing.The first essay sets the stage, examining aggregate changes in inequality and poverty in four CEE countries. The second essay uses decomposable inequality measures to compare the distribution of household income in the CEE countries to that of Western countries to find if the sources and levels of inequality are unique to their transition. By decomposing the trend in inequality, this essay also examines the characteristics which are contributing to the widening of the income distribution. The third essay models and empirically examines individuals' labor supply decisions to discover if the uncertainty of the transition influenced hundreds of thousands of Poles to retire early. ftn$\sp1$In particular, the analysis focuses on the Visegrad countries of the Czech Republic, Hungary, Poland and Slovakia.

@@ -1,0 +1,11 @@
+$TITLE:
+A New Method for Helping Chinese People Who Are Facing Retirement to Exert Greater Control over Their Financial Resources
+
+$DEPARTMENT:
+Finance
+
+$KEYWORDS:
+Chinese, Finance, Investment, Retirement
+
+$ABSTRACT:
+In China, personal financial advisers are not common. Chinese people who are facing retirement have a difficult time to plan for their retirement. This causes a very serious problem in China: many older Chinese do not have enough money in retirement. Therefore, my goal is to help Chinese people that are facing retirement without a detailed financial plan. In order to do so, I’ve conducted research to understand the long-term goals of those Chinese people. As a qualitative research approach, I've created three probes to explore the problems they are facing and the reasons why existing solutions do not work in China. In addition, I’ve explored various ways in which they might exert greater control over their financial resources. My design goal is to provide personalized advice with the assistance of various user interface concepts.

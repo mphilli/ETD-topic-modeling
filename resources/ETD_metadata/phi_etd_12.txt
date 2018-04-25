@@ -1,0 +1,11 @@
+$TITLE:
+The nature of assertion
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Assertion, Knowledge, Gricean accounts, Rule-constituted acts
+
+$ABSTRACT:
+In Chapter 1 I propose and defend an account of assertion and some closely related acts, built upon the idea that asserting that P involves acting with the intention of producing evidence that one has activated knowledge of the fact that P. This account vindicates the increasingly popular idea that there is a special connection between assertion and knowledge.Most accounts of assertion are of one of two broad types. On one type of account, whose modern origin is Paul Grice's 1957 paper 'Meaning', the core of asserting that P is acting with a certain structure of intentions. My own account is a species of this 'Gricean' type of account. There is considerable variety among Gricean accounts. Nearly all such accounts fail to discern any special connection between assertion and knowledge. I am the first proponent of a Gricean account to argue at length for the existence of such a connection, and the first to provide a detailed explanation of that connection.In Chapter 2 I survey a few Gricean accounts each of which is in some way or another interestingly similar to my own. In Chapter 3 I argue that each of several Gricean accounts on which making an assertion involves acting with an intention that 'refers to itself' is either fatally unclear or false. Chapter 4 is a critical study of some aspects of Dan Sperber and Deirdre Wilson's theory of communication. Their theory is broadly Gricean.On the other broad type of account, assertion is a rule-constituted act, that is, an act that of its very nature involves the application of one or more rules. Chapters 5-7 are critical studies of three prominent examples of this type of account, namely, the accounts of William P. Alston, Timothy Williamson, and Robert Brandom.

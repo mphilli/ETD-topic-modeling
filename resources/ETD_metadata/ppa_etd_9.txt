@@ -1,0 +1,11 @@
+$TITLE:
+Exploring knowledge networks for e-government services: A comparative case study of two local governments in Korea
+
+$DEPARTMENT:
+Public Administration
+
+$KEYWORDS:
+Knowledge networks, E-government, Local governments, Korea, Social networks, Public management
+
+$ABSTRACT:
+The purpose of this research is to explore knowledge networks for e-government services. A primary research question is "What are the knowledge network conditions under which government organizations deliver high-performance of e-government services?" To answer this question, I take a social network perspective to examine knowledge networks for providing e-government services in a local government setting. I designed a comparative case study where I explored knowledge networks for the online parking services of two Korean local governments. The findings of the first study emphasize that knowledge sharing opportunity matters for the perceived e-government effectiveness. Network actors with better opportunity to access knowledge possessed by others are found to perceive greater e-government effectiveness. Through the analysis of the knowledge networks of the two local governments, I found that e-government performance is likely to be enhanced (1) when local governments allocate strong ties with external stakeholders (such as IT vendors and upper level government organizations) to explore novel knowledge for e-government services; (2) at the same time, they maintain strong ties among internal stakeholders to exploit their knowledge residing organization units; (3) when cross-unit knowledge sharing--between program and IT units in particular--emerges from denser e-government knowledge networks; (4) when knowledge networks are decentralized across network actors; and (5)  when cross-unit boundary spanners are embedded in denser local knowledge networks and there are strong ties among their contacts, as well as between cross-unit boundary spanners and their contacts.

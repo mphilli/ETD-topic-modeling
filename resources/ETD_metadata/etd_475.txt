@@ -1,0 +1,11 @@
+$TITLE:
+Response Modulation Moderates the Effect of Agonistic Striving on Cardiovascular Disease Risk in Children
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Agonistic Striving, Cardiovascular Disease, emotion regulation
+
+$ABSTRACT:
+Psychological and physiological risk indices in youth may mark early trajectories to adult cardiovascular disease. The present study tested the hypotheses that: (1) children who exhibit agonistic striving (struggling to influence, control, or change other people) exhibit increased cardiovascular risk relative to their peers; (2) children whose parents exhibit agonistic striving exhibit similar risk; and (3) the associations between agonistic striving and cardiovascular risk are moderated by the child’s response modulation abilities. Participants were 100 children aged 9 to 11 years (M = 10.61, SD = 0.86) and 100 parents/caregivers. Agonistic striving was measured with the Social Competence Interview; response modulation abilities were measured with: (a) a self-report index of emotion regulation, and (b) heart rate variability. Cardiovascular risk was indexed by levels of resting blood pressure, cardiovascular reactivity, arterial stiffness, and left ventricular mass of the heart. The results replicated the striving profiles observed previously in adolescents and adults. Indices of increased cardiovascular risk were associated with parent but not child agonistic striving. The degree of a parent’s agonistic goal focus interacted with the level of the child’s emotion regulation abilities and autonomic vagal control to predict higher levels of resting blood pressure and arterial stiffness in the child. Those at greatest risk were children with lower emotion regulation abilities or lower autonomic vagal control, and whose parents exhibited a high degree of agonistic focus. This study offers important new evidence that a psychological mechanism of parental stress may interact with regulatory mechanisms in the child to impair the child’s health.

@@ -1,0 +1,11 @@
+$TITLE:
+Essays on trade policy, institutions, and firm behavior
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Trade policy, Institutions, Firm behavior, Export
+
+$ABSTRACT:
+The micro benefits of trade have been widely documented. For example, Pavcnik (2002), Topalova (2004), and Amiti and Konings (2007), among others, have shown that trade liberalization leads to significant increases in firm productivity. Similarly, Levinsohn (1993), Harrison (1994), and Krishna and Mitra (1998) demonstrate that the added competition from trade liberalization decreases the price-cost markup charged by firms. Finally, De Loecker (2007), Lileeva and Trefler (2010), and Jing, Park, Shi, and Yang (2010) suggest that entering the export market leads to significant increases in firm productivity. However, with a few exceptions, this literature does not adequately document the manner in which institutional factors distort these gains from trade. Given the important role that institutions play in determining growth and productivity at both the micro and macro level, this is a crucial omission. This dissertation addresses the gap in the literature by examining how institutional factors such as inefficient courts, corruption, imperfect competition, and labor unions distort the behavior of firms. In particular, this dissertation documents the manner in which these institutional factors affect the response of firms to trade policy as well their decision to export.

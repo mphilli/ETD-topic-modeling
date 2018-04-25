@@ -1,0 +1,11 @@
+$TITLE:
+Hydrothermal Chemistry of the M(I,II)/PAHA/Anion System
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+frameworks, hydrothermal, metal, organic
+
+$ABSTRACT:
+This research encompasses the detailed investigation of the design and synthesis of metal organic framework (MOF) materials involving the M(I,II)/ polyazaheterocycle/anion system in order to expand our understanding of the principles which render the chemistry more controllable and predictable. In addition, this research investigates the development of properties in these classes of compounds. Furthermore, it has been demonstrated that hydrothermal reaction conditions of stoichiometry, pH, and temperature can influence the identity of the products.The structural versatility of the M(I,II)/polyazaheterocycle/anion system for M = Cu(I,II), Co(II), Ni (II), Zn (II), and Cd(II) and where the anion is F-, Cl-, I-, OH-, SO42-, or PO43-, is a reflection of the many structural determinants at play. These include factors such as: (i) the variety of coordination polyhedra available to the metal, (ii) variable modes of coordination associated with the azole(ate) ligands, (iii) the role of functional substituents on the azolate moiety, (iv) the incorporation and coordination preferences of secondary anionic components (Xn- or XOmn-) and (v) the variable incorporation of solvent molecules.The structural chemistry of these materials is quite complex, as evidenced by the range of component substructures observed including a range of chains, layers, frameworks, and embedded metal/azolate clusters. In addition, many of the products exhibited interesting magnetic properties. While a number of recurring structural motifs have been observed, the remarkable array of structures of materials in this study underlines the difficulty in predicting product composition and the challenge in rational design of framework materials. It is anticipated that the continued elaboration of a structural data base for these complex hierarchical materials will evolve into a structural systematic.

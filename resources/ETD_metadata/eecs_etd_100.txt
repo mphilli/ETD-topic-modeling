@@ -1,0 +1,11 @@
+$TITLE:
+Integrated three-tiered architecture for high-performance commodity metacomputing
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Metacomputing, Commodity computing
+
+$ABSTRACT:
+Programming tools that are simultaneously sustainable, highly functional, robust and easy to use have been hard to come by in the HPCC arena. Thus we have developed a new strategy, HPcc: High Performance Commodity Computing, which builds HPCC programming tools on top of the remarkable new software infrastructure being built for the commercial web and distributed-object areas. This leverage of a huge industry investment naturally delivers tools with the desired properties with the one (albeit critical) exception that high performance is not guaranteed. Our approach automatically gives the user access to the full range of commercial capabilities (e.g., databases and compute servers), pervasive access from all platforms, and natural incremental enhancement as the industry software juggernaut continues to deliver software systems of rapidly increasing power. We add high performance to commodity systems using a multi-tiered architecture with the Globus meta-computing toolkit as the backend of a middle tier of commodity web and object servers.More specifically, we design and implement a three-tiered system. Web browser-based graphical user interface that assists the researcher in the selection of suitable applications, the generation of input data sets, specification of resources, and the post-processing of computational results, comprises tier 1. The distributed, object-oriented middle tier maps the user-task specification onto back-end resources, which form the third tier. In this way we hide the underlying complexities of a heterogeneous computational environment and replace it with a graphical interface through which a user can understand, define, and analyze scientific problems.

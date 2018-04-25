@@ -1,0 +1,11 @@
+$TITLE:
+The development and testing of a social cognitive model of commitment: A structural equation analysis
+
+$DEPARTMENT:
+Child and Family Studies
+
+$KEYWORDS:
+Social cognitive, Commitment, Conflict management, Self-efficacy, Young adult, Romantic relationships, Structural equation modeling
+
+$ABSTRACT:
+This study employed structural equation analysis (SEM) to examine the following individual and dyadic models among a sample of 295 heterosexual dating couples: (1) social cognitive model of commitment, (2) Rusbult's investment model of commitment, (3) combined commitment model. SEM analyses revealed social cognitive indicators including, self-talk, conflict management, and communicative efficacy were significant and positive predictors of commitment level for both females and males. Communicative efficacy was also found to mediate the relationship between conflict management and commitment for females and partially mediate this relationship among males. Results from the Rusbult investment model were consistent with previous research which revealed satisfaction level and investment size as significant and positive predictors of commitment and quality of alternatives as a significant and negative predictor of commitment. Significant partner effects were found in the social cognitive model between, (1) female conflict management and male communicative efficacy, (2) male conflict management and female communicative efficacy, (3) female communicative efficacy and male commitment, (4) male communicative efficacy and female commitment, and (5) female conflict management and male commitment. A negative partner effect was also found in the Rusbult investment model between female quality of alternatives and male commitment. Findings from this dissertation highlight the importance of the development and testing of alternative models of commitment among both members of a dyad.

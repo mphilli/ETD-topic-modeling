@@ -1,0 +1,11 @@
+$TITLE:
+Homomorphic approach for through-wall sensing
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Homomorphic, Through-wall sensing, Imaging, Motion detection
+
+$ABSTRACT:
+Through-Wall sensing and imaging is a growing area of research due to its practical importance for military and law enforcement operations. Research in this area has focused on motion detection of humans (using Doppler radars, or filters) and imaging. Motion detection techniques are limited to detecting humans when they move, but not the surrounding stationary objects, be it arms or other types. The other direction of imaging offers promising results for identifying the environment behind a wall, but the higher frequencies used, which are needed for imaging resolution, suffer poor wall penetration ability.The direction that received the least attention was identifying signatures of various objects like stationary arms and humans using lower frequencies (few GHz) that would produce enough resolution for identification as well as good wall penetration ability.In this work, cepstral analysis of low frequency (up to 2 GHz) electromagnetic waves illuminating a target behind a wall is developed. The Matrix Pencil method is employed in a novel homomorphic approach to resolve the target's time domain response from the wall, especially at very close proximity when their responses overlap and are not resolvable. This results in the successful elimination of the contribution of the wall to the response, thus providing for the target's signature identification. The use of monostatic analysis could permit use of far simpler and cost effective antenna systems resulting in significantly less logistical support and relaxed operational requirements.

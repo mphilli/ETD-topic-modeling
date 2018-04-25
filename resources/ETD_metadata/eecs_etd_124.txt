@@ -1,0 +1,11 @@
+$TITLE:
+Trace cache in simultaneous multithreading
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Trace cache, Multithreading, Processors, Computer architecture
+
+$ABSTRACT:
+Instruction fetch throughput is one of the most significant performance bottlenecks of a Simultaneous Multithreading Processor. Instruction fetch throughput limits the execution throughput of a Simultaneous Multithreading Processor even when the processor supports a large number of threads. A Trace Cache can improve instruction fetch throughput of a Superscalar Processor. In this dissertation, we have presented a new processor microarchitecture, Topaz , which adds a Trace Cache to a Simultaneous Multithreading Processor. We show that Topaz improves performance of a Simultaneous Multithreading Processor. An improvement of nine to fourteen percent is observed through our simulations. The results are achieved through mathematical analysis and simulation of SPEC2000 benchmark programs on Topaz. Also, in this dissertation, an analytical model of Trace Cache Miss Rates, and Trace Cache instruction fetch performance are presented. The analytical models are used to develop a new tool, Tulip , for fast performance analysis of Simultaneous Multithreading and Super-scalar processors. Implementation, benefits, and applications of Tulip are presented. The new tool is used as a guide for Topaz design and simulation. The actual simulation is carried out using a detailed cycle accurate out-of-order simulator. A new detailed microarchitecture simulator, Topazsim , is also presented in this dissertation.

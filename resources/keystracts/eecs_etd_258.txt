@@ -1,0 +1,1 @@
+computer science graphics computer-aided curve and surface design bezier curves data smoothing problems the central problem that this thesis addresses is the problem of interactively designing free-form curves and surfaces on a computer graphics display with slight variations the same methods may be used for a broad class of data fitting and data smoothing problems

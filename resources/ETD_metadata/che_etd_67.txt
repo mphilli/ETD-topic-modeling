@@ -1,0 +1,11 @@
+$TITLE:
+A study of the role of polyhedral borane compounds in solid state materials, nanotechnology and main group cluster substitution chemistry
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Carborane, Borane, Nanotechnology, Cluster substitution, Polyhedral
+
+$ABSTRACT:
+The work described here consists of the synthesis and characterization of new materials utilizing polyhedral borane cluster compound as starting materials, including solid state titanium diborides, molecular nanosystems, and polyhedral boron cage substitution compounds.The first chapter of this work describes attempts to prepare titanium diboride through the use of aerosol techniques. The reaction involved titanium(IV) chloride and decaborane in organic solvents at elevated temperatures and atmospheric pressure, producing the first known spherical particles containing both titanium and boron in the final material. Scanning electron microscopy (SEM), energy dispersive X-ray (EDAX) and powder X-ray diffraction data are reported here for these experiments.The synthesis and complete characterization of new molecular nanosystems are reported in the second chapter of this work. In particular, the failed attempts at coupling ortho -carborane cages at the 9- or the 12-positons of the cage framework are presented. Progress on the molecular building block compound was made by switching from the 1,1 ' -bis( ortho -carborane) system to the modified system of 2,3-benzo-4,5- ortho -carborane-1-one. This modification gives all of the desired structural properties of the original molecular building block, with a much simpler synthesis to achieve the overall target molecule. The synthesis of 2,3-benzo-4,5- ortho -carborane-1-one ( 2.2 ) from 2-phenyl-1,2-dicarba- closo -dodecaborane-1-carboxylic acid by an intramolecular Friedel-Crafts reaction is reported. Complete spectroscopic analysis and a single crystal X-ray study is reported for these compounds.The third chapter of this work focuses on the synthesis and characterization of methyltriphenylphosphonium 5-iodo-7,8-dicarba- nido -undecaborate ( 3.1 ), with a focus on the bridging proton in a C-H-C position on the open face of the 5-iodo-7,8-dicarba- nido -undecaborate anion. The complete spectroscopic characterization and the X-ray crystal structure of compound 3.1 are reported here.

@@ -1,0 +1,11 @@
+$TITLE:
+An instruction-set process calculus for synchronous hardware composition
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Instruction-set process, Calculus, Hardware composition
+
+$ABSTRACT:
+High-level abstraction is important for formal verification of complex designs such as systems-on-a-chip. Instruction-set descriptions are widely used for modern digital specifications, but formalisms to support them are scarce. Modeling microprogrammed machines for instance remains a challenge. We created a process calculus named IspCal (Instruction Set Process Calculus) to model and reason about synchronous hardware composition at the instruction-set level.IspCal is a language useful for describing synchronous digital systems and a calculus for formally equating one description with another. It features value-passing for efficient datapath modeling, mutual recursion, parallel composition, and simultaneous events for synchronous systems. The operational semantics of IspCal is defined with labelled transitions and bisimulation equivalence. The algebraic properties of IspCal are formally proved.IspCal is embedded in the Higher-Order Logic theorem proving system by conservative extension of the higher order logic. The deep embedding ensures sound language development with precise formal definitions, enables formal machine-checked verification of the language properties, and provides automated support for applications of IspCal. It also is an implementation of IspCal.The utility of IspCal is illustrated by a variety of hardware examples including simple logic gates and common subsystems such as flip-flops, level-sensitive latches, registers, and memories, composed finite-state machines, stacks of unconstrained word length, microprogrammed machines, and a PDP-8 instruction-set machine. These examples are described as Algorithmic State Machines corresponding to hardware flowcharts, InstructionSet Process descriptions, and as structures composed of simpler components. The equivalence of these descriptions is shown using bisimulation.

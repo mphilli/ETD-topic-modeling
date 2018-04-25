@@ -1,0 +1,11 @@
+$TITLE:
+Deprotection and Reductive Amination Methodology of N-Boc-3-amino-4-halopyridines
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+3-amino-4-chloropyridine, imidazopyridine, Reductive Amination
+
+$ABSTRACT:
+The following describes a protocol for the one-pot deprotection and reductive amination of N-Boc-3-amino-4-halopyridines. The intermediate 3-amino-4-chloropyridinium trifluoroacetate salt combined with trimethylsilyl trifluoromethanesulfonate (TMSOTf) effectively facilitates condensation with a carbonyl moiety. The corresponding imine is subsequently reduced using sodium triacetoxyborohydride. The product, N-alkyl-3-amino-4-halopyridines, provides an effective synthon for our previously reported synthesis of imidazo[4,5-c]pyridines. The current approach greatly improves upon previously alkylation methods of these aryl amines; providing an expanded substrate scope with excellent yields.

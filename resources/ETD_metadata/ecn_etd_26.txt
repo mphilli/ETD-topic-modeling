@@ -1,0 +1,11 @@
+$TITLE:
+Three essays on agent behavior in United States housing market
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Discrimination, Rental market, Audit, Utility, Agent, Housing market
+
+$ABSTRACT:
+First two essays examine the incidence and causes of housing discrimination in qualitative treatment by rental agents, using national audit data from the 2000 Housing Discrimination Study. The analysis distinguishes between two kinds of rental agents, brokers and property management agents. Using the fixed-effects logit and random parameter multinomial logit methods, we conduct hypothesis tests for the incidence and causes of discrimination. We find evidence that discrimination is present in the data and is caused by both agents' own prejudice and their response to the prejudice of white clients. In addition, we find that Hispanic rental agents discriminate against black customers more than do other rental agents.The third essay examines the decision to include utilities in the rent and its effect on rents. We use individual house-level data from the 2000 Housing Discrimination Study (HDS) and 2002 American Housing Survey (AHS). We distinguish between two types of utilities, energy/water and non-energy, because the reasons for including utilities in the rent may differ between these two groups. We find evidence that landlords use the inclusion of utilities in the rent to attract more customers. For the hedonic rent estimation, we find that the decision to include the cost of utilities in the rent raises rent. We also discover that neighborhood characteristics, such as racial composition, median housing value, and percentage of home ownership, significantly affect rents.

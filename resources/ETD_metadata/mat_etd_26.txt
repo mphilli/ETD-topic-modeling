@@ -1,0 +1,11 @@
+$TITLE:
+Multi-category support vector machines
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Support vector machines, Machine learning, Classification, Multicategory
+
+$ABSTRACT:
+In this dissertation, we study the multi-category support vector machines (k-SVM). The design of the model and the analysis of consistency are fully discussed. The application to an NIOSH (National Institution for Occupational Safety and Health) project is also discussed.In order to design the k-SVM model, the concepts of hyperplane separation are introduced. The points in the original space and input space are mapped into high dimensional space which is called feature space. Here we suppose that the feature space is the reproducing kernel Hilbert space of functions. The hyperplanes are searched in feature space. Firstly it is assumed that classes of points are separable, which leads to general k-SVM model. For the cases when classes of points are not separable, the 2-norm soft margin k-SVM is constructed. In both cases, the purpose is to find the hyperplanes in feature space which divides the classes with maximum margins. The search of the maximum margins leads to optimization problems. By the aid of Lagrangian multipliers, the optimization problems are transformed to constrained quadratic optimization problems. The decision functions are generated.To analyze the performance of the model, we define the weak consistency and consistency of the algorithm. The decision function with minimum risk is constructed. We show that the risk of our decision function approaches to the minimum risk as the sample size goes to infinity. The approach is in the sense of probability measure.As a testing of the performance of our model, we apply the algorithm to the NIOSH project. In NIOSH project, 200 scans of human body surfaces are provided. The scans contain large number of triangulated points. The k-SVM model is applied to classify the data according to the existing classes. Part of the samples are used as training data to generate the decision function. The rest of samples are used to test the prediction accuracy of the decision function. By choosing the appropriate kernel functions, our model obtains the accuracy of 92%.

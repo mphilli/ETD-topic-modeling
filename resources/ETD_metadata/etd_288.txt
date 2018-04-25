@@ -1,0 +1,11 @@
+$TITLE:
+The list strength effect in cued recall: Estimation, implications, and models
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+computational modeling, cued recall, list strength, list strength effect, memory, memory models
+
+$ABSTRACT:
+Episodic memory, the processes by which information about experienced events is encoded into some long-term store and retrieved, has in recent years been studied in terms of retrieval tasks.  Typically, researchers consider how experimental manipulations affect performance on recall tasks or recognition tasks, but rarely both.  This dividing line came into being following the discovery of a null list strength effect in recognition.  In free recall tasks, memory performance for an item is harmed if memory for other items studied on the list are strengthened, but not so for recognition tasks.  Although the models that resulted from this dissociation represent a significant advance, that there is a dissociation at all between models of recognition and models of recall is not a desirable outcome.  Efforts should be made to return towards models of memory that can account for a wide variety of test tasks.  A consideration of cued recall, a task that incorporates elements of both recognition and free recall, may help advance the field in that regard.  To that effect, in a series of experiments, list strength effect in cued recall was measured.  In broad terms, the list strength effect in cued recall was found to be very small and largely indistinguishable from a null effect.  We apply the REM model to these findings and demonstrate that the inclusion of context as a test cue accounts for these findings.  This places cued recall, both in the REM model and the data, as a point of contact between the context-dominant free recall task and the item-dominant single item recognition task along the dimension of a critically diagnostic effect for models of episodic memory.

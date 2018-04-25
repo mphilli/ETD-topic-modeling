@@ -1,0 +1,11 @@
+$TITLE:
+Two-dimensionalism and semantic content
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Two-dimensionalism, Actual, Content, Modality, Double indexing, Proposition
+
+$ABSTRACT:
+In this dissertation I examine some issues in two-dimensional modal semantics. I begin by defining two-dimensionalism in terms of double-indexing (the assignment of truth-values to propositions with respect to two parameters), noting that the orthodox account of indexicality is just one kind of two-dimensional phenomena.In the second chapter I focus on an application of two-dimensionalism to the debate about the meanings of names. A contemporary version of the modal argument suggests that even actualized descriptivism is inadequate, because actualized descriptions are persistently rigid while names are obstinately rigid. I respond by arguing that even an anti-descriptivist should hold that natural language names are persistently rigid.In the third chapter, I consider some semantic questions that arise when the two-dimensionalist tries to talk about epistemic possibilities. Two-dimensionalists often use the framework to consider another world as actual-to talk about ways the actual world might turn out to be. Had some other universe turned out to be actual, there might exist simples that do not in fact exist at our world, and we would be able to refer to them. However, the two-dimensionalist cannot genuinely refer to those alien simples, because those simples do not really exist. I thus observe that we need to be careful about how to understand the semantics of her claims. I also identify a new application for two-dimensionalism: a semantic analysis of the operator 'according to the fiction'.In the fourth chapter I note that there are two understandings of the semantics of 'actual' that might appeal to the two-dimensionalist-Kaplan's indexical account, and Davies and Humberstone's understanding in terms of a "marked world". I suggest that the two-dimensionalist is better off opting for the latter if she wants to satisfy certain intuitions of the metaphysical actualist.Finally, I attack the claim that two-dimensionalism can be used to explain away apparent cases of the necessary a posteriori and contingent apriori. I argue that however we try to execute this two-dimensional strategy, we will find examples in which we cannot eliminate these phenomena.

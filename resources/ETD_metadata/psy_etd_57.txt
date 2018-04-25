@@ -1,0 +1,11 @@
+$TITLE:
+Preventing sexually transmitted HIV infection in adolescents: Predicting condom use behaviors and reducing risk
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Prevention, Immune deficiency, Sexually transmitted, HIV, Adolescents, Condom
+
+$ABSTRACT:
+Two studies are presented using meta-analytic methods to examine the literature on HIV prevention in adolescent populations. The first study examined how well the theories of reasoned action and planned behavior predict condom use among adolescents relative to adults. The second study is a meta-analysis synthesizing evaluation studies of HIV prevention interventions targeting adolescents. The first study examined the relationships between adolescents' attitudes towards condom use, their subjective norms about condom use, their intentions to use condoms, their perceived control to use condoms, and their actual condom use. As expected, the most efficient structural equation model allowed the coefficients and covariances to be different for teenagers, young adults and adults. Differences in the strength of the relationships between these variables are examined and discussed. The second study examined the efficacy of HIV prevention interventions targeting adolescents and examined a number of moderators of the success of these interventions. HIV prevention interventions are yielding significant effects on adolescents' knowledge about HIV/AIDS, attitudes towards using condoms, intentions to use condoms, subjective norms regarding safer sex behavior, self-efficacy and condom use. Interventions did not significantly impact adolescent abstinence. As expected, smaller interventions tend to be more effective than larger interventions. Additionally, interventions that utilize both peers and adults as facilitators are more successful than interventions led solely by adults or peers. The results varied between outcome variables. Overall, these studies demonstrate the usefulness of the theories of reasoned action and planned behavior for understanding adolescent HIV prevention and the current success of HIV prevention interventions at impacting changes in these variables.

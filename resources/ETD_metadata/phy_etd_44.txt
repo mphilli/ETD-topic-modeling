@@ -1,0 +1,11 @@
+$TITLE:
+Role of light scalar resonances in strongly interacting chiral effective Lagrangians
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Mesons, Higgs mass, Scalar resonances, Chiral effective Lagrangians
+
+$ABSTRACT:
+We studied the role of a putative nonet of light scalar mesons in the isospin violating decay η [arrow right] 3π. The framework is a non-linear chiral effective Lagrangian. The contributions from the scalars is found to enhance the result for the decay width by 15% at leading order. Due to cancellations among different scalar contributions, their effect is less than expected. A preliminary discussion of the related process η '  [arrow right] 3π is given. We apply the K-matrix unitarization method to the case of strongly coupled Higgs sector of the electro-weak theory. The complex pole position of the scattering amplitude of the Goldstone bosons are evaluated for the whole range of bare Higgs masses. We compare the unitarized amplitude obtained from the K-matrix to the Breit-Wigner shape for narrow resonances. We apply the same technique to study the effect of final state interactions in the gluon fusion process. Finally, the K-matrix unitarization is used to study the properties of the scalar resonances σ(550) and f   0  (980) in the framework of non-linear chiral Lagrangian. The physical mass and width of these resonances are determined from the pole position of the I = 0, J = 0 partial wave of the ππ scattering amplitude. It is found that, to a great extent, the results are very similar to those obtained in the framework of linear chiral Lagrangian unitarized by the K-matrix method or the nonlinear chiral Lagrangian approximately unitarized by a modified Breit-Wigner resonance shape. A discussion of the effect of σ(550) and  f  0  (980) in the I = 1, J = 1 and I = 2, J = 0 partial waves, where the ρ(770) vector resonance dominates, is given.

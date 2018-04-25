@@ -1,0 +1,11 @@
+$TITLE:
+Cylindrical high index contrast thin film dielectric optical waveguide
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Thin film, Dielectric, Optical waveguide, Lithium niobate
+
+$ABSTRACT:
+In this dissertation, the analysis of electromagnetic wave propagation through optical fibers consisting of a glass core surrounded by a high refractive index thin film dielectric material, in turn, is surrounded by a glass cladding is presented. Both isotropic and uniaxial anisotropic dielectric thin films are analyzed. Asymmetry of the structure due to different core and cladding refractive indices results in two types of guided modes: they propagate either in the core and film or only in the film.The dispersion equations are derived and mode classifications are established for transverse and hybrid modes. The cutoff conditions are given. Numerical results show that cutoff frequencies decrease linearly with small film index whereas high index films cause exponential decrease. The high index films also cause the modes to become evanescent in the core and guided only in the film. It is also shown that uniaxial anisotropy has negligible effects on cutoff frequencies.Numerical simulations are performed to obtain the effects of film index and thickness on the propagation curves. It is shown that the lower order modes are guided only in the film and the structure is capable of strong light confinement there for large film index. It is shown that these modes become degenerate at the lower end of near infrared spectrum and visible light; and they form two types of linearly polarized modes where they follow either the TE or TM mode propagation curves of asymmetric slab waveguide. Higher order modes are guided both in the core and film. If the film thickness is very small (up to ∼ 10-20 nm), the lower order modes can also be guided both in the core and film at higher wavelengths (> 2 μ m ) even for large index films. Investigation of power flow along propagation direction shows that the higher the refractive index of the film is the higher the power density in the film.Lithium Niobate thin film with material dispersion is also investigated. It is shown that it has only HE 11 mode guided both in the core and film at λ > 2 μ m for 10 nm film. With increased thickness modes are guided only in the film.

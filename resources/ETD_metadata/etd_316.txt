@@ -1,0 +1,11 @@
+$TITLE:
+THE EFFECT OF COMPACT OBJECT SPIN ON THE SEARCH FOR GRAVITATIONAL WAVES FROM BINARY NEUTRON STAR AND NEUTRON STAR-BLACK HOLE MERGERS
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+black hole, gravititational waves, LIGO, neutron star, spin
+
+$ABSTRACT:
+In this dissertation we study gravitational-wave searches forbinary neutron star and neutron star - black hole coalescences.We determine the accuracy of post-Newtonian approximations as gravitational-wavetemplates in matched-filter based searches for NSBH mergers.We test a geometric method to generate template banks for BNS and NSBH mergers wherethe components have intrinsic spin, and estimate the sensitivity toastrophysical sources of searches that use these banks during Advanced LIGO.We explore simplifications and optimizations to the search pipeline usedduring S6/VSR2,3 gravitational-wave searches. We investigate methods for regeneratingtemplate banks as the noise behavior of a detector changes over time. We furtherinvestigate changes to the algorithm for determining coincidence betweencandidates from multiple-detectors.Finally, we develop a focused search for binary neutron stars, and test improvementsto its configuration using LIGO detector data from the most recent sciencerun.

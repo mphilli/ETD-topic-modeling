@@ -1,0 +1,11 @@
+$TITLE:
+News Content, Investor Misreaction, and Stock Return Predictability
+
+$DEPARTMENT:
+Finance
+
+$KEYWORDS:
+Investor Misreaction, News, Stock Predictability, Textual Analysis
+
+$ABSTRACT:
+Using a large dataset of news releases, we study instances of investors’ mistakenreaction, or misreaction, to news. We define misreaction as stock prices moving in thedirection opposite to the news when it is released. We find that news tone predicts returnsin the cross-section only upon the occurrence of misreaction. Stocks that are larger, moreliquid, more visible, and more covered, by analysts or by the media, are less likely toexhibit misreaction. On the other hand, the ambiguity and complexity of news content,and variables that proxy for investor distraction, are all associated with more misreactionand greater predictability.

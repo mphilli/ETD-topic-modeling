@@ -1,0 +1,11 @@
+$TITLE:
+Network Theoretic Analyses and Enhancements of Evolutionary Algorithms
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Artificial Intelligence, Evolutionary Algorithms, Evolutionary Computation, Genetic Algorithms, Learning Classifier Systems, Network Science
+
+$ABSTRACT:
+Information in evolutionary algorithms is available at multiple levels; however most analyses focus on the individual level. This dissertation extracts useful information from networks and communities formed by examining interrelationships between individuals in the populations as they change with time.Network theoretic analyses are extremely useful in multiple fields and applications, e.g., biology (regulation of gene expression), organizational behavior (social networks), and intelligence data analysis (message traffic on the Internet). Evolving populations are represented as dynamic networks, and we show that changes in population characteristics can be recognized at the level of the networks representing successive generations, with implications for possible improvements in the evolutionary algorithm, e.g., in deciding when a population is prematurely converging, and when a reinitialization of the population may be beneficial to avoid computational effort, or to improve the probability of finding better points to examine.In this dissertation, we show that network theoretic analyses can be applied to study, analyze and improve the performance of evolutionary algorithms. We propose various approaches to study the dynamic behavior of evolutionary algorithms, each highlighting the benefits of studying community-level behaviors, using graph properties and metrics to analyze evolutionary algorithms, identifying imminent convergence, and identifying time points at which it would help to reseed a fraction of the population.Improvements to evolutionary algorithms result in alleviating the effects of premature convergence occurrences, and saving computational effort by reaching better solutions faster. We demonstrate that this new approach, using network science to analyze evolutionary algorithms, is advantageous for a variety of evolutionary algorithms, including Genetic Algorithms, Particle Swarm Optimization, and Learning Classifier Systems.

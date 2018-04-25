@@ -1,0 +1,11 @@
+$TITLE:
+The validity of the Deterrents to Participation Scale- General: Factor replicability, predictive power, and effect of social desirability
+
+$DEPARTMENT:
+Teaching and Leadership
+
+$KEYWORDS:
+Adult education, Continuing education, Educational evaluation
+
+$ABSTRACT:
+The purpose of this study was to test the validity of the Deterrents to Participation Scale - General (DPS-G) by determining to what extent (a) the observed deterrent factor structure of the DPS-G supports the structure observed in previous research efforts, (b) social desirability influences deterrent factors, and (c) the DPS-G deterrent factors predict participation behavior. A sample of 1000 drawn from 40,000 alumni of a large public university in the Northeast United States was surveyed using a mailed questionnaire consisting of a participation index, the DPS-G, a social desirability scale, and a section to obtain background information. A 45.3% raw response rate was achieved with the use of four mailings.Results of exploratory factor analysis produced an eight factor structure that compared very favorably with the eight factor structure found by Martindale and Drake (1989). A six factor structure was produced that compared less favorably with the six factor structure reported by the developers of the scale (Darkenwald & Valentine, 1985). Correlational analysis determined the level of shared variance between the DPS-G deterrent factors and social desirability was statistically significant but not substantially meaningful. A small but significant correlation was found to exist between participation and two factors titled Time Constraints and Low Personal Priority. Multiple regression analysis employing these two variables to predict participation accounted for 6% of the variance in participation.

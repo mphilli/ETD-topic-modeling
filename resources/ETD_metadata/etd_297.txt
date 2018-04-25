@@ -1,0 +1,11 @@
+$TITLE:
+Generalization Programming and the Instructional Hierarchy: A Performance Feedback Intervention in Writing
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+academic intervention, generalization, performance feedback, writing
+
+$ABSTRACT:
+National assessments have indicated that a large number of students in the United States are underperforming in writing (National Center for Education Statistics, 2012; Persky, Daane, &;; Jin, 2003).  Accordingly, there is a clear need for research to identify appropriate interventions targeting writing.  One intervention that has received empirical support is performance feedback (Van Houten et al., 1974, 1975, 1979).  However, few performance feedback studies have explicitly targeted generalization.  The primary purpose of the current study was to examine the extent to which 116 third-grade students, randomly assigned to a generalization programming (n = 39), performance feedback (n = 38), or practice-only condition (n = 39), demonstrated gains in writing fluency and were able to demonstrate stimulus and response generalization.  It was hypothesized that (a) students in both intervention conditions would significantly outperform the practice-only condition in writing fluency growth and (b) students in the generalization programming condition would demonstrate stronger performance on measures of stimulus and response generalization as a result of explicit programming tactics targeting generalized skills along the sequence of the Instructional Hierarchy (Haring &;; Eaton, 1978).  There was mixed support for the hypotheses, as students in the performance feedback condition demonstrated statistically significant greater writing fluency growth in comparison to both the practice-only and generalization programming conditions.  In comparison to students assigned to practice-only or performance feedback conditions, students assigned to the generalization programming condition demonstrated significantly greater performance on a measure of response generalization; however, there were no differences between the conditions on a measure of stimulus generalization.

@@ -1,0 +1,11 @@
+$TITLE:
+INTIMATE PARTNER VIOLENCE AMONG YOUNG ADULTS IN UKRAINE: APPLICATION OF THE STRESS-CULTURE MODEL
+
+$DEPARTMENT:
+Child and Family Studies
+
+$KEYWORDS:
+economic hardship, intimate partner violence, predictors of intimate partner violence, Ukraine, young adults
+
+$ABSTRACT:
+Intimate partner violence is a serious public health problem in Ukraine affecting between 20% and 44% of its citizens. In Ukraine, scientific research on intimate partner violence emerged only a few years ago and as a result has not accumulated comprehensive data on the predictors of violence. The current study aimed to address this gap by examining the relationship between economic hardship and intimate partner violence and by investigating how this relationship changes after introducing various individual, familial, and cultural predictors. The final sample included 406 female and 134 male students from different cities in Ukraine. Structural equation modeling and path analysis were applied to analyze the data. The results demonstrated that in both female and male sub-samples the relationship between economic hardship and intimate partner violence became insignificant after introducing individual and familial variables. The link between independent and dependent variables was mediated by emotional distress, alcohol use (for females only), parent-to-parent violence, and parent-to-child violence. The results also showed that there was no interaction effect between culture and economic hardship. Instead, attitudes toward intimate partner violence (in both female and male sub-samples) and perceptions of criminal justice system policies (in female sub-sample only) predicted intimate partner violence separately from economic hardship.

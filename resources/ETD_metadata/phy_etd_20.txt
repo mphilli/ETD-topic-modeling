@@ -1,0 +1,11 @@
+$TITLE:
+Parity-violating electron scattering on hydrogen and helium and strangeness in the nucleon
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Hydrogen, Helium, Parity violation, Strange form factors, Polarized electron scattering
+
+$ABSTRACT:
+The HAPPEX II measurement of the parity violating asymmetry  A PV   for longitudinally polarized 3 GeV electrons from both hydrogen and 4  He cryogenic targets, at a small scattering angle (6°), is reported in this thesis. The asymmetry for hydrogen is a function of a linear combination of [Special characters omitted.] and [Special characters omitted.] , the strange quark contributions to the electric and magnetic form factors of the nucleon respectively, and that for 4  He is a function solely of [Special characters omitted.] . The combination of the two measurements therefore allows [Special characters omitted.] and [Special characters omitted.] to be separately determined. The 4  He result is [Special characters omitted.] = +6.40 ± 0.23  (stat)   ± 0.12   (syst)   ppm. The hydrogen result is [Special characters omitted.] = -1.58 ± 0.12  (stat)   ± 0.04  (syst)   ppm. The strange quark form factors extracted from these asymmetries are [Special characters omitted.] = 0.002 ± 0.014 ± 0.007 at < Q   2  >= 0.077 GeV  2  , and [Special characters omitted.] + 0.09[Special characters omitted.] = 0.007 ± 0.011 ± 0.006 at < Q   2  >= 0.109 GeV  2  . These results significantly improve constraints on the electric and magnetic strange form factors with an unprecedented precision.

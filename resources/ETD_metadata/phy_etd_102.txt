@@ -1,0 +1,11 @@
+$TITLE:
+Quantum Electrodynamics In A Laser Pulse
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Radiation, electrodynamics, Compton scattering
+
+$ABSTRACT:
+This study attempts to contribute to the differentiation of theoretical assumptions by representing charged particles (spin zero) by wave packets of Volkov solutions, and by representing the external field by a finite length pulse. The more general goal of this paper is the development of a formalism which can be applied to any quantum electrodynamic process involving a charged particle in a laser pulse.--Page 2.

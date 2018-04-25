@@ -1,0 +1,11 @@
+$TITLE:
+Methodologies for information presentation
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+schema class graph, query construction, Electrical engineering, Information Systems
+
+$ABSTRACT:
+In this dissertation, several new information presentation and manipulation techniques are proposed for information management systems. An application-independent information presentation engine architecture is proposed to allow existing applications to directly interact with it without major source code modification. A meta type description data structure is designed for applications to wrap application-defined data structure types. An information presentation service API is provided such that existing applications can use this engine as the front-end interface for information navigation and manipulation. A novel information presentation model is proposed to provide a systematic approach for graphically presenting and manipulating information from the overall information presentation schemes down to the data structures of information objects. A new schema class graph representation is proposed to graphically represent the schema information with class inheritance and composition relationships. Based on the representation, a novel schema class graph visualization algorithm is proposed to automatically generate the schema class graph with a minimal number of line intersections. A general synchronized complex object presentation mechanism and a tabular format information presentation mechanism are developed for navigating in detail the information objects one at a time and for simultaneously navigating a number of information objects, respectively. A novel graphical query construction model is proposed for efficiently formalizing the language-independent graphical query construction process. Based on the model, an incremental query builder is designed and implemented. Users can graphically specify queries without the knowledge of the underlying query language as well as incrementally construct queries based on a series of previous partial query results.

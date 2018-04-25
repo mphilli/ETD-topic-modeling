@@ -1,0 +1,11 @@
+$TITLE:
+Supply-side housing subsidies and savings programs for the poor
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Tax policy, Individual development accounts, Subsidized housing, Field experiments, Low-Income Housing Tax Credit, Home ownership
+
+$ABSTRACT:
+My research is concerned with the economics of low-income housing markets. The first two chapters of my dissertation examine issues related to the Low-Income Housing Tax Credit (LIHTC), a federal program that awards a subsidy to private market developers who agree to impose income-targeted rent controls on any subsidized units for at least 15 years. At least 1.6 million units have been subsidized under the program since the program's inception in 1987. The first chapter finds that 1 less private rental housing construction occurred for every 3 subsidized units through the program. The second chapter argues the program is a very expensive method to provide housing support for the poor. More specifically, units constructed under the program cost 20 percent more than those unsubsidized and developers only receive $0.73 per dollar of tax credit allocated to them. Both papers call into question the viability of the program for future years.The third and fourth chapters use data collected from a field experiment where the treated were randomly offered to participate in a matched savings program called an Individual Development Account. More specifically, treated participants could receive a 2:1 match, up to $750 annually, for three years to put towards a home purchase. The third chapter finds treated participants were between 7 to 11 percentage points more likely to be homeowners 48 months after randomization. The fourth chapter uses the experiment to explore if low-income homeownership should be promoted by the government. Previous research has found a strong positive correlation between homeownership and social engagement. This chapter rebukes these previous results and finds low-income homeowners are less likely to be politically engaged and volunteer in their communities.

@@ -1,0 +1,11 @@
+$TITLE:
+The Construction of a Multidimensional ADHD Self-Report Measure: A Pilot Study
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+ADHD, assessment, impairment, malingering, symptom validity
+
+$ABSTRACT:
+Recent research on adult onset Attention Deficit/Hyperactivity Disorder (ADHD) has led to an increase in evaluations of college students and adults suspected of the disorder, as well as increased concern that some may feign or malinger ADHD characteristics in order to obtain a diagnosis and associated incentives (e.g., stimulant medications and academic accommodations).  Faking ADHD is especially easy when the diagnosis is based on self-report, symptoms-only rating scales.  Diagnostic accuracy improves with the assessment of symptoms, impairment, and symptom validity, but this type of comprehensive self-report measure is currently not available.  The aim of this study was to examine the effectiveness of a newly constructed Multidimensional ADHD Rating Scale (MARS) comprised of ADHD symptom, functional impairment, and symptom validity indexes.  The MARS self-report items were completed by three groups of college-aged students.  Participants with ADHD (n=39) and non-ADHD controls (n=62) completed the MARS honestly.  A group of non-ADHD participants (n=56) were instructed to malinger ADHD.  Results indicated that malingerers reported more symptoms and impairment than ADHD participants, and both groups reported more symptoms and impairment than controls.  The symptom validity index was able to differentiate malingerers from ADHD participants with high sensitivity and specificity. These preliminary results suggest that measures that combine symptoms, impairment, and symptom validity could be useful additions to ADHD rating scales.

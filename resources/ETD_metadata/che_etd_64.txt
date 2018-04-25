@@ -1,0 +1,11 @@
+$TITLE:
+Computational quantum chemistry in initial designs and final analyses
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Quantum chemistry, Computational chemistry, Molecular crystals, Carboranes
+
+$ABSTRACT:
+The broad utility of computational quantum chemical studies of molecular properties and their interactions is examined in a number of research projects covering molecular property prediction, chemical structure analyses, and the vibrational spectroscopy of molecular crystals. The broader scopes of the research serve to explore (1) the utility of theoretical studies for providing a greater understanding of molecules and their interactions, (2) the importance of considering the molecular environment in computational studies for understanding the properties of single molecules as they are currently considered experimentally, and (3) the importance of the selection of appropriate levels of theory for addressing specific questions raised from experimental results given the ever-present need to balance chemical accuracy and computational resources. Five research projects are presented in this work, including (1) the study of molecular crystals by periodic density functional theory and inelastic neutron scattering spectroscopy, (2) the electronic coupling behavior of the phenyl- and tropyl-substituted  closo  -boranes and closo  -carboranes, (3) the design of a new class of borane- and carborane-based nonlinear optical materials through purely theoretical means as an example of the rational design of any class of molecules through a coupling of theory and structure-property relationships, (4) a computational study of the isomer energies of the eight known octamolybdates clusters and rationalizations for their rearrangement pathways as identified in their crystal forms, and (5) a computational study of binding interactions and structural features among the alkali organometallic complexes.

@@ -1,0 +1,11 @@
+$TITLE:
+An Event Level Study of the Impact of Alcohol Use on Unwanted Sexual Activity among College Aged Women
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Alcohol, Unwanted sexual activity, Women, College women, College-aged, Sexual activity, Alcohol expectancies
+
+$ABSTRACT:
+Unwanted sexual activity (UWSA) continues to be a health and safety risk to college-aged females. Although alcohol use prior to an unwanted sexual event is often reported by the perpetrator, victim, or both, the relation of female victim's alcohol use to event severity has received little research attention. The present study tests the hypothesis that sex-related alcohol expectancies, partner familiarity, and the social context for the occasion of UWSA would moderate the strength of the relationship of alcohol use to outcome severity for a specific incident of UWSA among college-aged females. Using an event-level study design, participants (N = 154) reporting a past history of UWSA were asked to recall the most recent occasion during which they felt pressured to engage in UWSA. The event-level measure assessed the occurrence of alcohol use prior to the event, social context for the interaction, and partner familiarity, as well as the following indicators of event severity: behavioral severity and behavioral pressure, degree of psychological coercion, psychological distress, and use of force. Results did not support a direct association between alcohol use and outcome severity. Multiple regression analyses indicated that sex-related alcohol expectancies regarding vulnerability to sexual coercion moderated the association between alcohol use and outcome severity of UWSA. In particular, alcohol use was found to be associated with four out of the five indicators of event severity, but only among those who were high in sex-related expectancies. Neither partner familiarity, nor social context moderated the alcohol-outcome severity relationship. Consistent with previous research, sex-related alcohol expectancies are an important variable to study to clarify the alcohol-outcome severity relationship. Implications for interventions and future research directions are discussed.

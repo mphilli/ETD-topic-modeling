@@ -1,0 +1,11 @@
+$TITLE:
+Cyclic ligands containing the amide linkage and manganese macrocyclic complexes containing an azo group
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+ester bonds, peptide bonds
+
+$ABSTRACT:
+The synthesis of the cyclic ligands containing the amide linkage will be discussed in the following sections of this work. Hydrolysis of the amide linkage plays a great role in the biological systems.  Although a large number of metal  complexes containing the amide linkage  where studied and fully characterized, cyclic compounds containing this linkage have not been explored.

@@ -1,0 +1,11 @@
+$TITLE:
+Ground and Relative Fundamentality
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Fundamentality, Grounding, Metametaphysics
+
+$ABSTRACT:
+Ground is a distinctively metaphysical notion of explanation. Often expressed with the phrase `in virtue of', ground has recently found some popularity among metaphysicians. In this dissertation I argue that the notion is well understood and useful, but not primitive. I argue that we should analyze ground partly in terms of relative fundamentality. This analyzed notion of ground can not only do the work that a primitive notion can, but it is better equipped to respond to a number of objections and challenges that the notion faces. The dissertation ends by demonstrating this is the case and responding to objections.

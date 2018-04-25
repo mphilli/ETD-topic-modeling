@@ -1,0 +1,11 @@
+$TITLE:
+A Unified And Green Platform For Smartphone Sensing
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+lifestyle, mobile phone sensing, ranking, scheduling, sensing platform, smartphone sensing
+
+$ABSTRACT:
+Smartphones have become key communication and entertainment devices in people's daily life. Sensors on (or attached to) smartphones can enable attractive sensing applications in different domains, including environmental monitoring, social networking, healthcare, transportation, etc. Most existing smartphone sensing systems are application-specific. How to leverage smartphones' sensing capability to make them become unified information providers for various applications has not yet been fully explored. This dissertation presents a unified and green platform for smartphone sensing, which has the following desirable features: 1) It can support various smartphone sensing applications; 2) It is personalizable; 2) It is energy-efficient; and 3) It can be easily extended to support new sensors.  Two novel sensing applications are built and integrated into this unified platform: SOR and LIPS. SOR is a smartphone Sensing based Objective Ranking (SOR) system. Different from a few subjective online review and recommendation systems (such as Yelp and TripAdvisor), SOR ranks a target place based on data collected via smartphone sensing. LIPS is a system that learns the LIfestyles of mobile users via smartPhone Sensing (LIPS). Combining both unsupervised and supervised learning, a hybrid scheme is proposed to characterize lifestyle and predict future activities of mobile users. This dissertation also studies how to use the cloud as a coordinator to assist smartphones for sensing collaboratively with the objective of reducing sensing energy consumption. A novel probabilistic model is built to address the GPS-less energy-efficient crowd sensing problem. Provably-good approximation algorithms are presented to enable smartphones to sense collaboratively without accurate locations such that sensing coverage requirements can be met with limited energy consumption.

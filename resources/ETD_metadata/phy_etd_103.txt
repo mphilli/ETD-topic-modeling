@@ -1,0 +1,11 @@
+$TITLE:
+Dynamical Models and Symmetry Groups in Particle Physics
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+nuclear physics, high energy physics
+
+$ABSTRACT:
+Explores a basic problem in theoretical high energy physics of obtaining relations between the important parameters, such as masses, coupling constants, magnetic moments, or of different particles or resonances discovered up to now. In the second part of this thesis, we shall discuss “Superconvergence Sum Rules” : we first impose certain requirements on the high energy behavior of a scattering amplitude, obtaining an “exact” sum rule on its imaginary part, and then we approximate these sum rules with a given set of intermediate states.

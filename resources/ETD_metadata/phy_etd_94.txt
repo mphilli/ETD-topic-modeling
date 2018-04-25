@@ -1,0 +1,11 @@
+$TITLE:
+Measurement of the neutron spin structure function and its implications for QCD sum rules
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+neutron spin structure, qcd sum
+
+$ABSTRACT:
+We have determined the neutron spin structure function $g\sbsp{1}{n}$ over the range 0.03 $\le\ x\ \le$ 0.6 at an average $Q\sp2$ of 2(GeV/c)$\sp2$ by measuring the asymmetry in deep inelastic scattering of polarized electrons from a polarized $\sp3 He$ target. The experiment was performed at SLAC and used energies between 19 and 26 GeV. The neutron asymmetry turned out to be small and negative, and the integral of the neutron spin structure function is $\int\sbsp{0}{1}g\sbsp{1}{n}(x)dx$ = $-0.024 \pm\ 0.006(stat.)\pm\ 0.008(syst.)$. Combined with the current available worldwide proton data, this result confirmed the Bjorken sum rule at 10% level, once high-order perturbative QCD corrections are taken into account. The Ellis-Jaffe sum rule for the neutron predicts $\int\sbsp{0}{1}g\sbsp{1}{n}(x)dx$ = $-$0.010 $\pm$ 0.012, roughly consistent with our result.We have also used our data to extract the integral over the quark spin distributions from the quark parton model. The results yield $\Delta u$ = 0.90 $\pm$ 0.06, $\Delta d$ = $-0.38\pm$ 0.04, and $\Delta s$ = $-0.04\pm$ 0.06. Hence the total quark contribution to the nucleon spin ($\Delta u+\Delta d+\Delta s$) is 0.47 $\pm$ 0.12 and the strange sea polarization is small.

@@ -1,0 +1,11 @@
+$TITLE:
+The Multi-Substrate Binding Specificity of Saposin B
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+Saposin B (sap B) is a holistic housekeeping protein inside the lysosome of human cells,  which is responsible for the degradation of sphingolipids. A deficiency of sap B caused by mutation will lead to the lysosomal storage disease (LSD) metachromatic leukodystrophy. Sap B is also found to interact with multiple substrates beyond sphingolipids. It is deemed the transport protein for coenzyme Q10 (CoQ10), which is an important coenzyme in the cell respiration cycle. CoQ10 consists of 10 repeating isoprenyl groups. The affinity Co Qs were found to decrease as the number of isoprenyl groups decrease. As a result, it was hypothesized that atovaquone, an anti-malaria drug that has the same quinone unit as in CoQs but no isoprenyl group, would have no binding affinity by sap B. However, the Ka measured by isothermal titration calorimetry and fluorescence microscopy between atovaquone and sap B was on the order of 104. We continued to investigate the binding between sapB and other substrates including anti-malarial drugs (chloroquine, artemisinin) and anti-arrhythmic drugs (dronedarone and amiodarone) as well as degradation products (A2E) deemed causative in the progression of macular degeneration that have a lipid like chemical nature. These investigations may help reveal the pharmacology of those drugs tested and/or further the understanding of the function(s) of sap B in humans.

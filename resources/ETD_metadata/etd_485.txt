@@ -1,0 +1,11 @@
+$TITLE:
+Assessing gender inequality from large scale online student reviews
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+data mining, data science, gender bias, gender inequality, machine learning, teaching reviews
+
+$ABSTRACT:
+Career growth in academia is often dependent on student reviews of university profes-sors. A growing concern is how evaluation of teaching has been affected by gender biasesthroughout the reviewing process. However, pinpointing the exact causes and consequen-tial effects of this form of gender inequality has been a hard task.Current work focusses on university-wide student reviewing system, that depends onobjective responses on a Likert scale to measure various aspects of an instructor’s qual-ity. Through our work, we access online student review data which are not limited bygeographies, universities, or disciplines.Thereafter, we come up with a systematic approach to assess the various ways in whichgender inequality is apparent from the student reviews. We also suggest a possible wayin which bias related to the gender of a professor could be detected from both objectivenumerical measures and subjective opinions in reviews. Finally, we assess a logistic re-gression learning algorithm to find the most important factors that can help in identifyinggender inequality.

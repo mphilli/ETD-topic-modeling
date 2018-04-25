@@ -1,0 +1,11 @@
+$TITLE:
+Welfare implications of a pan-Arab FTA
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Welfare, Pan-Arab, Arab, Free trade areas, Trade integration
+
+$ABSTRACT:
+This research provides a comprehensive analysis of Arab countries barriers to intra-regional imports. In view of the Pan-Arab Free Trade Area (PAFTA) liberalization initiative, it assesses welfare gains and losses, terms of trade benefits to domestic producers, the impact on tariff revenues, and thus the net impact on PAFTA members' economies.Due to data limitations, only seven Arab countries are analyzed: Algeria, Egypt, Kuwait, Morocco, Oman, Saudi Arabia, and Tunisia. In sharp contrast with expectations, this research shows a loss of $459M in net welfare for PAFTA, because overall gains are $622M and losses are $1081M.Analysis of trade integration is performed on a sector-by-sector basis to identify the industries that have the largest impact on members' welfare. The analysis uses SITC 4-digit bilateral trade data and a partial equilibrium approach to estimate three types of elasticities at SITC 2-digit level. Common elasticity estimate is -1.1 for intra-regional imports, 0.59 for interregional exports, and -0.69 for the elasticity of substitution between intra-regional imports and inter-regional imports from the world. Estimated elasticities vary widely across sectors.Imports projections suggest the PAFTA's trade-diverting impact of $3344M is substantially greater than its trade creating effects of $375M which, respectively, constitute a decrease of 3.4% in inter-regional imports and an increase of 3.2% in intra-regional imports.Net welfare from PAFTA is negative. The reason is that the impact on imports is larger for trade diversion than that for trade creation. Also, a member country pays a hefty loss in tariff revenue on all existing intra-regional imports whereas it loses tariff revenue on only the diverted imports. However, only four comparative advantage sectors are industries that exhibit economies of scale: organic and inorganic chemicals, fertilizers, and plastics. As such, few industries could exploit the improved market access provided by PAFTA.

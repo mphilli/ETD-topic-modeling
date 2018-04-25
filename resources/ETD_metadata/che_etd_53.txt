@@ -1,0 +1,11 @@
+$TITLE:
+Aromatic thiol based redox buffers: Increasing the folding rates of disulfide containing proteins
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Aromatic thiol, Redox buffers, Disulfide, Protein folding
+
+$ABSTRACT:
+Disulfide-containing proteins are regularly produced for pharmaceutical, industrial, and academic purposes. The yield-limiting and most expensive step in the production of active protein is the formation of the correct disulfide bonds. Current technology uses aliphatic thiols as redox buffers for folding disulfide-containing proteins. Aliphatic thiols limit the conditions (pH) at which the proteins can be folded. A group of aqueous soluble aromatic thiols were tested for their ability to improve the folding rate constant of a disulfide-containing protein, ribonuclease A (RNase A). The folding of RNase A was measured at pH 6.0, 7.0 and 7.7 using various concentrations of each of the thiols. The aromatic thiols increased the folding rate of RNase A by a factor of 4-20 times that measured for glutathione (GSH), the naturally occurring aliphatic thiol commonly used for folding disulfide-containing proteins. It was observed that optimal protein folding conditions correlated to an equal concentration of protonated thiol ([SH]), rather than total thiol. The data for the  para  -substituted aromatic thiols were fit to the model: log  k  app  = -4.31 (±0.03) + 0.592 (±0.004) pH - 0.227 (±0.005) p K  a  + log  (1-e -0.98 (±0.02) [SH]  ). The equation gave good regression statistics (r 2  = 0.914, s = 0.10). Thirteen data points were used as a validation set (r 2  validation  = 0.94 and S validation  = 0.083). Additionally, the equation was used to predict the measured values of the apparent rate constant for RNase A folding in the presence of five aqueous soluble ortho  - and meta  -substituted aromatic thiols (N = 124, r2 = 0.80, s = 0.0046). Protein disulfide isomerase (PDI) is a catalyst typically added to redox buffers for folding inclusion bodies of disulfide-containing proteins. The para  -substituted aromatic thiols were tested for their ability to increase the activity of PDI, activity increased up to three times. Aromatic thiols are expected to be excellent candidates for increasing the yield of active protein from inclusion bodies of disulfide-containing proteins.

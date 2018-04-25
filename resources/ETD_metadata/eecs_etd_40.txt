@@ -1,0 +1,11 @@
+$TITLE:
+Secure and efficient use of public key cryptography in sensor networks
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Public key cryptography, Sensor networks, Cryptography
+
+$ABSTRACT:
+Public key operations were considered impractical for wireless sensor networks due to their high computational cost. However, public keys are important for many applications in sensor networks, such as data encryption/decryption, broadcast authentication, etc. With the rapid development of modern technology, public keys have become feasible for sensor networks, but they are still expensive to use on the sensor nodes. Compared with symmetric key operations, they need more time to process, and consume more energy. Therefore, it is imperative to pay special attention when we design security protocols in sensor networks, especially the ones that involve public keys.Four major issues in the security of sensor networks are addressed in this dissertation: authentication of public keys, broadcast authentication using public keys, broadcast authentication using hash operations, and protection of broadcast authentication schemes that use public key operations. First, I introduce an efficient scheme to authenticate the public keys that the sensor nodes receive if the nodes want to communicate with each other; then, an efficient broadcast authentication scheme that uses short-length public keys is developed and discussed; thirdly, an approach to authenticate broadcast messages using hash functions is presented; and finally, I analyze the attacks to which the public-key based broadcast authentication schemes are susceptible, and present an efficient scheme to protect the network from DoS attacks. For every issue, I present both the algorithm design and the evaluation results. At the end of this thesis, I discuss several topics that may be pursued in the future.

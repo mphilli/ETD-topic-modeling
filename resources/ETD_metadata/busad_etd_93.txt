@@ -1,0 +1,11 @@
+$TITLE:
+Small Audit Firms and Earnings Manipulations
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+audit quality, earnings management, real earnings management, small audit firms
+
+$ABSTRACT:
+This paper examines the monitoring role of small audit firms (i.e., those with 100 or fewer clients who are subject to different levels of oversight by the PCAOB) on earnings management. Specifically, I examine the relationship between earnings manipulations and the use of small audit firms. I find that small audit firms are less able to constrain managers' opportunistic use of discretionary accruals. However I find no evidence that small audit firms are associated with real activities manipulation. By investigating a specific group of audit firms that are the smallest in the audit market, this study extends our understanding of the role of audit firm size in audit quality.

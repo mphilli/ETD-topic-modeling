@@ -1,0 +1,11 @@
+$TITLE:
+The photochemistry of 4,4-dicyclopropylcyclohexenone and dienone
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Photochemistry
+
+$ABSTRACT:
+The purpose of this study was to investigate the photochemical behavior of 4,4-dicyclopropylcyclohexanone (1) and the corresponding dienone (2).

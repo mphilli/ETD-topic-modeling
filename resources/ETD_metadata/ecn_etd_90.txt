@@ -1,0 +1,11 @@
+$TITLE:
+Essays on the Inter-Governmental Interdependence of Tax Policy
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Capital tax policies, Local government, Japan, Tax rates
+
+$ABSTRACT:
+This dissertation consists of the following three chapters. In  the first chapter, the interrelationship between the capital tax policies of  local governments is empirically investigated using a data set from Japan, which  is constructed in the second chapter of this dissertation. Reaction functions of  local governments, which relate their capital tax rates to those in competing  governments and their characteristics, are estimated through both the  instrumental variable method and maximum likelihood estimation. The results  suggest that a positive relationship exists among local governments.         In the second chapter, using established methods, two types of original  panel data sets on the effective tax burden of 47 prefectures in Japan are  constructed. One is an average tax rate (ATR), which is based on the method of  Mendoza et al. [Mendoza1994], and the other is an average marginal tax rate  (AMTR), which is based on the method of Joines [Joines1981]. Generally speaking,  a positive relationship between AMTR and ATR can be observed. The time series of  calculated AMTR and ATR are similar, although AMTR is generally larger than ATR  due to their definitions. However, cross sectional characteristics are not  consistent with each other due to the limitations of regional data for  estimating AMTR.        In the third chapter, I estimate the gasoline demand function while  considering spatial correlation. A recent work estimates the price elasticity of  gasoline consumption without spatial error term, but it has been shown that the  hypothesis of no spatially autocorrelated error term is rejected by use of the  same data set. Furthermore, when the gasoline demand function is estimated by  the spatial error autocorrelation model, the price elasticity of gasoline  consumption is estimated to be -1.186. This figure is larger than the figure  obtained from a model without spatial error.

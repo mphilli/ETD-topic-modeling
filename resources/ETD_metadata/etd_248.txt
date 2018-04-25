@@ -1,0 +1,11 @@
+$TITLE:
+A STUDY OF CERTAIN ELECTROMAGNETIC INTERACTIONS AMONG HIGH OPTICAL CONDUCTIVITY NANOSPHERES AND DIELECTRIC HALF-SPACES
+
+$DEPARTMENT:
+Biomedical and Chemical Engineering
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+Electromagnetic coupling between a sphere and a semi-infinite substrate, and among several spheres present in the form of a composite were studied in this dissertation. Specifically, spheres made of noble metals such as Ag, Au and Cu and relatively high refractive index substrates and composite matrices. Such interactions need to be studied in order to understand and be able to design better devices such as plasmonic light devices as well as composites and fluids that have suspended plasmonic nanoparticles that have recently been shown to be technologically relevant in the context of device processing technologies and fluidic devices. For a sphere present near a relatively high refractive index substrate, coupling effects were found to significantly change the value of the induced electric dipole moment. It was found that the radiated power had a very strong dependence on the distance between the sphere and the substrate as well as the polarization and the angle of the incident plane wave. The wavelength dependence was also found to change significantly allowing access to regions of relatively larger values of the wavelength for the same material system and incident field as well as wavelength selective amplification of the response. The linear response of plasmonic composites was studied using an effective medium approximation. The effective permittivity was calculated using an effective medium model that was sensitive to a random composite's radial distribution function. The effect of the size of the monodisperse spheres, their volume fraction and material constituents were studied. A strong dependence on the microstructure was found for composites made of a relatively large refractive index matrix.

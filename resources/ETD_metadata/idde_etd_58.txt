@@ -1,0 +1,11 @@
+$TITLE:
+The Effect of Design Teams on Preservice Teachers' Technology Integration
+
+$DEPARTMENT:
+Instructional Design, Development and Evaluation
+
+$KEYWORDS:
+Instructional design, Educational technology, Teacher education
+
+$ABSTRACT:
+This study examined the effect of a specific instructional approach called design teams on preservice teachers' attitudes toward technology, their technology skills, and their Technological Pedagogical Content Knowledge (TPACK). In a design teams approach, participants work in collaborative teams to design solutions to solve real-world problems. This quasi-experimental study explored the efficacy of an educational technology course implemented with a design teams approach compared to the same course that utilized a standard instructional approach. The sample included 53 preservice teachers from one university majoring in either Early Childhood Inclusive or Elementary Inclusive Education. Preservice teachers in the treatment condition worked in design teams to plan technology integrated lessons to solve authentic instructional problems. In the comparison condition, preservice teachers completed instructor-designed assignments in class and planned a technology integrated lesson independently. In comparing the participating preservice teachers' attitudes toward technology, skills, and TPACK, it was found that there were significant differences between the two groups on TPACK when measured with evidence from lesson plans. There were no significant differences when survey data on attitudes toward technology, technology skills, and TPACK were compared; further exploration indicated that both groups significantly improved on these measures over the course of the semester. These results suggested that the design teams approach was appropriate for use in preservice teacher technology education, but additional research is necessary to determine in which contexts and with what specific learning outcomes it is most effective.

@@ -1,0 +1,11 @@
+$TITLE:
+Studies directed towards syntheses of multivalent carbohydrates suitable for binding to E. coli Shiga-like toxin
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Shiga toxins, Trisaccharides, Cyclodextrin, Carbohydrates
+
+$ABSTRACT:
+In order to investigate multivalent binding enhancement between carbohydrate molecules and Shiga-like toxins, two different synthetic approaches were performed: (1) synthesis of polymerizable C-1 modified P  k  trisaccharide and (2) synthesis of trisaccharide-branched α-cyclodextrin.A polymerizable C-1 modified P k trisaccharide derivative 88 was synthesized through ten steps from lactose with 3.5% overall yield. The synthetic route included three coupling reactions: α-glycosidic coupling of lactose unit 18 and galactose unit 20 , β-glycosidic coupling of trisaccharide trichloroacetimidate 28 and methyl ester linker 72 , and amide bond formation between the carboxylic end of trisaccharide 90 and the amine linker 89 . As a continuation of the research, the compound 88 will be copolymerized with acrylamide in varying ratios to form linear polymers to be subjected for assay.Trisaccharide-branched α-cyclodextrin 111 was synthesized by coupling trisaccharide 90 to α-cyclodextrin via a spacer arm. Incorporation of a spacer arm to α-cyclodextrin included perbromination of the primary hydroxyl groups on α-cyclodextrin followed by a substitution reaction with a thiol linker 107 with 14.6% yield. The coupling of trisaccharide 90 to spacer-arm linked α-cyclodextrin yielded the desired hexakis-substituted product 110 along with less substituted products. The collected yield of the desired product was 33%, however, we were not able to fully characterize this compound 110 or the hydrolyzed product 111 due to the limited amount available. Our synthesis of persubstituted trisaccharide-branched α-cyclodextrin was one of the first attempts to synthesize persubstituted α-cyclodextrin with relatively large molecules. These compounds will be submitted for binding assays.

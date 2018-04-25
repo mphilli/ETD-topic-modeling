@@ -1,0 +1,11 @@
+$TITLE:
+The optical deposition system for fabricating semiconductor cylinder fibers
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Optical deposition, Semiconductor, Cylinder fibers, Fiber amplifiers
+
+$ABSTRACT:
+In responding to the urgent need for a suitable thin film growing technique for semiconductor cylinder fiber fabrication, the optical deposition system (ODS) is introduced. It is designed to optically evaporate the semiconductor material without heating a glass tube (a substrate).A tungsten halogen bulb is used as a light source for evaporation. A cylindrical cavity reflector focuses the radiation from the light source onto an evacuated glass tube that has the semiconductor powder inside. All of these three objects are located under deionized water, which serves two purposes. One is to filter out the light wavelength in the infrared range and longer, and the other is to cool the whole system. Thus there is emissive light in the visible range left to which the glass tube is transparent. Light with frequencies in the visible range is absorbed by the semiconductor. This heats the semiconductor sufficiently to vaporize it.CdTe, Cd 3 P 2 and GaSb are selected for demonstrations. The transmission spectrum of the deposited films is measured, then they are processed to find their energy gaps. The comparisons of the measured results with those for other thin films formed by alternate growing methods are discussed.ODS has shown substantial evidence that the target is optically energized without heating the glass tube. ODS may also be applicable to metals because they share some solid state characteristics with semiconductors.

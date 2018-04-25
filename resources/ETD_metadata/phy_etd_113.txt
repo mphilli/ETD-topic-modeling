@@ -1,0 +1,11 @@
+$TITLE:
+Morphology and Mechanics of the Actin Cytoskeleton
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Actin, Cytoskleton, Mechanics, Morphology
+
+$ABSTRACT:
+Contained in this thesis is the quest to model the growth, form  and mechanics of part of the cellular cytoskeleton known as the lamellipodium.  The cellular cytoskeleton is made of filamentous proteins, such as F-actin, and  provides for structural support for the cell. Lamellipodia are extensions of the  cellular cytoskeleton at the leading edge of a crawling cell generated so that  the cell can extend, and thereby move in a particular direction. In the first  two chapters, we focus on morphological characteristics of lamellipodia  formation, which is, in part, shaped by branched filament nucleation via the  branching protein Arp2/3. For example, we find that the orientation of filaments  with respect to the leading edge of a crawling cell is optimized for filament  growth. In addition, orientational and spatial degrees of freedom of the  filaments are married to derive the overall shape of the filament density  profile along the leading edge, another morphological characteristic. In the  next two chapters, we explore the mechanics of model lamellipodia, where both  freely-rotating and angle-constraining cross-linkers of actin filaments are  present, in addition to the angle-constraining effect that the branching protein  Arp2/3 has between mother and daughter filaments. We compare the mechanical  properties of the compositely cross-linked filament networks to that of purely  freely-rotating cross-linked filament networks, which has been studied by others  previously. Using both theory and numerical simulations, we find that the  addition of angle-constraining cross-linkers allows the lamellipodium to become  rigid and transmit forces with a minimal amount of material---yet another  optimization principle. Therefore, in our quest to model lamellipodia formation,  we have uncovered along the way several optimization principles, which may  ultimately guide, in part, our understanding of how cells crawl to heal wounds  or create organs.

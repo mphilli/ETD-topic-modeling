@@ -1,0 +1,11 @@
+$TITLE:
+Message-based MVC architecture for distributed and desktop applications
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Message-based, Desktop, Model-view-controllers, Scalable vector graphics, Service-oriented architecture
+
+$ABSTRACT:
+The goal of this dissertation is to develop a paradigm for the next generation of software applications with a clear architecture that unifies desktop and Internet applications. It is aimed at addressing the issues of leveraging existing software assets and incorporating advanced capabilities including collaboration and universal access. As the overall Web systems design on top of the Internet is extremely complex, we divide the task into two separate layers: message-based distributed application architecture and underlying messaging infrastructure linking services together as part of a distributed operating system.This dissertation presents a new approach to building applications as Web Services in a message-based Model-View-Controller (M-MVC) architecture. The premise of this research is that distributed and Web applications which provide services and interface to end users ought to be centered on message exchange. This encourages good design and is an embodiment of the fundamental communication pattern of human interactions. The research investigates a universal modular design with publish subscribe messaging linkage service model that converges desktop applications, distributed applications, and Internet collaboration. This approach allows: maximum reusability of existing components; flexible messaging scheme with high scalability; and automatic and effective collaboration with interactivity of rich media Web content for diverse clients over heterogeneous network environments. In addition, the approach suggests a uniform interface for the next generation Web client with ubiquitous accessibility. We apply this architecture to the quite complex example of a Scalable Vector Graphics (SVG) browser and give detailed performance measurements to demonstrate the viability of the approach.

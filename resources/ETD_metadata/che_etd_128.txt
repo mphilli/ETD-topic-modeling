@@ -1,0 +1,11 @@
+$TITLE:
+Stochastic Modeling and Experimental Analysis of Particle Transport in Water Filtration
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Brownian motion, filtration, chemistry
+
+$ABSTRACT:
+Theoretical modeling of deep bed filtration is primarily characterized by two features: (1) the selection of an appropriate geometrical model for the filter bed to account for the physical nature of the bed and its behavior with respect to the pressure drop – flow rate relationship, and (2) the choice of a suitable theoretical technique to compute the rate of particle retention by the model. Of interest to us here is the second feature, viz., the theoretical treatment of the rate of particle retention by the filter grains or the collector. This problem can be considered simply as one of transporting the suspended matter toward the grains or the collector, where they are assumed to be retained on contact. The problem then reduces to one of setting up the equation of motion for the suspended particles.

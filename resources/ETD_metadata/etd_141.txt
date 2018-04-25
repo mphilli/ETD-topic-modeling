@@ -1,0 +1,11 @@
+$TITLE:
+Using Temperature-Sensitive Smart Polymers to Regulate DNA-mediated Nanoassembly
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+Nanoparticle (NP) self-assembly has been proven as an effective route to organize nanoscale building blocks into ordered structures for potential technological applications. In order to successfully exploit the self-assembly processes a high level of direction and control is required. In my dissertation research, I synthesized a temperature responsive copolymer (p) to modify gold nanoparticles (AuNP) for controlling self-assembly. The copolymers' ability to regulate DNA-mediated NP self-assembly is a particular focus. In Chapter 2, the results show that by the addition of the p to create thermally responsive NP interfaces allows for controlled aggregation behavior and interparticle distances defined by the transition temperature (TC) of the p, to aid in NP assembly and help to regulate DNA-mediated interactions between NP. The work in Chapter 3 revealed that the reconfigurable conformation of the p sterically regulates the assembly: at T < TC, the chains extended beyond the hydrodynamic reach of the single stranded DNA and prohibited recognition, while at T > TC, assembly was observed, due the hydrophobic collapse of the p and the subsequent exposure of the complementary DNA bases. In Chapter 4, to gain insight into the mechanism, the rate of assembly was monitored, with DNA lengths that had hydrodynamic diameters more comparable to that of the p, and found the p was capable of slowing the kinetics. I further investigated to find that the addition of p extended the interparticle distances while disrupting the long range ordering. Finally, how the temperature responsive behavior of the p acted on the interparticle distances was probed, and it was found that without p, the interparticle distances expanded, while the addition of p compressed the interparticle distances.

@@ -1,0 +1,11 @@
+$TITLE:
+Interaction effects between the DRD4 VNTR and the number of heavy-drinking peers on alcohol consumption: An experimental alcohol administration study
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+alcohol consumption, DRD4 VNTR, gene-environment interaction, peers, young adults
+
+$ABSTRACT:
+The presence of drinking peers, particularly multiple peers, has been shown to be an influential alcohol-promoting environment for young adults.  Drinking peers may trigger genetic vulnerabilities to alcohol-promoting social environments.  Carriers of the DRD4 VNTR 7-repeat allele have been shown to be more vulnerable than noncarriers to alcohol-promoting peer environments, such as the presence of heavy-drinking peers and a college/Greek environment.  However, research has not yet examined whether there are DRD4 VNTR-related differences in alcohol consumption as a function of the number of drinking peers.  The current study aimed to examine whether carrying the 7-repeat allele exacerbates the effects of peer presence on alcohol consumption and characterize potential mediators responsible for such DRD4 VNTR-related differences.  Ninety eight Caucasian young adult moderate to heavy drinkers (mean age = 22.3 years [SD = 2.16]; 48% female) were randomly assigned to one of three groups, consuming alcohol in the presence of none, one, or three heavy-drinking peer confederates.  Results showed no significant moderating effects of the DRD4 VNTR in the relationship between the number (or presence) of heavy-drinking peers and voluntary alcohol consumption, after controlling for gender, age, and typical drinking quantity.  These results add to recent mixed findings on the moderating role of the DRD4 VNTR in the effect of perceived peer environments on young adult drinking.  Future examination into DRD4 VNTR-related susceptibility to alcohol-promoting peer environments through meta-analytic synthesis and both experimental and prospective, multi-wave designs is needed to resolve mixed findings.

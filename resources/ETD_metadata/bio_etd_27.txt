@@ -1,0 +1,11 @@
+$TITLE:
+Molecular evolution of visual pigments of the Tokay gecko and bluefin killifish
+
+$DEPARTMENT:
+Biology
+
+$KEYWORDS:
+Visual pigments, Tokay gecko, Bluefin killifish, Gekko gekko, Lucania goodei
+
+$ABSTRACT:
+Visual pigments are proteins which absorb photons and convert light into neuronal signals which are interpreted by the visual cortex of the brain. Functionally, the visual pigment has two major roles: absorb a photon within a specific spectral range and initiate a G-protein signaling cascade. In nature, visual pigments absorb light of many different wavelengths, from 360 nm to 635 nm. Previous studies have shown that changing specific amino acid residues in visual pigments alters maximal light absorbance (λmax), and that this may enhance vision under various environmental lighting conditions. The goal of this dissertation was to study visual pigment function and evolution in two species, the Tokay gecko and the Bluefin killifish, from two distinct lighting environments, a nocturnal habitat and an aquatic habitat. First, in Chapter 2, the vision of the nocturnal Tokay gecko was studied. It was determined that this species relies on only three cone visual pigments for vision (SWS1, RH2, and MWS) and two of these cone visual pigments are dramatically blue-shifted in λmax (RH2 and MWS). Secondly, in Chapters 3 and 4, the molecular evolution of visual pigments in the bluefin killifish were examined. Eight opsin cDNA's were identified and characterized for this species. It was demonstrated that for short wavelength vision, improved chromatic discrimination arose in the bluefin killifish as the result of a gene duplication of the SWS2 class opsin and amino acid changes at sites 44, 94, 118, and 265 to blue-shift the function of one copy, changing the function from blue light absorbance to violet light absorbance.

@@ -1,0 +1,11 @@
+$TITLE:
+Detecting At-Risk Drinking in University Primary Care: Validity of the AUDIT-C
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Alcohol, AUDIT-C, College students, Primary care, Receiver operating characteristic (ROC) curve, Screening
+
+$ABSTRACT:
+Research has shown that primary care physicians are more likely to discuss alcohol use with their patients when brief screens are routinely administered. One such screen, the Alcohol Use Disorder Identification Test-Consumption (AUDIT-C; Bush, Kivlahan, McDonnell, Fihn, & Bradley, 1998), has yet to be validated for detecting at-risk alcohol consumption and negative drinking consequences among students presenting to a university student health service for primary care. Accordingly, the proposed study aimed to assess the construct validity of the AUDIT-C among students (N = 387) recruited from Syracuse University's University Health Service (UHS). Receiver Operating Characteristic curve analyses were used to determine optimal cut-off scores for at-risk consumption and negative drinking consequences. Optimal cut-off scores were also examined separately by gender. Results support the construct validity and utility of the AUDIT-C as a screen for at-risk levels of alcohol consumption and alcohol-related problems among students presenting to UHS. Results also indicate optimal cut-off scores of 5 for females and 7 for males as indicators of at-risk consumption levels as well as likelihood of experiencing an elevated number of negative drinking consequences. These results support the use of the AUDIT-C in university primary care settings and have implications for screening and brief interventions for at-risk drinking.

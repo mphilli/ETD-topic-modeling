@@ -1,0 +1,11 @@
+$TITLE:
+Studies in Income, Investment, and Stock Returns: The Permanent Income Hypothesis and the Overinvestment Puzzle
+
+$DEPARTMENT:
+Finance
+
+$KEYWORDS:
+cumulative increase in investment, firm investment, overinvestment, permanent income, stock return, transitory income
+
+$ABSTRACT:
+Increased sales drive earnings; increased earnings drive investment; and increased investment drives higher stock returns. In this dissertation, I studied the relationship of sales income, firm investment increase and stock returns. The first paper, titled "Permanent Income and Investment", investigates the relationship between changes in sales income and levels of investment. When firms experience increases in sales that they consider to be permanent, the present value of expected profits also increase, leading to increases in the firms' investments. Firm's investment behavior is primarily explained by permanent changes in sales incomes and not by transitory change. The second paper, titled "Firm Investment and Stock Return", investigates the relationship between investment and future returns of the firm. Recent dominant theory has considered the relationship between corporate investment and stock returns as negative due to overinvestment concerns, that is, the market initially under reacts to the possibility of overinvestment. This paper is the first full-scale empirical study that finds a positive relationship between corporate investment and stock returns if the investment increase/decrease is observed within a multiple-year framework rather than as a one year event. If firms continually increase investment, the investment/return relationship becomes positive. My explanation for this positive relationship is that investors prefer stocks with expected higher profit or growth potential, signaled by continued investment increase.

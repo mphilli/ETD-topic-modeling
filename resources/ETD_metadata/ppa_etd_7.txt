@@ -1,0 +1,11 @@
+$TITLE:
+Managing information systems in state and local governments: Essays on e-government service adoption and outsourcing
+
+$DEPARTMENT:
+Public Administration
+
+$KEYWORDS:
+Local governments, E-government, Service adoption, Outsourcing, State government, Technology adoption
+
+$ABSTRACT:
+This document, which includes three empirical studies, examines two currently prevailing public administration practices--privitization and e-government development--through a pluralistic lens that incorporates the factors of political interests, motivations, and powers, as well as the structures, processes, and institutions constructed under the macro political system, in addition to the market-based economic considerations. The first essay views e-government service adoption as the result of political power struggle and different application areas resulting from different interest coalitions and influence processes. The essay estimates and compares two nonlinear mixed models with county-level government survey data. Findings about the bias against the e-democracy services reveal the nature of the e-government movement--an executive branch initiated administrative reform. The presence of a jurisdictional digital divide suggests that e-government may reinforce the power structure of the local political arena and social inequality nationwide. The second essay tests the extent to which economic and political rationalities influence government's decision to contract out using data from two state-level national surveys. Economic considerations, such as market competition and economy of scales, are traded off with political concerns, such as local economic development. The arguments associated with markets and economic rationality are in large part politically motivated. The third essay extends the second essay's framework to examine the external and internal institutional contexts of local governments. Using city and county government survey data, it verifies that the public sector institutional environment largely constrains the economic rationality of outsourcing. Despite the efficiency gain and cost reduction claims, outsourcing, while less likely driven by ideological reasons, is a common tool for pursuing political purposes in local governments.

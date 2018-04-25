@@ -1,0 +1,11 @@
+$TITLE:
+A PC-controlled, ultrafast scanning electrochemical detector for high-performance liquid chromatography
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+electrochemical detector, Particle physics, Analytical chemistry
+
+$ABSTRACT:
+This research focuses on the design, implementation and evaluation of an ultra-fast scanning Electrochemical Detector (ECD) for High Performance Liquid Chromatography, (HPLC). The scanning detector employs a microelectrode array as the working electrode. The electrode array has been designed to fit directly into a commercially available ECD cell.Microelectrodes allow very rapid changes in potential while maintaining low background currents. Rapidly scanning the potential up to 10 volts per second yields time resolved current-voltage profiles of components as they elute from a chromatographic column. Coeluting peaks in the time domain are then resolved in the potential domain by taking the differential of the electrochemical profile. Several microelectrode arrays for various electrochemical detection techniques were evaluated using gold and carbon electrodes of radius 25$\mu$m, 6.5$\mu$m and 3$\mu$m with solutions of ferrocene and catecholamines.The detector interface, software and electronics were engineered to interface with an IBM AT or compatible computer with 640 K of memory, a hard disk and a 20 MHz analog-to-digital digital-to-analog board. The rapid potential changes and the resulting cell current were controlled and monitored using fast executing assembler routines. Computer control of the ECD system made the application of a variety of amperometric techniques possible. Extensive data reduction procedures such as signal sorting from three dimensional data (E-i-t), and data averaging and smoothing were also developed.The research also explored the effect of flow rate and solution resistance on the electrochemical cell current.

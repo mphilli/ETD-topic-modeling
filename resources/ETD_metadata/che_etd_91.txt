@@ -1,0 +1,11 @@
+$TITLE:
+Isotopomers of 2-deoxy-D-ribose: Syntheses and applications in magnetic resonance
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Magnetic resonance, Deoxyribonolactones-2, Nucleosides, Regioselective
+
+$ABSTRACT:
+This work demonstrates the chemical synthesis of isotopically labeled 2-deoxyribonolactones--crucial intermediates in the production of isotopically enriched DNA or RNA oligonucleotides. Low-cost, commercially available, one or two-carbon precursors provide carbon-13 labels. Hydrogen isotope labels arise from commercially available materials as well. Previous work from our laboratories has been expanded and improved. The synthetic scheme has been developed to provide increased yields, enantiomerically pure material, different labeling patterns, and conversion to labeled D-ribose.This work provides the fundamental transformations for creating DNA and RNA oligonucleotides with any combination of carbon ( 14 C, 13 C, and 13 C-depleted 12 C) and hydrogen ( 3 H, 2 H, 1 H) isotopomers. Hundreds of different carbon and hydrogen isotopic combinations are possible for D-ribose, and 2-deoxyribose. Many of these compounds are not available by any other method. Although synthesis utilizing long-lived radioisotopes was not conducted, use of 14 C and 3 H is a trivial expansion of this fundamental work.A "population labeling" scheme has been devised, where mixing of equimolar amounts of the five 13 C 1 -2-deoxyribonolactones provides a 20-fold increase over natural abundance. A 50-fold increase over natural abundance would be obtained by combination of the 1,3,5- 13 C 3 - and 2,4- 13 C 2 -lactones. Since 13 C- 13 C adjacencies occur only by natural abundance, the population labeling scheme is optimal for NMR relaxation studies of internal motion.Specific 2 H-labeling is demonstrated by the synthesis of 4- 2 H-2-deoxy-D-ribose. The C4 ' position is the primary site for free-radical attack from ionizing radiation and some DNA cleavage agents.Other topics are included. Previous synthetic methodology for the incorporation of carbon-13 and deuterium are presented and compared with the methods presented here. Two complete manuscripts are included. Continuing work towards the octalactins is also presented.

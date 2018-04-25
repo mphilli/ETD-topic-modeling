@@ -1,0 +1,11 @@
+$TITLE:
+An integrated model of mortgage termination, refinancing, and household mobility
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Economics, finance, mortgages, refinancing
+
+$ABSTRACT:
+This study examines mortgage termination in light of the increasing importance and need for a better understanding and estimate of this issue as a result of the rapidly rising share of Mortgage-Backed Securities in the capital market. Most previous studies on mortgage termination employ the option pricing framework that emphasizes the importance of financial incentives in the prepayment decision. Their empirical tests largely rely on mortgage pool data. As a result, individual characteristics of mortgagors are seldom scrutinized. This study attempts to explain mortgage termination from an individual and behavioral approach. It is proposed that mortgage termination is the result of two fundamental decisions: relocation and refinancing. A mortgage is terminated when a mortgagor decides either to move out of its current residence or to refinance; and the decision is made based on the financial incentives and individual/household characteristics that vary across the population. The theoretical model is set up where a mortgage-holding household chooses among three courses of action (namely, to stay, to move, or to refinance) to maximize its expected utility.The 1983 and 1986 Survey of Consumer Finances conducted by the Federal Reserve Board are used for the empirical work in this study. These two surveys provide ample information on the financial and demographic status of a sample that is representative of the population in the United States.Two specific hypotheses are tested in this study. The first is the inter-dependency of the moving and refinancing decisions. The second is the importance of individual/household characteristics in the refinancing decision. Dependency between the moving and refinancing decisions is strongly rejected and the refinancing decision is not significantly affected by non-financially related factors. However, it is maintained that mortgagors' characteristics are still important for the study of mortgage termination because their effects are manifested through the moving decision, which contributes to the termination of mortgages.

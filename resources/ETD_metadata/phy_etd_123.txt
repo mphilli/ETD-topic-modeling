@@ -1,0 +1,11 @@
+$TITLE:
+Effective Field Theories in Cosmology
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Cosmology, Effective Field Theories, Inflation, Lorentz Violation, Perturbations, Scalar-Tensor Theories
+
+$ABSTRACT:
+During the last 20 years, a large amount of detailed cosmological observations have promoted cosmology to the rank of high-precision science. Remarkably, all the observations currently available can be accounted for by assuming that (i) the universe is approximately homogeneous and isotropic on large scales, (ii) gravitational interactions are described by General Relativity with a non-vanishing cosmological constant and (ii) 85% of the matter content of the universe is in the form of dark matter, a presently unknown type of matter which interacts with ordinary matter only gravitationally. Current theoretical efforts are focused on gaining a deeper understanding of the small departures from perfect homogeneity and isotropy observed in our universe, the nature of dark matter and the physical origin of the cosmological constant. Effective field theory methods provide a natural framework to try to address such outstanding questions. For instance, such methods have been extensively used to study alternative theories of gravity which mimic a non-vanishing cosmological constant and to build models of the early universe which generate the observed anisotropies and inhomogeneities through a period of accelerated cosmic expansion. In this thesis, we study effective field theories of gravity which violate some basic tenets of General Relativity such as Lorentz invariance and the weak equivalence principle. We also employ effective field theory methods to explore the imprint that high energy physics can leave on the small departures from homogeneity and isotropy generated in the early universe.

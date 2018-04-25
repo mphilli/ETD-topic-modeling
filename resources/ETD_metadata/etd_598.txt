@@ -1,0 +1,11 @@
+$TITLE:
+An All-in-One Debugging Approach: Java Debugging, Execution Visualization and Verification
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Data Processing, Debugging, Java Bytecode, Visualization
+
+$ABSTRACT:
+We devise a widely applicable debugging approach to deal with the prevailing issue that bugs cannot be precisely reproduced in nondeterministic complex concurrent programs. A distinct efficient record-and-playback mechanism is designed to record all the internal states of execution including intermediate results by injecting our own bytecode, which does not affect the source code, and, through a two-step data processing mechanism, these data will be aggregated, structured and parallel processed for the purpose of replay in high fidelity while keeping the overhead at a satisfactory level. Docker and Git are employed to create a clean environment such that the execution will be undertaken repeatedly with a maximum precision of reproducing bugs. In our development, several other forefront technologies, such as MongoDB, Spark and Node.js are utilized and smoothly integrated for easy implementation. Altogether, we develop a system for Java Debugging Execution Visualization and Verification (JDevv), a debugging tool for Java although our debugging approach can apply to other languages as well. JDevv also offers an aggregated and interactive visualization for the ease of users’ code verification.

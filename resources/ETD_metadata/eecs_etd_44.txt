@@ -1,0 +1,11 @@
+$TITLE:
+New frequency domain electromagnetic solvers based on multiresolution analysis
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+MFRD, Wavelets, FDFD, Multiresolution, Frequency-domain
+
+$ABSTRACT:
+In this dissertation, a general 3D frequency domain numerical method similar to the finite difference frequency domain (FDFD) technique is formulated. The proposed method, called the multiresolution frequency domain (MRFD) technique, is based on orthogonal Battle-Lemarie and bi-orthogonal Cohen-Daubechies-Feauveau (CDF) wavelets. The objective of developing this new technique is to achieve a frequency domain scheme which exhibits improved computational efficiency figures compared to the traditional FDFD method: reduced memory and simulation time requirements while retaining numerical accuracy.The newly introduced MRFD scheme is successfully applied to the analysis of a number of electromagnetic problems, such as computation of resonance frequencies of one and three dimensional resonators, analysis of propagation characteristics of general guided wave structures and electromagnetic scattering from two dimensional dielectric objects. The efficiency characteristics of MRFD techniques based on different wavelets are compared to each other and that of FDFD method. Results indicate that the MRFD techniques provide substantial savings in terms of execution time and memory requirements, compared to the traditional FDFD method.

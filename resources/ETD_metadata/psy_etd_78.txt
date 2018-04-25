@@ -1,0 +1,11 @@
+$TITLE:
+Facilitating memory in children with reading disabilities through computerized bimodal presentation
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Memory, Children, Reading disabilities, Computerized, Bimodal presentation
+
+$ABSTRACT:
+Research suggests that children with reading disabilities may have weaknesses in memory processes that influence their reading comprehension ability. Recent investigations demonstrate that verbal recall and reading comprehension can be enhanced in children with reading disabilities when bimodal presentation (i.e., concurrent auditory and visual presentation) is employed. The current study examined free recall of words presented via computer in three conditions: auditory, visual, and bimodal. Participants were children 10 to 12 years of age in two ability groups, average and learning disabled readers. Results showed that students with lower reading abilities recalled significantly more words presented bimodally ( M = 46.05) than in either single mode (auditory, M = 39.90; visual, M = 36.70). Results of delayed recall following an interference task indicate that the bimodal advantage is maintained. Bimodal presentation of information may offer a useful learning/memory tool for many students with reading problems.

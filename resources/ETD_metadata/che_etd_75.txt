@@ -1,0 +1,11 @@
+$TITLE:
+Ligand influences on the structures of organically-templated mixed-metal molybdenum and vanadium oxides prepared via hydrothermal synthesis
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Ligand, Organically-templated, Mixed-metal, Vanadium oxides, Molybdenum oxides
+
+$ABSTRACT:
+The use of a structure directing organic ligand on mixed metal molybdenum and vanadium oxides has led to a series of new and interesting materials with varying properties. By directing the formation of the mixed metal oxide sub-structure with the size, shape, and flexibility of the organic ligand new organic/inorganic hybrid materials exhibiting an unusual structural diversity may be synthesized with a variety of new and interesting properties. By utilizing chelating bidentate, chelating tridentate, bis-chelating tridentate, tethering, and tridentate ligands a variety of novel organic/inorganic mixed metal molybdenum and vanadium oxide materials showing the influence of the organic ligand on the inorganic oxide sub-structure have been synthetically created and characterized. Hydrothermal synthesis is a simple synthetic pathway that leads to the formation of single crystal products allowing for characterization via single crystal x-ray diffraction. The use of the hydrothermal medium overcomes the differential solubility problems associated with many organic and inorganic starting materials. The following research endeavor contains a variety of examples of the family M ' /Mo/O/Ligand and M ' /V/O/Ligand utilizing the various ligand formations stated above. This poses as merely a start at the seemingly endless chemistry available in the realm of hydrothermal synthesis.

@@ -1,0 +1,11 @@
+$TITLE:
+Quantitative Investigation of Factors Impacting Protein Farnesylation Within the Cell
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+Prenylation is a lipidation post-translational modification wherein a hydrophobic isoprenoid group is attached to a protein at the cysteine of a C-terminal "Ca1a2X" target sequence by protein farnesyltransferase (FTase) or protein geranylgeranyltransferase type I (GGTase-I).  This modification and subsequent processing steps aid in protein localization to cellular membranes.  While many peptide sequences have been shown to be substrates for the protein prenyltransferases in in vitro assays, it is unclear how many of these sequences can successfully compete for prenylation by FTase or GGTase-I within the pool of potential substrate proteins within the cell. To address this uncertainty, we aim to determine the minimal substrate reactivity required for a target protein to be recognized and prenylated in the presence of endogenous levels of FTase, FPP lipid donor cosubstrate, and competing protein substrates within a living mammalian cell.  By modifying the hypervariable region and the C -terminal sequence of a fluorescent fusion protein, we have developed a series of reporter proteins whose reactivity with FTase is systematically varied over several orders of magnitude. In combination, these reporter proteins provide a calibrated sensor for probing endogenous FTase activity. Our methodology also provides a novel approach to detect changes in FTase activity within an intact cell in response to genomic mutations or environmental stimuli.  Quantitative determination of the "threshold" for prenylation within the cell will help define the extent of the prenylated proteome and aid in studying the prenylation-dependent pathways and the mechanism of therapeutics targeting the prenylation pathway.

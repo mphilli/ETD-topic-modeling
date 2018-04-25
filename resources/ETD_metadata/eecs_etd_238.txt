@@ -1,0 +1,11 @@
+$TITLE:
+Electromagnetic coupling between two nonintersecting, orthogonal, and infinitely long microstrip lines parallel to a ground plane
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Electrical engineering, Electromagnetism
+
+$ABSTRACT:
+A full-wave analysis of a microstrip crossover above a conducting plane is carried out. The crossover excites higher order modes in the form of evanescent waves near the discontinuity, while further away only the dominant (TEM) modes exist. The higher order mode currents are modelled by triangle functions and the dominant modes by outgoing traveling waves. The method of moments is employed to reduce the boundary conditions on the surface of each strip to matrix equations the solution of which determines the currents on each strip. Then the impedance and scattering matrices of the four port are found along with the equivalent circuit. The results obtained using this full-wave solution are in agreement with results obtained using a quasi-static analysis, which at low frequencies is a very good approximation.

@@ -1,0 +1,11 @@
+$TITLE:
+Resource management schemes for multiprocessors based on multistage interconnection networks
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+subcube allocation, partitionable networks, task migration, Electrical engineering, Computer science
+
+$ABSTRACT:
+Multistage Interconnection Networks (MINs) can dramatically reduce architectural cost and increase system scalability for high performance parallel processing due to the low-degree connectivity requirement for each node and their versatile data permutation capabilities. There exists three decades of research in the area of MIN-based multiprocessors. It is now possible to cost-effectively build small-scale to large-scale MIN-based systems. Since potential applications running on these machines may not always require all the computing power at one time, the most efficient use of the system resources should be to make them available in multiuser and multitasking environments. In the past, efficient and effective schemes for resource management (including scheduling and allocation) were not available to facilitate general deployment of these machines in multiuser and multitasking environments. Efficient management of system resources in such environments has been recognized as a major problem for ensuring high system utilization.Two kinds of real-time resource management schemes have been designed and implemented in this research for MIN-based systems. They are Subcube (Subsystem) Compaction and Subcube Migration. The schemes are also near-optimal and scalable, over the size of the small-scale, medium-scale, and large-scale systems. These schemes will help to provide higher utilization of the expensive processor and memory resources and keep the users contented by honoring their request as fast and fairly as possible. Extensive experiments were carried out to study effectiveness of the schemes, which provide very encouraging results. We expect that these schemes should create a renewed interest in general deployment of MIN-based machines in multiuser and multitasking environments.

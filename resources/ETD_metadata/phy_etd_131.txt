@@ -1,0 +1,11 @@
+$TITLE:
+Cell Mechanics: From Cytoskeletal Dynamics to Tissue-Scale Mechanical Phenomena
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Active polymer gels, Cell adhesion, Continuum mechanics, Cytoskeleton, Hydrodynamics, Surface tension
+
+$ABSTRACT:
+This dissertation explores the mechanics of living cells, integrating the role of intracellular activity to capture the emergent mechanical behavior of cells. The topics covered in this dissertation fall into three broad categories : (a) intracellular mechanics, (b) interaction of cells with the extracellular matrix and (c) collective mechanics of multicellular colonies. In part (a) I propose theoretical models for motor-filament interactions in the cell cytoskeleton, which is the site for mechanical force generation in cells. The models predict in a unified manner how contractility, dynamic instabilities and mechanical waves arise in the cytoskeleton by tuning the activity of molecular motors. The results presented in (a) holds relevance to a variety of cellular systems that behave elastically at long time scales, such as muscle sarcomeres, actomyosin stress fibers, adherent cells. In part (b) I introduce a continuum mechanical model for cells adherent to two-dimensional extracellular matrix, and discuss how cells can sense mechanical and geometrical cues from its surrounding matrix. The model provides an important step towards a unified theoretical description of the dependence of traction forces on cell size, actomyosin activity, matrix depth and stiffness, strength of focal adhesions and makes experimentally testable predictions. In part (c) we combine experiment and theory to reveal how intercellular adhesions modulate forces transmitted to the extracellular matrix. We find that In the absence of cadherin-based adhesions, cells within a colony appear to act independently, whereas with strong cadherin-based adhesions, the cell colony behaves like a liquid droplet wetting the substrate underneath. This work defines the importance of intercellular adhesions in coordinating mechanical activity of cell monolayers and has implications for the mechanical regulation of tissues during development, homeostasis, and disease.

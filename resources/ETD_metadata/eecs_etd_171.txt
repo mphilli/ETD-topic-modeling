@@ -1,0 +1,11 @@
+$TITLE:
+High capacity free space switching fabric with dynamic holograms
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Bacteriorhodopsin, Fiber optics, Holograms, Switching fabric
+
+$ABSTRACT:
+This dissertation proposes a novel bacteriorhodopsin based photonic crossbar system for broadband communications. This free-space dynamically reconfigurable NxN crossbar switch utilizes an intelligent holographic system for routing and switching by dynamically reconfigurable gratings of bacteriorhodopsin, which has high write/read photocyclicity that is greater than 10$\sp6.$ The major advantages of the system include large interconnectivity density, transparent data redistribution, and fiber optic bandwidth capacity. Furthermore, the switching device resolves optical-to-electronic and electronic-to-optical conversion bottlenecks and reduces signal-to-noise degradation which is due to the conversions. This crossbar design is completely free of internal blocking which is one of the major drawbacks of guided optical crossbars. The system takes advantage of the parallelism and multidimensionality inherent in optics and can be scaled to a large capacity of NxN, while it offers the potential for a low weight and portability which are a projected requirement for future broadband communications. In addition, a three laser beam technique is developed to investigate holographic diffraction characteristics of M-type phase holograms and transient gratings in a bacteriorhodopsin film. A peak diffraction efficiency is achieved by controlling the ratio of write to pump intensity. A maximized transient peak diffraction efficiency approaches a saturated value when the ratio is approximately unity.

@@ -1,0 +1,11 @@
+$TITLE:
+Alone together: A socio-technical theory of motivation, coordination and collaboration technologies in organizing for free and open source software development
+
+$DEPARTMENT:
+Information Transfer
+
+$KEYWORDS:
+Distributed teams, Organization, Software development, Collaboration, Open source software
+
+$ABSTRACT:
+This dissertation presents evidence that the production of Free and Open Source Software (FLOSS) is far more alone than together; it is far more often individual work done "in company" than it is teamwork. When tasks appear too large for an individual they are more likely to be deferred until they are easier rather than be undertaken through teamwork. This way of organizing is successful because it fits with the motivations of the participants, the nature of software development as a task, and the key technologies of FLOSS collaboration. The empirical findings are important because they ground and motivate a theory that enables a systematic approach to understanding the implications of FLOSS development as a model for adaptation and the future of work. The dissertation presents a process of discovery (participant observation), replication (a systematic study of project archives), and generalization to theory (a model of the rational choices of developers and an analysis of the exibility of software as a task). The dissertation concludes by enumerating the conditions under which this theory of organizing is likely to be successful, such as non-revokable and rewindable work with incremental incentives. These are used as a framework to analyze efforts to adapt the FLOSS model of organizing for self-organizing, virtual teams in other domains of work. Future developments of this dissertation, errata and discussion will be available at http://james.howison.name/pubs/dissertation.html.

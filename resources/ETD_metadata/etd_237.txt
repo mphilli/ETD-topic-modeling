@@ -1,0 +1,11 @@
+$TITLE:
+Synthesis towards Polyhedral and Rigid Organic Non-Linear Optic Materials
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+carborane, hydrindacene, hyperpolarizability, nonlinear optics, polyhedral, second harmonic generation
+
+$ABSTRACT:
+Currently, there is intense research interest in new molecular compounds that display enhanced second harmonic generation nonlinear optical (NLO) properties. Previous computational research has shown that both polyhedral carborane compounds and sterically constrained hydrindacene show great potential as NLO compounds. Their calculated  values exceed those of compounds currently in use. Initial synthetic obstacles in the formation of polyhedral carborane based compounds led us to investigate targets using multiple polyhedral cage bridges. Initial calculations on these compounds have shown promising results. [2-[2-(3,4-dimethylcyclopentadienyl)-o-carborane]-o-carborane]-tropylium, 27, in particular has shown great promise at a target for synthesis. Preliminary synthetic attempts towards homo- and hetero- polyhedral cage compounds are reported.Current synthesis towards hindered organic NLO molecules have shown promise, with some synthetic difficulties encountered. Multiple pathways for the initial target, 4-tropylium-8-(3,4-diphenylcyclopentadienyl)-1,1,3,3,5,5,7,7-octamethyl-s-hydrindacene have been created and tested with varying results. These synthetic strategies include nucleophilic addition into a preformed bridge, formation of a bridge from a substituted quinarene compound, and a multistep partial backbone construction method which will be discussed further in Chapter 3. Calculational exploration of extended quinarene/hydrindacene hybrids for their use as NLO materials have yielded mixed results, varying with amount of extension of the pendant groups. Initial synthesis of these materials have shown great promise and shall be discussed in Chapter 4.

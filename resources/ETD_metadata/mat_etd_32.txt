@@ -1,0 +1,11 @@
+$TITLE:
+Biting convergence of null-Lagrangians
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Biting, Convergence, Null-Lagrangians, Euler-Lagrange equations, Calculus
+
+$ABSTRACT:
+In the calculus of variations it is essential to work with weakly sequentially compact spaces. Due to the lack of reflexivity of the space [Special characters omitted.] , given any bounded sequence { f j   } ⊂ [Special characters omitted.] , we cannot guarantee the existence of a subsequence which converges weakly. Biting convergence comes to the rescue when the only available information about a sequence in [Special characters omitted.] is its boundedness. This notion of convergence has been designed mainly to deal with bounded sequences in [Special characters omitted.] that fail to be equi-integrable. We give a new proof of the theorem of K. Zhang [ Z  ] on biting convergence of Jacobian determinants for mappings of Sobolev class [Special characters omitted.] . The theorem states that given a bounded sequence of functions {  f j   } ⊂ [Special characters omitted.] , there exists a subsequence {[Special characters omitted.] } such that [Special characters omitted.] converges in the biting sense to J  ( x  ,  f  ). The novelty of our approach is in using [Special characters omitted.] -estimates with the exponents 1 [Special characters omitted.] p  < n  , as developed in [  IS1, IL, I1  ]. These rather strong estimates compensate for lack of equi-integrability.We extend this result to more general wedge products of differential forms and then to null-Lagrangians. Null-Lagrangians are characterized by Euler-Lagrange equations. If the value of the energy integral [Special characters omitted.] [ f ] = [Special characters omitted.] does not change by adding to f a function that vanishes on the boundary of [Special characters omitted.] , then the function E is called a null-Lagrangian. Elliptic complexes, Hodge decomposition and non-linear commutators play a vital role in our proof.

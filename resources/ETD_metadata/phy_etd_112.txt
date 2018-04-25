@@ -1,0 +1,11 @@
+$TITLE:
+Supersymmetric Yang-Mills theories on the lattice
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Particle physics
+
+$ABSTRACT:
+This dissertation reviews the formulation of twisted supersymmetric Yang--Mills (SYM) theories in the continuum and also on the lattice. We focus on the maximally supersymmetric twisted SYM theories in four and two dimensions. The one-loop renormalization of the lattice four-dimensional SYM theory is investigated. We also study the thermal phase structure of the maximally supersymmetric SYM in two dimensions and possible black hole transitions in its dual gravitational theory, using numerical simulations of the lattice theory.

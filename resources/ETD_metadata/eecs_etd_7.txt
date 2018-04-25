@@ -1,0 +1,11 @@
+$TITLE:
+Design considerations and techniques for the conversion between Visual Basic .NET and C#
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Visual Basic .NET, Source code conversion
+
+$ABSTRACT:
+Source code conversion between different programming languages is always a very important task for the migration of existing software systems. This dissertation deals with bi-directional source code conversion between Visual Basic .NET and C#. Both languages are based on Microsoft .NET environment, which is a common platform to support multiple languages. This dissertation presents a common code model as the central data structure for the source code conversion. The common code model provides a complete and accurate description of source code in different programming languages. The description of the proposed conversion system based on the common code model is presented. The system provides a systematic approach for source code conversion and is composed of three phases, i.e., importing phase, adjustment phase, and exporting phase. The importing phase includes the scanning step, parsing step, model importing step, and binding step. The result of the importing phase is a complete and accurate description of the original source code. The adjustment phase adjusts the code model such that it will be compatible with the target programming language. The exporting phase generates the source code in the target programming language from the adjusted code model. System architecture for the code conversion is designed to organize common tasks into shared service modules to improve the efficiency of the conversion system. Additional conversion issues, including conditional compilation and partial code conversion, are discussed from the viewpoint of their required design modification in the conversion system and required extra complexity in data structure. A concept-proving experimental system, named GodeGen, is implemented by combining all the above mentioned ideas.

@@ -1,0 +1,11 @@
+$TITLE:
+The Impact of Schadenfreude as an Emotional Frame in Crisis Communications on Perception of Corporate Reputation
+
+$DEPARTMENT:
+Mass Communications
+
+$KEYWORDS:
+Crisis Communications, Schadenfreude
+
+$ABSTRACT:
+This dissertation expands on the recent research focus on the role of stakeholder emotions in crisis communications. Using a 2x2 experimental design, this study explores the emotions of sadness and anger, as well as the concept of schadenfreude in relationship to stakeholders' perceptions of corporate reputation. In addition to using the previously tested emotions of sadness and anger in this context, the concept of schadenfreude (the feeling of pleasure one experiences when a person or organization suffers a misfortune or set back) was re-introduced to the field to better assess its potential role in the crisis communication process, specifically its relationship with perceived corporate reputation. Additionally, both third-person effect and social identity theory were introduced to explore their presence, and potential application, in future crisis communications. While the stimulus materials were unsuccessful in creating significantly different emotions in the subjects, there was an indication that schadenfreude as a concept is present in crisis communication scenarios and that it may have a distinctly different effect on perceived reputation than its more negative counterparts of anger and sadness. The presence of a third-person effect, a previously under-studied concept in crisis communications, was found and social identity theory held true, predicting perceived reputation based on identification with one or another party/group. Finally, in an effort to control for demographic variables, gender was found to have had a mitigating effect on reputation.

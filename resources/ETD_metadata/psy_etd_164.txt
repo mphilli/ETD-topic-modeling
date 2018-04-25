@@ -1,0 +1,11 @@
+$TITLE:
+School-Home Performance Feedback with Home-Based Writing Activities: the Effects on Elementary Students’ Writing Fluency
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+fluency, home-based learning activities, parent involvement, performance feedback, school-home notes, writing
+
+$ABSTRACT:
+Parent involvement in education has been identified as  influential in children's learning and associated with positive outcomes on  students' academic and behavioral competency (Christenson, 2004; Doherty &  Peskay, 1992; Henderson, 2007). Studies have suggested that parents and teachers  prefer programs that utilize school-home feedback notes and provide parents with  strategies for implementing educational activities at home (Gettinger &  Guetschow, 1998). The current study examined the effects of combining  school-home performance feedback with home-based writing activities on students'  writing fluency in comparison to students who participated in a performance  feedback intervention. A total of 101 third-grade students were randomly  assigned to one of two conditions: (a) performance feedback (n = 52); or (b)  school-home performance feedback with home-based writing (n = 49). Writing  fluency growth, as measured by the number of correct writing sequences, was  compared between conditions using multi-level linear modeling. Results indicated  that all students demonstrated statistically significant gains in their writing  fluency across time and across instructional placement criteria, with no  statistically significant differences observed between conditions. School  placement and initial level of writing fluency were identified as statistically  significant predictors of change in students' writing fluency growth.  Implications and future research directions for parent involvement interventions  writing fluency are discussed.

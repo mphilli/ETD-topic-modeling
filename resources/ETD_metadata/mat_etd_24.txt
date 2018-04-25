@@ -1,0 +1,11 @@
+$TITLE:
+Representations of a valued quiver, the lattice of admissible sequences, and the Weyl group of a Kac-Moody algebra
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Admissible sequences, Weyl group, Kac-Moody algebra
+
+$ABSTRACT:
+This dissertation studies connections between the preprojective representations of a finite connected valued quiver without oriented cycles, the (+)-admissible sequences of vertices, and the Weyl group. For each preprojective representation, a shortest (+)-admissible sequence annihilating the representation is unique up to a certain equivalence. A (+)-admissible sequence is the shortest sequence annihilating some preprojective representation if and only if the product of simple reflections associated to the vertices of the sequence is a reduced word in the Weyl group. These statements have the following application that strengthens known results of Howlett and Fomin-Zelevinsky. For any fixed Coxeter element of the Weyl group associated to an indecomposable symmetrizable generalized Cartan matrix, the group is infinite if and only if the powers of the element are reduced words. These results also extend Gabriel's Theorem by providing a one-to-one correspondence between indecomposable preprojective representations and elements in the Weyl group that have a reduced expression whose associated sequence of vertices is a principal (+)-admissible sequence.

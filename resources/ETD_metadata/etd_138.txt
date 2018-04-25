@@ -1,0 +1,11 @@
+$TITLE:
+REPUTATION COMPUTATION IN SOCIAL NETWORKS AND ITS APPLICATIONS
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Bayesian Game theory, Degree Estimation, Reputation Computation, Social Networks
+
+$ABSTRACT:
+This thesis focuses on a quantification of reputation and presents models which compute reputation within networked environments. Reputation manifests past behaviors of users and helps others to predict behaviors of users and therefore reduce risks in future interactions. There are two approaches in computing reputation on networks- namely, the macro-level approach and the micro-level approach. A macro-level assumes that there exists a computing entity outside of a given network who can observe the entire network including degree distributions and relationships among nodes. In a micro-level approach, the entity is one of the nodes in a network and therefore can only observe the information local to itself, such as its own neighbors behaviors. In particular, we study reputation computation algorithms in online distributed environments such as social networks and develop reputation computation algorithms to address limitations of existing models. We analyze and discuss some properties of reputation values of a large number of agents including power-law distribution and their diffusion property. Computing reputation of another within a network requires knowledge of degrees of its neighbors. We develop an algorithm for estimating degrees of each neighbor. The algorithm considers observations associated with neighbors as a Bernoulli trial and repeatedly estimate degrees of neighbors as a new observation occurs. We experimentally show that the algorithm can compute the degrees of neighbors more accurately than a simple counting of observations. Finally, we design a bayesian reputation game where reputation is used as payoffs. The game theoretic view of reputation computation reflects another level of reality in which all agents are rational in sharing reputation information of others. An interesting behavior of agents within such a game theoretic environment is that cooperation- i.e., sharing true reputation information- emerges without an explicit punishment mechanism nor a direct reward mechanisms.

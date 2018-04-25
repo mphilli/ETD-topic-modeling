@@ -1,0 +1,11 @@
+$TITLE:
+Exploring the relationship between inclusive education and achievement: New perspectives
+
+$DEPARTMENT:
+Teaching and Leadership
+
+$KEYWORDS:
+Inclusion, Reading achievement, Mathematics achievement
+
+$ABSTRACT:
+This study used Multilevel Modeling (MLM) with a sample of over 1300 students with disabilities between the ages of six and nine years old nested within 180 school districts. A sample from the Pre-Elementary Education Longitudinal Study (PEELS) dataset (Institute of Education Sciences) was used to explore the relationship between hours in general education and achievement in reading and mathematics while accounting for student level factors such as race, socioeconomic status, and disability. The study also controlled for district level factors including district socioeconomic status and racial/ethnic composition. Results suggest a strong relationship between hours spent in general education and achievement in both mathematics and reading when accounting for student level and district level factors. In addition, results suggested statistically significant relationships between achievement and race, and achievement and disability.In the analyses standard scores on subtests of the reading and mathematics achievement sections of the Woodcock Johnson III Tests of Academic Achievement [WJIII] (Woodcock & Mather, 2001) were used as the outcome variables. These analyses indicate that when incorporating level-1 (student level) and level-2 (district level) predictors and interaction terms, hours in general education is significantly related to reading and mathematics achievement. The results indicate approximately half a point increase in reading and mathematics scores for each hour spent in general education. Implications for research and practice are discussed.

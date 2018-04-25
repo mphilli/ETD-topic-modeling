@@ -1,0 +1,11 @@
+$TITLE:
+Determination of the X(3872) Meson Quantum Numbers
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+amplitude analysis, particle, quantum numbers, X(3872)
+
+$ABSTRACT:
+The Large Hadron Collider beauty (LHCb) is one of the several experiments located at the ring of the Large Hadron Collider (LHC) in Geneva. The LHCb detector is a single arm forward spectrometer and is designed to perform high precision measurements of Charge Parity (CP) violation parameters and rare decays of the beauty and charm hadrons. The detector was successfully operated at a center-of-mass energy of 7 TeV in 2010 and 2011 and at 8 TeV in 2012. Over 3 fb-1 of data has been collected by the LHCb. The LHCb experiment is also well suited for studies on hadron spectroscopy.Besides the well established mesons consisting of quark-antiquark pairs (qq-bar), it has been proposed that "exotic" qqq-barq-bar mesons could exist. One of the candidates for a four-quark state is the charmonium-like state X(3872) which was first observed by the Belle experiment in 2003. This narrow state has a mass of about 3872 MeV which is located in a region of excited charmonium states (cc-bar). However its mass does not match to any theoretically predicted charmonium state. In order to investigate the nature of this anomalous state, we analyze its quantum number which is the key for its interpretation. The X(3872) events are reconstructed from B+->X(3872)K+, where X(3872)->pi+ pi- J/psi , J/psi->mu+mu-; based on 1 fb-1 of 2011 data collected by LHCb detector. We implement a method which is guaranteed by statistics to be the most powerful way to discriminate between spin hypotheses; namely unbinned likelihood ratio test using full angular phase-space. The 5-dimensional analysis shows that 1++ hypothesis is preferred with overwhelming significance. The only alternative assignment allowed by the previous measurements, JPC = 2-+, is rejected with a confidence level equivalent to more than eight Gaussian standard deviations. This result favors exotic explanations of the X(3872) state, such as a mesonic molecule or a tetraquark.

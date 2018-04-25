@@ -1,0 +1,11 @@
+$TITLE:
+The association of space use and aggressive behavior in nesting male dwarf gourami (Colisa lalia Hamilton-Buchanan)
+
+$DEPARTMENT:
+Biology
+
+$KEYWORDS:
+game theory, territorial, nest defense, intersexual, Zoology, Ecology
+
+$ABSTRACT:
+Animals that defend a focal point generally decrease their aggressive frequency to intruders at increasing distances from the nest. Aggressive frequency is comprised of two sequential behaviors, the use of space and aggressive tendency. The resident has to first approach the intruder (space use) before it can attack (aggressive tendency). This study examined how manipulations of the net benefit of a contest influenced a nesting male dwarf gourami's (Colisa lalia) spatial and aggressive response to an intruder. This study was conducted on single males in a laboratory. This reduced the complexity of this problem by eliminating male-male interactions, and limited a male's spatial behavior to a linear response. The net benefit of a contest was decreased by limiting the visual distance, by increasing the number of females in the local environment, and by adding eggs to the nest. Each of these manipulations increased the cost of leaving the nest. The net benefit of a contest was increased via an increase in benefits by presenting an intruder at decreasing distances from the nest, presenting different quality intruders (males vs. females, small vs. large females).Each of these manipulations influenced the spatial behavior of the fish. Males tended to spend more time near the nest when the cost of the encounter increased or the value of chasing an intruder decreased. This decrease in space use resulted in a decrease in the frequency of aggressive behavior. Aggressive tendency also decreased with increasing cost or decreasing benefit, although not as consistently as the changes in spatial behavior. Escalated aggressive responses rarely changed with experimental manipulation, as the test intruders could not respond appropriately to the resident's attacks. The use of space is a critical factor in determining the aggressive response of a resident to an intruder, and future studies need to be more rigorous in the study of space use and aggression as a two component sequential behavioral process.

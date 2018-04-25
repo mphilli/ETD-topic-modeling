@@ -1,0 +1,11 @@
+$TITLE:
+Graph based evolutionary algorithms for transportation problems
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Evolutionary algorithms, Transportation, Graph representations, Airline scheduling
+
+$ABSTRACT:
+A large number of optimization problems need to be solved in the field of transportation, and have consirable industrial and practical significance. The majority of these problems are multi-objective, highly constrained (due to regulations and physical limitations) and NP-complete. In general, even very little improvement in the solution (1%) produces substantial profit as well as satisfaction of customers and employees. Traditional Operations Research (OR) techniques are generally applied to solve these problems, with recent interest in Tabu Search and Evolutionary Algorithms. Sophisticated modeling and transformation techniques have been proposed and studied. This dissertation proposes a new approach to solve transportation problems, hybridizing with previously known algorithms when appropriate. We propose a new graph representation and operations to be applied on this representation, using evolutionary algorithms. We applied these ideas on the Airline Crew Scheduling (ACS) and Vehicle Routing with Time Windows (VRPTW) problems. We applied the new algorithms to many problem sets and demonstrate that the evolutionary algorithms with the new proposed representation are able to produce competitive solutions for these multi-objective, highly constrained, and NP-hard problems.

@@ -1,0 +1,11 @@
+$TITLE:
+Feed-forward neural networks: Learning algorithms, statistical properties, and applications
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+backpropagation, Statistics, Mathematics, Computer science, Artificial intelligence
+
+$ABSTRACT:
+In this study, we focus on feed-forward neural networks with a single hidden layer. The research touches upon several important issues in Artificial Neural Networks such as the reliability and generalization of trained networks. The convergence of the learning algorithm in the computational sense and the strong consistency of the stable states of networks in the statistical sense have been addressed as major measures of reliability and generalization, respectively. Based on the internal structure of feed-forward neural networks with a single hidden layer, Two-Stage learning is proposed. To implement Two-Stage learning, we proposed two new learning algorithms--Two-Stage(LS) and Two-Stage(Gibbs). The reliability and generalization of these two learning algorithms, i.e. the convergence in the computational sense and the strong consistency in the statistical sense, are rigorously studied. These optimal properties of proposed learning algorithms are further confirmed by intensive empirical studies such as comparisons made on the Fisher's Iris Data ((1939) The use of multiple measurements in taxonomic problems, Ann. Eugenics 7, Pt II, pp. 197-188) between the proposed learning algorithms and statistical methods (like Bayesian discriminate analysis, Kernel density methods, and K-nearest neighbors), comparisons between the proposed learning algorithms and other existing learning algorithms like Backpropagation, and simulation studies. Both theoretical and empirical studies demonstrate the potential of the proposed algorithms to the real world.

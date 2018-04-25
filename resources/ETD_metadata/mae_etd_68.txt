@@ -1,0 +1,11 @@
+$TITLE:
+Effects of Surface Roughness on the Indoor Particle Deposition Rate Constant
+
+$DEPARTMENT:
+Mechanical and Aerospace Engineering
+
+$KEYWORDS:
+Particle Deposition, Surface Roughness
+
+$ABSTRACT:
+The purpose of this work was to quantify the deposition rate constants of size-classified particles on typical indoor surface materials as affected by the degree of surface roughness. The experiments were conducted in a small-scale acrylic chamber. The particle size range was from 0.723 to 5.048 £gm with 28 size bins. The air change rates were 6, 11 and 13 h-1. The TSI large particle aerosol generator 8108 was used to generate potassium chloride as test particles, and the TSI aerodynamic particle sizer (APS3321) was used to measure the particle number concentrations. Particle deposition rate constants were determined by regression fitting of the measured time and size-resolved particle number concentrations. The air change rates (ACH) were measured by photo acoustic field gas monitor (Model 1412, Innova, AirTech Instruments).The tested materials were acrylic (as a smooth surface reference), finished hardwood floor surface (FHFS), vinyl tile and four carpets with different surface textures. Based on the surface roughness measurements (Sz), the surface materials tested were divided into three categories smooth (Sz<140 fÝm), slightly rough (140 fÝmf

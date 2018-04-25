@@ -1,0 +1,11 @@
+$TITLE:
+The preparation and properties of glucose-6-sulfate
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Glucose-6-sulfate
+
+$ABSTRACT:
+Glucose-6-sulfate;  historical background; statement of problem;  experimental procedures

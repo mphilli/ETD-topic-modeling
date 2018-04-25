@@ -1,0 +1,11 @@
+$TITLE:
+Fourier series on Vilenkin groups
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Boundedness, Bounded sequence, Salem test
+
+$ABSTRACT:
+The focus of this investigation is pointwise convergence of Fourier series of functions defined on a compact Vilenkin group, i.e., a compact metrizable totally disconnected abelian group. Throughout we assume that the Vilenkin group satisfies a certain boundedness condition, namely, that a sequence of primes determined by the structure of the group is a bounded sequence.We begin with an examination of the Salem test for uniform convergence of Fourier series. We provide a new proof of an adaptation of the Salem test to Fourier series on Vilenkin groups due to C. W. Onneweer and Daniel Waterman.Next we localize the Salem test to obtain a test for pointwise convergence of the Fourier series of f. Here it is shown that the assumption of continuity of f at x, which was required in the proof of uniform convergence, may be weakened to the existence of a suitably defined derivative of the integral of f(x-t). This localized Salem test is very closely related to a version of the Lebesgue test due to Onneweer and Waterman.Application of similar methods to the study of functions of harmonic bounded fluctuation yields the result that the Fourier series of a function of harmonic bounded fluctuation converges everywhere the function satisfies the differentiability of the integral condition mentioned above.Finally, we construct a Banach space of functions with everywhere-convergent Fourier series.

@@ -1,0 +1,11 @@
+$TITLE:
+On the convergence and superconvergence of the Generalized Finite Element Methods
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Convergence, Superconvergence, Generalized finite element method
+
+$ABSTRACT:
+In this thesis, we study the approximation properties of the Generalized Finite Element Method (GFEM), which is a Galerkin method to approximate the solutions of Partial Differential Equations (PDEs). The GFEM is an extension of the standard Finite Element Method (FEM), and it uses a partition of unity and local approximating functions. In certain situations, the partition of unity functions may have some approximation properties themselves (for example, the standard "hat" functions from the FEM). We have obtained an approximation result for the GFEM that exploits this property and yields a more accurate approximate solution of the PDE. This result could not be obtained from the classical error estimate of GFEM, which does not reflect the approximation properties of the partition of unity functions.  In the second part of the thesis, the phenomenon of superconvergence has been studied in the context of GFEM. Superconvergence occurs when the error of the numerical approximation converges faster at certain points compared to the maximum error in a subdomain of the underlying domain of the PDE. We study superconvergence near the boundary of the domain, and extend previous results that only hold in the interior of the domain. In particular, we show that the dominant term of the approximation error can be decomposed into a component that is periodic throughout the domain, and a non-periodic component which decays exponentially away from the boundary. Using these two components, and also possibly their roots, a new approximation to the exact solution can be obtained, which has higher convergence rate on the entire domain (or subdomain) than the standard GFEM solution. Under certain conditions, this new approximation can be used to estimate the error between the original numerical solution (i.e. GFEM solution) and the unknown exact solution, a process known as a posteriori error estimation.

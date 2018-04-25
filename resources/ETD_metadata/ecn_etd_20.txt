@@ -1,0 +1,11 @@
+$TITLE:
+Home equity, migration and retirement
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Home equity, Migration, Retirement, Quality of life
+
+$ABSTRACT:
+What drives the high mobility of U.S. population and what are its effects on local labor and housing markets? This dissertation firstly studies the overall migration patterns for various population segments. Then, the economic behaviors of elderly population are closely analyzed.Using 1970-2000 Censuses, measurements of local quality of life and business environment are created for all metropolitan and non-metropolitan areas across the U.S. Evidence indicates that households prefer non-metropolitan areas and cities in warm coastal areas, while firms prefer large, growing cities. Population flow pattern shows that cities with improving business environments acquire increasing shares of workers, especially among highly-educated, while cities with improving consumer amenities acquire increasing shares of retirees.Examination on household migration pattern reveals: regardless of marital status, young highly-educated households move to places with high quality business environments; after age 55, regardless of education, married couples move away from places with favorable business environments and towards places with high consumer amenities. These patterns have important implications, especially when the baby boomers begin to retire. This includes shifts in the local supply of skilled labor, the level and nature of housing demand, the tax base, and the need for specialized services in different cities.Within the framework of analyzing migration with households' labor and housing market behaviors, chapter 2 focuses on elderly population to understand why previous literature found no significant labor effect of housing wealth.

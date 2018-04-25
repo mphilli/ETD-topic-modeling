@@ -1,0 +1,11 @@
+$TITLE:
+Examining the role of performance uncertainty on consumers' valuations of product attributes
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+Performance uncertainty, Consumers, Valuations, Product attributes
+
+$ABSTRACT:
+This dissertation examines consumer valuations of product attributes while they pursue two goals, (1) aspirations to reach a higher state, and (2) preservation of a previously achieved goal. Consumers rely on products and their attributes to help them to reach these goals. However, new attributes often have some performance variability, which makes it difficult for consumers to estimate the true value of the attribute before purchasing it. This may result in consumers discounting the attribute because they are not sure how well it will perform. Marketers address this by spending on consumer education and marketing communications to deflect attention away from performance variability. In this research, we question whether performance variability is always bad from the marketer's standpoint.Marketers offer new product attributes in two ways--either as an option that may be added to a base model for a higher price, or as an option that may be deleted from a fully loaded model for a price reduction. The decision task created by this addition/deletion framing interacts in specific ways with each of the goals mentioned above. Regulatory fit occurs when the decision task matches with the natural manner dictated by the goal. When regulatory fit is high, consumers feel more confident about their decisions and rely more on their own judgments, and conversely when regulatory fit is low, consumers are more willing to give the benefit of the doubt. We use this theory to create a better understanding of how goal frames, offer frames (attribute addition/deletion), and performance variability interact in consumers' valuation of product attributes. We find a significant three-way interaction between these variables. Specifically, in attribute addition, performance variability has a positive effect on valuations under preservation goals, but has no effect on valuations under aspiration goals. In the deletion frame, performance variability has a negative effect under preservation goals but a positive effect under aspiration goals.

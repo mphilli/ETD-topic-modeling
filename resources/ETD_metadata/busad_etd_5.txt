@@ -1,0 +1,11 @@
+$TITLE:
+Two essays on credit risk
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+Lease, Continuous time finance, Endogenous default, Capital structure, Credit risk
+
+$ABSTRACT:
+In literature, the credit model for pricing corporate bonds could be categorized as either a structural model or reduced-form model. Although the firm's liability process is directly modeled in a structural model, the existing literature usually models a firm's liability process as a whole, and doesn't carefully examine capital structure issues, such as ignoring the composition of a firm's liability. Therefore, the main theme of this dissertation is to consider a firm's liability composition into credit risk modeling, and, moreover, to discuss the impact of the issue on a firm's financial decision and corporate debt valuation.This dissertation is composed of four chapters. Chapter 2, "Lease Financing, Credit Risk, and Optimal Capital Structure," employs Leland and Toft's (1996) structural model to include lease financing, which is ignored in previous literature, into a firm's capital structure. In this chapter, results show that a low corporate tax rate will first decrease and then increase the bankruptcy probability of a firm by increasing lease financing. In addition, results also show that debt and lease contracts are substitutes, and the substitution ratio increases as the debt maturity increases.Chapter 3, "Leverage, Option Liabilities, and Corporate Bond Pricing," uses another structural model, Collin-Dufresne and Goldstein (2001), as a vehicle to discuss how option liabilities can help resolve the short-term credit spread problem, which is a common drawback in structural models. In this essay, the regime-switching interest rate process is also implemented to improve the performance of this model. The results reveal that the credit spread overestimation problem in the CDG (2001) model can be resolved by combining option liabilities and the regime-switching interest rate process when dealing with an investment grade bond, whereas with junk bonds, only the regime-switching interest rate process is needed.

@@ -1,0 +1,11 @@
+$TITLE:
+Structure of the Degrees of Enumeration Reducibility
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+mathematics, recursive function theory
+
+$ABSTRACT:
+The material presented in this paper lies in the realm of recursive function theory. Major emphasis is upon various reducibilities and the degrees associated with them. The paper is not entirely self contained and a background in basic recursive function is required for full comprehension.

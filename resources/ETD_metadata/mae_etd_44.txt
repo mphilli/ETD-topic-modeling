@@ -1,0 +1,11 @@
+$TITLE:
+On The Elastic Stability Of Flat-Plate Assemblages In Shear With Special Reference To Trapezoidal Corrugated Plates
+
+$DEPARTMENT:
+Mechanical and Aerospace Engineering
+
+$KEYWORDS:
+Mechanical engineering
+
+$ABSTRACT:
+In the first part, we develop the theory and corresponding computer program for the computation of shear buckling loads of an assemblage of rectangular flat plate elements of different widths (but the same length) and different orthotropic materials which are rigidly joined along their edges. A trapezoidal corrugated plate (TCP) is a special case of this type of structure. The method views the assemblage as such and uses mechanical energy principles. The computer program, called SHARPE (Shear of Assemblages of Rectangular Plate Elements), is used to investigate the influence of transverse extensibility of plate elements on the buckling loads of trapezoidal corrugated plates, to determine the influence of end elements on the buckling loads of a certain type of trapezoidal corrugated plate, and to compare the results obtained by this procedure with that obtained by the computer program CASIOPEIA, recently developed by Wittrick & Horsington 20 .In the second part, a new version of the method of the Ostensibly Equivalent Flat Plate (OEFP), as applied to trapezoidal corrugated plates, is developed. The corresponding computer program is called MOEP (Method of Ostensibly Equivalent Plate). The essential idea of this method is to analyze a flat plate whose properties are derived from those of the TCP of interest, and take the shear buckling load of the OEFP as that of the TCP. While it is recognized that the method of the OEFP is questionable in and of itself, the present version is free from certain inherent inconsistencies which are present in those that have been previously published. The present version also has wider applicability. The results delivered by the present version and by others are compared.The results obtained by the methods of the two parts are compared, at least for a special type of TCP. The results found corroborate the previously known fact that the method of the OEFP underestimates the shear buckling load of TCP's, sometimes inordinately, sometimes to an acceptable and even desirable level.

@@ -1,0 +1,1 @@
+computer science education string-processing languages problem-solving by children this paper examines some empirical issues regarding development of problem-solving by children the study surveys several semesters of children's logo programming and isolates some concepts and skills which the children developed--introduction

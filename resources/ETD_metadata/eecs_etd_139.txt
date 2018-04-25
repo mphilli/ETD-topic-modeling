@@ -1,0 +1,11 @@
+$TITLE:
+Information architecture of interactive and customizable learning environments
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Interactive learning, SmartDesk, Information, Customizable learning
+
+$ABSTRACT:
+This dissertation explores the architecture of a learning environment for the perspective of interactivity and customizability. From this architecture, interactive learning tools, educational portals, distance education systems as well as adaptable learning environments with adjustable time and capability parameters may be designed.An adaptive control system includes a user, a controller and a learning system. The architecture is made up of an Application Server, a Client, and a Content Server, a three tier architecture. User events at the client and user activity at the server-side are captured and analyzed, providing updates to the users' learning environment. information is processed at the application server before being sent to the content server, at which time and the data maybe stored in a database.A prototype architecture, SmartDesk, was built. The interactivity of SmartDesk was explored by adopting web benchmarking methods and content based analysis.

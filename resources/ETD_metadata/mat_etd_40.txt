@@ -1,0 +1,11 @@
+$TITLE:
+Extending the Beltrami equation into higher dimensions
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Clifford analysis, Quasiconformal, Beltrami equation
+
+$ABSTRACT:
+The Beltrami equation of complex analysis enjoys a rich and fascinating theory. This theory has many implications for the study of quasiconformal mappings. The main goal of this paper is to create a foundation for a similar theory for quasiregular mappings of [Special characters omitted.] to itself for dimensions higher than 2.Straightforward attempts to accomplish this goal in the past have not borne much fruit. Thus, we have taken a different approach. The complex Beltrami theory owes much to the algebraic setting in which it resides. We have looked for extensions of this theory which will be able to take advantage of a well-chosen algebraic setting.Two approaches have resulted. The most natural approach is to set the theory in a Clifford analysis context. This approach yields a pleasing theory which reflects in many ways the complex setting. The second approach arises from considering quasiregular mappings as solutions of a partial differential equation and then lifting that equation to the exterior algebra level. This approach is desirable because of the natural relationship with quasiregular mappings and because it will hopefully be a stepping stone to the study of the conformal geometry of manifolds. Both approaches have yielded existence and uniqueness results for certain kinds of Beltrami-like equations.

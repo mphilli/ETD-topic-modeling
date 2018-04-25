@@ -1,0 +1,11 @@
+$TITLE:
+Multicellular Phenotypic Studies of Single Gene Variants in Myxococcus xanthus
+
+$DEPARTMENT:
+Biology
+
+$KEYWORDS:
+G2P, mutant, Myxococcus xanthus, phenotype
+
+$ABSTRACT:
+There are several systematic methods designed to link genes to cellular processes. These methods are derived from different hypotheses and are largely complementary to each other. This dissertation presents a systematic study of functional genetics and related phenotypes using quantitative methods. The first part of this dissertation will report the successful identification and characterization of 28 genes in the multicellular bacterium Myxococcus xanthus using three different methods: sequence homology, transcription activation and protemoics. The results from this research extended the list of M. xanthus genes involved in multicellularity, and expanded our knowledge regarding the possible molecular pathways underlying physiological and morphological changes.Although the cellular function of some of the genes in the genome of an organism can be deduced from effects of mutation on phenotype, the disruption or deletion of most genes produces little or no discernible phenotypic impact. The reason for this may be redundancy or complementation, or it may be due to the limitations inherent in available assays. The second part of this dissertation will focus on a population genetics approach to the characterization of phenotype for a collection of mutant strains containing insertion mutations in each of the ~200 ABC transporter component genes in M. xanthus. More than 50% of those mutant strains exhibit at least one phenotypic characteristic that is different from the wild type, and an average of 6% of mutant strains have a gain-of-function phenotype. We also demonstrated that the morphological features used to measure phenotype are not entirely independent variables. These results indicate that a rigorous and quantitative phenotypic characterization will provide significantly more data to understand the phenotypic space of M. xanthus, and that a more rigorous definition of phenotype may help us establish a more accurate connection between genotype and phenotype.

@@ -1,0 +1,11 @@
+$TITLE:
+The Synthesis of Some New Alkyland Arylaminoalkyl Aryl Sulfides
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Aromatic amines, Benzenethiols, Formadehyde
+
+$ABSTRACT:
+The purposes of this investigation are to determine whether aromatic amines, primary and secondary, will condense with benzenethiols and formaldehyde in the raio of one part thiol: one part formaldehyde: one part amine to form the simple N-arylaminomethyl aryl sulfides in the case of the primary amines, and N-alkyl-N-arylaminomethyl aryl sulfides in the case of the secondary amines, or whether N-arylaminomethylbenzenethiols are formed; to determind whether the reaction with primary aromatic amines can be controlled so as to form 1, 3, 5-triaryl-1,5-dithia-3-azapentanes [bis -(arylthiomethyl) anilines],Ar-S,CH2-N-Ch2-S-Ar'Arwhen the ratio of thiol: formaldehyde: amine is 2:2:1.

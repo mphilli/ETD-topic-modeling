@@ -1,0 +1,11 @@
+$TITLE:
+Welfare king or drug lord: Are these the viable choices for unemployed young men?
+
+$DEPARTMENT:
+Public Administration
+
+$KEYWORDS:
+Work, Crime, Welfare, Unemployed, Men
+
+$ABSTRACT:
+This thesis explores able-bodied young men's participation in work, welfare and crime and the interaction between these three activity states. This analysis is grounded in utility theory but incorporates several innovative econometric techniques. These include: the use of a trivariate probit; the extension of previous work on the recalculation of covariance matrices to incorporate the uncertainty in the sampling distribution of estimated variables included in the main analysis; expansion of existing theory on the interaction of two activity states to investigate the interaction of three activity states; and alternatives to correcting for selection bias that include the formulation of a bias function.Results indicate that welfare provision for young men may not act as a work disincentive and also has other benefits. Although the provision of welfare assistance in the past year will discourage work at the current time, the receipt of unemployment insurance in the prior year is complementary to current work participation. The analysis indicates that the most effective policy alternatives to encourage work are to increase the length of time that a young man can accept insurance benefits and/or to raise the amount of income recipients can retain before the reduction of insurance benefits. Welfare assistance benefits do, however, reduce participation in crime for young urban men in general and for Black inner-city youth. Young inner-city Black young men are seen to be more responsive to wages in the legitimate market than are other urban youth. Results also indicates that if participation in crime and welfare are not included in models of labor supply, the models can be seen as misspecified and the role of wages in labor supply is understated. The reliability and validity of the self-reported criminal data used in the analysis is examined.

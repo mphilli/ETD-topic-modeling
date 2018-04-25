@@ -1,0 +1,11 @@
+$TITLE:
+Measurement of CP Observables in B- -> D0 K- pi+ pi- Decays
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+B decays, CP Violation, Flavor Physics, LHC, LHCb, Particle Physics
+
+$ABSTRACT:
+The analysis of the 3 fb^-1 data set collected by the LHCb experiment in 2011 and 2012 located at the LHC, CERN, Geneva, Switzerland is presented.The data set is comprised of one third taken at center of mass energy sqrt(s) = 7 TeV and the remaining two thirds taken at sqrt(s) = 8 TeV.The data is analyzed for the decays B- → D0 K- π+ π- and B- → D0 π- π+ π-$,with the D0 → K+π-, K+K-, π-π+ or  K-π+.The CP violation sensitive observables R_(CP+), A_(CP+), and R_(d,s)^± are measured, whichare sensitive to the CKM Angle gamma.Upper limits are reported for the values of R_s^± since the doubly Cabibbo suppressed decay B- → D0 K- π+ π- with D0 → K+π- is not observed.

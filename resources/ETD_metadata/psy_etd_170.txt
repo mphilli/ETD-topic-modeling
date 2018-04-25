@@ -1,0 +1,11 @@
+$TITLE:
+Screening and Brief Intervention for Hazardous Alcohol Use: A Pilot Study in a College Counseling Center
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Alcohol use, Brief intervention, College students, Motivational interviewing
+
+$ABSTRACT:
+In the United States, college drinking has been identified as a public health concern. The pervasive and detrimental use of alcohol on college campuses inspired calls for wider implementation of empirically supported interventions in college settings. Despite strong evidence of the efficacy of brief interventions, no studies have examined the efficacy and feasibility of integrating a screening and brief intervention (SBI) into college mental health services. The aims of the following study were to (a) to determine the feasibility and acceptability of implementation and, (b) to examine the short-term impact of SBI on alcohol use, treatment utilization, client satisfaction, and clinical symptoms. Participants were 35 college students who screened positive for risky alcohol use at a college counseling center. Participants were randomly assigned to a brief intervention for alcohol use or to an information-only control group. Follow-up assessments took place 1 and 2 months post-intervention. Participants in the intervention condition significantly reduced drinks per week 1-month post intervention and perceived stress 2-months post-intervention when compared to controls. All participants showed reductions in peak BAC, heavy drinking episodes, and alcohol related problems at 1 and 2-month follow-up assessments. Process measures revealed that only half of providers referred eligible students despite high ratings of feasibility and acceptability of the program. Future research might examine this intervention with a larger sample as well as barriers to dissemination and recruitment among staff. This study is a promising first glance at the integration of SBI for alcohol use in a college counseling setting.

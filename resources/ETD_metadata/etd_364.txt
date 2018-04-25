@@ -1,0 +1,11 @@
+$TITLE:
+Deciphering the Neuroprotective Potential of Interleukin-1β (IL-1β) using in vitro Murine Models of Oxidative Stress
+
+$DEPARTMENT:
+Biology
+
+$KEYWORDS:
+Glutathione, Interleukin-1 β, Neuroprotection, Oxidative stress
+
+$ABSTRACT:
+Interleukin-1β (IL-1β), a key cytokine driving neuroinflammation in the Central Nervous System (CNS), is enhanced in many neurological diseases/disorders, including but not limited to ischemic stroke, Parkinson's disease, Amyotrophic Lateral Sclerosis, Huntington's disease and Alzheimer's disease. The dominant view is that IL-1β contributes to and/or sustains pathophysiological processes. However, other studies demonstrate that IL-1β can play an important role in neural protection and repair. It may do so by modifying astrocyte behavior. Indeed, studies from our laboratory demonstrate that IL-1β increases the synthesis and release of the antioxidant molecule glutathione (GSH) from astrocytes and that IL-1β-treated astrocytes show increased resistance to oxidative stress [He, Jackman et al. 2015], a pathological process that leads to neural damage in the above-mentioned maladies. Given this, the overall goal of this thesis was to study the protective potential of IL-1β against oxidant injury in astrocytes, neurons and astrocyte and neurons in co-culture.We confirmed that IL-1β mediates an increase in extracellular GSH levels in cortical wild-type astrocytic (as shown by our laboratory earlier [He, Jackman et al. 2015]) and mixed cultures but not neuronal culture. IL-1β-mediated GSH enhancement rendered protection to mixed culture against oxidative stress induced by the stressor tert-butyl hydroperoxide (t-BOOH). GSH production and the resultant protection were blocked by the inhibition of GSH transport through Mrp1. Additionally, IL-1β failed to increase GSH or to provide protection against t-BOOH toxicity in chimeric cultures made using il1r1 null mutant astrocytes (lacking a functional IL-1R1 receptor) indicating the necessity of astrocytic signaling for the observed phenomenon. Overall, these findings suggest that under certain conditions IL-1β may be an important stimulus for GSH production and consequent neuroprotection through astrocyte-specific signaling.

@@ -1,0 +1,11 @@
+$TITLE:
+Transient scattering from arbitrarily shaped composite conducting and dielectric structures
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Transient scattering, Composite, Conducting, Dielectric, Time-domain integral equations
+
+$ABSTRACT:
+A time domain surface integral equation based on the electric field formulation is utilized to calculate the transient scattering from three-dimensional arbitrarily shaped complex structures. The structure may be composed of conductors, dielectrics, or a composite structure consisting of both conducting and dielectric bodies. The formulation starts with Maxwell's equations to obtain a set of time domain integro-differential equations, using the equivalence principle and then applying the boundary conditions on the surface of the material body. The solution of the time domain electric field integral equation is based on the method of moments and using the marching-on-in-time (MOT) technique to calculate the scattering from an arbitrarily shaped structure which is discretized using the triangular patch basis functions. The Gaussian plane wave is used as an incident field to calculate impulse response. An implicit method involving the MOT technique has been described to solve the integral equation involved. As a result, the usual late time instabilities associated with the time domain integral equations are avoided by using the implicit scheme.The objective of this work is to obtain transient data from real large structures such as an aircraft or a ship. Four aircraft models have been used to verify the performance of this method. The numerical results obtained are compared with the frequency domain data, showing a good agreement.

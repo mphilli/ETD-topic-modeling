@@ -1,0 +1,11 @@
+$TITLE:
+I. Kinetic analysis of anticancer drug cleavage of closed-circular and intracellular DNA. II. Binding studies of the HIV-1 nucleocapsid protein to the SL3 stem-loop of the HIV-1 packaging signal
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Immune deficiency, DNA cleavage, Anticancer drug, HIV-1, Nucleocapsid, SL3, Stem-loop, Packaging signal
+
+$ABSTRACT:
+I. Anticancer drug efficacy is dependent on the kinetics of DNA cleavage by the drug exceeding the rate of repair by cellular repair enzymes. As such, study of kinetics of cleavage by a drug may actually be of greater importance than examination of its specificity. A kinetic analysis of cleavage of simian virus 40 (SV40) DNA inside and outside green monkey BSC-1 cells by the enediyne antiobiotic C-1027 and its free chromophore is described. The ratio of single-strand to double-strand cutting for the holoantiobiotic and its free chromophore is approximately 1.8 for extracellular SV40 DNA. For intracellular DNA, double-strand cutting is much more probable than single-strand. Also, the overall rate of cleavage of form I DNA inside the cell is much larger than the rate outside. Cleavage rate constants are also discussed for cutting of pBR322, SV40 and PM2 DNAs by the nonspecific cutter Fe-EDTA and the antitumor agent bleomycin.II. A binding study of the HIV-1 nucleocapsid protein (NCp7) for a stem-loop (SL3) in the HIV-1 packaging signal region using native polyacrylamide gel electrophoresis is reported. The binding constant, averaged for all pertinent experiments, is 490 $\pm$ 300 mM$\sp{-2}$, with the stoichiometry being 1 NCp7 to 2 SL3 molecules. Values for K calculated for assays run at ambient temperature are in close agreement with those obtained from assays performed at 4$\sp\circ$C. Since the SL3-NCp7 interaction has been proven to be integral to viral propagation, study of the complexation process may have ramifications in development of future anti-HIV drugs.

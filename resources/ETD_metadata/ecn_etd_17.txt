@@ -1,0 +1,11 @@
+$TITLE:
+Essays on education policies and discrimination in credit markets
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Education finance, Class size effect, Capitalization, Matching, Policies, Discrimination
+
+$ABSTRACT:
+My dissertation consists three independent but related chapters. The first two chapters focus on education policy issues; while the second and third apply the same methodology to address similar empirical challenges in the literature. The first chapter examines the causal relationship between school district consolidation and property values using New York state data. We find that school district consolidation leads to a 25 percent increase in property values in very small school districts and this effect declines with school district enrollment. My strong interest in education policy is also reflected in my second chapter, in which I investigate the impact of small class size on students' achievement using propensity score matching methods. Matching methods help address nonlinearity issue as well as support condition. The analysis based on National Education Longitudinal Study of 1988 finds that small classes are beneficial only in science but not in other subjects. Following my advisor's footsteps, also realizing that matching could be a valuable tool in conducting econometric analysis in other fields, in my third chapter, matching is again employed to improve estimation on discrimination in credit markets. Based on pooled Survey of Small Business Finances data from 3 years, the findings indicate that on average, black and Hispanic-owned firms pay an interest rate that is significantly higher than their white counterparts. I find no evidence of gender discrimination in credit markets.

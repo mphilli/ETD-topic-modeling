@@ -1,0 +1,11 @@
+$TITLE:
+AUDIT FEES AND BUSINESS RISK: EVIDENCE FROM COUNTRIES PERCEIVED AS MORE CORRUPT AND TAX HAVEN COUNTRIES
+
+$DEPARTMENT:
+Accounting
+
+$KEYWORDS:
+AUDIT FEES, CORRUPTION, FCPA, TAX HAVENS
+
+$ABSTRACT:
+This study examines the relationship between audit fees and the business risk of companies perceived as corrupt, after the enactment of the Foreign Corrupt Practices Act of 1977 (FCPA). I use three proxies to measure the business risk of corruption: presence of a company's' subsidiaries in countries perceived as more corrupt, according to the Transparency International Corruption Perception Index; presence of a peer firm that is charged with violating the provisions of the FCPA; and the presence of a company's subsidiaries in countries perceived as tax havens. Using an OLS audit-fee model, I find that auditors incorporate the above mentioned business risks in audit fees, and charge a premium in audit fees to companies operating in countries perceived as more corrupt, to peers of a firm charged with FCPA violations, and to companies operating in tax havens. This study contributes to the literature on audit fees by empirically studying the FCPA period data to identify the risk of being corrupt as a business risk that is a distinct determinant of audit fees, over and above other known determinants of audit fees. In addition, it also highlights the first order effects of tax havens on audit fees. Further, this study contributes to the literature on regulation by identifying the unintended spillover costs of FCPA enforcement on peer companies. Lastly, it contributes to the literature on corruption and tax havens by identifying additional costs associated with them.

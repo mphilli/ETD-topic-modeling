@@ -1,0 +1,11 @@
+$TITLE:
+Search for eta(b) in the CLEO-II Upsilon(3S) and Upsilon(2S) data
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Upsilon meson, Eta mesons, Supersymmetry, Branching ratios
+
+$ABSTRACT:
+We searched for η  b   via hindered M1 transitions Υ(3  S  ) [arrow right] γη  b   and Υ(2  S  ) [arrow right] γη  b   using CLEO-II data. No significant evidence for such transitions was found, and we set upper limits on the corresponding branching ratios that contradict many phenomenological estimates for the rates of these transitions.

@@ -1,0 +1,11 @@
+$TITLE:
+Monitoring early literacy skills: The efficiency and sensitivity of phonological awareness measures
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+assessment
+
+$ABSTRACT:
+This two-experiment study examined the efficiency and sensitivity of five phonological awareness tasks (i.e., Rhyme-Providing, Sound-Providing, Blending, Segmentation, Deletion) for monitoring the development of skills in kindergarten and first grade students. The first experiment examined the number and type of items included in a task to determine the most efficient manner in which to use the measures. Results suggested that an efficient measure of each skill included 10 items per task, and items with a combination of number of phonemes (i.e., 2, 3 4), continuant (i.e., /s/) versus stop (i.e., /t/) sounds, and number of phonemes in an initial consonant cluster (i.e., 1, 2). The second experiment examined the reliability of the five measures, and compared their sensitivity to growth. Sensitivity was examined by administering alternate forms of the tasks once per week to each participant (32 kindergarten, 35 first grade) over 12 weeks. Mean slopes computed for each task suggested positive growth across all tasks and grades. Mean kindergarten slopes were significantly higher than mean first grade slopes for each of the five tasks. The most sensitive task for both kindergarten and first grade students was Segmentation. Comparison of the mean task slopes for kindergarten students suggested that the Segmentation task was significantly more positive than the Deletion and Blending tasks. Slope comparisons of each task in first grade students suggested that the Segmentation task was significantly more positive than the Sound-Providing task. Overall. these experiments provided information and support for a measurement system capable of monitoring the development of phonological awareness skills in primary-grade children.

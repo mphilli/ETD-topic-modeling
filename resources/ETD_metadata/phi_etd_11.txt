@@ -1,0 +1,11 @@
+$TITLE:
+Stuff, process, and object: An examination of substance and its alternatives
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Stuff, Process, Object, Substance, Mereological essentialism
+
+$ABSTRACT:
+This dissertation is an examination of the conceptual categories  object, process  , and matter  (or ' stuff  '), and the metaphysical relations between entities in these categories. I begin by analyzing the ubiquitous and default 'Thing Theory'. According to Thing Theory the world is, at bottom, a world of, and only of, things.Two challengers to Thing Theory that I critique include stuff and process ontologies. Stuff ontologists hold that the category of matter or 'stuff' is either metaphysically privileged over, or at the very least, is irreducible to the category of things. Process ontologists have analogous beliefs with regards to processes and how they stand to things.I argue that the stuff-ontological positions are unsound. They either entail unpalatable co-location of distinct entities, or have not given satisfactory accounts of the relation between constituting matter and constituted object. However, (some) stuff ontologists are correct in their core claim---that there are objects whose only essence is having the parts that they do.I argue against certain excesses of the process ontologists. Processes are undergone by things, not constitutive of them. But, process ontologists are correct that there are some activities which are not reducible to things.In the constructive portion of the dissertation I combine what's right about stuff and process ontologies and leave behind their negative features. I argue that commonsense objects are processes, and stand to their underlying matter as a wave does to the water it passes through. Genuine objects can not change their parts, since their only essence is having the parts they do, but we retain the intuition that commonsense objects can change their parts by replacing it with the notion of process migration through successions of genuine objects. The main advantage of this process view is that it solves a number of metaphysical puzzles, chief among them the paradoxes of coincidence. In this way, inference to the best explanation supports it.

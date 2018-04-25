@@ -1,0 +1,11 @@
+$TITLE:
+A Study of the Stereochemistry of Displacement Reactions in 1,3-Diols Anddibromides and Of Additions to Dimethylcyclopropanes and 3,1,0-Bicyclohexane
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Compounds, Neighboring group interaction, Carbon atoms
+
+$ABSTRACT:
+Prior to the date of this study, there has been no report of any work concerning neighboring group interaction of compounds where the active groups are separated by three carbon atoms. It was the purpose of this investigation to compare a series of reactions with the reactive centers separated by three carbons with the better known series with centers separated by two carbons.

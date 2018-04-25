@@ -1,0 +1,11 @@
+$TITLE:
+Kinetic And Mechanistic Aspects Of Gaseous Hydrogen Embrittlement
+
+$DEPARTMENT:
+Mechanical and Aerospace Engineering
+
+$KEYWORDS:
+Materials science
+
+$ABSTRACT:
+Generally, there are two important questions which are to be addressed if the hydrogen embrittlement phenomenon is to be understood:1) Mechanism - what is the actual physical process responsible for the embrittlement?2) Kinetics - what transport process exhibits dominance in determining the rate of the embrittling process?A complete model of embrittlement must be able to deal with these questions as well as adequately explain existing experimental observations. This investigation addresses each of these questions.

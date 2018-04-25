@@ -1,0 +1,11 @@
+$TITLE:
+Selected Topics In High-Energy Particle Physics
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Particle physics
+
+$ABSTRACT:
+1. Physical energy sum rules for [pi]-[pi] scattering -- 2. Bound on the pion charge radius -- 3. Bounds on the absorptive part of elastic scattering amplitudes.--From table of contents.

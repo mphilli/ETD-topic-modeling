@@ -1,0 +1,11 @@
+$TITLE:
+Electromagnetic scattering from an arbitrarily shaped three dimensional inhomogeneous bianisotropic body
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Bianisotropic, Chiroferrite, Method of moments, Inhomogeneous, Electromagnetic scattering
+
+$ABSTRACT:
+This dissertation presents a numerical method to solve scattering problems that involve inhomogeneous bianisotropic scatterers of an arbitrary three-dimensional shape. The constitutive relations of the scatterer are assumed to be of the most general form and composed of four 3 by 3 matrices or tensors. Using this method, the quantities that describe the electromagnetic behavior in both near and far field regions can be obtained.The problem is described by a set of mixed potential formulations, where the total fields are separated into the incident fields and the scattered fields, and the scattered fields are related to the electric and magnetic potentials which are excited by electric and magnetic bound charges and polarization currents. The potentials are further related to the electric and magnetic polarizations and finally are formulated as functions of the total fields. Thus, the electric and magnetic field integral equations are constructed. The body of the scatterer is approximated by many tetrahedral cells and a set of face-based functions is used to expand unknown quantities. At last, the method of moments (MoM) is applied to obtain the numerical solution.Implemented in a MATLAB program, the formulation is evaluated and verified for various scattering problems. The results are compared with those of previous work, and a good agreement is met. The method is then applied to study the scattering fields from a more complicated dispersive chiroferrite scatterer. The numerical results of various geometries are presented.Great flexibility of the method is exhibited through these examples. The goal of implementing a general-purpose electromagnetic field solver that could handle all kinds of inhomogeneity, dispersion, anisotropy, chirality, and bianisotropy is achieved.

@@ -1,0 +1,11 @@
+$TITLE:
+Analysis and design of fast algorithms related to Toeplitz linear systems
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Toeplitz matrices, Algorithms
+
+$ABSTRACT:
+In this dissertation, we analyze the mathematical structure and numerical algorithms associated with Toeplitz matrices. Toeplitz matrices arise in a number of problems in engineering and applied mathematics. In many such problems, the task is to solve for certain parameters of interest (such as predictor polynomial, reflection coefficients, and solution to a linear system) in a computationally efficient manner. Also, the numerical stability aspects of the various algorithms must be examined from the standpoint of implementation using finite precision arithmetic. We have derived fast (order-recursive) and superfast (fast Fourier transform based) algorithms for solving a Toeplitz linear system. The algorithms reported here are some of the most computationally efficient algorithms. Also, the numerical stability of the split Levinson algorithm is examined and it is established that it is weakly stable. Furthermore, the various classical and split algorithms are studied for the effects of finite precision arithmetic. An interesting relationship between the Levinson algorithm and stability tests for discrete systems is exploited to derive a new computationally efficient algorithm for testing the wide sense stability of discrete time systems.

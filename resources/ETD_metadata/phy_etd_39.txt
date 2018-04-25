@@ -1,0 +1,11 @@
+$TITLE:
+First observation of the parity violating asymmetry in Moller scattering
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Parity violating asymmetry, Moller scattering, Calorimeter
+
+$ABSTRACT:
+This thesis reports on the E158 experiment at Stanford Linear Accelerator Center (SLAC), which has made the first observation of the parity non-conserving asymmetry in Moller scattering. Longitudinally polarized 48 GeV electrons are scattered off unpolarized (atomic) electrons in a liquid hydrogen target with an average Q  2  of 0.027 GeV 2  . The asymmetry in this process is proportional to (¼ - sin  2  [straight theta]  W   ), where sin 2  [straight theta]   W   gives the weak mixing angle.The thesis describes the experiment in detail, with a particular focus on the design and construction of the electromagnetic calorimeter. This calorimeter was the primary detector in the experiment used to measure the flux of the scattered Moller electrons and eP electrons. It employed the quartz fiber calorimetey technique, and was built at Syracuse University.The preliminary results from the first experimental data taken in spring 2002 give A PV = -151.9 ± 29.0( stat ) ± 32.5( syst ) parts per billion. This in turn gives sin 2 [straight theta] W = 0.2371 ± 0.0025 ± 0.0027, which is consistent with the Standard Model prediction (0.2386 ± 0.0006).

@@ -1,0 +1,11 @@
+$TITLE:
+Perceived transaction satisfaction with electronic service encounters: A critical incident analysis of product-related services and pure services on the Web
+
+$DEPARTMENT:
+Information Science and Technology
+
+$KEYWORDS:
+Transaction satisfaction, Electronic service, Product-related services, Services, World Wide Web
+
+$ABSTRACT:
+In the last few years, the Internet and World Wide Web (Web) have had a major effect on the way businesses and customers conduct business. The study aimed to enhance our understanding on how the transactions between customers and service providers take place on the Web. To accomplish this goal, the present study explored the antecedents of customer satisfaction with product-related services and pure services on the Web.Methodologically, the study implemented a self-administered Web survey instrument using the critical incident elicitation technique. The study identified three meta-categories, six categories, and 33 sub-categories as antecedents of satisfaction with online service encounters.The present research contributed at a theoretical level by (1) providing a deeper understanding of the transactions between customers and service providers on the Web; (2) providing an initial conceptual framework for future investigation of electronic service encounters; (3) pointing to novel forms of service encounters in the electronic environment.The present research contributed at a pragmatic level by (1) re-iterating the importance of the user-based approach; (2) presenting online service providers with a list of factors that customers deemed important in their purchasing experiences. This list can be used to improve their service to customers; (3) presenting online service providers with the means to improve customer-contact employees' skills in dealing with online customers.

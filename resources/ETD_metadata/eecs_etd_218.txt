@@ -1,0 +1,11 @@
+$TITLE:
+Doping of boron carbon alloys and their applications in semiconductor devices
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+materials science, condensation
+
+$ABSTRACT:
+This dissertation summarizes the effects of doping of boron carbide materials. Hydrogen, nickel and phosphorus were doped into boron carbide.Boron carbide fabricated by plasma enhanced chemical vapor deposition (PECVD) contains hydrogen and reduction of the hydrogen content appears to reduce the band gap. The hydrogenated boron carbide was found to have very high resistivity $({\sim}10\sp7$ to $10\sp{10}\ \Omega$-cm). With the high resistivity form of the material, boron carbide (B$\sb5$C)/boron/silicon multilayer heterojunction devices were fabricated.Nickel doped boron carbide films were grown on n-Si(111) substrates to construct diodes and tunnel diodes. The source gas closo-1,2-dicarbadodecaborane (orthocarborane-$\rm C\sb2B\sb{10}H\sb{12})$ was used to grow the boron carbide, while nickelocene (Ni(C$\rm\sb5H\sb5)\sb2)$ was used to introduce nickel into the growing film. The doping of nickel transformed a rhombohedral B$\sb5$C material p-type, relative to lightly doped n-type silicon, to a strongly n-type material. In addition, it is possible to construct a p - n homojunction boron carbide (B$\sb5$C) diode. This homojunction diode exhibits excellent I - V characteristics not only at room temperature but also at higher temperatures (573 K). Moreover, with sufficient partial pressures of nickelocene in the plasma reactor, diodes with characteristic tunnel diode behavior can be made. These results suggest that Ni doping populates states in the gap which are pinned to one band edge (conduction band).From the gas phase of a sing!e source compound dimeric chloro-phospha(III) carborane $\rm((C\sb2B\sb{10}H\sb{10})\sb2(PCl)\sb2),$ phosphorus doped boron carbide films were made. Phosphorus doped B$\sb5$C materials increased the band gap from 0.9 eV to 2.6 eV.

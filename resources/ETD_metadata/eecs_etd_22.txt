@@ -1,0 +1,11 @@
+$TITLE:
+Reasoning about co-evolving discrete, continuous and hybrid states
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Convergence spaces, Specification logic, Discrete systems, Continuous systems
+
+$ABSTRACT:
+In contrast to what we know about controlling, verifying and reasoning about discrete state transition systems and, separately, continuous dynamical systems, we know relatively little about the behavior of even simple hybrid systems, systems consisting of interdependent discrete (e.g. digital) and continuous (e.g analog) components. Logic-based formal techniques are available for discrete systems that enable us to rigorously reason about their evolution over sequences of discrete time. Some of these logics, e.g. S4, have been reinterpreted to act on dynamical systems evolving on continuous time. However, the modeling of hybrid systems has lacked a unified framework that treats both discrete and continuous components of a state in fundamentally the same way. We present a logic for the evolution of hybrid systems in which the notion of time can be discrete, continuous, hybrid or even none of the above. The new logic includes, as special cases, the logics available for discrete and continuous systems.

@@ -1,0 +1,11 @@
+$TITLE:
+Reasoning in evaluation: A distinction between general and working logic
+
+$DEPARTMENT:
+Instructional Design, Development and Evaluation
+
+$KEYWORDS:
+duel logic
+
+$ABSTRACT:
+In this metatheoretical study, I examine what is advanced by evaluation theorists and philosophers in terms of reasoning. I propose that reasoning in evaluation is governed by two kinds of logic: general logic and working logic. Both types of logic explain how evaluators reason to establish and legitimate claims made in evaluation. General logic is the reasoning that overarches the many approaches used to design and implement evaluations. Working logic is the variation in detail in which the general logic is followed. Each evaluation approach advances a particular working logic that distinguishes it from other approaches.In examining a sample of evaluation approaches, I demonstrate that the reasoning advanced by theorists in these approaches can be fruitfully represented by this conceptualization of a dual logic. The distinction between general and working logic is a useful representation of logic in evaluation because it can account for differences among the many evaluation approaches advanced by theorists, and it raises new and provocative questions about what is proposed by theorists. Implications for evaluation theory and practice are discussed.

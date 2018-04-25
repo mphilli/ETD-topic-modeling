@@ -1,0 +1,11 @@
+$TITLE:
+Hydrodynamics and rheology of mixtures of biopolymers and molecular motors
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Active motor filaments, Cell motor activity, Hydrodynamics, Rheology, Biopolymers, Cytoskeleton dynamics
+
+$ABSTRACT:
+I use tools and concepts from non-equilibrium statistical physics and polymer physics to describe the large-scale collective behavior of solutions of polar biofilaments and crosslinkers, in both quiescent and flowing solvents. I model the system as a polar liquid crystal with both excluded volume, and active interactions due to the crosslinkers. The role of mobile and stationary crosslinkers, which can induce filament alignment promoting polar or nematic order, in analogy with liquid crystalline phases, is taken into account. I start from a Smoluchowski equation for rigid filaments in solutions where pairwise crosslink-mediated interactions among the filaments yield translational and rotational currents. The large-scale properties of the system are described in terms of continuum equations for filament and motor densities, polarization and alignment tensor obtained by coarse-graining the Smoluchowski equation. The possible homogeneous states of the systems are obtained as stable solutions of the dynamical equations and are characterized in terms of experimentally accessible parameters. The activity of mobile crosslinkers, which cause exchange of forces and torques among the filaments, renders the homogeneous states unstable via filament bundling. Furthermore, I incorporate the coupling of the orientational order to flow into the hydrodynamic equations, and take into account the exchange of momentum between the filaments and the flowing solvent. Flow enhances the orientational order and suppresses orientational instability in the ordered states.This model allows for an estimate of the various parameters in the hydrodynamic equations in terms of physical properties of the crosslinkers. Introducing a unified microscopic model to describe the non-equilibrium system of polar biofilaments and motor proteins with experimentally accessible parameters is the central result of this work.

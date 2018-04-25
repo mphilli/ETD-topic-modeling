@@ -1,0 +1,11 @@
+$TITLE:
+Programming Generality into a Performance Feedback Writing Intervention
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+academic intervention, generality, generalization, maintenance, performance feedback, writing
+
+$ABSTRACT:
+Substantial numbers of students in the United States are performing below grade-level expectations in core academic areas, including mathematics, reading, and writing (Aud et al., 2012; National Center for Education Statistics, 2012). National estimates suggest that these deficits are greatest in the area of writing (National Center for Education Statistics, 2012; Persky, Daane, & Jin, 2003), presenting a clear need for research efforts that focus on the development of effective writing interventions. Although performance feedback procedures have been shown to produce promising short-term improvements in elementary-aged students' writing fluency skills (Eckert, Lovett, Rosenthal, Jiao, Ricci, & Truckenmiller, 2006), evidence of maintenance and generalization of these treatment effects is limited (Hier & Eckert, 2014). The purpose of this study was to examine the extent to which programming generality into performance feedback procedures enhanced generality of writing fluency gains. A sample of 118 third-grade students were randomly assigned to one of three conditions: (a) a performance feedback intervention, (b) a performance feedback intervention that incorporated generality programming procedures, or (c) weekly writing practice without performance feedback or generality programming. Intervention effectiveness was assessed in terms of immediate treatment effects, generalization, and maintenance. Results indicated that although the addition of multiple exemplar training to performance feedback procedures did not improve students' writing fluency on measures of stimulus and response generalization, it did result in greater maintenance of intervention effects in comparison to students who received performance feedback without generality programming and students who engaged in weekly writing practice alone.

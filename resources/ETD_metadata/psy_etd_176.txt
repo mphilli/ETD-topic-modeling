@@ -1,0 +1,11 @@
+$TITLE:
+Efficacy of an Expectancy Challenge to Reduce Non-Prescribed Use of Stimulant Medications among College Students
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+college students, expectancies, stimulant medication
+
+$ABSTRACT:
+Non-prescribed use of stimulant medications among college students, such as Ritalin®, and Adderall®, has become a public health concern. Expectancies, which are beliefs that individuals hold regarding the consequences of engaging in a particular behavior, are known to play a prominent role in the initiation and maintenance of alcohol and drug use. This study had two aims: (1) to determine if an expectancy challenge could reduce participants' academic performance expectancies related to non-prescribed use of stimulant mediations, and (2) to determine if change in expectancies mediates consumption of the drug. Seventy-eight undergraduate students were randomized to either the expectancy challenge (EC) condition, the psychoeducation (PE) condition, or the assessment only (AO) condition. Results from two separate hierarchical linear models (HLM) indicated that there were no significant group differences between the EC and PE conditions with regards to change in expectancies (yslope = 0.19, t(43) = 1.97, p = 0.055) or consumption (yslope = 0.06, t(43) = 1.75, p = 0.09). When the two treatment conditions were combined, results from the HLM analyses found a significant effect of treatment over control for both expectancies (yslope = -0.25, t(76) = -3.64, p < 0.001) and consumption (yslope = -0.07, t(76) = -2.07, p = 0.04). The mediation analysis indicated a non-significant relationship between the mediating variable (i.e., change in academic expectancies) and the outcome variable (change in consumption; yslope = 0.0004, t(76) = 0.098, p = 0.992), indicating that mediation was not present. Due to an inferior placebo manipulation, the EC did not produce the anticipated results. However, results from the study suggest that the didactic component of the EC and PE conditions was effective in modifying expectancies and reducing consumption.

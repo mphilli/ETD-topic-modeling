@@ -1,0 +1,11 @@
+$TITLE:
+Self-assembly of claudin family of membrane proteins
+
+$DEPARTMENT:
+Biomedical and Chemical Engineering
+
+$KEYWORDS:
+Claudin, Membrane proteins, Molecular dynamics, Self-assembly, Tight junction
+
+$ABSTRACT:
+Tight junction (TJ) forms tissue-specific pathways that selectively control the paracellular permeability. It has been receiving gradual attention due to its wide distribution throughout human body as well as its close relationship with human wellness. As the essential component of TJ, claudin family of transmembrane proteins plays a critical role in both architecture and flux control of TJ. The dysfunction of claudin leads to partial or complete loss of tight junction function, which eventually causes abnormalities and diseases throughout the body including skin, liver, kidney, lungs, and brain. Understanding self-assembly of claudin family proteins provides clues to better interpret TJ-related diseases and to find cure for them.In this thesis, monomeric architectures of claudin-3, -4, and -19 were developed using in silico homology modeling. The physical movements of these membrane proteins were simulated for long timescales, and their interactions were studied. Four unique dimeric structures, dimer A, B, C, and D, were quantified in the dimer distribution study. Results show that dimer A is the most predominated over other three configurations. Orientation analysis has further identified a subtype of dimer A, named dimer A*, with its configuration visualized and integrated in this thesis. The mutual mutation of claudin-3 with claudin-5 has identified that the ILE142 in claudin-5 is the key residue to maintain dimer B configuration. Supporting theory is that in claudin-5, hydrophobic tail of ILE142 (141 in claudin-3) firmly interacts with hydrophobic core of intramolecular ARG145 (144 in claudin-3), which restricts the free movement of ILE142 tail and thus form less dimer C. Additional dimer type, named dimer X, was also identified. Moreover, thermodynamic stability of dimer A were investigated by calculating PMFs and compared among seven members of claudin family. Binding energy of dimer A shows that claudin-5 > claudin-1/3 > claudin-4 > claudin-2 > claudin-15/19. The results generally indicate that barrier-forming claudins have firmer dimer A than pore-forming claudins.

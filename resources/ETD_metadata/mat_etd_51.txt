@@ -1,0 +1,11 @@
+$TITLE:
+Functions Of Generalized Bounded Variation And Fourier Series
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Mathematics
+
+$ABSTRACT:
+This dissertation is devoted to the study of some properties and applications of functions of generalized bounded variation.Estimates are obtained for the Fourier coefficients of a function f whose Fourier series has small gaps and whose restriction to a subinterval I of 0,2(pi) , f(VBAR)(,I), belongs to one of the following classes: (PHI) bounded variation, (WEDGE) bounded variation, or V h of Canturija. A condition is obtained for the absolute convergence of the Fourier series of f when f(VBAR)(,I) is in V n('(alpha)) , 0 (LESSTHEQ) (alpha) < 1/2.Hypotheses for the existence of the Stieltjes integral of functions in Canturija classes are given and the integral is estimated.It is proved that each space V h is the intersection of all (WEDGE)B(V) classes satisfying certain conditions, but is not the intersection of any countable subcollection of these classes.Finally, a definition is given for a Banach space of regulated functions in a manner analogous to that for functions of ordered harmonic bounded variation, but using only intervals of equal length and requiring that the functions satisfy a generalized continuity condition. It is shown that functions in this space have everywhere convergent Fourier series.

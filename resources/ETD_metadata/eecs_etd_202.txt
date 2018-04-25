@@ -1,0 +1,11 @@
+$TITLE:
+Spherically invariant random processes for radar clutter modeling, simulation and distribution identification
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Radar clutter, Weak signals, Gaussian random process
+
+$ABSTRACT:
+This investigation is motivated by the problem of detection of weak signals in a strong radar clutter background. The fundamental issues that need to be addressed in the weak signal detection problem are radar clutter modeling, simulation and distribution approximation. These issues are easily addressed when the clutter is a correlated Gaussian random process. However, these issues have not received much attention when the clutter is a correlated non-Gaussian random process.This thesis addresses the problem of modeling, simulation and distribution approximation of correlated non-Gaussian radar clutter. The theory of spherically invariant random processes is used for statistical characterization of non-Gaussian radar clutter. Several examples of multivariate probability density functions arising from spherically invariant random processes are presented. A new result which uniquely characterizes the multivariate probability density functions arising from spherically invariant random processes is obtained. Two new canonical computer simulation procedures are developed in order to simulate radar clutter that can be described by spherically invariant random processes. Finally, a new algorithm is used to address the problem of distribution identification of the clutter using relatively small sample sizes. This technique makes use of the result which uniquely characterizes the multivariate probability density functions arising from spherically invariant random processes and reduces the multivariate distribution approximation problem to an equivalent univariate distribution approximation problem resulting in a major simplification of processing.

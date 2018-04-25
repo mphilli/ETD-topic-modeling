@@ -1,0 +1,11 @@
+$TITLE:
+Option Market Activity around Corporate Events
+
+$DEPARTMENT:
+Finance
+
+$KEYWORDS:
+Acquisitions, Mergers, Open interest, Option volume, O/S, Seasoned equity offerings
+
+$ABSTRACT:
+This dissertation is composed of two papers. In the first paper, I examine the behavior of target firms' option-to-stock volume ratio (O/S) in the time surrounding an acquisition announcement. I find that a high option-to-stock volume ratio (O/S) is a significant indicator that a firm will become a takeover target. The magnitude with which O/S predicts takeover targets is smaller after the enactment of Regulation Fair Disclosure, which sought to reduce selective disclosure of nonpublic information prior to a material corporate event. A target firm's O/S begins to increase as early as the 51 to 100 trading days prior to the announcement, continues to increase as the announcement approaches, and then declines following the announcement. This evidence is consistent with informed traders trading more in the option market than the equity market.In the second paper of this dissertation, I examine option open interest around seasoned equity offerings (SEOs). I find that deviations in option open interest are predictive of future SEO filings. Open interest deviations are positively related to the likelihood of a future SEO as early as 51 to 100 trading days prior to the SEO filing date, and this relationship becomes stronger as the date of the SEO filing approaches. Furthermore, open interest deviations are significantly related to the negative announcement period abnormal returns associated with SEOs. This evidence implies that option markets contain information about future stock price movements prior to major corporate events.

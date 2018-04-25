@@ -1,0 +1,11 @@
+$TITLE:
+Upper limit for electron-positron decaying to neutral Lambda(baryon)-antineutral Lamba(baryon) cross section and R in the center-of-mass energy range from 11.230 to 11.382 GeV
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Electron-positron, Hadron, Cross section, Lambdab
+
+$ABSTRACT:
+We have searched for [Special characters omitted.] resonance production using data taking by CLEO III detector and set an upper limit for such a cross section to be on the order of 0.05-0.10 units of R  in 95% confidence level in the scanning range at Center Mass of Energies from 11.230 to 11.382 GeV. The measurement of  R  = σ( e  +  e   -  [arrow right] hadrons)/σ( e  +   e  -  [arrow right] μ +  μ -  ) has been made in this scan range as well. The measured  R  value near Λ  b   threshold is  R  = 4.01 ± 0.15

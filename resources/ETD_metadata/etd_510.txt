@@ -1,0 +1,11 @@
+$TITLE:
+First amplitude analysis of B+→J/...
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+experimental, High energy
+
+$ABSTRACT:
+The first amplitude analysis B+→J/ψφK+, J/ψ→μ+μ-, φ→K+K- events is performed in Isobar approximation using all six degrees of freedom of their decay kinematics and 3 fb-1 of pp collision data collected at √s=7-8 TeV with the LHCb detector. A number of K*+→φK+ states are observed, including K*(1680), which is observed in this decay mode for the first time (8σ significant). A number of J/ψφ mass structures are also observed which cannot be described with $K*+ contributions alone. A broad and significant (7.6σ) enhancement just above the kinematic threshold is best described as a D+sD*-s cusp, but a resonant interpretation is also possible with the mass consistent with the X(4140) state, but with a much larger width than previously claimed. The JPC is determined to be 1++ at 5.7σ. Previously inconclusive evidence for the second peak is confirmed with a mass consistent with the 0-+ D+sD*-s0 cusp, however, much better described in our model as a X(4274) 1++ resonance (6.0σ significant). The high J/ψφ mass region shows evidence for more structures of high significance, possibly two 0++ resonances. More data and going beyond the Isobar model may be required to clarify the nature of all J/ψφ mass structures observed in this decay mode.

@@ -1,0 +1,11 @@
+$TITLE:
+Attenuation correction in SPECT using emission data
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+tissue density, imaging, filtered back projection, algebraic reconstruction
+
+$ABSTRACT:
+Emission Computed Tomography (ECT) is an important and widely used functional imaging procedure in medical physics. Through the use of photon emissions from a radioactively tagged pharmaceutical, ECT produces an image depicting the relative pharmaceutical concentration as a function of position within the patient. The resulting images contain artifacts due to the use of a mathematical model which erroneously assumes human tissue densities are negligible. To reduce these artifacts the reconstruction process must take tissue density into account. Much of the research in this field has concentrated on obtaining a map of the tissue density using auxiliary transmission sources, and incorporating this map as a priori information. The alternative explored in this project is to exploit the attenuation information in the emission data to estimate a density map. In this project, a mathematical model which allows for non-uniform tissue density is applied to Single Photon ECT data (SPECT). Dual-window scatter subtraction is performed, and constraints are applied based on Bayesian statistics. A maximum-likelihood solution to the resulting inverse problem is approximated numerically using an Algebraic Reconstruction Technique (ART). The results were compared to those of clinical Filtered Back Projection (FBP). Attenuation artifacts were significantly reduced in both the numerical and physical phantoms. Resolution and overall RMS error were also improved. The resulting attenuation correction was superior to the uniform attenuation correction provided by the clinical software.

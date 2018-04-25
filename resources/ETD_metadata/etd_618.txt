@@ -1,0 +1,11 @@
+$TITLE:
+The Effects of Genetic and Environmental Variation on Growth and Flowering
+
+$DEPARTMENT:
+Biology
+
+$KEYWORDS:
+Evolution, Heritability, Life history, Mimulus, Phenotypic plasticity, Quantitative genetics
+
+$ABSTRACT:
+The ability to respond to seasonal cues, including changes in daylength and temperature, can be vital for sessile organisms. One of the mechanisms plants use to deal with seasonal variation is adjusting their allocation to vegetative growth and reproduction, and the timing of the transition to flowering. To respond to selection and adapt to changing environments, populations must harbor genetic variation for these traits. This research addresses the following questions: (1) How much quantitative genetic variation for flowering time exists within a population? (2) Does photoperiod affect the timing of and allocation to growth and flowering? (3) Is their genetic variation and genetic correlations among and within photoperiod treatments for growth and flowering? To address these questions, we used a single population of the North American wildflower, Mimulus guttatus. We grew open-pollinated, field collected seed in a greenhouse to assess the standing genetic variation for growth and flowering traits. We then created full-sib families through assortative mating by flowering time. We grew seed in growth chambers in three photoperiod treatments (13, 14, and 15 hour days, corresponding to early spring through summer). We found substantial variation in flowering time across environments and maternal families. Additionally, we found that plants allocated their resources towards flowering and clonal growth differently according to daylength. Together, these results suggest that a single population can harbor substantial genetic variation, and that this variation may be the target of selection as climates shift and the onset of spring advances.

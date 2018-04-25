@@ -1,0 +1,11 @@
+$TITLE:
+Exploiting Data Locality in Dynamic Web Applications
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Consistency Relaxation, Data Locality, Distributed Applications, Latency Reduction, Scalable Architectures, Web Applications
+
+$ABSTRACT:
+The Internet has grown from a static document retrieval system to a dynamic medium where users are both consumers and producers of information. Users may experience above-average website latencies due to the physical distances information must travel. Because user satisfaction is related to a website's responsiveness, e-commerce may be hindered and prevent online businesses from reaching their full potential.This dissertation analyzes how temporal and relational dependencies in web applications limit their ability to become distributed. Two contributions are made, the first showing the location of data inside a datacenter influences the web system's performance, and secondly, that relaxing strict consistency inside the web application at a fine- grained level can greatly lower latencies for geographically diverse users. Experiments are used to show when and how much these optimizations can benefit a dynamic web application.

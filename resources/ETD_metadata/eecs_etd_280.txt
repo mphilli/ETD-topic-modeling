@@ -1,0 +1,11 @@
+$TITLE:
+A study of cavities and waveguides containing anisotropic media
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+waveguides, anisotropic media
+
+$ABSTRACT:
+This study is primarily concerned with the theoretical investigation of microwave cavities containing anisotropic media ... An anisotropic medium in general is one characterized by a tensor permitivity and a tensor permeability, which may be asymetric... A major portion of this work is devoted to the calculation of the resonances of a rectangular cavity filled with anisotropic plasmas.

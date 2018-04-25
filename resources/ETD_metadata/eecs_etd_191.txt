@@ -1,0 +1,11 @@
+$TITLE:
+Techniques for improving performance in continuous media servers
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Performance, Servers, Multimedia, Continuous media
+
+$ABSTRACT:
+A multimedia server is a key component of a distributed multimedia information system. Continuous media refer to the media whose record and playback must be carried out continuously. This dissertation focuses on the design and implementation of a server that provides playback service of continuous media objects. Major design and implementation issues arise in the input-output area. Parallelism of data retrieval is achieved by striping the objects across multiple storage devices and accessing them in parallel. Batch retrieval allows many users to have access to different parts of the same copy of the object simultaneously. A number of techniques such as adaptive refilling, deadline shifting, multi-pool interval caching and user request assignment schemes were designed and implemented within the framework of the server model. Adaptive refilling helps prevent situations where a session buffer either overflows or underflows. Deadline shifting improves the total amount of data successfully delivered to users. Multi-pool interval caching makes use of data sharing between user requests to minimize the number of physical accesses to storage devices and/or interaction between the server nodes. A number of user request assignment algorithms were introduced. Extensive experiments were conducted. Server performance was improved by a significant margin when a proper combination of parameters and their values were employed.

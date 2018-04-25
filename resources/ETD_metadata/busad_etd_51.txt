@@ -1,0 +1,11 @@
+$TITLE:
+Lead/lag effects in stock and option markets: A vector error correction model approach
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+Stock markets, Firm, Prices, Lead-lag effects, Option markets
+
+$ABSTRACT:
+Intraday, firm level, lead/lag effects in stock and option markets are examined using vector error correction models, which include lagged levels and differenced data. For the five firms examined, results indicate that stock market leading behavior is generally predominant. In particular, the levels data suggest an overwhelming tendency for option market prices to move towards the level of stock market prices. Feedback effects can be detected in lagged differenced data. However in four of the five films, stock market prices appear to reflect information from the option market more quickly than option market prices reflect news from the stock market. In the fifth firm, IBM, stock market leading behavior is more difficult to ascertain, due to strong feedback effects. The relative degree of stock market leading behavior appears to vary inversely with cross-sectional differences in option market liquidity. However, the relationship between liquidity and leading behavior must be considered tentative, as the cross-sectional sample of firms is too small to confidently generalize. Overall the results support a trading cost hypothesis of lead/lag behavior in stock and option markets. Although, results indicate that investors may be more concerned with differences in trading costs between markets, than with time series (within market) variation in trading costs. Stock market leading behavior is stronger in trade data, but evident in quote data. Hence, leads appear robust to potential non-trading effects induced by higher percentage bid/ask effects in option market trading. In fact stock market leads appear robust to more general periods of inactive and non-informational trading.

@@ -1,0 +1,11 @@
+$TITLE:
+CONTROLLING PSEUDOMONAS AERUGINOSA PERSISTER CELLS WITH FUNCTIONALIZED NANOPARTICLES
+
+$DEPARTMENT:
+Biomedical and Chemical Engineering
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+Bacteria can form antibiotic tolerant dormant variants, known as persister cells, and complex multicellular structures of biofilms with microbial cells attached to surfaces. Such mechanisms lead to hundreds to thousands times higher tolerance to antimicrobials. With the rapid development of antibiotic resistance in bacterial pathogens and lack of new antibiotics, developing alternative therapies to combat antibiotic resistant pathogens have become an urgency in modern medicine.In this study, we aimed to develop a new inhibitory strategy for persister control using chitosan based N,N,N-trimethyl chitosan (TMC) – polysialic acid (PSA) nanoparticles. Using Pseudomonas aeruginosa PAO1 as a model species. TMC-PSA nanoparticles (NPs) were found to effectively reduce the persistence level of P. aeruginosa PAO1 both in planktonic populations and in biofilms.(Z)-4-bromo-5-(bromomethylene)-3-methylfuran- 2(5H)-one (BF8) is a synthetic brominated furanone with strong activities against bacterial quorum sensing. It can reduce persister formation during bacterial growth (including that in biofilm), and sensitize isolated persisters to antibiotics. To further develop BF8 based control methods, we encapsulated BF8 into TMC-PSA nanoparticles, evaluated BF8 release and tested inhibitory effects of BF8 encapsulated nanoparticles (BFNPs) on bacterial persistence. The inhibitory effects of both NPs and BFNPs on P. aeruginosa PAO1 persistence were found to increase with the concentration of NPs, and the inhibitory activities of NPs and BFNPs were found to increase as pH decreased. Collectively, TMC-PSA nanoparticles exhibited potent inhibition of P. aeruginosa PAO1 persistence and are potential drug carrier system for BF8.

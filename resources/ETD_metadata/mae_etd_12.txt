@@ -1,0 +1,11 @@
+$TITLE:
+A modeling and experimental investigation of coupled heat, air, moisture and pollutants transport in building envelope systems
+
+$DEPARTMENT:
+Mechanical and Aerospace Engineering
+
+$KEYWORDS:
+CHAMPS, Airflow, VOCs, Hygrothermal, Building envelope, IAQ
+
+$ABSTRACT:
+The transport of Volatile Organic Compounds (VOCs) emitted from building envelope materials such as oriented-strand board (OSB) and insulation materials are affected by the building structure itself and the environmental conditions (temperature, humidity, pressure and/or airflow across the building envelope systems). The objectives of this study are (1) to develop a model of coupled heat, air, moisture and pollutants (VOCs) transport and storage in building envelope systems, CHAMPS-BES, built upon an existing code, DELPHIN5, (2) to develop methods for the determination of VOC transport and storage properties (diffusion coefficients and partition coefficients) and develop a VOC-material database using these methods,(3) to improve the understanding of coupled heat, air, moisture and pollutants (VOCs) transport in building envelope systems through full-scale experiments on residential wood-frame wall assemblies; and (4) to evaluate CHAMPS-BES model with the full-scale experimental results.A method has been developed for characterizing the air leakages through wall assemblies. Full-scale experimental data are obtained for (1) airflow effect on temperature and humidity distribution within wall assemblies, (2) airflow effect on emissions of VOCs (including formaldehyde), (3) temperature effect on VOC emissions, and (4) sorption effect of building materials on VOCs in a building envelope system. It is shown that results from the CHAMPS-BES model agree well qualitatively with the measurements. Quantitatively, there are differences between the measured and modeled results, and possible reasons are identified. Material properties are critical to successful simulation. Further investigations are needed to confirm the models of VOC transport and storage properties. The developed CHAMPS-BES model can also be used to analyze the emissions from furniture and other indoor materials.

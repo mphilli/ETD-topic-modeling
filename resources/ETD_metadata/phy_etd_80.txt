@@ -1,0 +1,11 @@
+$TITLE:
+Carbon monoxide adsorption and oxidation on ultrathin copper covered epitaxial palladium(111) surfaces
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Carbon monoxide,  Palladium(111), Copper
+
+$ABSTRACT:
+CO adsorption and oxidation on ultra thin Cu covered epitaxial Pd(111) thin film surfaces have been investigated.Auger Electron Spectroscopy (AES) and low energy electron diffraction (LEED) were used to determine the growth mode of Cu overlayers on Pd(111). The results show that Cu grows on Pd(111) by a layer mode of growth, i.e. a second layer starts growing only after the first layer is completed and so on. A (1 x 1) LEED pattern was observed with increasing Cu thickness indicating an epitaxial overlayer growth. The Cu overlayer on Pd(111) has the bulk lattice parameter when it is 5 monolayers (ML) thick.The CO adsorption kinetics on Pd(111) and Cu covered Pd(111) were studied by a work function change method and thermal desorption spectroscopy (TDS). The CO adsorption mechanism on epitaxial thin Pd(111) films and on Cu/Pd(111) bilayers follows the Kisliuk first-order precursor model. It was also shown that thin Cu overlayers had a drastic effect on saturation CO coverage. Results indicate that the reactivity of a thin Cu overlayer on Pd(111) involves substrate-induced effects. Experiments showed that CO adsorption takes place in two steps: the high energy sites ($\beta\sb2$) are filled first during early exposure and then one or more low energy sites are filled to saturation. CO adsorption on Cu(111)/Pd(111) bilayers occurs in decreasing amounts as the Cu overlayer thickens.The difference in the saturation CO coverage measured by TDS and WF methods indicates the existence of weakly adsorbed CO molecules on these surfaces. The fraction of weakly adsorbed CO was a maximum for a 1/2 ML Cu/Pd(111).CO oxidation experiments showed that the CO$\sb2$ formation rate with respect to copperless Pd(111) was a maximum for an epitaxial 1/2 ML Cu on Pd(111) bilayer. The rate decreases with thicker Cu films up to 3 ML. When the Cu is 3 ML thick, there is another, smaller increase in the rate. The rate saturates at 5 ML Cu. These results were discussed in terms of weakly adsorbed CO on the reactivity of these catalytic surfaces and also changes in surface morphology and microstructure during growth of the Cu overlayer.

@@ -1,0 +1,11 @@
+$TITLE:
+Heavy Main-Group Metal Coordination Chemistry: A study of metal size, co-ligand, and secondary interactions
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Alkaline Earth, Bismuth, Coordination Chemistry, Lanthanides, Main-Group, Secondary Interactions
+
+$ABSTRACT:
+The first part of this work discusses a series of experiments involving trans-azobenzene, PhN=NPh, a redox active ligand, in conjunction with the alkaline earth metals calcium, strontium, barium and the rare earth metal europium. A series of complexes were prepared and characterized. The neutral co-ligands tetrahydrofuran and dimethoxyethane are introduced as both solvents and Lewis basic donors. Ligand size effects are examined with the introduction of the bulkier azobenzene derivatives MesN=NPh and MesN=NMes (Mes = 2,4,6-Me3C6H2). The fine structure details obtained by single crystal X-ray diffraction allowed for the systematic study of primary ligand coordination modes, the quantity and mode of co-ligand coordination, and, finally, the nature and extent of secondary interactions, with respect to trends in metal size. We are able to closely examine the factors present that impart additional stabilization to these highly reactive species.In the latter part of this thesis, with a focus on MOCVD applications, the perfluoro-t-butoxide (PFTB) ligand is used to prepare a set of novel bismuth alkoxides. These complexes were compared to other bismuth alkoxides and early lanthanide alkoxides in both their structural and thermal properties. Using an adaptation of a previously published pathway, a number of novel bismuth compounds have been synthesized; this synthetic route has since been shown to be fruitful herein and results have been obtained with a related ligand system by a colleague. The pathway may prove a more general route to produce bismuth containing targets.

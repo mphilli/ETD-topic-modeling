@@ -1,0 +1,11 @@
+$TITLE:
+Affinity of the HIV-1 nucleocapsid protein for structural motifs in the genomic RNA packaging domain
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+HIV-1, Nucleocapsid, RNA packaging, Aptamers
+
+$ABSTRACT:
+The HIV-1 nucleocapsid protein (NCp7) plays several vital roles in the lifecycle of HIV and thus presents a valuable new target for drug discovery. A fluorescence based binding assay for NCp7 was developed that allows the measurement of NCp7 affinity for specific regions of the HIV-1 genome and can be adapted to develop a competition assay for NCp7. Utilizing this assay, the affinity of NCp7 for four apical stem loops and two internal stem bulges within the HIV-1 packaging region have been determined. Also, a total of three NCp7 proteins were found to bind a 154mer encompassing the majority of the HIV-1 packaging region. Within the HIV-1 packaging region, one stem loop (SL3), is responsible for approximately 90% of packaging efficiency. In order to better understand the determinants of SL3 affinity for NCp7, we modified the sequence and size of SL3. From this study, it was determined that the guanine bases at positions 318 and 320 are primarily responsible for affinity to NCp7. Also, a stem of four base pairs is necessary to maintain strong affinity for NCp7. Finally, aptamers for NCp7 developed by other groups were tested for affinity to NCp7 utilizing our assay. These longer aptamers were found to bind multiple NCp7 proteins and to contain smaller stem loops with the tight binding GUG sequence in the apical loop as determined by the Mfold program. Binding assays performed with these smaller stem loops seem to indicate these are the regions of the aptamers responsible for NCp7 affinity.

@@ -1,0 +1,11 @@
+$TITLE:
+Computational analysis of real-time MPEG-2 video compression and its hardware implementation
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+motion estimation, Electrical engineering, Computer science
+
+$ABSTRACT:
+The establishment of video compression standards and the extensive application of compression technology necessitate the consideration of a practical solution for real-time MPEG encoding. Due to the high computational requirements of the MPEG encoding algorithm, hardware-based solutions are at the present time the only viable alternatives.A detailed complexity analysis of the MPEG-2 main profile and main level encoding algorithm is performed in this work. Based upon this analysis, the investigation of the internal structure of the state-of-the-art multimedia video processor (MVP) and the mapping of the encoding functions on the MVP, an architecture for real-time encoding/decoding of the single constraint MPEG-2 syntax is developed. A major feature of this architecture is its programmability, a feature which may be utilized for other computationally extensive algorithms.The encoding problem is a constrained optimization problem. The results of statistical studies performed towards this end and the development of a new motion estimation algorithm are employed in developing a more feasible architecture for the MPEG-2 main profile and main level real-time encoding.

@@ -1,0 +1,11 @@
+$TITLE:
+Sizing for Deep Submicron VLSI Circuits
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Circuit Optimization, Discrete Optimization, Gate Sizing, Lagrangian Relaxation, Power Minimization, Timing Minimization
+
+$ABSTRACT:
+  Sizing has shown its impact on design automation of VLSI circuits. At first, the cost of the circuit is reduced by changing the transistor/gate sizes (widths). Circuit designers are able to size each transistor/gate of the circuit in order to minimize the cost, such as area and power consumption, under timing constraints. In the deep submicron era, power dissipation has become one of the most important limiting factors for circuit designs. Hence, designers seek to adjust the circuit parameters of supply voltage, threshold voltage, gate length, and gate width in order to optimize the power-performance tradeoffs. The most common way to "size" the parameters is to properly choose an associated library cell version of each gate in the circuit from the precharacterized cell library, which has a limited number of cell versions available for each gate type. Therefore, the sizing problems should be solved in the discrete domain. Simultaneously adjusting the circuit parameters allows one to gain the fine control of the cost and performance of the circuit designs. However, the problem size grows enormously when more parameters such as gate length, threshold voltage and supply voltage, are available for adjustment.In this dissertation, an extreme fast discrete gate sizing heuristic is proposed for circuit performance optimization. In addition, a Lagrangian method based discrete sizing algorithm is developed to solving the gate sizing problem. Furthermore, the proposed discrete sizing algorithm can handle the more complicated power optimization problem with multiple leakage power reduction techniques applied simultaneously, including threshold voltage assignment, gate-length biasing, and gate sizing. Finally, another discrete gate sizing is proposed based on a surrogate Lagrangian method, which can achieve near optimal solutions while requiring significantly more computational time.

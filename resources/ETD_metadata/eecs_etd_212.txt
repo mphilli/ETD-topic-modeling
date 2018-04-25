@@ -1,0 +1,11 @@
+$TITLE:
+Decentralized Bayesian hypothesis testing with feedback
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Decentralized detection, Hypothesis testing
+
+$ABSTRACT:
+In this dissertation, the Bayesian formulation of the hypothesis testing problem for a decentralized detection system with feedback is considered. Local and global decision rules are derived using the Person-By-Person-Optimal solution methodology. In order to enhance system performance, memory is incorporated in the decentralized detection system with feedback. The performance of the decentralized detection system with feedback and memory is shown to be at least as good as the performance of the conventional decentralized detection systems. The issue of increased communication due to feedback links is addressed; and two protocols are proposed and investigated to reduce the average number of data transmissions. In both protocols, it is shown that, asymptotically, the average number of data transmissions goes to zero. Next, we propose a unified approach for the study of decentralized detection systems. We present the definition of the generalized communication structure for the representation of decentralized detection systems. In addition, we derive a general approach to the design of decision rules. The general approach to the design of decision rules and the communication structure representation are utilized to study various decentralized detection systems. Numerical examples are presented to demonstrate the various results obtained.

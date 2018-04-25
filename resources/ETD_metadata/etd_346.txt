@@ -1,0 +1,11 @@
+$TITLE:
+Fabrication of Conductive Polyaniline-Hydrogel Composites for Tissue Engineering
+
+$DEPARTMENT:
+Biomedical and Chemical Engineering
+
+$KEYWORDS:
+Conductive Polymer, Fabrication, Tissue Engineering
+
+$ABSTRACT:
+Electrically conductive hydrogels have recently generated much attention, as they have significant potential to serve as bioactive scaffolds with the ability to electrically stimulate cells and modulate their functions. These smart materials not only possess the unique properties of hydrogels such as tissue-like mechanical properties, high water content and good biocompatibility, but also possess the properties of electrically conductive materials. Currently, conductive hydrogels are synthesized by either embedding conductive particles to or polymerizing "intrinsically conductive polymers" within a hydrogel matrix. However, one challenge still faced by nearly all electrically conductive hydrogels is their low processability, which limit their applications in tissue engineering and other biomedical engineering fields. In this work, we used an interfacial in situ polymerization approach to successfully develop two kinds of electrically conductive hydrogel composites: poly (ethylene glycol) diacrylate-polyaniline (PEGda-PANI) hydrogel and gelatin methacrylate-polyaniline (GelMA-PANI) hydrogel. We demonstrated that as compared to pure PEGda and GelMA hydrogels, PEGda-PANI and GelMA-PANI hydrogels had similar swelling properties and compressive moduli, comparable cell adhesion and spreading, and dramatically improved electrical properties. In addition, we found that this synthesis approach could be combined with digital projection stereolithography to fabricate user-defined microstructured geometries of these two conductive hydrogel composites. This provides a novel method to improve the processability of electrically hydrogel materials, which can be extended to a wide variety of fabrication techniques and hydrogel types in the hope of developing next-generation functional biomaterials with predicable properties.

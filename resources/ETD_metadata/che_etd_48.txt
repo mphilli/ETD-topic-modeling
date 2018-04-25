@@ -1,0 +1,11 @@
+$TITLE:
+Technetium and rhenium radiopharmaceutical agents in nuclear medicine: Design and synthesis
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Technetium, Rhenium, Radiopharmaceutical, Nuclear medicine
+
+$ABSTRACT:
+This study focuses on the design, development, and synthesis of technetium and rhenium radiopharmaceutical agents for imaging and therapy in nuclear medicine. Due to the inherent chemical similarities between technetium and rhenium, the non-radioactive rhenium was used as a surrogate for the technetium metal, which exists only as radioactive isotopes.Studies of the interaction of the metal ions Tc(I, III, V) and Re(I, III, V) with aromatic and aliphatic amines, carboxyl groups, thiols, and thioethers constitutes a significant segment of this work. After a careful investigation of the coordination preferences of the metal cores towards the different donor ligand systems, a series of single amino acid chelates (SAAC) and their complexes were designed and synthesized.The conjugate (pendant) approach was implemented in the design of the radiopharmaceuticals. The three major components of this strategy, the biologically active molecule (BAM), the bifunctional chelator (BFCA), and the radiometal core, were explored. Chapters 2 and 3 focus on the single amino acid chelates, as the BFCA, for conjugation to a small peptide, acting as the BAM. Chapter 4 discusses the importance of thiols and thioethers in the development of technetium and rhenium metal complexes with charges ranging from +1 to -1. Chapter 5 demonstrates the utility of a series of cationic and ether-based agents as myocardial perfusion agents. Chapter 6 concentrates on the synthesis of brain imaging agents for the DAT, 5-HTT, and NET. Chapter 7 presents the improved and very convenient synthesis and thorough characterization of the [Re(H 2 O) 3 (CO) 3 ]Br starting material.

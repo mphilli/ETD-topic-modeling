@@ -1,0 +1,11 @@
+$TITLE:
+Reconstructing "digital literacy" in a Constructionist computer club: The role of motivation, interest, and inquiry in children's purposive technology use
+
+$DEPARTMENT:
+Mass Communications
+
+$KEYWORDS:
+Constructionism, Motivation, Digital literacy, Interest development, Computer club, Media literacy
+
+$ABSTRACT:
+The lives of young people in the United States are unquestionably media-saturated. Children increasingly have access to more and more media in multiple forms and spheres. We don't yet fully understand what activities child enthusiasts engage in, how they come to adopt these activities, and how various types of technology use influence them.This study investigates digital literacy development across time among participants within a voluntary, after-school computer club consisting of seventeen fourth, fifth and sixth-grade child technology enthusiasts. The computer club was designed using Constructionism as a framework for action (Harel & Papert, 1991), and the study employs the design-based research method (e.g., Barab & Squire, 2004; Wang & Hannafin, 2005). The project involves participants' interest-driven blogging, online inquiry, design with Powerpoint, and digital video creation with standard-issue technologies available in today's schools. The computer club represents an "idealistic" research environment to the extent that it engages young learners in technology activities that are uncommon for children of this age.Findings suggest that multiple domains of variables play a role in learning and digital skills outcomes: the technology use environments (physical, interpersonal and technological); behavioral activities of individuals; cognitive activity of individuals; and individual indicators/outcomes such as interest development, self-determination, and intrinsic motivation. Findings also indicate that narrative aspects of the activities promoted may lead to greater levels of metacognitive enactment by students as they engage with technology as a tool for interest-driven inquiry and learning.

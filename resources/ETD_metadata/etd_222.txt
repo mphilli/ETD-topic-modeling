@@ -1,0 +1,11 @@
+$TITLE:
+Visualizing Words and Knowledge: Arts of Memory from the Agora to the Computer
+
+$DEPARTMENT:
+Writing Program
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+This dissertation examines rhetoric's fourth canon--the art of memory--tracing its development through the classical, medieval, and early modern periods. It argues that for most of its history, the fourth canon was an art by which words and knowledge were remediated into visual, spatial forms, either in the mind or on the page. And it was this technique of visualization, I argue, that linked the canons of memory and invention throughout history.  In contemporary rhetorical theory, however, memory palaces and mnemonic imagery have been replaced with a conception of memory grounded in psychology and critique. I argue that this move away from memory as an artificial practice has obscured the classical art's visual precepts, consequently severing the ancient link between memory and invention. I suggest that contemporary rhetorical theorists should return to visualization to revitalize the fourth canon in the twenty-first century. Today, digital tools that visualize words and knowledge are ubiquitous. Framing data visualization as a twenty-first century analogue to the art of memory allows us to think about visualization as a tool for invention rather than as a reified representation of data. As creative remediations, memory palaces once allowed rhetoricians to interface with knowledge in an adaptable way and to imagine how knowledge might be assembled together in a new discourse. Thinking about data visualization as a memory palace thus enables us to think not only about representing data but about the new ways we might interface with it in order to generate insight. Data visualization becomes an art to facilitate invention, as the classical art of memory was designed to do.

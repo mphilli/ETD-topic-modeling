@@ -1,0 +1,11 @@
+$TITLE:
+HEALTHY IMMIGRANTS? EXPLORING COUNTRY OF ORIGIN, PRE-IMMIGRATION EXPERIENCES, AND ACCULTURATION IN RELATIONSHIP TO U.S. IMMIGRANTS’ HEALTH
+
+$DEPARTMENT:
+Sociology
+
+$KEYWORDS:
+Caribbean Immigrants, Cumulative Inequality Theory, Health Disparities, Healthy Migrant Effect, Mexican Immigrants, Segmented Assimilation Theory
+
+$ABSTRACT:
+Immigrants belonging to some racial/ethnic minority groups might not be benefitting from the healthy migrant effect. With data from the New Immigrant Survey (2003), which includes immigrants from Mexico, Haiti, Dominican Republic, Cuba, and Jamaica, I examine the odds of three health outcomes, chronic conditions, depressive symptoms, and fair or poor self-rated health using a series of logistic regression analyses. I draw on segmented assimilation and the cumulative inequality theories to understand and explicate the extent to which immigrants’ demographic characteristics, pre-immigration experiences, and acculturation in the U.S. might have an impact on immigrants’ health outcomes. Compared to Mexican immigrants, I find evidence to support that Cuban and Jamaican immigrants have significantly higher odds of reporting chronic conditions and Dominican Republic and Cuban immigrants report higher odds of depressive symptoms, while Haitian immigrants have lower odds of depressive symptoms. Female immigrants have higher odds of reporting all three health outcomes compared to their male counterparts. Relative to immigrants with good childhood health, those with unfavorable childhood health have higher odds of reporting worse health outcomes. In the logistic regression models, age of migration is not a major predictor of chronic conditions, however, immigrants who migrated at older age report higher odds of depressive symptoms and fair or poor self-rated health. Acculturation is not a significant predictor of chronic conditions and depressive symptoms. However, immigrants who are acculturated have lower odds of reporting fair or poor self-rated health than those who are not. By shedding light on the health status of understudied Caribbean immigrant groups in comparison with Mexican immigrants, this study serves as a starting point to guide policies that aim at decreasing health disparities among different immigrant groups.

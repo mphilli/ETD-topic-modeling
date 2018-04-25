@@ -1,0 +1,11 @@
+$TITLE:
+Three essays on the economics of agglomeration
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Agglomeration, City growth, Location, Exporting firms, Scale economies
+
+$ABSTRACT:
+The essays in this dissertation examine agglomerations from two standpoints. The first is in the context of cities and their growth pattern. The second is at the level of firms that make location decisions that result in spatial clustering while in an open economy.The first essay uses a time series approach to examine relative city growth patterns. It examines growth rates of city populations using Indian population data from 1901-1991. The goal is to examine evolution of the hierarchy of cities (or relative urban growth) given the effect of time-varying shocks. Unit root tests show that city populations may be nonstationary. Cointegration of city populations and total urban population suggests that the growth of cities is parallel in the long-run. In the short-run there are deviations from the long-term parallel growth of cities due to exogenous shocks that take a little more than a decade to dissipate.The second essay examines the differences in the location behavior of exporting firms versus non-exporting firms. This essay explores the reasons for which export firms cluster, that are different than those for which non exporters cluster. Using industry data, an index of exporter and non-exporter agglomeration is estimated and regressions are performed using proxies for export-specific localization economies and industry related localization economies as explanatory variables. It is found that export-specific localization economies are an important reason for spatial clustering of exporters.The third essay examines the correlations in localization economies and natural advantages offered by sites that result in exporters and non-exporters choosing the same location. An estimated index of coagglomeration is regressed on a set of industry characteristics. Localization economies like input sharing and labor pooling are the main reasons for which exporters and non-exporters will choose the same location.

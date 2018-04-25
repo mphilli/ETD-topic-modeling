@@ -1,0 +1,11 @@
+$TITLE:
+Structure of infinitely-ended, edge-transitive planar maps and their petrie walks
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Infinitely-ended, Edge-transitive, Planar maps, Petrie walks
+
+$ABSTRACT:
+A construction is described that yields a complete characterization of a class of infinitely-ended, locally finite, edge-transitive, 3-connected planar graphs. As a result, the members of a second such class are characterized and a complete presentation is given of the members of a third.A Petrie walk in a plane graph is a walk with the property that every two consecutive edges are incident with a common face but no three consecutive edges have this property. J.E. Graver and M.E.Watkins have classified [Special characters omitted.] , consisting of all locally finite, edge-transitive, 3-connected planar graphs, in terms of the kinds of Petrie walks that occur, the number of ends of the graph, and the edge-, vertex-, face- and Petrie walk-stabilizers in the automorphism group of the graph. All ordinary members of [Special characters omitted.] , i.e., graphs admitting all vertex-face reflections, have been characterized. The existence of extraordinary members of each of four distinct subclasses has already been established.In this work, members of two of the four subclasses of extraordinary graph are characterized, and a third subclass is completely presented. The construction used is an amalgamation construction of B. Mohar, which is a generalization of the interleaving construction used by Graver and Watkins to produce ordinary members of [Special characters omitted.] . Results about Petrie walks in these extraordinary graphs lead to a result about Petrie walks in members of [Special characters omitted.] crossing each other multiple times, and answer an open question of Graver and Watkins.

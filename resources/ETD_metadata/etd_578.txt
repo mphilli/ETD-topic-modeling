@@ -1,0 +1,11 @@
+$TITLE:
+Laboratory Investigations Into the Fate of Aromatic Pollutants in Natural Waters
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Condensed Phases, Kinetics, PAH, Photochemistry, Photolysis, Pollutants
+
+$ABSTRACT:
+Condensed phases in the atmosphere, such as cloud droplets and aerosols, often contain both water and organic matter (OM). Reactivity can differ significantly between aqueous and organic phases. We have measured photolysis kinetics of the polycyclic aromatic hydrocarbons (PAHs) anthracene and pyrene in several organic solvents and in water, in miscible and phase-separated aqueous-organic mixtures, in the presence of halide salts (NaCl, NaBr, and NaI), and in simulated seawater. Moreover, the roles of singlet oxygen and pH were investigated on the kinetics at atmospherically-relevant wavelengths. Photolysis rate constants generally increased with increasing solvent polarity. Our results suggest that OM could greatly affect the photochemical lifetimes of PAHs in atmospheric condensed phases such as aerosols, even if the OM does not itself absorb photons. Our results also indicate that the fate of PAHs in saline waters, such as oceans and atmospheric particulate matter, could be significantly different than those predicted by kinetics measured in deionized water.

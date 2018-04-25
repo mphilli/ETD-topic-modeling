@@ -1,0 +1,11 @@
+$TITLE:
+Quantization of Chern-Simons theories on manifolds with boundaries
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+topological fields
+
+$ABSTRACT:
+The subject matter of this thesis deals with Chern-Simons Topological Field Theories in 2 + 1 space-time dimensions on manifolds with boundaries.We develop elementary canonical methods for the quantization of Abelian and non-Abelian Chern-Simons actions, only using well known ideas in gauge theories and quantum gravity. In particular, our approach does not involve choice of gauge or delicate manipulations of functional integrals. When the spacial slice is a disc, it yields Witten's edge states carrying a representation of the Kac-Moody algebra. The canonical expression for the generators of diffeomorphisms acting on the boundary of the disc are also found, and it is established that they are the Chern-Simons version of the Sugawara construction.The formalism is then extended to the inclusion of sources. The quantum states of a source with a fixed spatial location are shown to be those of a conformal family. The internal states of a source are not thus associated with just a single ray of a Hilbert space. Vertex operators for both abelian and non-abelian sources are constructed. The regularized abelian Wilson line is proved to be a vertex operator. The spin-statistics theorem is established for Chern-Simons dynamics even though the sources are not described by relativistic quantum fields. The proof employs particularly simple and transparent geometrical methods.These results are finally applied to the Chern-Simons formulation of gravity in 2 + 1 dimensions, due to Witten. Here also, when the spatial slice is a disc, edge states are found, carrying a representation of the ISO(2,1) Kac-Moody algebra. The appropriate vertex operator is constructed also for this theory. It is shown that when acting on the vacuum it creates particles with a discrete mass spectrum. The lowest mass particle induces a cylindrical space time geometry, while higher mass particles give an n-fold covering of the cylinder.

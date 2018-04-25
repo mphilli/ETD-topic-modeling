@@ -1,0 +1,11 @@
+$TITLE:
+Between substance and mode: The ontology of ideas among the Early Moderns
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Substance, Mode, Ontology, Ideas
+
+$ABSTRACT:
+This work studies early modern thought concerning the ontology of ideas. I endeavor to establish, contrary to some current scholarship, that the Early Moderns remained firmly in the grip of a substance/mode ontology narrowed from the substance/property distinction inherited from Aristotle. I argue that this traditional dichotomy provides the most philosophically and historically fruitful approach to understanding early modern thought. In particular, I demonstrate how the increasing radicalization in the metaphysics of the moderns (especially in Malebranche and Berkeley) is best explained by remaining within the substance/mode ontology. Competing contemporary approaches, especially ones that attempt to employ concepts such as reification and object talk in place of the traditional ontology, do not sufficiently penetrate to the core issues facing the Moderns. Rather than seeking to abandon the categories of substance and mode, the Moderns sought, perhaps vainly, to find room for ideas within it. I proceed by providing background from Aristotle and the Medievals, go on to discuss the philosophical views of Descartes, Malebranche, Arnauld, Locke and Berkeley. The development of idea philosophy culminates in Berkeley, who creates a hybrid ontic category I call 'quasi-substance.' Ideas for Berkeley are ontically dependent on minds (like modes), but external to them in the sense that the relationship between ideas and minds are two-place (like substances). I demonstrate how this understanding explains the radical metaphysical positions he takes, especially his commitment to perceptual heterogeneity. I conclude that rather than abandoning the traditional ontic categories, the Moderns adhered to them desperately, and thus are best understood through them.

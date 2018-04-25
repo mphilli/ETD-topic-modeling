@@ -1,0 +1,11 @@
+$TITLE:
+The development ofANSI/NISO Z39.50: A case study in standards evolution
+
+$DEPARTMENT:
+Information Science and Technology
+
+$KEYWORDS:
+ANSI/NISO, Standards, Z39.50, Information retrieval
+
+$ABSTRACT:
+This study explored and described factors involved in the development of information technology standards through a case study of ANSI/NISO Z39.50: Information Retrieval (Z39.50) Application Service Definition and Protocol Specification. The study's goals were: (1) document Z39.50 development, and (2) develop a holistic understanding of that development. The critical importance of standards for information handling in the digital environment, the evidence of major difficulties in producing standards, and the lack of systematic, empirical research on standards development motivated the researcher to undertake this study.A multi-method research strategy included a qualitative research approach, case study, and model building. Data were collected from multiple sources: documentary evidence, guided interviews with participants in standards development, and participant observation of Z39.50 development. A systems-theoretic model provided a conceptual framework for the study, and the model served as an analytical tool in data analysis. Inductive analysis allowed the discovery of additional aspects and relationships in Z39.50 development.The researcher characterizes Z39.50 evolution as a continuous development in which multiple stages of standards work can be discerned. These stages reflect changes in stakeholders, goals, participants, and the environment of the standards work system. A revised systems-theoretic conceptual model incorporated constructs that emerged from the data (e.g., mediating mechanisms and relevant environment) to represent more adequately Z39.50 evolution. The concept of mediating mechanisms reflects the dynamic, social nature of standards development and can account for changes over time in system goals. The study demonstrates that complex standards development efforts can be investigated systematically. The research strategy, the conceptual model, and a set of working hypotheses can guide subsequent research.

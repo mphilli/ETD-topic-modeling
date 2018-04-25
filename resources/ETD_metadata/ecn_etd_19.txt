@@ -1,0 +1,11 @@
+$TITLE:
+Essays in international trade and development
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+International trade, Economic development, Welfare, Poverty, Productivity
+
+$ABSTRACT:
+This dissertation investigates the effects of trade liberalization on welfare, poverty and productivity. I especially focus on the effects of the Indian trade liberalization that took place in 1991 and investigate how this substantial trade reform affected poverty, welfare and productivity in India.The first chapter of my dissertation empirically investigates the distributional effects of the Indian trade liberalization using household level survey data in a general equilibrium framework. I use a theoretical framework that traces two important channels through which trade reforms affect household welfare: the consumption channel and the labor income channel.Building on the same research question, the second chapter of my dissertation empirically investigates the effect of trade liberalization on poverty reduction in India. This chapter is co-authored with Devashish Mitra and Rana Hasan. In this chapter, we investigate the role of domestic market regulations in the relationship between trade liberalization and poverty.In the third chapter, we look at the impact of trade liberalization on productivity in Indian manufacturing industries. This chapter is co-authored with Devashish Mitra. (Abstract shortened by UMI.)

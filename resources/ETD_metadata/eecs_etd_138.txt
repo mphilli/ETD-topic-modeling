@@ -1,0 +1,11 @@
+$TITLE:
+Design and evaluation of a framework for proactive application and network management
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Proactive, Network management, Management architectures, Distributed management, Application management
+
+$ABSTRACT:
+Management of large-scale Network-Centric Systems (NCS) and their applications is an extremely complex and challenging task due to factors such as centralized management architectures, lack of coordination and compatibility among heterogeneous network management systems, and the dynamic characteristics of networks and application requirements. The goal of this research is to develop an integrated framework that will achieve an end-to-end intelligent and proactive management system that can be used for managing large-scale network centric systems and their applications. This framework will provide the ability to write programs to manage any required function or property (performance, high assurance, fault, quality of service, etc.) of the network-centric systems and their applications during all phases of their operations. Our ultimate objective is to consider the management of network-centric systems and applications starting from the design phase and forward to completion. In this thesis we present a framework to identify management functionality and develop proactive and adaptive management services and an implementation of a Proactive Application Management System (PAMS) based on that framework. Our implementation approach utilizes delegated mobile agents to implement the management functions required by any network-centric system and/or application. We also present experimental results and an evaluation of the management services offered by the PAMS prototype. Our experimental results demonstrate that an agent-based approach can lead to significant gains in performance and low overhead fault management of a parallel/distributed environment.

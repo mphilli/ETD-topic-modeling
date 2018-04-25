@@ -1,0 +1,11 @@
+$TITLE:
+Practical Identity and Meaninglessness
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Meaningfulness, Meaning in Life
+
+$ABSTRACT:
+While research on meaningfulnesss in life is becoming increasingly popular in analytic philosophy, there is still a dearth of literature on the topic of meaninglessness.  This is surprising, given that a better understanding of the nature of meaninglessness may help to illuminate features of meaningfulness previously unobserved or misunderstood.  Additionally, the topic of meaninglessness is interesting in its own right - independent of what it can tell us about meaningfulness.  In my dissertation, I construct and defend my own conception of meaninglessness.I adopt Thaddeus Metz's (2013) analysis of meaninglessness presented in his new book, Meaning in Life: An Analytic Study.  For Metz, meaninglessness is not the absence of meaningfulness but a positively bad state to be in - one that can detract from the overall meaningfulness of a life.  I distinguish between the following: negative meaning (i.e., meaninglessness as a dis-value), positive meaning (i.e., meaningfulness), and lives that lack positive meaning.  I defend a conception of negative meaning.  In contrast, most conceptions of meaninglessness are conceptions of lives where positive meaning is absent.  Philosophers defending these conceptions have yet to acknowledge the existence of negative meaning.  I explain why conceptions of meaninglessness (as the absence of positive meaning) are inadequate and I provide support for the existence of negative meaning.

@@ -1,0 +1,11 @@
+$TITLE:
+A study of degenerate elliptic partial differential equations
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Degenerate, Elliptic, Partial differential, Partial differential equations
+
+$ABSTRACT:
+In this thesis, two types of second order elliptic partial differential equations will be studied. The first type is the following equation [Special characters omitted.] for a function u  of Sobolev class [Special characters omitted.] Here A, B  and C  are measurable functions on Ω with A  > 0, C  > 0 and  AC  - B  ² > 0 a.e  .Our main result will be that u is of class C 1 (Ω) provided that [Special characters omitted.] is locally integrable on Ω.The second equation we will study is the non-homogeneous p -harmonic equation [Special characters omitted.] for a function [Special characters omitted.] where [Special characters omitted.] with [Special characters omitted.] Our main result is the following:THEOREM. Let u be a non-homogeneous p -harmonic function on [Special characters omitted.] of class [Special characters omitted.] where 1 < p ≤ 2. If [Special characters omitted.] then [Special characters omitted.] and the following uniform estimate holds [Special characters omitted.]Among other applications, this theorem will be used to establish higher integrability of ∇ u .

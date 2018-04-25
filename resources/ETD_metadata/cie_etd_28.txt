@@ -1,0 +1,11 @@
+$TITLE:
+Predator-Prey Relationships In A Continuously Fed Biological Reactor
+
+$DEPARTMENT:
+Civil and Environmental Engineering
+
+$KEYWORDS:
+Sanitation, microorganisms in waste treatment, bacteria in wastewater treatment, activated sludge process
+
+$ABSTRACT:
+"The objective of this study was to obtain mathematical expressions to describe predator-prey relationships in a continuous flow culture. The resulting differential equations were tested in an experimental program using Tetrahymena pyriformis W as a predator and Aerobacter areogenes as a host organism. The results should be of interest to those concerned with biological waste treatment processes."--Preface.

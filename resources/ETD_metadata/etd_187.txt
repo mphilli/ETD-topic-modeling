@@ -1,0 +1,11 @@
+$TITLE:
+Implementation of The Essential Elements of Standards-Focused Middle-Level Schools and Programs and Their Relationship to Student Achievement
+
+$DEPARTMENT:
+Teaching and Leadership
+
+$KEYWORDS:
+Achievement, Education, Level, Middle, Student
+
+$ABSTRACT:
+In New York State, there are regulations that describe many of the practices that middle-level schools are supposed to implement. Yet, little is known about the effectiveness of these middle-level practices in schools in the state. Without definitive information about the impact of middle-level practices on student achievement, it's difficult for practitioners and leaders to know if the school improvement decisions they make are the right ones and whether they will have the desired impact on student achievement.This study compares the implementation of the middle-level guidelines for New York State, known as The Essential Elements of Standards-Focused Middle-Level Schools and Programs, with the student achievement in these schools. Survey data were collected from 185 middle-level schools about their level of implementation of these Essential Elements. After controlling for economic disadvantage, the data about implementation in these schools was compared to the student achievement as measured by the New York State testing program.Based on the data, it is apparent that implementation of the Essential Elements is incomplete. A correlation was identified, however, that suggests that the degree of implementation of the Essential Elements does have a statistically significant impact on student achievement. Consequently, middle-level schools should work to implement the Essential Elements with greater attention and fidelity.

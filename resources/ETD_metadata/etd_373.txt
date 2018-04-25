@@ -1,0 +1,11 @@
+$TITLE:
+Effects of an Expressive Writing Intervention Aimed at Improving Academic Performance by Reducing Test Anxiety
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+college students, exam performance, expressive writing, intervention, test anxiety
+
+$ABSTRACT:
+This study examined the effectiveness of a brief, class-wide, expressive writing intervention aimed at improving academic performance and decreasing test anxiety.  This study included 110 students from six undergraduate psychology classes.  In the first phase of the study, students completed a trait test anxiety measure and a demographic survey.  In the second phase of the study, students completed a pre-intervention state test anxiety measure, responded to a 10-minute writing prompt (expressive or neutral), and completed the same state test anxiety measure, and then were administered an in-class exam.  Approximately half the students were randomly assigned to the expressive writing group, and asked to write about their concerns and worries regarding the exam; and the other half assigned to the neutral writing group, and asked to write about how they used their time during the past 24 hours.  Contrary to some previous studies (Ramirez & Beilock, 2011; Park, Ramirez & Beilock), this study found no significant group differences between the expressive writing group and the neutral writing group in academic performance or change in test anxiety.  This expressive writing intervention was found to be ineffective in improving academic performance and at decreasing test anxiety.  Interestingly, the strongest predictor of exam performance was previous exam performance, and test anxiety was a very weak predictor of exam performance.  Possible reasons for disparate research findings are discussed.

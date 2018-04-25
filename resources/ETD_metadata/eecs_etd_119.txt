@@ -1,0 +1,11 @@
+$TITLE:
+The measurements of transmission spectrum and net gain for semiconductor cylinder fiber
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Transmission spectrum, Semiconductor cylinder fiber, Optical fiber
+
+$ABSTRACT:
+The growth of optical fiber communication has successfully responded to the increasing demands of high speed and high capacity communications. The needs for the optical devices have grown rapidly with the growth of the development for the optical fiber communication.We have developed a new type of fiber light amplifier, a Semiconductor Cylinder Fiber Amplifier (SCFA) for use in optical fiber communication. The SCFA consists of a single mode glass fiber with a thin, few nm thick, semiconductor film material at between the clear glass core and clear glass cladding.There are materials that can be used that operate in a useful wavelength range and are compatible with our fabrication process. We choose Cd 3 P 2 or GaSb semiconductor films because the quantum size effect allows us to adjust the operating wavelength range. We have fabricated two different types of semiconductor cylinder fibers. After deposition, we check the normalized transmission spectrum data of the preform for energy gap, then check the normalized transmission data for the semiconductor cylinder fiber.Finally, the normalized transmission spectrum data of the semiconductor cylinder fiber has shown valuable evidence that the fiber has a net gain amplification above the normalized absorption transmission.

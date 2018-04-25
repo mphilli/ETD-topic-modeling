@@ -1,0 +1,11 @@
+$TITLE:
+Essays in international trade theory and political economy
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Nash tarriff, Scale economies, International trade theory, Political economy
+
+$ABSTRACT:
+The focus of this dissertation spans the fields of international trade theory and political economy. Its objective is to identify the role of scale economies, country size, asset inequality and ideology on the determination of equilibrium trade policies. The strategy is to preserve the tractability of general equilibrium modeling but augment it by incorporating economies of scale in production. This adjustment is essential due to significant empirical evidence of scale economies. This exercise is fruitful in at least three dimensions: (i) it enhances our understanding of the prevalent trade barriers around the world; (ii) it makes it possible to disentangle the existing anti-trade bias into political and economic elements; (iii) it helps identify winners and losers from a non-cooperative Nash tariff equilibrium.The first essay explores new routes by which country size systematically determines the net benefit of retaliation across trading partners. Using models in which one industry exhibits scale economies, the research identifies circumstances under which the ability to win a tariff war shifts in favor of the smaller country.The second essay bridges an existing gap in the political economy literature by producing equilibrium tariffs, within an international political economy framework, that are compatible with the widespread trade barriers around the world. In addition, it derives several testable hypotheses regarding the role of asset inequality and ideology on the determination equilibrium trade policies.The third essay empirically tests the following hypotheses established in my second essay: In a pro-worker regime, an increase in asset inequality will lead to more liberal (restrictive) trade policies in the country that imports (exports) the capital intensive good. In a pro-capitalist regime, an increase in asset inequality will lead to more restrictive (liberal) trade policies in the country that imports (exports) the labor intensive good. This paper finds empirical support for these predictions using cross-country data on ideology, inequality and different measures of protection.

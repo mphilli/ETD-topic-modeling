@@ -1,0 +1,11 @@
+$TITLE:
+Biomass Turnover, Energy Balance, and Interpopulation Variation in the Stream Limpet, Ferrissia Rivularis (Say), With Special Reference to Respiration, Growth, and Fecundity
+
+$DEPARTMENT:
+Biology
+
+$KEYWORDS:
+New York State, Life-cycle, Reverse respiratory acclimation, Freshwater environments
+
+$ABSTRACT:
+This investigation extends from 1965 through 1968 and involves 42,926 individual measurements on 19,479 limpets from populations of F. rivularis in the Canandaigua Outlet at Alloway, New York (AL)* and in Black Creek at Cleveland, New York (BC)*, with some comparative results from a population in Chittenango Creek at Cazenovia, New York (CC)*. These localities are located in the Seneca-Clyde-Oneida drainage system which flows by way of the Oswego River into Lake Ontario. For populations at AL (eutrophic environment) and BC (mesotrophic environment) variations in life-cycle, accompanied by marked differences in fecundity and biomass turnover rates (growth and egg reproduction), are reported. A quantification of fecundity is reported for groups of limpets maintained in cages in the field. Estimates of biomass are based on total organic carbon (equivalent to calorific measures), and the problems involved in making such estimates are discussed. Also, individual and seasonal variation in carbon, in nitrogen content, and in oxygen consumption are reported. These are related to the little known phenomenon of reverse respiratory acclimation. The population differences have significance in relation to peculiarities of evolution in the freshwater environments.

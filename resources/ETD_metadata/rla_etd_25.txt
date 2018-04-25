@@ -1,0 +1,11 @@
+$TITLE:
+Identifying Predictors of End-of-Year Kindergarten Invented Spelling
+
+$DEPARTMENT:
+Reading and Language Arts
+
+$KEYWORDS:
+Invented spelling, Letter knowledge, Kingergarten, Early literacy, Prediction, Phoneme awareness
+
+$ABSTRACT:
+Recent evidence suggests that invented spelling is valuable in predicting reading development, revealing which prereading skills children possess and still need to learn, and promoting development of early literacy skills. The purpose of this study was to investigate the ability of letter-sound knowledge, phoneme awareness, and word reading (measured in both January and June of kindergarten) to explain the end-of-kindergarten invented spelling ability of 306 children who attended 9 urban schools in upstate New York. Hierarchical linear regression analyses revealed that letter-sound knowledge, phoneme awareness, and Woodcock Reading Mastery Test (WRMT) Word Identification assessed in January accounted for 24% of the variance in June invented spelling, whereas letter-sound knowledge, phoneme awareness, WRMT Word Identification, and reading decodable words assessed in June accounted for 75% of the variance in June invented spelling. Educational implications are discussed.

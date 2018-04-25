@@ -1,0 +1,11 @@
+$TITLE:
+Limit laws of modulus trimmed sums
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Limit laws, Modulus trimmed sums, Probability theory
+
+$ABSTRACT:
+Let [Special characters omitted.] be a sequence of independent and identically distributed random variables. Let [Special characters omitted.] be an arrangement of [Special characters omitted.] in decreasing order of magnitude, and set [Special characters omitted.] This is known as the modulus trimmed sum. We obtain a complete characterization of the class of limit laws of the normalized modulus trimmed sum when the underlying distribution is symmetric and [Special characters omitted.] .

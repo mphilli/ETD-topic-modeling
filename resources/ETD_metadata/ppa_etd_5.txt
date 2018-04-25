@@ -1,0 +1,11 @@
+$TITLE:
+Specifying and testing a model of collaborative capacity: Identifying complementary competencies, incentive structures, and leadership lessons for the United States Department of Homeland Security
+
+$DEPARTMENT:
+Public Administration
+
+$KEYWORDS:
+Competencies, Incentive, Collaborative capacity, Leadership, Department of Homeland Security
+
+$ABSTRACT:
+This research examines the concept of interorganizational collaborative capacity (ICC) using a human resource management approach. Both secondary and primary data sources are utilized to investigate four key questions related to ICC. First, this dissertation examines how an existing model of collaborative capacity fits the Department of Homeland Security (DHS), where collaboration is critical for meeting organizational goals. Survey and interview data is used to specify and test the Bardach (1998, 2001) model of ICC, with special emphasis on the learning component of the model. Second, the dissertation examines human resource management reforms, namely pay-for-performance, in the context of collaborative governance. Given the increased emphasis on collaborative public management, this dissertation answers the question, "does pay-for-performance incentivize collaboration?" Third, this dissertation examines the concept of collaborative competencies in the federal government. In order to properly fit rewards to desired behavior, we must first specify such behavior. Using the methodology developed by McClelland (1976, 1992) and Spencer and Spencer (1993), an original competency study is presented which distills those behaviors that are collaborative in nature. Finally, this dissertation examines the role of collaborative leadership. The literature on collaborative capacity building stresses the importance of leaders. However, traditional leadership theory and practice consider leadership within bounded, hierarchical structures. This portion of the dissertation sheds new light on the changing dimensions of leadership in the context of collaborative governance. Three models of leadership are examined to provide insight for both theory and practice.

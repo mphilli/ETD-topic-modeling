@@ -1,0 +1,11 @@
+$TITLE:
+Molecular genetic analysis of TART (telomere-associated retrotransposon) in Drosophila melanogaster
+
+$DEPARTMENT:
+Biology
+
+$KEYWORDS:
+Telomere-associated retrotransposon, Retrotransposons, RNA interference
+
+$ABSTRACT:
+Telomeres are the ends of linear chromosomes, and Drosophila melanogaster  telomeres are exceptional in that they consist of tandem arrays of two families of non-LTR (long terminal repeat) retrotransposons, HeT-A and TART. Maintenance of D. melanogaster  telomeric DNA is accomplished by repeated retrotransposition of HeT-A and TART specifically to telomeres, in contrast to the maintenance of tandem arrays of species-specific simple DNA repeats at telomeres by telomerase in many eukaryotic organisms. R[barbelow]apid a[barbelow]mplification of c[barbelow]DNA e[barbelow]nds (RACE) was used to analyze the 5 '  and 3 '  ends of TART transcripts and antisera that recognize TART ORF1p, one of two proteins encoded by TART, were generated and used to examine the expression pattern of ORF1p to better characterize TART elements. The transcript analysis was consistent with TART producing an array of heterogeneous sense and antisense transcripts. The identification of transcription initiation sites in the direct repeats of TART, and sequence analysis of a major sense transcription initiation site suggest a parallel between transcription of TART and Drosophila  LTR retrotransposons. Also, intron sequences were identified in antisense transcripts. The specificity of antisera against TART ORF1p was determined by inducing RNA interference (RNAi) against TART. Western blotting experiments with these antisera revealed that TART ORF1p accumulates throughout much of development, especially in larval and pupal stages. ORF1p was detected in somatic cells, and notably in larval imaginal discs and brains, but was not detected in germline cells. Temperature-dependent pupal lethality observed in some strains in which RNAi was induced raises the possibility that induction of RNAi might lead to nonspecific lethality under certain circumstances in Drosophila  .

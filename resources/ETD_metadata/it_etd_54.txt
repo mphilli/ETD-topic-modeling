@@ -1,0 +1,11 @@
+$TITLE:
+Certainty, uncertainty and the role of topic and comment in interpersonal information seeking interactions
+
+$DEPARTMENT:
+Information Transfer
+
+$KEYWORDS:
+Interpersonal information-seeking, Information-seeking, Certainty, Uncertainty, Topic, Comment
+
+$ABSTRACT:
+Information seeking (IS) underlies both cognitive behavior at the level of individual perception and communicative behavior at the level of linguistic interaction. The cognitive behavior centers on the 'certainty' and 'uncertainty' aspects of a user's perception in the IS situation, which can be described as what the user is aware of knowing as well as not knowing respectively regarding a particular need. The communicative domain of IS represents the linguistic articulation of the need in order to connect to the information content. The articulation is not only in terms of a 'topic,' what the user is talking about, but also of a 'comment' of how that topic fits in with the user's situation. Topic refers to what it is that a person is looking for. Comment is the other component of a meaning that relates or situates the topic to an individual perspective and context. The purpose of the study was to get an empirical description of users' articulation in IS interactions incorporating the cognitive and linguistic variables. The study took a user-based approach modifying the time-line method in an attempt to understand the user's cognition from the user's point of view in a natural context. Data were collected in two phases: audio recording and transcribing of user-source interactions and debriefing interviews with users to clarify and expand the meaning of each utterance and to further describe any meaning withheld which the utterance alone may not have conveyed fully. The findings of the study showed that the employment of certainty is essential for pointing to uncertainty and that the employment of comment in addition to topic is necessary for effective linguistic articulation.

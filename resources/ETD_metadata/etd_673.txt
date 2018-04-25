@@ -1,0 +1,11 @@
+$TITLE:
+FITTING A PARAMETRIC MODEL TO A CLOUD OF POINTS VIA OPTIMIZATION METHODS
+
+$DEPARTMENT:
+Mechanical and Aerospace Engineering
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+Computer Aided Design (CAD) is a powerful tool for designingparametric geometry. However, many CAD models of currentconfigurations are constructed in previous generations of CADsystems, which represent the configuration simply as a collection ofsurfaces instead of as a parametrized solid model. But since manymodern analysis techniques take advantage of a parametrization, oneoften has to re-engineer the configuration into a parametricmodel. The objective here is to generate an efficient, robust, andaccurate method for fitting parametric models to a cloud ofpoints. The process uses a gradient-based optimization technique,which is applied to the whole cloud, without the need to segment orclassify the points in the cloud a priori.First, for the points associated with any component, a variant ofthe Levenberg-Marquardt gradient-based optimization method (ILM) isused to find the set of model parameters that minimizes theleast-square errors between the model and the points.  Theefficiency of the ILM algorithm is greatly improved through the useof analytic geometric sensitivities and sparse matrix techniques.Second, for cases in which one does not know a priori thecorrespondences between points in the cloud and the geometry model'scomponents, an efficient initialization and classification algorithmis introduced. While this technique works well once theconfiguration is close enough, it occasionally fails when theinitial parametrized configuration is too far from the cloud ofpoints. To circumvent this problem, the objective function ismodified, which has yielded good results for all cases tested.This technique is applied to a series of increasingly complexconfigurations. The final configuration represents a full transportaircraft configuration, with a wing, fuselage, empennage, andengines. Although only applied to aerospace applications, thetechnique is general enough to be applicable in any domain for whichbasic parametrized models are available.

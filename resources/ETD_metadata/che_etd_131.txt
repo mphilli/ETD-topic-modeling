@@ -1,0 +1,11 @@
+$TITLE:
+Cyclopropane Geometry Effects in Rigid Cyclopropylaromatic Systems
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+organic chemistry, nitration
+
+$ABSTRACT:
+Adding to the discussion of Nitration of aromatic systems, this thesis examines the reaction mechanism(s) and nitrating species responsible for the ortho effect (the formation of large amounts of ortho-nitro product in certain substituted benzenes by the action of nitric acid/acetic anhydride).

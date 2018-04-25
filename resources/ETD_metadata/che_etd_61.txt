@@ -1,0 +1,11 @@
+$TITLE:
+Near-infrared vibrational circular dichroism of polypeptides and small pharmaceutical molecules
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Polypeptides, Pharmaceutical molecules, Small molecules, Norephedrine, Pseudoephedrine
+
+$ABSTRACT:
+The near-infrared vibrational circular dichroism (VCD) spectra of three small pharmaceutical molecules, (1S, 2R)-norephedrine, (1S, 2S)-pseudoephedrine and (1S, 2R)-methylephedrine, and three polypeptides, poly-γ-benzyl-L-glutamate, poly-β-benzyl L-aspartate and poly-L-lysine have been measured and compared to the VCD spectra in the fundamental region 3800-900 cm -1  . The near-infrared VCD bands of the three ephedra molecules found in the spectral region of 8000-3800 cm -1  have been assigned to the OH, NH and CH combinations and overtones. Six near-infrared VCD bands of polypeptides have been identified in the spectral region of 5200-3800 cm -1  . Four of the six bands have been assigned to the combinations and overtone of amide group modes, and have been named as: Amide A+11, Amide 3xII, Amide A+IV and Amide A+V. VCD is a tool for identifying the absolute configuration and solution conformations of chiral molecules. The near-infrared VCD spectra of three ephedra molecules have provided new information on near-infrared VCD involving amino and hydroxyl overtone and combination bands. The near-infrared VCD spectra of polypeptides have provided initial information for characterizing the secondary structure of polypeptides, including α-helix and extended helix forms. All spectra were obtained with a rapid-scan near-infrared Fourier transform VCD spectrometer, newly built in our laboratory. The assignments of spectral bands were made by comparing the spectral data with the data from the literature and the data from the isotope substitution experiment carried out in this research.

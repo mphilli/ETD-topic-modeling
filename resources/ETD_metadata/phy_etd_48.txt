@@ -1,0 +1,11 @@
+$TITLE:
+Critical behavior of spin models on fluctuating bounded geometries
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Critical behavior, Spin, Fluctuating bounded geometries, Quantum gravity, Triangulation
+
+$ABSTRACT:
+This dissertation describes the use of Monte Carlo simulations to study systems consisting of simple matter fields coupled to 2-d quantum gravity. Explicitly, we have studied Ising spins in interaction with a discrete triangulated geometry with the topology of a disk. Two classes of lattice model were examined; in the first the Ising spins were placed on the vertices of the triangulation and in the second they were associated with centers of triangles. In both cases we have utilized an Ising action which contains a boundary magnetic field. For the case of Ising spins on the vertices and zero boundary magnetic field, it is shown that the model possesses three phases. For one of these the boundary length grows linearly with disk area while the other two phases are characterized by a boundary length on the order of the cut-off. A line of continuous magnetic transitions separates the two small boundary phases. The critical exponents of the continuous magnetic phase transition are determined and related to predictions from continuum 2-d quantum gravity. This line of continuous transitions terminates on a line of discontinuous phase transitions dividing the small boundary phases from the large boundary phase. The scaling of bulk magnetization and boundary magnetization as a function of boundary magnetic field in the vicinity of this tricritical point are examined. The corresponding tricritical point for the model with Ising spins on the triangles is found. The scaling of bulk magnetization and boundary magnetization as a function of boundary magnetic field in the vicinity of this tricritical point are examined as well. We discuss the results in the context of universality of lattice models.

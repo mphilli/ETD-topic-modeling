@@ -1,0 +1,11 @@
+$TITLE:
+Nitrogen-based alkaline earth metal compounds: Syntheses, structures and applications
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Organometallics, Amides, Nitrogen-based, Alkaline earth metal
+
+$ABSTRACT:
+Novel alkaline earth metal aryl substituted silylamides were prepared using alkane (Mg) or salt elimination reactions (Mg, Ca, Sr, and Ba). The salt elimination regime involved the treatment of the alkaline earth metal iodides with two equivalents of the respective potassium amide KNR(SiMe  3  ) (R = 2,6- i  -Pr 2  C 6  H 3  and 2,4,6-Me 3  C 6  H 2  ). The organomagnesium source for the alkane elimination was ( n  Bu/ s  Bu)  2  Mg. Efforts to obtain the beryllium analog resulted in the isolation of a bimetallic lithium-beryllium amido enolate.The alkane elimination route was also extended to the preparation of primary magnesium amides in the absence of donor solvent. A donor-free heteroleptic magnesium dimer was obtained by reacting dibutylmagnesium with one equivalent of the primary amine H2NMes* (Mes* = 2,4,6- t Bu 3 C 6 H 2 ).The synthesis and characterization of novel alkaline earth metal pyrrolates as potential precursors for group 2 containing solid state materials are described. Calcium target molecules were synthesized using two different synthetic schemes: transamination and metallation, involving either the treatment of calcium bis (bis(trimethylsilyl)amide) with two equivalents of 2-dimethylaminomethylpyrrole (2-DMAMP) or the reaction of elemental calcium with two equivalents of 2-DMAMP. Magnesium pyrrolates were synthesized using alkane elimination reactions, involving the treatment of Bu2Mg with two equivalents of 2-DMAMP. The metallation regime was employed to prepare strontium and barium 2-DMAMP derivatives. The 2-DMAMP capacity for σ and π bonding is reflected in the solid state structure of the strontium dimer [Sr(2-DMAMP) 2 THF] 2 .

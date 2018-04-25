@@ -1,0 +1,11 @@
+$TITLE:
+Two Essays on Governance in IPO Firms
+
+$DEPARTMENT:
+Accounting
+
+$KEYWORDS:
+Corporate Governance, Strategic Management
+
+$ABSTRACT:
+In this dissertation we collate a unique hand-collected dataset  of 417 IPO firms for the 2001 to 2004 period, and study the effectiveness of  governance and signaling mechanisms at an IPO. In chapter 1 our main contention  is that current management research on IPOs has primarily looked at how  corporate governance variables like board composition and ownership structure  affect IPO underpricing, while largely overlooking the implications of these  governance structures for long-term liquidity. This is a significant oversight,  given the many benefits to IPO issuers from having a liquid stock (e.g., reduced  cost of capital, increased external monitoring etc.). We find that both pre-IPO  ownership structures and the degree of underpricing affect aftermarket  liquidity. More specifically, the information advantages of large ownership  reduce stock liquidity, while increased liquidity following greater underpricing  underlines a key benefit of underpricing that has been previously ignored. We  are therefore able to present a fuller picture of pre-IPO ownership and  underpricing and their long term performance implications. In chapter 2 we look  at how signaling at the time of IPO certifies firm quality and helps address the  adverse selection problem for uninformed investors. We contend that classifying  signals according to common characteristics (like cost) has significant  managerial implications in terms of whether, when and how much firms need to  invest in developing signals, and how these decisions are likely to influence  subsequent firm performance. We then contribute to the literature by proposing a  typology of signals based on whether signaling costs are incurred upfront  (default-independent) or whether they depend on future profitability  (default-contingent). We argue that this definitional distinction highlights  more fundamental differences in the underlying characteristics of the two signal  types in terms of cost, clarity, consistency, commitment and visibility. Only  default-independent signals usually possess these desirable characteristics,  making them more powerful determinants of firm value than default-contingent  signals.

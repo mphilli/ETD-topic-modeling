@@ -1,0 +1,11 @@
+$TITLE:
+Thermal instability and heat transport of a layer of non-newtonian fluid
+
+$DEPARTMENT:
+Biomedical and Chemical Engineering
+
+$KEYWORDS:
+thermal instability, heat transport, non-newtonian fluid
+
+$ABSTRACT:
+The object of the present investigation is to study, primarily by experimental means, the stability, free convection and heat transfer of a horizontal layer of non-Newtonian fluid heated uniformly from below.

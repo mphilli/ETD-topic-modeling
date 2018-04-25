@@ -1,0 +1,11 @@
+$TITLE:
+A new approach to test for interactions in two-way ANOVA models
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Power, F-test, Two-way ANOVA, ANOVA
+
+$ABSTRACT:
+The F-test has been used to detect interactions in Two-way ANOVA models. However, the F-test for the interaction is not as powerful as the F-test for the main effects, and its power is often very low if there are only a few disturbances in data under the typical restrictions. Daniel (1978) and Terbeck and Davies (1998) reparameterized the model and proposed new statistics to detect the interactions under unconditionally identifiable patterns. They showed that their tests are better than the classical F-test and also can identify the locations of the non-zero disturbances. However, their methods do not work well for the model with non-unconditionally identifiable patterns.In this thesis, we use the parameterization, the same as the one used in Daniel (1978) and Terbeck and Davies (1998), and propose new test statistics to detect non-zero interactions. We show that our test is more powerful than the classical F-test and can handle both situations: unconditionally identifiable pattern (UIP) and non-unconditionally identifiable pattern. For a special 3 × 3 case, we also propose a selection procedure that leads us to choose the best configuration with the highest power under a UIP. Under a non-UIP condition, simulations illustrate that the selection procedure still works. In order to find critical values at a given significance level, we suggest using a numerical integration or a polynomial approximation or Worsley's approximation (1982).For a general I × J case, simulations indicate that our test statistic still has a higher power than the classical F-test, and we can still apply the selection procedure for the best configuration to the general case. Due to high dimensional integrations involved, the numerical integration and the polynomial approximation are not feasible in finding the critical values. We suggest using Worsley's approximation (1982) to obtain reasonable accuracies.

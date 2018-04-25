@@ -1,0 +1,11 @@
+$TITLE:
+Run-time support and compilation methods for irregular computations on distributed memory parallel machines
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Computer science
+
+$ABSTRACT:
+In recent years, distributed memory parallel machines have been widely recognized as the most likely means of achieving teraflops performance. However, programming a distributed memory machine to get good speed-ups and efficiency proves to be cumbersome. To ease the task of programming parallel machines, recently there have been major efforts in developing programming language and compiler support for distributed memory machines.There exists a class of scientific and engineering applications, called irregular applications, in which many of the optimizations can be done only at runtime. This constraint presents a greater challenge for compilers. This research provides solutions for compiling irregular problems. This thesis presents a combined runtime and compile-time approach for parallelizing this general class of applications on distributed memory machines. It presents a runtime system that has been designed and implemented for parallelizing these applications on distributed memory machines. Methods by which compilers for High Performance Fortran (HPF) style parallel programming languages can automatically generate calls to the runtime system are also presented.The runtime system supports the partitioning of loop iterations to maintain data locality, the coupling of data partitioners to obtain non-standard distribution, the remapping of data structures and optimizations such as vectorization, aggregation and schedule reuse. The compiler techniques have been implemented in the Fortran 90D/HPF compiler being developed at Syracuse University. The runtime and compile-time approaches have been evaluated using templates from real scientific applications. Performance results of Fortran 90D compiler-parallelized codes are compared with that of hand-parallelized codes. It is observed that the compiler-generated codes perform within 15% of the hand-parallelized codes.

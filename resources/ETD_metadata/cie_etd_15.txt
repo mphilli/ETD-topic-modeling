@@ -1,0 +1,11 @@
+$TITLE:
+Ductility of carbon fiber-reinforced polymer (CFRP) strengthened reinforced concrete beams
+
+$DEPARTMENT:
+Civil and Environmental Engineering
+
+$KEYWORDS:
+Civil infrastructures, Ductility, Carbon fiber-reinforced polymer, Reinforced concrete, Beams
+
+$ABSTRACT:
+Civil infrastructure, such as buildings and bridges, constructed in the United States before the 1960's without deep attention to durability and maintenance. Today, US civil infrastructure requires major rehabilitation. The Federal Highway Administration (FHWA, 1998) has estimated number of bridges in the United States to be 582,000 with 31% or 180,420 highway bridges rated as substandard due to deterioration from aging and severe environmental deterioration.This research project introduces the use of advanced fiber reinforced polymer (FRP) composites for rehabilitation of concrete flexural members, e.g. bridge girders. Compared to traditional retrofit systems, FRP composites are very light in weight, and exhibit high corrosion resistance and high tensile strength.This report presents experimental and analytical investigation of sixteen full-scale reinforced concrete beams strengthened with carbon fiber reinforced polymer (CFRP) composite sheets was investigated. The main variables included; the type of beam section, amount of steel rebars, amount of CFRP composites, and type of end anchors. The experimental results suggest that CFRP end anchors can significantly enhance beam strength and ductility.Finite element analysis (FEA) models were constructed and analyzed. In general, the results of FEA were in good agreement with those of the experiments. A practical design guideline was proposed. The design model reflected the experimental variables investigated in this project, which resulted in a more detailed and accurate estimate of the ultimate flexural strength of CFRP strengthened concrete beams with CFRP composites than those proposed by existing models.

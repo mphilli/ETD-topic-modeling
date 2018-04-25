@@ -1,0 +1,11 @@
+$TITLE:
+Measuring informatization: A longitudinal cross-national exploration
+
+$DEPARTMENT:
+Political Science
+
+$KEYWORDS:
+Informatization, Societal development
+
+$ABSTRACT:
+This project focuses on the exploration and operationalization of informatization. It is a cross-national, longitudinal investigation into the degree of informatization of fifty-nine countries over an eight year period, as well as an initial look into potential correlates. The project mostly uses data from the World Bank, United Nations and International Telecommunications Union.With the help of factor analysis I construct an indicator, the Relative Informatization Index, which allows for the scoring and ranking of countries based on their degree of informatization. Using multiple regressions, I also identify several correlates."Measuring Informatization: A longitudinal cross-national exploration" fills a gap in the literature and offers a heuristic tool for policy makers who wish to evaluate a country's degree of informatization, and its relative progress over time.

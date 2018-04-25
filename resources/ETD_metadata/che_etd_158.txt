@@ -1,0 +1,11 @@
+$TITLE:
+The reaction between tributylphosphine dibromide and alcohol
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+tributylphosphine dibromide, organic chemistry
+
+$ABSTRACT:
+Alkyl halides are commonly prepared by reacting alcohols with HX, PX5, PX3, and SOX2 (X=halogen).  However, each of the reagents has its shortcomings and not one is completely general for converting all types of alcohols, regardless of structure, to their respective halides...

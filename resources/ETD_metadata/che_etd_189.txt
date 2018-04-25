@@ -1,0 +1,11 @@
+$TITLE:
+Investigation of Explosives and Related Compounds Using Terahertz Spectroscopy and Solid-State Density Functional Theory
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Solid-state density functional theory, Spectroscopy, Terahertz
+
+$ABSTRACT:
+Military and improvised explosives, and explosives-related compounds have been investigated by experimental terahertz (THz) spectroscopy and solid-state density functional theory (DFT) simulations. Within the experimental range of 10 to 90 cm-1 (0.3 - 3.0 THz), THz radiation probes the low-energy vibrational motions of molecules. The vibrations in this region include external modes (intermolecular), which consist of vibrations such as lattice vibrations and rotations of molecules within the crystal, and internal modes (intramolecular) - local vibrations including torsions and other global motions of the molecules. In order to properly interpret the spectrum of each investigated compound, a solid-state DFT computational approach was utilized, allowing for modeling of the crystalline vibrations that are commonly ignored in isolated-molecule simulations. Since the vibrations are sensitive to intermolecular interactions, the necessity of applying London dispersion force corrections was explored. Using appropriate combinations of density functionals and basis sets, as well as dispersion corrections, the correct crystal packing of a compound can be achieved, subsequently leading to an accurate frequency simulation. The characterized compounds presented here include military explosives (RDX, PETN, and TNT), improvised explosives (potassium nitrate, ammonium nitrate, and urea nitrate), and explosives-related compounds (tartaric acid, magnesium nitrate hexahydrate, 2,3-dinitro-2,3-dimethylbutane, and sulfur).

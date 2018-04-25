@@ -1,0 +1,11 @@
+$TITLE:
+Illusion and art: An analysis and critique of E. H. Gombrich's "Art and Illusion"
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Karl Popper, Psychology of perception, Art history
+
+$ABSTRACT:
+The text analyses the work of E. H. Gombrich, in his central presentation, Art and Illusion: A Study in the Psychology of Pictorial Representation, in the light of the philosophy of Karl Popper. The result of the analysis is the location of many of the problematic aspects of the Gombrich thesis in the philosophy of Karl Popper, which Gombrich has applied in far reaching and significant ways to the study of art history and the psychology of perception.

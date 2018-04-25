@@ -1,0 +1,11 @@
+$TITLE:
+The Clar Structure of Fullerenes
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Fullerenes, Clar number, Fries number, Chain decompositions
+
+$ABSTRACT:
+A fullerene is a 3-regular plane graph consisting only of pentagonal and hexagonal faces. Fullerenes are designed to model carbon molecules. The Clar number and Fries number are two parameters that are related to the stability of carbon molecules. We introduce chain decompositions, a new method to find lower bounds for the Clar and Fries numbers. In Chapter 3, we define the Clar structure for a fullerene, a less general decomposition designed to compute the Clar number for classes of fullerenes. We use these new decompositions to understand the structure of fullerenes and achieve several results. In Chapter 4, we classify and give a construction for all fullerenes on |V| vertices that attain the maximum Clar number |V|/6 - 2. In Chapter 5, we settle an open question with a counterexample: we construct an infinite family of fullerenes for which a set of faces attaining the Clar number cannot be a subset of a set of faces that attains the Fries number. We develop a method to calculate the Clar number directly for many infinite families of fullerenes

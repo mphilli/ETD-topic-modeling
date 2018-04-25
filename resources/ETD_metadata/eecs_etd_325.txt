@@ -1,0 +1,11 @@
+$TITLE:
+Characteristics of the Fields in the Near and Far Zone Of Antennas and Its Significance in Wireless Communication
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Antennas, Far Field, Maxwellian Physics, Near Field, Wireless Communication
+
+$ABSTRACT:
+The characterization of the fields radiated from antennas in wireless communication scenario has been mostly overlooked by communication society. The definition and application of Near-Field and Far-field has mostly been considered from the antenna measurement community. To date no critical study does exist for the evaluation of the far-field criterion in a wireless communication scenario. This dissertation tries to provide certain guidelines characterizing the near-field and the far-field using a Maxwellian framework. The implications of the near-field environment are then discussed. It appears that the concept of near and far fields are not clearly interpreted in the wireless communication literature. This dissertation tries to provide some insight into the trade-off of the phenomenon of height-gain and the near field zone of the antenna which determines the optimum positioning of the transmitting antenna within a cellular range.

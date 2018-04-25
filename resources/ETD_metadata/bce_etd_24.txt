@@ -1,0 +1,11 @@
+$TITLE:
+Modeling of cadmium adsorption on organo-ceramic adsorbents containing the thiol group
+
+$DEPARTMENT:
+Biomedical and Chemical Engineering
+
+$KEYWORDS:
+Organoceramic, Cadmium, Adsorbents, Thiol
+
+$ABSTRACT:
+The adsorption dynamics of cadmium ions from aqueous streams on two organoceramic adsorbents, Thio-SG(1) and Sol-AD-IV, is studied at pH = 3-5. The effect of species distribution on the adsorption process is determined from an aqueous phase chemical equilibrium model. Calculation results indicate that free cadmium ion, Cd 2+ , and complexes CdNO 3 + and CdCH 3 OOO + are the main species present. It is postulated that the free cadmium ion is the main species participating in the adsorption process and that a bidentate complex is formed on the adsorbents. Experimental titration results support the presence of this complex.Kinetic data collected from a differential batch reactor show a slow uptake rate. Kinetic mechanisms including elementary reactions and a film/pore diffusion model are tested to explain experimental results. The F-test is applied to determine the rate controlling step. No definite conclusion is drawn from this test. The Fc values fall within the 95% confidence level indicating that both models are adequate and suggesting that either model can be employed to explain the experimental data.The adsorption behavior of cadmium on Sol-AD-IV is predicted/analyzed in a fixed bed. Several mechanisms, which include adsorption equilibrium, overall chemical reaction, film mass transfer resistances and film/pore diffusion resistances, are tested to determine the fixed-bed controlling mechanism. Different numerical techniques are applied to solve the nonlinear PDE's. The Method of Lines is found to be the most appropriate to obtain the numerical solution. Fitting results of models to the breakthrough curve suggest that film/pore diffusion mechanism is the rate-controlling step. Sensitivity analysis on parameters confirms that the model is sensitive to pore diffusion resistance. Values of parameters are k f = 0.11 cm/min, D p = 1.4 × 10 -7 cm 2 / sec, and τ = 5.0. The value of DP is consistent with values reported from the literature for the cadmium-thiol system.

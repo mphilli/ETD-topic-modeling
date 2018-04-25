@@ -1,0 +1,11 @@
+$TITLE:
+First Observation of psi(3770) decays to photon chi(cJ)
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Psi mesons, Chi mesons, Non-DDbar decays, Electromagnetic decays, particle physics
+
+$ABSTRACT:
+Using e + e - collision data acquired with the CLEO detector at CESR, we observe the non- DD¯ decay [psi](3770) [arrow right] [gamma][chi] cJ . We observe a highly significant signal (significance of 12.6[sigma]) for [psi](3770) [arrow right] [gamma][chi] c 0 , detected in four exclusive decays modes containing charged pions and kaons. For [psi](3770) [arrow right] [gamma][chi] c1 , we observe a signal of 6.6[sigma] significance in the two-photon cascades to J| [psi] ( J| [psi] [arrow right] [cursive l] + [cursive l] - ) and of 3.6[sigma] significance in four exclusive decays modes containing charged pions and kaons. We determine [Special characters omitted.] ([psi](3770) [arrow right] [gamma][chi] c 0 ) = (7.3 ± 0.9) × 10 -3 and [Special characters omitted.] ([psi](3770) [arrow right] [gamma][chi] c 1 ) = (2.9 ± 0.8) × 10 -3 . We also set 90% C.L. upper limits for the transition to [chi] c 2 : [Special characters omitted.] < 0.9 × 10 -3 .

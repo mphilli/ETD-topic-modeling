@@ -1,0 +1,11 @@
+$TITLE:
+A spatial correlation analysis and adaptive estimation techniques for MIMO-OFDM systems
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Spatial correlation, Adaptive estimation, MIMO-OFDM, OFDM
+
+$ABSTRACT:
+In this study, the performance of multiple input multiple output (MIMO)-orthogonal frequency division multiplexing (OFDM) systems is analyzed with the existence of spatial correlation and the exploitation of adaptive techniques. For the spatial correlation analysis, the effect of a three-dimensional (3-D) scattering environment and the effect of mutual coupling are studied for different antenna types. A new channel model based on the 3-D scattering environment is developed for this purpose. By then using the MIMO capacity, the performance of the system is analyzed. It is observed that environment richness is the key factor for obtaining uncorrelated signals, and that the effect of mutual coupling decreases the capacity for most of the antenna distances. Then, based on the spatial correlation analysis, different adaptation techniques are investigated. Antenna selection algorithm aiming to pick antennas giving the maximum capacity, angle spread estimation for the determination of environment richness, and linear minimum mean-square error (LMMSE) channel estimation using the spatial correlation are investigated. It is observed that these adaptive techniques give accurate results that they can improve the system performance. The LMMSE channel estimation is then further investigated to make it adaptive and less complex so that it can be realized in practical systems. For this purpose, a low-rank LMMSE channel estimation is introduced by using comb type pilots. Moreover, the unification of LMMSE with other channel estimation methods such as transform domain and least squares (LS) estimates is also studied. The study concludes that for future high data rate oriented MIMO-OFDM systems, the effect of spatial correlation needs to be taken into account and the adaptive techniques proposed in this study can enable better performing systems.

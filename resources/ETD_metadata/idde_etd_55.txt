@@ -1,0 +1,11 @@
+$TITLE:
+Learning Disabilities and the Virtual College Campus: A Grounded Theory of Accessibility
+
+$DEPARTMENT:
+Instructional Design, Development and Evaluation
+
+$KEYWORDS:
+Accessibility, College students, Learning dissabilities, Web-based services
+
+$ABSTRACT:
+Two trends currently impacting higher education intersect in this study: (1) students with learning disabilities are enrolling in colleges and universities in increasing numbers, and (2) colleges and universities are increasingly relying on the web to provide services to students. This reliance on the "virtual campus" comes without apparent consideration of accessibility issues that may be experienced by students with learning disabilities. This study explored the experiences of 16 college students, self-identified as having learning disabilities, as they interacted with the virtual campus of one college.Consistent with the social model of disability, this study initially focused on the features of the virtual campus that were both helpful and not helpful to the informants as they performed eight tasks considered typical of those expected of a college student. Using a grounded theory methodology, the model that evolved from this data indicated that to understand the informants' experiences, consideration had to be given also to what the informants brought to the experience, including their active choice and use of helpful strategies.The results of this study suggest that web accessibility as currently conceived is too limiting. A "one-size-fits-all" approach to universal access is unrealistic as users of the virtual campus bring varied strengths and capabilities as well as varied impairments to their interaction with web-based services. While colleges and universities are encouraged to follow current usability and accessibility principles, attention should also be given to the construction of a web-human interface that can be individualized to meet a user's specific needs.

@@ -1,0 +1,11 @@
+$TITLE:
+On Pessimism: A Study in Normative Psychology
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Pessimism
+
+$ABSTRACT:
+I aim to revive pessimism as a topic of philosophical discussion. Toward that end, I defend a theory of pessimism designed to locate pessimism within the existing philosophical literature, and to account for the epistemic and prudential conditions under which pessimism is warranted. I argue for three main theses: (1) pessimism is a stance in which one takes oneself to live in a `not good-enough' world; (2) pessimism is not necessarily the product of an emotional problem, a character defect, or unjustifiable metaphysical assumptions; and (3) pessimism can be prudentially appropriate, and--perhaps most controversially--is epistemically warranted. In an appendix, I consider the philosophical challenges posed by radical pessimism, and what I call the secular problem of evil.

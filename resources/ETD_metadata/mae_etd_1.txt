@@ -1,0 +1,11 @@
+$TITLE:
+Detailed examinations of the human micro-environment by CFD
+
+$DEPARTMENT:
+Mechanical and Aerospace Engineering
+
+$KEYWORDS:
+Indoor environments, Thermodynamics, Ventilation
+
+$ABSTRACT:
+Computational fluid dynamics (CFD) has been used in this work as a tool to examine the flow, heat and mass transfer in the human micro-environment. First, guidelines were developed to demonstrate accurate CFD simulations of the personal micro-environment (PME). Canonical benchmark cases that represent two common ventilation systems, displacement and mixing, were used along with provided experimental data to verify and validate the CFD. For the benchmark cases, by following the grid resolution guidelines, it was discovered that a common RANS turbulence model, such as the standard  k  -ε, was capable of predicting the PME provided radiative heat transfer was included. Following the guidelines from the first objective, CFD was then used as a predictive tool to investigate the consequence of light activities on the PME. These light activities included transient breathing, head motion and the combination of the two. It was revealed for the proposed configuration, that while including light activities such as breathing and head motion had an influence on the PME they did not significantly affect personal exposure or a neighbors personal exposure.

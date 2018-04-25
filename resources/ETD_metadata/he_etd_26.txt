@@ -1,0 +1,11 @@
+$TITLE:
+Using a computer laboratory setting (CLS) to teach college calculus
+
+$DEPARTMENT:
+Higher Education
+
+$KEYWORDS:
+Mathematics education, Higher education
+
+$ABSTRACT:
+Definitions: A Computer Laboratory Setting (CLS) is a teaching environment utilizing the computer with mathematics software to learn mathematics. A Graphing Calculator Setting (GCS) is a teaching environment utilizing the graphing calculator (GC) to learn mathematics.This study investigates: differences in learning outcomes between the CLS and GCS, and within each approach when students work individually or cooperatively; differences in student attitudes between the CLS and GCS, and within each approach when students work individually or cooperatively; and differences between the CLS and GCS for teaching mathematics.Data was collected at a research university using three sections of a calculus course, in the fall semester of 1994. All three sections registered a total of 56 students. They had the same instructor.The instructional technology for one of the sections was the Casio fx-7700 GC and for the other two sections it was the Macintosh with Mathematica (a mathematics software). Within each section, students were randomly assigned three times to work individually or in pairs on technology homework projects.Data analysis was comprised of qualitative, survey, and experimental design methods. The survey was designed by the researcher with assistance from the University's Center for Instructional Development.The results of the study indicated that differences in students familiarity with the instructional technologies and differences in the capabilities of the instructional technologies for calculus, led to differences in problem solving, attitudes, student-student and student-teacher interaction, class preparation time, class utilization time, assessment, and technology literacy. They also indicated that the laboratory approach with cooperative learning facilitates active learning, enhances mathematical power, and educates students for functional citizenship. Lastly, they emphasize the importance of group size in attaining cooperative learning objectives.

@@ -1,0 +1,11 @@
+$TITLE:
+Employee lateness: Identifying correlates of lateness by applying the Steers and Rhodes Process Model of Attendance
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+curvilinear relationships
+
+$ABSTRACT:
+While there has been much research available on employee absenteeism, there has been very little research on employee lateness, or arriving at work after the scheduled starting time. Therefore, a study of employee lateness, or tardiness, was conducted with a sample of 181 factory workers. This study utilized The Steers and Rhodes Process Model of Attendance (1978).Subject responses to a questionnaire provided information on 27 independent variables which were compared with tardiness frequency data obtained from company records for the previous nine month period. Tardiness for male (N = 115) and female (N = 66) samples were analyzed separately utilizing correlational and regression techniques.In support of the model, for both the male and female sample, two variables were found to be significantly related to tardiness: (a) auto problems and (b) general transportation problems. For the male sample only, in support of the model, significant relationships were found between tardiness and two variables: (a) satisfaction with group and (b) group attitudes.For the female sample only, in support of the model, significant relationships were found between tardiness and three variables: (a) satisfaction with group, (b) child care at departure time, and (c) age.For the male sample, curvilinear relationships were found between tardiness and two variables, job involvement and supervisor enforcement. For the female sample, a curvilinear relationship was found for tardiness with perceived company policy against tardiness.The relative importance of categories of the Steers and Rhodes Model was assessed and a best regression model was developed (Male: $R\sp2$ =.22, $p < .001$; Female: $R\sp2$ =.57, $p <.001).$ The Steers and Rhodes Model is considered appropriate as a theoretical framework to study tardiness.For this study, it is speculated that attitudes may not have been stable over time and that a bonus policy may have decreased tardiness incidents.

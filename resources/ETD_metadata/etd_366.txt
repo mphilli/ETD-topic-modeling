@@ -1,0 +1,11 @@
+$TITLE:
+Permitting Joint-Control in Asymmetric Dependence Relationships: Investigating a Strategy for Increasing Trust
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Asymmetric Dependence, Joint-Control, Soliciting Input, Trust
+
+$ABSTRACT:
+Most work related to trust in dyadic interactions has focused on the establishment and development of trust in situations where partners are of relatively equal status and have the ability to impact each other's outcomes (Rempel, Holmes, & Zanna, 1985; for a review Simpson, 2007a; 2007b). However, many social interactions can be characterized as asymmetric dependence situations where the outcomes of one partner (i.e., the dependent partner) are completely controlled by another (i.e., the controlling partner). The current work investigated trust in the context of one-off asymmetric dependence interactions, and experimentally explored one strategy for increasing trust in these exchanges. In Study 1, faith was found to be the component of trust most predictive of trust-based behavior. Additionally, the controlling partner soliciting input from the dependent partner in this type of interaction was found to be associated with increased ratings of faith, when the dependent partner felt like his or her input was taken into account by the controlling partner. Study 2 demonstrated that soliciting input can have an negative effect on faith if the dependent partner's input is not reflected in the controlling partner's decision and no explanation is provided for this decision. Overall, this work suggests the controlling partner soliciting input from the dependent partner can result in increased trust in one-off asymmetric dependence interactions, as long as the dependent partner feels like his or her input was taken into account, and an explanation is provided if his or her input is not reflected in the controlling partner's decision. This work has potential implications for asymmetric dependence relationships encountered outside the laboratory (e.g., patient-provider relationships, salesperson-customer relationships, supervisor-employee relationships).

@@ -1,0 +1,11 @@
+$TITLE:
+Measurement of the CP Violating Asymmetry a^s_sl using Bs0->(Ds->phi pi) mu nu
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+B Mixing, CP Violation, High Energy Physics, Semileptonic decays, Standard Model
+
+$ABSTRACT:
+The time-integrated measurement of the semileptonic CP violating asymmetry, assl, with data acquired at the Large Hadron Collider with the LHCb experiment is presented. This measurement can help physicists understand some peculiarities in the Standard Model, which is the fundamental framework of knowledge of the universe. Should this asymmetry diverge from zero, new physics may be a main motivator. Using 1 fb-1 of collected data in 2011 with proton-proton collisions at a center-of-mass energy of 7 TeV, the measured value of assl presented is (-0.06 ± 0.50 ± 0.36)%, where the first uncertainty is statistical and the second is systematic. This is in very good agreement with the Standard Model prediction of (0.0019±0.0003)%, however divergent from the d0 collaboration measurement of (-1.12 ± 0.74 ± 0.17)%.

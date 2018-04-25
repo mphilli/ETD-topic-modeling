@@ -1,0 +1,11 @@
+$TITLE:
+Terahertz spectroscopy of the intermolecular and intramolecular vibrations of molecules in solution
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Terahertz, Intermolecular, Intramolecular, Hydrogen-bonding, Low-frequency, Solution-phase
+
+$ABSTRACT:
+Studies combining experimental terahertz (THz) spectroscopy, density functional theory (DFT), and ab initio  methods have been used to predict the intermolecular and intramolecular vibrations of several molecular species in solution. There are a range of molecular interactions that are of interest in these molecules including strong and weak hydrogen bonding, cation-anion pair interactions, and extended conjugation. These types of interactions are typically described as global interactions that usually involve the simultaneous movement of all atoms in a molecule, which can be directly investigated using THz radiation. Experimental data from all molecules presented is supported by calculations predicting their structures and vibrational motions. Most molecular interactions studied in solution can be accurately described using DFT, however ab initio  methods, in particular, MP2 calculations, have been useful in describing weak interactions, including weak hydrogen bonding. This research has led to a greater understanding of the types of theoretical methods necessary in the prediction of low-frequency vibrational spectra and the improvements that have been made, both experimentally and theoretically, will be highlighted in the following chapters.

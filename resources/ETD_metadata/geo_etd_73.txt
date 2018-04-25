@@ -1,0 +1,11 @@
+$TITLE:
+A Spatial Statistical Analysis of Socioeconomic Fertility Determinants: The Case of Contemporary China
+
+$DEPARTMENT:
+Geography
+
+$KEYWORDS:
+Urban Planning, Area Planning and Development, Social Sciences, Spatial Analysis
+
+$ABSTRACT:
+This dissertation represents an effort to clarify the relationship between human fertility behavior and its socioeconomic determinants. Two issues are addressed. The first is the explanation of the recent Chinese fertility decline. Within the historical context of contemporary China, attempts are made to apply various grand demographic theories. These include demographic transition theory, the inter-generational wealth flow theory, the economic framework, and the political economic perspective.The second issue is methodological and it arises from the difference in quantifiability of the fertility determinants when employed in formal statistical models. Some determinants may be measured by quantitative indices and some may not. For those determinants that are not quantifiable in the conventional sense, but may manifest themselves in spatial patterns, I propose a spatial statistical method to incorporate them into formal statistical models.Both of the theoretical considerations are applied to case studies on three Chinese provinces. The results seem to support conventional wisdom that societal modernization drives down fertility rates. Meanwhile they provide evidence that certain implicit variables such as governmental population policies also exert significant influence.

@@ -1,0 +1,11 @@
+$TITLE:
+An enantiospecific synthetic approach to the ansatrienin family of ansamycin antibiotics
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Ansamycin, Antibiotics, Enantiospecific
+
+$ABSTRACT:
+Progress towards an enantiospecific synthetic route to the ansatrienin family of naturally-occurring ansamycin antibiotics is presented herein. Synthetic design was originally based on the Emmons-Horner coupling of C9-N and C1-C8 synthons of the target system. Construction of the C9-N intermediate was motivated by a novel strategy for intramolecular protection of the C13- hydroxyl group as part of a pyranosidic ring system with C17. The pyran ring system was efficiently generated through an asymmetric hetero-Diels Alder reaction, which additionally served to impart chirality to the system as well as dictate C14-C15 olefin geometry and set the stage for sigmatropic development of the C11-C13 contiguous stereocenters. Mukaiyama aldol technology was successfully employed as an alternative to the ester enolate Claisen rearrangement for generating relative stereochemistry at C11-C13. The C3 stereocenter was derived from R-(+)-malic acid, which was successfully employed to generate the C1-C8 intermediate. Failure to effect convergence via the originally intended Emmons-Horner protocol necessitated investigation of several alternative synthetic pathways to the target system. Linear extension of the C9-N intermediate via  sequential  Emmons-Horner olefinations to install the all-  trans triene moiety, followed by an aldol condensation with ethyl acetate, served to complete the carbon skeleton, not accounting for C3-stereochemistry. Attempts to install the requisite stereochemistry at C3 via an asymmetric aldol were unsuccessful. Several synthetic approaches to the ansatrienin target system are described.

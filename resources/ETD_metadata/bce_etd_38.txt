@@ -1,0 +1,11 @@
+$TITLE:
+A study of membrane and membrane-based hybrid processes for gas separations
+
+$DEPARTMENT:
+Biomedical and Chemical Engineering
+
+$KEYWORDS:
+Membrane, Gas separations
+
+$ABSTRACT:
+The objective of the present research was to study the effects of different membrane processes configurations and recycle schemes on the performance and economics of membrane and hybrid (membrane/absorption) processes for the separation of gas mixtures. The following applications were considered: (a) the production of oxygen-enriched air and (b) the removal of acid gases (CO$\sb2$ and H$\sb2$S) from natural gas.The operating conditions for six different membrane process configurations were optimized to determine the lowest cost for the production of oxygen-enriched air containing a minimum of 30 mole-% O$\sb2$. It was confirmed that a single permeation stage without product recycle, and with vacuum pumping of the permeate, is the optimum process configuration. Membrane processes for the oxygen-enrichment of air were found to have the best potential of becoming economically competitive for small plant capacities ($<$ about 20 TPD of EPO$\sb2$), and at oxygen concentrations in the range of 30-45 mole-%. The properties of polymer membranes required to develop an economically-competitive membrane process for the oxygen-enrichment of air were also identified.The operating conditions of seven different membrane process configurations for the removal of acid gases from natural gas were optimized on the basis of new, more meaningful process variables. A three-stage configuration (consisting of a single permeation stage in series with a two-stage cascade) resulted in the lowest separation cost. At the base case operating conditions, membrane processes for the removal of CO$\sb2$ were found to be more economical than DEA absorption and hybrid (membrane/absorption) processes. For the removal of both CO$\sb2$ and H$\sb2$S, however, membrane and hybrid processes result in the lowest separation cost over certain ranges of acid gas concentrations. These concentration ranges were found to be sensitive to variations in operating and economic parameters and in membrane properties.

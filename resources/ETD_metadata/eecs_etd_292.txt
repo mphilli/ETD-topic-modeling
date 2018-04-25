@@ -1,0 +1,11 @@
+$TITLE:
+A Modal Logic for Role-Based Access Control within the Hol Theorem Prover
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Access control, HOL, Theorem prover, User assignments, Role inheritance
+
+$ABSTRACT:
+The access-control logic of Lampson, Abadi, and their colleagues [LABW92, ABLP93] makes it possible to assure the correctness of access-control decisions by accounting correctly for identity, credentials, authority, delegation, and privileges. It can be used to describe a variety of access-control policies and to reason about their access-control decisions. However, it lacks an ability to reason about role-based access control (RBAC) [FSG +  01, FBK99, FKC03, SCFY96], which is a popular technique for reducing the administrative complexity of associating users and privileges. This dissertation introduces extensions to the access-control logic that can be used to assure the correctness of RBAC access-control decisions. By implementing and extending the access-control logic in a computer-assisted reasoning tool such as the Higher Order Logic (HOL) theorem prover [GM93], the access-control logic and its extensions are proved to be sound. The result is a tool for design and verification engineers to reason about access-control policies including RBAC.In this dissertation, we explain how to use the logic to describe RBAC components, such as user assignments, permission assignments, role inheritance, role activations, and users' requests. We also describe in detail the steps of implementing the access-control logic and its extensions in the HOL theorem prover. Administrative RBAC systems are also explored to see how the HOL theorem prover can be used to formally verify their properties and policies.

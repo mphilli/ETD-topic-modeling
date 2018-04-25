@@ -1,0 +1,11 @@
+$TITLE:
+Theories at work: Functional characteristics of theories that facilitate their diffusion over time
+
+$DEPARTMENT:
+Information Science and Technology
+
+$KEYWORDS:
+Citation analysis, Bibliometrics, Scientific communication, Theories, Diffusion
+
+$ABSTRACT:
+This dissertation contributes to research on scientific communication by a comparative case study of the "careers" of eight different theories in the social sciences over a period of approximately twenty years. These theories include work on institutional isomorphism, organizational citizenship behavior, vertical dyad linkage and leader-member exchange, electronic markets and hierarchies, marketing channel structure, social influences on technology adoption and utilization, the antecedents of whistleblowing behavior, and the development of "pseudo-community" in virtual environments. The theories range from those that have received minimal levels of citation since their original publication, to several around which larger or smaller "invisible colleges" have already crystallized, to one "citation classic" that can be considered foundational to a sociological paradigm.  Using citation analysis, citation context analysis, content analysis, surveys of editorial review boards, and personal interviews with theorists, a model of functional "theory characteristics" that appear to promote theory diffusion into particular channels around various epistemic communities is presented. It is then compared to Everett Rogers's classic typology of "innovation characteristics that promote diffusion," and considered in the context of a variety of other ongoing research programs in diffusion, bibliometrics, and computational epistemology that study theories as part of the "commodification of justification."

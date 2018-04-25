@@ -1,0 +1,11 @@
+$TITLE:
+An extension of the Thom-Porteous formula to a certain class of coherent sheaves
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Coherent sheaves, Chow group, Degeneracy locus, Thom-Porteous formula
+
+$ABSTRACT:
+Given a morphism σ of vector bundles E   and  F  of rank e  and f  respectively over a purely n  -dimensional  scheme X  , a nonnegative integer k  ≤ min{ e  ,  f  }, and a degeneracy  locus[Special characters omitted.] satisfying certain conditions, the  Thom-Porteous formula gives the fundamental class of the degeneracy  locus in the Chow group of X  in terms of the Chern classes of E  and F   .Recent work of S. Diaz suggests a method of extending this formula to  morphisms of coherent sheaves that are not vector bundles. Given a  morphism σ of coherent sheaves E and F over a nonsingular, integral,  quasi-projective scheme X of dimension n ≥ 2 over a field K and a  degeneracy locus as above satisfying certain conditions, this thesis  derives an explicit formula for a class in the Chow group of X supported  on the degeneracy locus.

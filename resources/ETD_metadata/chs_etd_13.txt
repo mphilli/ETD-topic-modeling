@@ -1,0 +1,11 @@
+$TITLE:
+Burnout among school counselors: An investigation of its correlates informed by stress-strain-coping theory
+
+$DEPARTMENT:
+Counseling and Human Services
+
+$KEYWORDS:
+Burnout, School counselors, Stress-strain-coping theory
+
+$ABSTRACT:
+Stress-strain-coping theory suggests that burnout may ensue when coping strategies do not adequately mitigate existing job stressors. Utilizing a national sample of professional school counselors affiliated with the American School Counselor Association ( n  = 198), this correlational regression study investigated the contributions that stress/strain factors (demographic and occupational) and coping strategies made to outcome measures on the Maslach Burnout Inventory - Educators Survey (MBI-ES). Three hierarchical regression analyses were completed to determine the amount of variance that distinct clusters of independent variables contributed to the three different dimensions on the burnout scale (emotional exhaustion, depersonalization, and personal accomplishment). The potential moderating effects of coping on the relationship between school counselor occupational stress and burnout were also evaluated. The three final models accounted for 49%, 27%, and 36% of the overall variation in the three outcome scores as measured by the MBI-ES. Task-oriented coping and emotion-oriented coping were found to moderate the relationship between overall occupational stress and one's perceived sense of personal accomplishment. The results indicate that: (1) stress/strain factors and coping approaches each account for significant and distinct amounts of variation for each of the three outcome dimensions of the MBI-ES; (2) increased levels of stress about such issues as role clarity and a lack of decision-making authority significantly predict burnout among school counselors; and (3) individuals who deal with work stress by focusing on the feelings associated with that stress run a higher risk of developing the symptoms of burnout. Implications for training and intervention are discussed.

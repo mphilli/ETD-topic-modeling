@@ -1,0 +1,11 @@
+$TITLE:
+Durability of wearing surface for FRP bridge decks
+
+$DEPARTMENT:
+Civil and Environmental Engineering
+
+$KEYWORDS:
+Durability, Wearing surface, Bridge decks, Fiber-reinforced polymers, Thermal stress
+
+$ABSTRACT:
+One attempt to lift the imposed weight limits and to solve bridge deck deterioration problems is to use fiber reinforced polymer (FRP) composite decks to replace existing deteriorated concrete bridge decks. FRP decks offer the advantages of high strength to weight ratio, ease of transport and installation, short construction time, non-corroding, and high fatigue resistance. Wearing surface materials are needed on bridge decks for skid and wear resistance and to withstand the daily traffic loads during the service life of the bridge. For FRP decks, a wearing surface also serves as a cover to protect the slick and soft top surface of the panels. Field surveys in several states in the U.S. have shown fast deterioration of wearing surface materials (WSM). The cause of deterioration is attributed to incompatibility between the WSM and the FRP decks, and several other physical and environmental factors.This dissertation presents experimental investigation of the cause of the premature delamination of WSM on FRP bridge deck. FRP material properties testing and WSM material properties testing were investigated at different temperatures. Thermal compatibility between WSM and FRP was conducted according to the ASTM C884 Standard Test, freeze-thaw-heat non-standard test, and submerge-freeze non-standard test. Analysis of thermal interface stresses was presented. A hybrid wearing surface system, which offers both excellent bond to the FRP bridge deck and excellent wearing resistance to traffic loads, is recommended and presented.

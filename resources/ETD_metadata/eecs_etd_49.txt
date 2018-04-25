@@ -1,0 +1,11 @@
+$TITLE:
+Transmission through an arbitrary aperture in an arbitrary three-dimensional conducting surface enclosing chiral material
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Chiral, Conductors, Aperture, Transmission, MOM, Electromagnetic
+
+$ABSTRACT:
+Electromagnetic coupling through apertures in conductors and/or dielectrics is a widely encountered problem in electromagnetics (EM) and has been a subject of extensive research for many years. There has also been research on chiral (optically active) material in EM. In this dissertation, a general formulation of an aperture-conductor-chiral media combination has been developed. The problem of transmission through an arbitrary aperture in an arbitrary 3-D conducting surface enclosing homogeneous chiral material  using method of moments with the surface equivalence principle is presented. The validity of the formulation has been proved by comparing the numerical results to exact and other available solutions whenever possible. It is done by reducing the problem to previous researcher's problems by changing the geometry of the obstacle, aperture size and type, and parameters of the chiral material.Numerical results for the internal field, bistatic radar cross section, and physical and equivalent surface currents along the perimeter of a cross section of the obstacle are presented for three different geometries--a sphere, a cube and a finite cylinder. These results are studied for various electrical sizes, permittivity values, chirality values, aperture sizes and aperture types. Convergence as the number of unknowns is increased is also studied.In an appendix, a technique to reduce the order of the moment matrix is presented.

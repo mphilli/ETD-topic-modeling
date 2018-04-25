@@ -1,0 +1,11 @@
+$TITLE:
+Parenting, child mastery motivation, and children's school readiness to learn in Turkey: A structural equation analysis
+
+$DEPARTMENT:
+Anthropology
+
+$KEYWORDS:
+Parenting, Mastery motivation, Children, School readiness, Turkey, Preschool
+
+$ABSTRACT:
+This study examined the factors associated with children's readiness to learn at school in Turkey. Two-hundred-thirty two mother-father dyads reported on their socioeconomic status (SES), parenting beliefs and goals, child rearing practices and their perceptions of their preschool age children's mastery motivation (gross-motor persistence, object persistence, social symbolic persistence and mastery pleasure). The preschool teachers reported on children's school readiness measured in five domains (physical well being, emotional maturation, social competence, language and cognitive competence and communication and general knowledge) as well as their perceptions of children's mastery motivation. Along with descriptive and correlational analyses, structural equation modeling (SEM) using AMOS 5.0 was used to test the models' ability to explain school readiness in the five domains. SEM analyses revealed that mastery motivation in children was a significant and positive predictor of children's school readiness. Effects of parenting and SES on school readiness were indirect and mediated by mastery motivation. Results also revealed that, as suggested by the "Family Change Model" described by Kagitcibasi (2006), both western and eastern values informed Turkish parenting.

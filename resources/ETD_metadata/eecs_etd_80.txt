@@ -1,0 +1,11 @@
+$TITLE:
+Electromagnetic scattering from three-dimensional chiral objects using the FDTD method
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Finite-difference time-domain, Electromagnetic scattering, Three-dimensional, Chiral
+
+$ABSTRACT:
+In this dissertation, new finite-difference time-domain (FDTD) scattered-field formulations for chiral media are developed and presented. The first FDTD formulation is a single frequency FDTD formulation, which is valid for sinusoidal waves and neglects the dispersive behavior of the chiral media. The second FDTD formulation is based on the Z transform method and models the frequency dependent dispersive nature of permittivity, permeability, and chirality as well. The permittivity and permeability are assumed to follow the Lorentz model while the chirality is assumed to follow the Condon model. A third FDTD formulation based on the Drude-Born-Fedorov (DBF) constitutive relations which represent the reciprocal chiral media is also developed. The formulations are developed for three-dimensional electromagnetic applications. Results of these formulations are presented for the co-polarization and cross-polarization of the reflected and transmitted waves from a chiral slab due to normal incidence of a plane wave and for the scattered field from a chiral sphere, a chiral cube, and a finite chiral cylinder. Validation is performed by comparing the results with those based on exact solutions and those obtained from method of moments solutions.

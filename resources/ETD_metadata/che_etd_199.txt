@@ -1,0 +1,11 @@
+$TITLE:
+Investigating the Role of Quantum Dot Morphology and Microstructure in Resonance Energy Transfer
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Bioluminescence, Energy transfer, Quantum dots, Quantum rods
+
+$ABSTRACT:
+Semiconductive quantum dots (QDs) and quantum rods (QRs) have tailorable optical and electrical properties that are a function of; core composition, size and morphology. These quantum parameters are sensitive to the conditions in which they are prepared, and chemical synthesis can lead to a wide variety of types. In my dissertation research, I designed synthetic protocols for QDs and QRs to have tailored morphologies, aspect ratios, and microstructures for energy transfer applications. The role of QRs as energy acceptors in bioluminescence resonance energy transfer (BRET) with firefly luciferase enzymes is a particular focus. In this thesis I show how changing morphology and aspect ratio of QRs can help to optimize BRET efficiency. My work revealed that CdSe/CdS QRs with rod-in-rod morphology are the most efficient BRET acceptors. In order to gain insight into the origin of this high efficiency, systematic BRET studies were preformed using QRs of varied aspect ratios and emission wavelengths. To study the effect of bioluminescent donor energy level on BRET, I used three different combinations of modified firefly luciferase and the luciferin substrate, producing blue-green, green, and red bioluminescence. To gain insights into the binding location and mechanism of the enzyme on the QR, I monitored surface defects, by growing gold nanoparticles on the surface, which nucleate at defect sites. I extended our approach and made a near Infrared (nIR) BRET nanoconjugate, in which green bioluminescence was converted to nIR emission. Finally, I describe our latest advance that involves two-step sequential resonance energy transfer was observed in which QDs are used as an energy acceptor and donor, which was facilitated by secondary attachment of a red fluorescent protein.

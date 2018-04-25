@@ -1,0 +1,11 @@
+$TITLE:
+Identifying letters
+
+$DEPARTMENT:
+Biomedical and Chemical Engineering
+
+$KEYWORDS:
+object recognition, character recognition, Neurology, Biomedical research, Psychology, Experiments
+
+$ABSTRACT:
+Letters and words are encountered in everyday life, making text a good stimulus for studying the process of object recognition. This dissertation describes a series of experiments measuring letter identification efficiency, an absolute measure of human performance that can be compared across dissimilar tasks. Efficiency is broadly constant across wide ranges of letter size, duration, contrast, and position on the retina, suggesting that the underlying process of letter identification is quite general. Observers of any age learn to identify letters in new (to them) alphabets quite quickly; their efficiencies approach those of fluent observers within a few thousand trials. Finally, efficiency is highly correlated with alphabet complexity, measured by the ratio of squared letter perimeter to ink area. This result is consistent with a feature-based model of object identification.

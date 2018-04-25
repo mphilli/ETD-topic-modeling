@@ -1,0 +1,11 @@
+$TITLE:
+Three Essays on the Quality of Marriage
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Causal Mechanisms, Chilean Divorce Law, Duration models, Labor force participation, Program Evaluation, Time to first birth
+
+$ABSTRACT:
+In these essays I focus on issues that affect the quality of marriage. First, I analyze the effect of the Chilean divorce law on a woman's decision of when to have the first child. Using survival analysis, I find that the divorce law has had a positive effect on the hazard for highly-educated women. This result suggests that highly-educated women may have waited to have the first child until they were able to afford the additional costs that a child may bring to a divorce process in case the couple decided to separate. In the second essay I analyze the relationship between domestic violence and marriage duration. Using a representative sample of Peru's female population between 15 and 49 years old, I find that domestic violence may increase the hazard of divorce. Moreover, I find that the change in the hazard varies over time, increasing immediately after the first physical or sexual aggression from the husband, and decreasing afterwards. In the third essay I evaluate the role of domestic violence as a causal mechanism in the effect of civil conflict violence on a woman's labor force participation. Using data on the civil conflict violence from Peru and assuming unconfoundedness, I find that the probability of working increased by 0.0454 (eight percent) for women who live in areas affected by the civil conflict and that about 27 percent of this increase is mediated by the woman's exposure to domestic violence.

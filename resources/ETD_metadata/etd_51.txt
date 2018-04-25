@@ -1,0 +1,11 @@
+$TITLE:
+Investigating the Activity of Metal Pyrophosphate Complexes against Select Pathogenic Organisms
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+Herein, metallo-pyrophosphate complexes have been designed and synthesized, in which pyrophosphate is chelated to multiple metals, with an emphasis on cobalt and copper metal centers.  These complexes have diverse and interesting behaviors ranging from cooperative magnetism to anti-mycobacterial properties.The latter application is one of the main focuses of this work, investigating cobalt(II) and copper(II) pyrophosphate complexes as antibacterial agents.  In particular, a cobalt(II) pyrophosphate complex with an aromatic capping donor ligand has selectivity and potency against Mycobacterium tuberculosis, the causative agent of tuberculosis (TB).  TB causes up to 10 million incident cases per year, with an estimated annual death toll of two million.  The need for innovative TB therapy has been stressed, and this research has resulted in new lead compounds for the treatment of TB, with a cobalt(II) pyrophosphate complex having activity comparable to current first-line TB therapy.In addition to antibacterial agents, the application of metallo-pyrophosphate complexes has been extended to the more complex eukaryotic fungus kingdom.  Species of Candida are focused on, as Candida is the causative agent of common yeast infection and life-threatening candidemia, which has high morbidity and mortality rates.  Cobalt(II) and copper(II) complexes were tested for activity against multiple clinical isolates from patients with active infection.  Varying degrees of efficacy have been discovered, which could be assigned based on the particular clinical isolate and the particular metal center in different Candida species.  More in depth studies, such as the activity in metal-transport protein knock-outs and efflux assays, have also been conducted.

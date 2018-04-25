@@ -1,0 +1,11 @@
+$TITLE:
+Identifying Effective Ways to Increase Teachers' Implementation Integrity through Brief Experimental Analysis
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+As a result of recent legislation and research in the area of positive-behavior support, the responsibility of teachers to implement evidence-based interventions in the regular education classroom has increased.  Past research has shown that in many cases interventions were not implemented with integrity, thus limiting the conclusions that could be made regarding a student's response to intervention.  Although provision of scripts, performance feedback, and reinforcement were useful at increasing implementation integrity in previous studies, their effects varied across teachers.  In the present study, a brief experimental analysis (BEA) with a reversal was used to identify the most effective method for increasing the integrity with which 4 regular education teachers implemented a DRA procedure using verbal praise as a reinforcer for student on-task behavior.  An extended analysis using a multiple baseline design across teachers was then conducted to assess the predictive validity of the BEA.  Student on-task behavior was also observed to determine its relationship to teachers' levels of implementation integrity.  Results showed the BEA to be an effective and valid means of identifying an effective support method for 3 of the 4 teacher-student dyads.  Although task engagement increased for all students to above 90%, it correlated with implementation integrity for only 2 of 4 dyads.  Implications for future research and clinical practice are discussed.

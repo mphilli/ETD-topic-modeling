@@ -1,0 +1,11 @@
+$TITLE:
+Examining the Effectiveness of using CSR Communications in Apology Statements after Negative Publicity
+
+$DEPARTMENT:
+Mass Communications
+
+$KEYWORDS:
+apology, CSR, negative publicity
+
+$ABSTRACT:
+This study examined the effects of framing apology statements with CSR communications after a company has been hit by negative publicity. 316 individuals recruited via Qualtrics participated in an online experiment that tested respondents’ perceived CSR motivation, skepticism towards the apology statement, attitude towards the company, attitude towards the apology statement and purchase intention. A 2 (CSR fit: high or low) x 2 (CSR history: long or short) between-subject design was employed to examine the hypotheses. In addition, a control condition that presents a pure apology statement without any CSR-related remarks was included. The high-CSR fit condition had more positive results than the low CSR fit condition, as predicted based on the associative network theory, except for purchase intention. The long CSR history condition led to more positive results than the short CSR history condition, as predicted, except for attitude towards the company and purchase intention. In addition, the mediating role of consumers’ skepticism towards the apology statement and perceived CSR motivation were examined—a hierarchical multiple regression results indicated that the two variables mediate the relationship between CSR fit and CSR history on attitude towards the company, attitude towards the apology statement and purchase intention. This study also examined whether there exist any interaction effects between CSR fit and CSR history on the dependent variables. No significant interaction effects were found. Overall, these results indicate that public relations practitioners might consider employing CSR communications in an apology statement after a company has been hit by negative publicity when the company-cause fit is high and when the company has been involved in the CSR activities for a long period of time. Otherwise, mentioning the company’s CSR activities would have more negative results than a pure apology statement that does not include any comments related to the company’s CSR activities.

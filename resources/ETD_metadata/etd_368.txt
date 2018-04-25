@@ -1,0 +1,11 @@
+$TITLE:
+The Impact of HIV-Related Stigmatization on Medication Adherence among  HIV-Infected People: A Test of Two Explanatory Mechanisms
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Adherence, Depressive symptoms, Disclosure concerns, HIV Stigma
+
+$ABSTRACT:
+Stigmatization (i.e., social discrediting and devaluation) due to HIV status may interfere with disease management among persons living with HIV (PLWHA) through associations with disclosure concerns and depressive symptoms. This study tested the hypotheses that disclosure concerns and depressive symptoms would mediate the association of stigma to treatment adherence (medication and clinic appointment adherence) in an outpatient sample of PLWHA (N = 174; 47% White, 41% African-American). Participants completed measures of stigma-related experiences, concerns about disclosing HIV status, depression, and medication adherence; chart data were obtained to characterize clinic appointment attendance. In the first set of analyses, simple mediation models indicated that disclosure concerns mediate the association between stigma and medication adherence (β = -0.097; 95% CI: -0.212 to -0.003), but not the association between stigma and clinic attendance. In the next set of analyses, depressive symptoms were shown to mediate both the stigma-medication adherence association (β = -0.113; 95% CI: -0.232 to -0.034) and the stigma-clinic attendance association (β = 0.397; 95% CI: 0.172 to 0.723). To augment these analyses, serial mediation models tested the serial effect of disclosure concerns on depressive symptoms in the stigma-treatment adherence association. The serial mediation analyses were significant (β = -0.025; 95% CI: -0.068 to -0.004 for medication adherence; β = 0.118; 95% CI: 0.039 to 0.237 for clinic attendance), providing evidence that stigmatizing experiences are negatively associated with medication adherence and missed clinic appointments indirectly through the serial effect of disclosure concerns on depressive symptoms. Disclosure concerns and depressive symptoms are two mechanisms worthy of further research to enhance our understanding of the association between HIV stigma and treatment adherence.

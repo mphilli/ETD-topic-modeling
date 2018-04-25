@@ -1,0 +1,11 @@
+$TITLE:
+Composition, vagueness, and persistence
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Persistence, Three-dimensionalism, Four-dimensionalism, Composition, Vagueness, Theordore Sider
+
+$ABSTRACT:
+This dissertation explores the conceptual relations among composition, vagueness, and persistence; in light of those relations, it defends a three-dimensionalist ontology.Under which circumstances do some objects that exist at various times compose a persisting object? The correct answer to this "successive composition question" should entail that every possible persisting object has precise temporal boundaries and a precise composition profile at every moment of its existence. This "precision constraint" follows from a foundational commitment of this dissertation, namely, that vagueness is a linguistic, i.e., non-ontological phenomenon.The precision constraint disallows that all and only ordinary objects are persisting things. Views that try to demarcate ordinary objects in terms of causal powers, lawful behavior, continuity, etc. all breach the precision constraint. The correct answer to the successive composition question is that every time during which some x s exist is a time during which some y exists where y is composed of the x s at the said times, and y does not exist at any other time. This is the thesis of Diachronic Plenitude, so-named because it implies that every non-empty spacetime region contains an object fitting exactly in that region.Recent work on vagueness and persistence has it that Diachronic Plenitude either precludes three-dimensionalism or renders it untenable. I show that these claims are false. Particularly, I show that (1) Diachronic Plenitude does not entail four-dimensionalism, (2) the ontology of a plenitude of three-dimensional objects meets the precision constraint in exactly the same way as the ontology of temporal parts, and (3) Plenitudinarian three-dimensionalism does not violate a tenable supervenience principle. Moreover, Plenitudinarian Three Dimensionalism solves traditional puzzles of constitution, and it can be revised to meet the objection from the possibility of time travel.

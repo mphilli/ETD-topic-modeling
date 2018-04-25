@@ -1,0 +1,11 @@
+$TITLE:
+The perceived impacts of information technologies on budget tasks in county governments: Focusing on budget managers' perception and budget tasks' environments
+
+$DEPARTMENT:
+Social Sciences
+
+$KEYWORDS:
+Public administration, Management, information technology budgets
+
+$ABSTRACT:
+Theorists in the field of budgeting and information technology management have not provided a theoretical model along with empirical evidences to investigate the degree which information technologies are utilized in the performance of budget tasks in county governments. This study attempts to provide a theoretical model how the internal and the external environment affect the level of impacts of information technologies on budget tasks. In particular, this study focuses on budget managers' perceptions and budget tasks' environments.The theoretical model of this study is grounded upon the contingency perspective that the perceived impacts of information technologies on budget tasks may vary depending upon contingencies where budget managers are reacting to conditions in order to match existing problems associated with the internal and the external environment of budgeting to IT solutions. An empirical test of the theoretical model was conducted using a data set collected by mail surveys for budget managers in the largest 450 counties in the U.S.The empirical results indicate that the perceived impacts of information technologies on budget tasks are greatly determined by the external influences and the ways the information system and it's services are established or managed. Interestingly, the degree to which those environments affect the perceived impacts of information technologies on budget tasks vary depending on the characteristics of a particular budget task as consistently argued in the theoretical model in this study.

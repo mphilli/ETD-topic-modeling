@@ -1,0 +1,11 @@
+$TITLE:
+Monte Carlo studies of field theory and quantum gravity
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Field theory, Quantum gravity
+
+$ABSTRACT:
+In this dissertation I describe three main research projects in which I have participated as a graduate student. They share the common theme of using Monte Carlo computer simulation to investigate quantum field theories. I begin by giving a brief review of Monte Carlo simulation as a discrete path integral approach to a quantum theory. Two of the projects involve tests of the Monte Carlo renormalization group method, a systematic way of integrating out short distance features of a physical system in order to gain insight about its critical behavior, and hence its continuum limit. After a review of the ideas of the renormalization group, I discuss our thorough investigation of Monte Carlo renormalization of [straight phi] 4 field theory on a two-dimensional square lattice. The second renormalization project overlaps with the other main thrust of my research, studying quantum gravity as the continuum limit of a sum over all possible ways of piecing together discrete simplices, or simplicial quantum gravity. I describe a unique Monte Carlo renormalization group study of scalar fields coupled to two-dimensional quantum gravity, where we were able to extract the anomalous field dimension for a case inaccessible to analytic methods. Finally I discuss a study of four-dimensional quantum gravity coupled to gauge fields and special concerns one must be aware of when measuring connected correlators in fluctuating geometry.

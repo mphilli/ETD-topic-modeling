@@ -1,0 +1,11 @@
+$TITLE:
+A Study on the Synthesis of Fluorine-Containing Gamma-Aminoalcohols and Beta-Aminoketones
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Fluorine-containing gamma-aminoalcohols, Behavior, Mannich reaction
+
+$ABSTRACT:
+The purpose of the investigation reported here was to find a synthesis route for the preparation of fluorine-containing gamma-aminoalcohols of the general structure CF3CH(OH)CH2CH2NR2 and to study the behavior of a number of partially fluorinated carbonyl compounds in the Mannich reaction.

@@ -1,0 +1,11 @@
+$TITLE:
+A forecasting model of local government finances: A case study approach--Syracuse, New York
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+modeling, analyzing,   local government's budgetary position.
+
+$ABSTRACT:
+This thesis sets forth a process for modeling, forecasting and analyzing a local government's budgetary position. A forecasting model applied to Syracuse, New York is presented and its results are analyzed.A model of the local government's finances is developed based on the local government's fiscal structure. The components of the model are forecast independently so that the level of one component does not affect any other component. Revenues are modeled and forecast by component as own source revenues (e.g. property tax, sales tax, other taxes) and intergovernmental revenues (e.g. state aid, direct federal aid and indirect federal aid). On the expenditure side current expenditures (locally financed and grant financed) and capital and debt expenditures are modeled and forecast.The model is estimated using knowledge from an analysis of the local economic base and population. Detailed projections of the future Syracuse budgetary position are developed using separately forecast independent variables over a multi-year time period.The historical data that exist for the forecast period, 1977-1980, allow a detailed analysis of the sources of forecast error. Actual data make it possible to determine error due to incorrect forecasts of independent variables. Error due to model specification and other factors is treated as residuals.This dissertation develops a framework and process for a local government to use in formulating and estimating a forecast model. It also presents a method for analyzing the forecast errors so that local officials can identify the most appropriate forecasting model. After establishing an accurate model, forecast results can be used to analyze the locality's future budgetary position.This thesis presents a framework. It is left to the practitioner to adapt what follows to make it a realistic and valuable planning tool.

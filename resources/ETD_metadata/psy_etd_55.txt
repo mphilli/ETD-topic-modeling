@@ -1,0 +1,11 @@
+$TITLE:
+Weighing the pros and cons: Evaluating decisional balance as a brief motivational intervention for at-risk college drinkers
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Decisional balance, Intervention, At-risk, College drinkers, Alcohol
+
+$ABSTRACT:
+The current study examined the efficacy of written and in-person decisional balance exercises as brief motivational interventions (BMIs) for at-risk college drinkers. Participants consisted of 131 at-risk college drinkers who completed alcohol-use assessments at baseline, two-week posttest, and six-month follow up. Outcome variables included number of drinks consumed during the past two weeks, frequency of heavy-drinking episodes, number of drinks consumed during a peak drinking occasion, and extent of alcohol-related problems. Participants were randomly assigned to (a) an in-person decisional balance (IDB), (b) a written decisional balance (WDB), or (c) a no-treatment control (C) group. Participants in the IDB group met with an interventionist for an individual 30-minute discussion of the pros and cons of maintaining versus changing their drinking behavior. Participants in the WDB group completed a written decisional balance exercise. Participants in the C group completed assessments only. Analyses of covariance were used to examine the effects of group and gender on the outcome variables. Contrary to hypotheses, analyses indicated no significant differences among the intervention groups on any of the outcome variables. Exploratory analyses tested the ability of cognitive variables to predict drinking outcome variables. The IDB group evinced a trend towards reduction of heavy-drinking episodes regardless of baseline heavy-drinking episodes frequency, whereas other groups reduced heavy-drinking episodes as a function of higher baseline heavy-drinking episodes. The WDB group increased on alcohol-related problems as a function of increasing ambivalence about drinking. This study did not provide support for decisional balance as a stand-alone BMI for at-risk college drinkers; however, given the strong support for decisional balance in theory and in practice, further research addressing the contribution of decisional balance in multicomponent BMIs is warranted.

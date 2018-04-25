@@ -1,0 +1,11 @@
+$TITLE:
+Kant and the Neglected Alternative
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Critique of Pure Reason, Kant, Neglected Alternative, Pistorius, space and time, Trendelenburg
+
+$ABSTRACT:
+In this work, I conduct a reconstruction and evaluation of the Neglected  Alternative objection to Immanuel Kant's philosophy. Kant famously argues in the Transcendental Aesthetic section of the Critique of Pure Reason that space and time are subjective forms of human intuition, and the Neglected Alternative maintains that this argument is a failure. According to the Neglected Alternative, Kant completely overlooks the possibility that space and time are in some way both subjective and objective, and so Kant's conclusions about the nature of space and time are not justified by his arguments. This objection was first formulated very soon after the publication of the Critique of Pure Reason but is still subject to great controversy among Kant scholars.I argue that the Neglected Alternative objection is unsuccessful. To do this, I provide a close analysis of Kant's key technical term "a priori intuition," and I reconstruct the work of two important critics of Kant: H.A. Pistorius and F.A. Trendelenburg. I then argue that in the Transcendental Aesthetic, Kant is justified in deriving the conclusion that space and time have nothing to do with things in themselves, or objects entirely independent of human cognition. Finally, I look at Kant's works as a whole and consider Kant's arguments that seem to rule out the possibility that things in themselves have a structure that is even similar to space and time.

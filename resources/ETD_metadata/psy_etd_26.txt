@@ -1,0 +1,11 @@
+$TITLE:
+Capacity limits of the focus of attention and dynamics of the focus switch cost in the working memory
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Attention, Focus switch cost, Working memory, Capacity limits
+
+$ABSTRACT:
+Four experiments explore the process of switching items in and out of the focus of attention within working memory. The task used in the first three experiments is an N-Count task (adapted from Garavan, 1998). This task yielded a focus size of one, indicated by a substantial focus switch cost for 2-Count. This focus switch cost did not dissipate with extensive practice, implying that not enough resources could be freed in this task such that capacity of focus of attention could be expanded. Additionally, the focus switch costs in response time increased with working memory load, and maintaining and switching to and from a passive load did not increase the focus switch costs or decrease the accuracy of the items in working memory. The results support a concentric theory of working memory: a small focus at its core, a surrounding area of (at least) 3 readily available items referred to as the outer store, and a still wider region of passive storage, possibly more long-term memory than working memory. Experiment 4 reveals that retrieval dynamics of the outer store can take the form of either a controlled search or of immediate content-addressable retrieval, depending on the predictability of stimulus sequence. It is suggested that there are at least three functions of the focus of attention: redirecting attention, retrieving and updating.

@@ -1,0 +1,11 @@
+$TITLE:
+(+)-Admissible sequences and the preprojective component
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Preprojective component, Admissible sequences, Finite-dimensional algebras, Quiver
+
+$ABSTRACT:
+For a finite quiver without oriented cycles, we study the set of (+)-admissible sequences as introduced in [BGP]. We show how the nonisomorphic indecomposable preprojective modules can be characterized in terms of (+)-admissible sequences and establish a connection with the classical characterization presented, for example, in [ARS].

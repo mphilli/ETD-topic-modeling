@@ -1,0 +1,11 @@
+$TITLE:
+Models and Mechanisms for the Pyridine Nucleotides
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Enzymatic reactions, Catalytic protein, Apoenzyme, Coenzyme
+
+$ABSTRACT:
+Enzymatic reactions occur with remarkable ease at rates which cannot ordinarily be duplicated in the absence of the catalytic protein. The biological system consists of an apoenzyme (protein), substrate and in many cases a coenzyme, prosthetic group or metallocoenzyme. The apoezyme-coenzyme complex is called the holoenzyme. A coensyme is a stable monomeric molecule which normally is not convalently bonded to the protein but is essential for activity in certain biological transformations. The coenzyme is chemically modified in the transformation such as hydride loss or acceptance. All enzymatic reactions theoretically are reversible; however, the equilibrium may be displaced so that the reverse reaction is unimportant. The oxidoreductases are of great interest since many of them require a coenzyme. Nicotinamide adenine dinucleotide is the cofactor for the alcohol dehydrogenases as well as many aldehyde dehydrogenases.

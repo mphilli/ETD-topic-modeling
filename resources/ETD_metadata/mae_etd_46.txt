@@ -1,0 +1,11 @@
+$TITLE:
+Three new test methods for the determination of fracture toughnesses of bimaterial interfaces
+
+$DEPARTMENT:
+Mechanical and Aerospace Engineering
+
+$KEYWORDS:
+interfacial toughness
+
+$ABSTRACT:
+Three new tests--the unsymmetric double cantilever beam (UDCB) test, the single leg bending (SLB) test, and the unsymmetric end-notched flexure (UENF) test--are developed that can be used in combination to determine the fracture toughness of most bimaterial interfaces over a complete range of mode mixities. Common specimen geometries for all three tests are comprised of long slender beams of two dissimilar materials partially joined together along their lengths. The loading and boundary conditions for the UDCB test are identical to those of the standard double cantilever beam test. As a result of dissimilar deformations of the two materials, the UDCB test will generally display geometrically nonlinear behavior. Specimens of the SLB and UENF tests are subjected to three point bending, with the crack tip midway between the center loading pin and one of the side supports. In the UENF specimen, the support at the cracked end transfers load into both cracked regions, whereas the material comprising the lower cracked region of the SLB specimen is trimmed, forcing the upper material to carry the entire reaction load.A crack tip element approach is used to obtain closed-form expressions for energy release rate (ERR) and mode mixity for all three test specimens. These analytical predictions are verified by comparisons to results from finite element analyses. The accuracy of these comparisons indicate the applicability of the closed-form analyses of the three test methods to determine the fracture toughness and mode mixity for most bimaterial interfaces. Guidelines for specimen design for the three tests are presented, and direct data reduction procedures not requiring the knowledge of material properties are outlined for the accurate determination of fracture toughnesses. The utility of the new interfacial fracture tests and data reduction methods is demonstrated using specimens comprising an aluminum/epoxy bimaterial pair. A discussion on the use of the new tests in the assessment of certain fundamental issues of interfacial fracture is also presented.

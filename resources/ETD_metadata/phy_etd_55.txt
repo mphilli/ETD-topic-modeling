@@ -1,0 +1,11 @@
+$TITLE:
+Fuzzy physics
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Fuzzy physics, Quantum field theory, Regularization, Noncommutative geometry
+
+$ABSTRACT:
+Regularization of quantum field theories (QFT's) can be achieved by quantizing the underlying manifold (spacetime or spatial slice) thereby replacing it by a non-commutative matrix model or a "fuzzy manifold'. Such discretization by quantization is remarkably successful in preserving symmetries and topological features, and altogether overcoming the fermion-doubling problem. In this thesis, the fuzzification of coadjoint orbits and their QFT's are put forward.

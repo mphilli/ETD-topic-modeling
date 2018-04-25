@@ -1,0 +1,11 @@
+$TITLE:
+Evaluation of EPS geofoam as subbase/subgrade material in pavement structures
+
+$DEPARTMENT:
+Civil and Environmental Engineering
+
+$KEYWORDS:
+Geofoam, Pavement, Expanded polystyrene
+
+$ABSTRACT:
+Most of the current geofoam design methods adapt the working stress concept. To design pavement structures with EPS geofoam as subgrade according to AASHTO, the resilient modulus ( M r ), CBR, and modulus of subgrade reaction ( k ) for EPS geofoam needs to be estimated. The standard resilient modulus test method is not suitable for geofoam because of the stress limit that can be applied on geofoam. This research presents results from an investigation of modified tests for evaluation of M r to suggest an approach for selection of realistic design parameters for different geofoam grades. By considering the composite action of the concrete slab and geofoam, higher M r values for design were obtained. CBR tests were performed on geofoam of different densities according to ASTM and AASHTO test standards. CBR values interpreted by a proposed modified method yielded higher values than conventional methods. A series of extensive plate load tests were performed on different densities of geofoams. Modulus of subgrade reaction values were derived from plate load tests. Plate load tests resulted in low k values for all geofoam grades. Plate load test results were used to calibrate a numerical model. Estimates of k values for concrete slabs over geofoams, assuming composite subgrades, were obtained from the calibrated numerical models. The equivalent k values for the combined concrete slab and geofoam subgrade layers were higher than for geofoam subgrades without concrete cover. The equivalent k values also indicate significant differences between low and high density geofoam grades for the same thickness of concrete slab. Estimates of k values derived for the concrete slab and geofoam composite subgrades were in good agreement with previously reported results from FWD field surveys and back calculations.

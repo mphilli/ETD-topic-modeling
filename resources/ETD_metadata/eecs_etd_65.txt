@@ -1,0 +1,11 @@
+$TITLE:
+Surface integral solution of chiral loaded waveguides of arbitrary cross section
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Surface integral, Chiral, Waveguides, Cross section
+
+$ABSTRACT:
+In this dissertation, the problem of obtaining the dispersion curves of chiral-loaded waveguides of arbitrary cross section is formulated by utilizing the surface equivalence principle and solved numerically using the method of moments.The surface equivalence principle is used to replace the waveguide interfaces by equivalent electric and magnetic surface currents. For a waveguide with N regions, application of the surface equivalence principle splits the problem into N easier to solve uncoupled problems, each of which is the problem of determining the fields of an assumed source distribution in an unbounded homogenous medium. These uncoupled problems are then coupled to each other by applying the boundary conditions on the tangential components of the electric and magnetic fields. The boundary conditions produce a set of integro-differential equations for the equivalent electric and magnetic surface currents. The method of moments is applied to reduce these equations into a computation-friendly matrix form. This matrix form is that of a nonlinear eigenvalue problem. The solution of the eigenvalue problem over a range of frequencies gives the dispersion curves of the waveguide. A computer program is developed to solve the eigenvalue problem. Numerical results obtained by using this program are compared with exact analytical results and published numerical results for certain waveguides. The agreement is excellent.

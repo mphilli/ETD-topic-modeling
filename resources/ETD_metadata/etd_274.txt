@@ -1,0 +1,11 @@
+$TITLE:
+Synthetic, Structural, and Mechanistic Investigations of Vitamin B12 Conjugates of the Anorectic Peptide PYY3-36
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+Obesity has become a worldwide epidemic, with nearly 40% of the adult population (age 18+) being considered obese (defined as a body mass index of ≥ 30). Appetite-regulating gut hormones such as peptide YY (PYY) have recently garnered interest in combatting obesity. PYY has been shown to have clinical relevance in appetite control and energy homeostasis. The truncated form of PYY, PYY3-36, potentiates an anorectic effect upon activation of the Y2 receptor through both the central and peripheral nervous system. The positive appetite-regulating effects of PYY3-36 have generated interest of pharmaceutical development to treat obesity. A major component of PYY3-36 research is the desire to produce a medically relevant, patient compliant route of administration, either through oral or subcutaneous (sc) delivery. Vitamin B12 (B12) is implemented as the drug delivery vehicle for PYY3-36, and is hypothesized to serve as a means of protection and/or improved pharmacodynamics/pharamacokinetics in vivo.Herein, the synthesis, characterization, and quantitative structure-activity investigations of a series of B12-PYY3-36 conjugates show that, along with the exact location chosen for conjugation between B12 and the peptide, the distance (as measured by linker length) between B12 and peptide is critical to consider for optimal Y2 receptor activation. In addition, the first pharmacodynamic studies of a select B12-PYY3-36 conjugate are presented, which show that reduction of food intake via B12-PYY3-36 is improved (> 10%) compared to PYY3-36 upon sc administration. The improved effects observed are postulated to be from increased tissue distribution of B12-PYY3-36 versus PYY3-36, as evidenced by subsequent pharmacokinetic analysis. Through corresponding in vitro and in vivo studies, a Y2 receptor-mediated process was also confirmed through observations of a C-terminally conjugated B12-PYYC36 null conjugate.

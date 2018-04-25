@@ -1,0 +1,11 @@
+$TITLE:
+Link Prediction in Dynamic Weighted and Directed Social Network using Supervised Learning
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Data Mining, Link Prediction, Machine Learning, Social Network
+
+$ABSTRACT:
+Link Prediction is an area of great interest in social network analy- sis. Previous works in the area of link prediction have only focused on networks where the links once created cannot be removed. In many real world social networks, the links should be assigned strengths; for example, the strength of a link should decrease over time, if there are no interactions between the two nodes for a long time and increase if the two nodes interact often. In this thesis we modify existing meth- ods of link prediction to apply to weighted and directed networks. The features, developed in previous works for unweighted and undi- rected networks, are extended to apply to networks whose links have weight and direction, and algorithms are developed to calculate them efficiently. These network features are used to train an SVM clas- sifier to predict which nodes will be connected by a link and which links will be broken in the future. The results obtained using Twitter @-mention network demonstrate that the method developed in this thesis is very effective.

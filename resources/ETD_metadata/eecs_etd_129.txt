@@ -1,0 +1,11 @@
+$TITLE:
+Methodology for full-custom datapath layout synthesis
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+VLSI, Module generator, Datapath
+
+$ABSTRACT:
+As the technology advances, millions of transistors can be integrated on a small chip area. The processing power of many application-specific circuits primarily comes from the use of dedicated datapaths with architecture tailored to suit the design. The ever-growing complexity of datapath circuits dictates the need for synthesis tools that can improve the productivity of the design process and generate high-performance, area-optimal layouts. The existing techniques for random logic synthesis cannot exploit the characteristics of the datapath circuits to efficiently generate layouts that meet stringent density, timing and power requirements. The motivation for a new layout design methodology that can exploit the structural properties inherent in the description of the datapath blocks to plan the layout generation phase is presented. This thesis addresses the methodology and algorithms for the layout generation framework that facilitates such an integrated approach to datapath synthesis.To effectively exploit the structural information during layout synthesis, new techniques for datapath-oriented cell generation, structure-driven hierarchical placement, and global connectivity-aware detailed routing are presented. Unlike the conventional systems that divide layout generation phase into discrete steps that are locally optimized, with an integrated top-down design flow, we explore the potential to optimize the global layout area and hence the performance of the circuit, at every stage. The adopted layout style and architecture for custom design are open to placement and routing , facilitating the detailed layout generator to explore routing driven pin placement. Routing congestion based global signal planning and detailed routing techniques are also developed as generic approaches but with pertinence to datapath layout synthesis. The developed algorithms have been applied to industry standard datapath blocks to generate dense layouts in reasonable execution time.

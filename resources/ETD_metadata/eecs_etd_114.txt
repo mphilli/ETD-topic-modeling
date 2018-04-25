@@ -1,0 +1,11 @@
+$TITLE:
+A grid event service
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Grid event service, Distributed messaging, Message-oriented middleware, Middleware
+
+$ABSTRACT:
+The Grid Event Service (GES) is a distributed event service designed to run on a very large network of server nodes. Clients interested in using this service can attach themselves to one of the server nodes. Clients specify an interest in the type of events that they are interested in and the service routes events, which satisfy the constraints specified by the clients. Clients can have prolonged disconnects from the server network and can also roam the network (in response to failure suspicions or for better response times) and attach themselves to any other node in the server node network. Events published during the intervening period, of prolonged disconnects and roams, must still be delivered to clients that originally had an interest in these events. The delivery constraints must be satisfied even in the presence of server failures. Server nodes can fail and remain failed forever. Clients need not wait for the failed server nodes to recover. Affected clients can then roam to a new location and thus not experience any denial of service. GES provides a hierarchical dissemination scheme for the delivery of events to relevant clients. The system provides for an efficient calculation of routes to reach relevant destinations. GES also provides for merging streams of related events and delivering these merged streams to relevant clients. The events in these related streams could have spatial and chronological relationships to events within other streams. GES provides for the resolution of these constraints and the subsequent delivery of these dependency resolved event streams to interested clients.

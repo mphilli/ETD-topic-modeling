@@ -1,0 +1,11 @@
+$TITLE:
+Coping with College Stress: Does Sense of Coherence Influence the Use of Alcohol and OTC Medication?
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Alcohol, Over the Counter medication, Sense of Coherence, SOC
+
+$ABSTRACT:
+The combination of stress and psychological symptoms (e.g., anxiety, depression) have been associated with alcohol consumption and the nonindicated use of over the counter (OTC) medications. However, some people have personal resources that contribute to a successful management of the stress response. Antonovsky's (1987) salutogenic theory proposes that a person's sense of coherence (SOC) buffers the relationship between stress appraisal and stressor-induced reactions. This study examined the SOC in relation to associations of stress-related indices with substance-related coping behaviors. One hundred and sixty-five college student participants completed questionnaires that assessed their demographics, stressors, perceived stress, SOC, psychological/physical symptoms, as well as their past thirty-day use of alcohol and OTC cold/pain medications. Path analyses of these data yielded some reasonably fitting models, with mixed support for study hypotheses. Results from these analyses showed that college students may consume alcohol for reasons unrelated to the reported stress experience. Results also showed that students use OTC cold and pain medications in response to stressors and psychological symptoms. Although there is limited evidence for gender differences among the variables in this study, findings showed that when experiencing stress, males tended to consume more alcohol and OTC medications relative to females. The clinical and educational implications of these findings are discussed.

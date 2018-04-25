@@ -1,0 +1,11 @@
+$TITLE:
+Default premium and maturity choice of risky debt
+
+$DEPARTMENT:
+Finance
+
+$KEYWORDS:
+Default premium, Maturity choice, Debt, Yield spreads, Information asymmetry, bonds
+
+$ABSTRACT:
+Existing term structure models of defaultable bonds have consistently overestimated the default probability and underestimated the yield spreads of corporate bonds. Most of these models have ignored tax effects. This dissertation examines the effects of omitting taxes on empirical estimation of default probability and yield spreads. It is found that failure to account for tax effects results in an upward biased estimate of default probability. This upward bias is positively related to maturity and tax rates. Furthermore, ignoring the interactive effects of taxes and default results in an underestimation of yield spreads between corporate and Treasury bonds. The problem of spread underestimation is found to be more severe for high-grade bonds than for low-grade bonds.With asymmetric information, firm insiders with better information than outside investors will choose to issue those securities that the market appears to value most. Knowing this, rational investors will try to infer insider information from firms' financing strategies. Previous studies, assuming that investors are inactive, have concluded that for firms to signal their true quality to the market effectively, transaction costs must be high enough to deter Bad firms from mimicking Good firms. Accounting for the interactions between borrowers and lenders, this study shows that a separating equilibrium of debts with different maturity exists under a fairly general condition. Flotation costs are no longer a necessary condition for the existence of a separating equilibrium. A separating equilibrium emerges even in the absence of flotation costs. The analysis implies a pecking order of debt financing. Long-term debt and serial debt belong to the category of long-term obligations. Callable debt and sinking fund debt with a regular call provision fall into the category of short-term debt. The sinking fund debt with a fractional amortization rate falls in between.

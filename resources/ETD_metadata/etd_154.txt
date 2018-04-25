@@ -1,0 +1,11 @@
+$TITLE:
+Transient electromagnetic scattering by a radially uniaxial dielectric sphere: Debye series, Mie series and ray tracing methods
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Debye series, high frequency solution, Mie series, Ray tracing, time domain Scattering, Watson transformation
+
+$ABSTRACT:
+Transient electromagnetic scattering by a radially uniaxial dielectric sphere is explored using three well-known methods: Debye series, Mie series, and ray tracing theory.In the first approach, the general solutions for the impulse and step responses of a uniaxial sphere are evaluated using the inverse Laplace transformation of the generalized Mie series solution. Following high frequency scattering solution of a large uniaxial sphere, the Mie series summation is split into the high frequency (HF) and low frequency terms where the HF term is replaced by its asymptotic expression allowing a significant reduction in computation time of the numerical Bromwich integral.In the second approach, the generalized Debye series for a radially uniaxial dielectric sphere is introduced and the Mie series coefficients are replaced by their equivalent Debye series formulations. The results are then applied to examine the transient response of each individual Debye term allowing the identification of impulse returns in the transient response of the uniaxial sphere.In the third approach, the ray tracing theory in a uniaxial sphere is investigated to evaluate the propagation path as well as the arrival time of the ordinary and extraordinary returns in the transient response of the uniaxial sphere. This is achieved by extracting the reflection and transmission angles of a plane wave obliquely incident on the radially oriented air-uniaxial and uniaxial-air boundaries, and expressing the phase velocities as well as the refractive indices of the ordinary and extraordinary waves in terms of the incident angle, optic axis and propagation direction. The results indicate a satisfactory agreement between Debye series , Mie series and ray tracing methods.

@@ -1,0 +1,11 @@
+$TITLE:
+DNA helix imperfections: Structure and flexibility
+
+$DEPARTMENT:
+Biology
+
+$KEYWORDS:
+DNA helix, Flexibility, Hairpin loop
+
+$ABSTRACT:
+This dissertation reports on the NMR solution structure of a unique DNA 22-mer hairpin. The secondary structure of this hairpin has a four-base thymine loop, a 3'-dangling adenosine, and a one-base thymine bulge in the center of the stem flanked by four base pairs. Unique structures and mutations in DNA continue to be a research topic of great interest. Models such as this one may be of use in the study of DNA repair where it has been suggested that the structure, flexibility and dynamics of DNA might be responsible for activating the appropriate repair system. This oligomer has been synthesized by automated solid phase synthesis and NMR samples have been prepared at different concentrations. These samples have been used to acquire various NMR spectra with a 500 MHz spectrometer in both water and deuterium oxide solutions. Resonance assignments of NOESY, 13 C- 1 H HSQC, 1 H- 1 H COSY, 1 H- 31 P COSY and TOCSY spectra have been made to facilitate the computation of a DNA solution structure. Distances, derived from the cross peak intensities in various NOESY experiments, as well as torsion angle ranges were combined with the calculations from both the DYANA and AMBER protocols, to yield the three dimensional structure. Furthermore, in an effort to expand our understanding of the dynamical properties of DNA, additional 13 C- 1 H NMR measurements have been made. These include the steady state NOE, the spin-lattice relaxation and the spin-spin relaxation rates. Correlation times and order parameters were also calculated and presented based upon a "model-free" analysis. Our results indicate that the structure of this nucleic acid is consistent with a B-form DNA double helical stem which incorporates the one-base bulge in a well restrained structure. The tetraloop is less refined than the stem, indicating flexibility at the 3'-end of the loop. The relaxation data gathered further supports these conclusions.

@@ -1,0 +1,11 @@
+$TITLE:
+Topics in Cosmic Acceleration and Braneworlds
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+braneworld, cosmology, extra dimensions, inflation, preheating
+
+$ABSTRACT:
+Cosmic acceleration has come to be a standard, and perhaps  required, ingredient in our current understanding of the universe. In the early  universe, under the name of inflation, a phase of accelerated expansion is used  to solve many problems with the standard Hot Big Bang cosmology. In the late  universe, cosmic acceleration seems to best explain a wide variety of  observations. In both cases, we lack a complete theory of what drives cosmic  acceleration. In this thesis I discuss some open issues in our understanding of  cosmic acceleration, both in the early and late universe.

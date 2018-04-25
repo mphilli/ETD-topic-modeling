@@ -1,0 +1,11 @@
+$TITLE:
+Independent component analysis based feature extraction for hyperspectral images
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Independent component analysis, Feature extraction, Hyperspectral images
+
+$ABSTRACT:
+The goal of this dissertation is to investigate the applicability of Independent Component Analysis (ICA) for efficient processing of hyperspectral imagery, mainly by using it to perform unsupervised feature extraction. ICA is a multivariate data analysis method that attempts to produce statistically independent components when presented with an unknown linear mixture of them. The goal of feature extraction is to substantially reduce the number of features without sacrificing significant information, i.e. feature extraction is the process of projecting the data from the original feature space to a lower-dimensional subspace that provides a more compact yet effective representation. Compared with the traditional techniques that base the separability measures mainly on second order statistics, our method achieves separability in terms of higher order statistics also, the components are not only decorrelated but also independent.While designing the ICA-based feature extraction algorithm, we investigate two different possible models of the hyperspectral imagery, one inspired by Principal Component Analysis and the other based on the linear mixture model. These models can be used with ICA and provide an in depth understanding of the usefulness of the novel approach. Next, we proceed to develop two ICA-based feature extraction algorithms, one extended from previous research, and the second based on a newly introduced methodology. Due to the time complexity of the algorithm, spectral screening is employed for data reduction which results in considerable speedup. The feature extraction algorithm is further extended to a target detection algorithm. Extensive experimental results that demonstrate the superior performance of these algorithms are provided.

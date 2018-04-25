@@ -1,0 +1,11 @@
+$TITLE:
+BUSINESS FAILURE AND ENTREPRENEURSHIP: THREE ESSAYS ON THE EFFECTS OF THE COST OF FAILURE
+
+$DEPARTMENT:
+Entrepreneurship and Emerging Enterprises
+
+$KEYWORDS:
+Business Failure, Entrepreneurship, Real Options Theory, Review, Social cost of failure, Stigma of failure
+
+$ABSTRACT:
+When entrepreneurs encounter business failure, they have to bear the financial, emotional, and social cost of failure. Prior research on the effects of these costs has focused mainly on entrepreneurial exit context or on the quantity of new firms. Moreover, these studies suggest to policy makers to establish institutions to lower the costs of failure with the aim of increasing entrepreneurial activities. However, this dissertation seeks to improve our understanding by providing more extensive and fine-grained assessments of the effects of the cost of business failure in entrepreneurship contexts. The first essay in this dissertation conducts a systematic review regarding the role of institutions that are related to the cost of business failure in entrepreneurial decisions and behaviors. The review extensively takes stock of what has been studied on the effect of the costs of failure and provides future research questions to advance our knowledge. The second and third essay respond to the call of research questions from the review study of this dissertation while utilizing real options logic and multi-level analysis. In particular, the second essay shows that while high social costs of failure can negatively impact the quantity of entrepreneurs in society, there can also be a positive impact on the quality of the entrepreneurs who enter and persist in their careers. In particular, this study finds evidence of a positive relationship between high social costs of business failure and the entry of entrepreneurs with growth and export orientation. The third essay finds that the stigma of failure is positively associated with social entrepreneurship entry decisions. Further, the stigma of failure affects revenue-generating type social entrepreneurship, but not NGO-type social entrepreneurship.

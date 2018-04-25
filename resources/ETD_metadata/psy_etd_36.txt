@@ -1,0 +1,11 @@
+$TITLE:
+Social learning theory and intimate partner violence: Time series analysis of the effects of the O. J. Simpson case
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Social learning theory, Intimate partner violence, Domestic violence, Simpson,  O. J.
+
+$ABSTRACT:
+Intimate partner violence (IPV) is a pervasive problem in the United States that disproportionately victimizes women. The O. J. Simpson criminal trial, which had IPV as its focus, was a recent event that attracted a great deal of media attention. Examination of IPV reports for the duration of the trial provided the opportunity to examine the effects of a highly-publicized event on societal trends of domestic violence. Social learning theory would predict that rates of IPV may be influenced by media events wherein a model is rewarded or punished for performing an aggressive behavior. More specifically, to the extent that the model was similar to the perpetrator, the perpetrator would be less likely to engage in more imitation of the model. Model and target similarity were operationalized in terms of White or Black race. Five series were developed for analysis: one series derived from the total sample, and four series derived from the subsamples representing the four race combinations of perpetrator and victim. Interrupted time series analysis of these series indicated that, in general, rates of IPV did not decrease during O. J. Simpson's criminal trial. In fact, rates of IPV perpetrated by Black men against White partners increased during that period. Moreover, ancillary analyses reveal that IPV rates varied as a significant inverse function of media coverage of the O. J. Simpson case, but only for partner violence perpetrated by Black men against White partners. Implications for these findings are discussed.

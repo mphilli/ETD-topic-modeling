@@ -1,0 +1,11 @@
+$TITLE:
+Supersymmetric theories on the lattice
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Lattice, Supersymmetry, Wess-Zumino models, Fermions
+
+$ABSTRACT:
+Both theoretical and computational aspects involved in non-perturbative studies of supersymmetric field theories are discussed. Specifically this thesis focuses on Wess-Zumino models in one and two dimensions. In two of the three models considered a lattice action which preserves an exact supersymmetry may be derived. In the third case no such action is possible, nevertheless a lattice theory can be written down which preserves supersymmetry at the quantum level to all orders in perturbation theory in the limit of vanishing lattice spacing. Dynamical fermion simulations are carried out using improved algorithms for all these models and the numerical results for mass spectra and Ward identities compared with theoretical expectations. For the third case evidence for spontaneous supersymmetry breaking via tunneling effects in finite volumes is presented.

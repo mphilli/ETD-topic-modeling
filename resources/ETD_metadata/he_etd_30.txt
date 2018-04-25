@@ -1,0 +1,11 @@
+$TITLE:
+Supporting college learners: Relations between metacognition, reading and writing proficiency, and locus of control
+
+$DEPARTMENT:
+Higher Education
+
+$KEYWORDS:
+reading proficiency
+
+$ABSTRACT:
+This study examines four sets of relations for a population of first-year college learners who enrolled in a pre-college program to improve their literacy skills. The study sought to investigate the following four sets of relations: (a) the relation between training in metacognitive development and the gains in metacognitive knowledge among college learners, (b) the relation between metacognitive knowledge and reading and writing proficiency among college learners, (c) the relation between metacognitive knowledge and college learners' locus of control, and (d) the possible combined relation of metacognitive knowledge and locus of control on reading and writing proficiency. Participants from the program received training in metacognitive skill development as it relates to both reading and writing. A within-subjects repeated measures design was used. Both prior to and after the training, participants were assessed on metacognitive skill, reading comprehension, writing proficiency and locus of control. Data were analyzed using correlated t-test procedures, simple regression procedures, and multiple regression procedures. Results indicated that while participants gained in metacognitive skill development, such gains did not predict gains in reading comprehension or in writing proficiency. Locus of control was not shown to be a predictor of gains in metacognitive skill development.

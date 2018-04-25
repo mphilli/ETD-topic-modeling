@@ -1,0 +1,11 @@
+$TITLE:
+A fat tree network-based cache coherence protocol for scalable distributed shared memory multiprocessors
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+In this thesis we propose and evaluate an architecture to build large scale distributed shared memory multiprocessors. We use a fat tree interconnection network that can provide small wire lengths to interconnect a large number of processors. We provide a global shared address space for memory distributed amongst the processors using a cache coherence protocol. This protocol serves to reduce memory latency to fetch data from remote processors by dynamically tracking the locality of an address and by multicasting remote reads to several processors. The cache coherence protocol uses a distributed directory scheme that maintains address tags at the switching nodes of a fat tree interconnection network to track the location of shared addresses. The protocol maintains the state of processor caches by exchanging messages between processors. These messages are used to update the directories in the switching nodes. The switching nodes then use this directory information to route messages and perform other message transformations as part of the protocol. The performance of the protocol is measured using speedups and communication latency for some application kernels. The cache coherence protocol provides better speedup and lower memory latency for the applications evaluated here. Scalability of a distributed shared memory architecture is defined and evaluated as a function of the asymptotic speedup of an algorithm with increasing number of processors.

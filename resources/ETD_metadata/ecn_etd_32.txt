@@ -1,0 +1,11 @@
+$TITLE:
+Three essays on the impact of high-skill immigration
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+High-skill immigration, Immigration, Information technology, Earnings
+
+$ABSTRACT:
+This dissertation contains three essays on the labor market impact of high-skill immigration in the U.S. The first essays treats immigrants and natives with different levels of education and of different gender as distinct factors of production and estimates the degree of substitutability and complementarity between pairs of inputs under the Translog production specification. Using data from the 1997 Economic Census and the 1980 and 2000 Censuses from IPUMS, I find that immigration has different effects on native workers, depending on the educational and gender compositions of both the immigrants and the natives. I also find that the impact of immigration differs across census regions with greater effects felt by native workers in the Northeast and the West. The second and third essays examine the labor market of information technology (IT) in the U.S., which has seen tremendous growth in the number of foreign skilled workers. The second essays assesses the impact of such large inflows of foreign skilled labor on U.S. native IT workers by comparing the native IT workers in the computer industry with the native managers and native secretaries/sales workers in the same industry. The latter two groups experience very little foreign labor inflow as compared with the IT occupation. Using data from the March CPS, I find that the inflow of foreign skilled labor adversely impacted the native IT workers' earnings, probability of employment, and work hours. The third essay is an extension of the second. It seeks to answer the question of whether local labor markets that receive larger amount of IT immigration also have lower average weekly earnings for their IT workers. Using data from the outgoing rotation groups in the Current Population Surveys, I find that native workers residing in areas with higher concentration of IT immigrants see larger reduction in weekly earnings.

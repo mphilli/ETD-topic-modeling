@@ -1,0 +1,11 @@
+$TITLE:
+The Influence Of Peer-Led Team Learning on Underrepresented Minority Student Achievement in Introductory Biology and Recruitment and Retention In Science, Technology, Engineering, and Mathematics Majors
+
+$DEPARTMENT:
+Biology
+
+$KEYWORDS:
+Achievement, Biology, PLTL, Retention, STEM, URM
+
+$ABSTRACT:
+Increasing underrepresented minority (URM) participation in science, technology, engineering, and mathematics (STEM) is of increasing national importance as the United States continues to fall behind other nations in global economic competitiveness. These students constitute a large pool of potential STEM majors at the college level, but they have been recruited to and retained in STEM programs at significantly lower rates than students from other populations. As such, President Barack Obama’s President’s Council of Advisors on Science and Technology (PCAST) has called on undergraduate science instructors to diversify their teaching methods and employ active learning strategies to improve students’ success in introductory or “gatekeeper” courses as well as improving students’ attitudes toward STEM. As a strategy that fosters active learning, Peer-Led Team Learning (PLTL) holds the potential to provide much of what PCAST deems necessary to improve URM student performance in introductory courses and retention in STEM majors. In the first of two studies presented herein, we found the PLTL model to be effective in improving scores for both URM and non-URM students in an introductory college science course. In the second study, we found PLTL to be associated with higher levels of retention among URM students. We conclude that participation in PLTL can help URM students who may struggle to identify with STEM to develop stronger STEM identities, which, along with higher achievement, may lead to enhanced retention.

@@ -1,0 +1,11 @@
+$TITLE:
+Some poststimulatory effects in the acoustic stapedius reflex: Monotic and dichotic stimulation
+
+$DEPARTMENT:
+Communication Sciences and Disorders
+
+$KEYWORDS:
+Monotic magnitude-intensity functions, Prior conditioning stimulus
+
+$ABSTRACT:
+Two experiments were performed to study short-term poststimulatory effects in the acoustic stapedius reflex in five normal-hearing volunteers. In Experiment 1, monotic magnitude-intensity functions (MIFs) were obtained for a 20-ms test stimulus preceded by a conditioning stimulus varying in duration (20, 50, 100, 500 ms) and level ($-10$, 0, $+10$ dB re: stapedius-reflex threshold). The conditioner and test stimuli were separated by various interstimulus intervals (0, 20, 50, 100, 500 ms). Experiment 2 was similar in design except that fewer interstimulus intervals were used and stimulus presentation was dichotic.Both experiments demonstrated that a prior conditioning stimulus produced significant increases in stapedius-reflex response magnitude. These poststimulatory increases in stapedius-reflex magnitude were characterized by complex interactions among stimulus variables with similar interactions occurring for both monotic and dichotic stimuli. A simple superposition effect of the responses to the conditioner and test stimulus does not account for the effect of prior stimulation since substantial increases in test-stimulus magnitude persisted after the decay of the conditioner response. These data suggest that the major effect of prior stimulation on stapedius-reflex magnitude occurs central to the first-order neuron in the stapedius-reflex arc.

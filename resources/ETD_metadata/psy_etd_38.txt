@@ -1,0 +1,11 @@
+$TITLE:
+Examining the efficacy of combined reading interventions: A group application of skill-based and performance-based interventions
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Reading interventions, Performance-based interventions, Skill-based interventions
+
+$ABSTRACT:
+Learning to read is a skill that many children struggle with at some point during the early school years. Two types of reading interventions that have been extensively reviewed and have demonstrated positive outcomes for improving reading fluency and comprehension include repeated readings and listening passage previewing. Recently, researchers have begun to investigate the effects of combining these reading interventions with a general behavioral intervention that targets performance. Previous research has demonstrated positive outcomes, and therefore suggests that combining the reading interventions with a behavioral intervention can provide even greater outcomes. The purpose of this study was to examine the effects of repeated readings and listening passage preview combined with a behavioral intervention on childrens' oral reading fluency and comprehension, using a group design. Thirty-four third-grade students participated in this study, and were randomly assigned to one of two conditions: Reading Interventions (listening passage preview and repeated readings) or Combined Interventions (listening passage preview, repeated readings, and performance feedback). Students in both groups received interventions twice a week for eight weeks. Treatment efficacy was examined within sessions and across sessions (i.e., generalization) for both groups of students, and results indicated that both groups of students demonstrated significant improvements in oral reading fluency and reading comprehension. However, the students assigned to the Combined Interventions condition demonstrated greater overall gains over time.

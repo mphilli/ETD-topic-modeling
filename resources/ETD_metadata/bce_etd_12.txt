@@ -1,0 +1,11 @@
+$TITLE:
+Temporal properties of masked and unmasked tone responses in the anteroventral cochlear nucleus and the influence of blocking inhibition
+
+$DEPARTMENT:
+Biomedical and Chemical Engineering
+
+$KEYWORDS:
+Sound envelope, Masking, AVCN, Tone, Anteroventral cochlear nucleus, Inhibition
+
+$ABSTRACT:
+The anteroventral cochlear nucleus (AVCN), located at the first level of the central auditory system, sends major ascending inputs to higher auditory levels, such as the superior olivary complex and the inferior colliculus. However, temporal properties of AVCN neurons that might be useful for complex-sound processing have not been fully explored. This study applied different temporal measures, which were related to different sound features, to neural recordings of the responses of AVCN neurons to tones in broadband noise. The detectability of a tone in noise based on each temporal property was compared to psychophysical detection performance. Possible underlying neural mechanisms to extract the temporal information were also explored. The results provided implications for detection mechanisms used by higher auditory levels and the significance of certain stimulus features for detection. This study also examined the effect of inhibitory inputs on AVCN responses to pure tones and complex sounds by iontophoretically injecting inhibitory receptor antagonists. Blocking inhibition was found to affect both average discharge rates and temporal properties, such as discharge regularity, first-spike latency, and synchronization to the envelope of the sound, for some AVCN neurons. The influence of inhibition differed across neuron types and within types. These findings provide useful information for identifying the functional role and the source of inhibitory inputs, and for future modeling of different types of AVCN neurons. Because possible inhibitory sources include descending inputs from higher auditory levels, results of this study illustrated possible feedback mechanisms at the level of the AVCN.

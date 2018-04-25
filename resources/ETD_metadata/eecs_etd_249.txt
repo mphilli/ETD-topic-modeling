@@ -1,0 +1,11 @@
+$TITLE:
+A mathematics of arrays
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Array expressions, Shapes
+
+$ABSTRACT:
+The ability to describe array expressions in terms of the shapes of their arguments and the symbolic verification of n-dimensional array expressions has been an open area of research in theoretical computer science. A class of operations which includes the inner and outer product of array expressions is defined using shapes. An indexing function $\Psi$ is the basis of all definitions, while a higher order operation $\Omega$ extends the operations to apply to any dimension. The theory presented is followed by an application to hardware design verification. Progress on the formal design, implementation, and verification of a basis for a parallel language with arrays including the scheduling of subarray operations (asynchronous events) to the processors of shared-memory MIMD architectures is discussed.

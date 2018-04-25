@@ -1,0 +1,11 @@
+$TITLE:
+Microwave Properties of Vortices in Superconducting Resonators
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Microwave, Resonators, Superconductor, Vortices
+
+$ABSTRACT:
+Microwave resonators fabricated from superconducting thin films are playing a critical role with recent advances in superconducting quantum computing technology and photon detectors. There has been an intensive worldwide effort to study the sources of loss that limit the quality factors of these resonators. In this thesis, I have focused on the measurements of the microwave response of vortices in Al and Re superconducting thin film resonators cooled in magnetic fields comparable to or less than that of the Earth. Previous work on vortex dynamics at microwave frequencies has involved large magnetic fields, orders of magnitude larger than the Earth's fields. Al and Re are common materials used in superconducting resonant circuits for qubits and detectors. Despite the similarities of Al and Re superconductors, the microwave vortex response is strikingly different in the two materials from my resonator measurements. I present a quantitative model for the dissipation and reactance contributed by the vortices in terms of the elastic pinning forces and the viscous damping from the vortex cores. The differences in the vortex response in Al and Re were due to the vortex pinning strength in the two filmsThe critical role played by pinning in determining the microwave response motivated us to try to modify the pinning in our Al films by nanostructuring the film surface. A single narrow slot along the center line of a resonator was used to increase the pinning in the resonator traces and resulted in a reduction of the loss from vortices by over an order of  magnitude. Such patterned pinning techniques could be used on resonators  in systems with insufficient shielding or pulsed control fields to  reduce the loss from unwanted trapped vortices.Finally, we explored the possibility for using measurements of the power dependence of the resonators to determine if trapped vortices are present.

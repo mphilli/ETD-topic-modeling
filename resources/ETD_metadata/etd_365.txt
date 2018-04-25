@@ -1,0 +1,11 @@
+$TITLE:
+Emotion Recognition and Hypertension Risk: The Associations of Elevated Resting Blood Pressure and Accuracy of Emotion Recognition
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+blood pressure, emotion, emotional dampening, emotion response
+
+$ABSTRACT:
+Emotion research has benefited from standardized sets of emotional expressions. Compared to the wealth of research on the recognition of static displays of emotion, only a few studies have examined dynamic information presentation.  The Amsterdam Dynamic Facial Expression Set (ADFES) is a set of emotion stimuli that contains video clips of standardized expressions of emotions (Van der Schalk et al., 2011).  In the Phase 1 pilot study, psychometric properties of the ADFES were examined with a sample of 110 college students.  The most accurate and reliable emotion stimuli were used in Phase 2, in which the link between blood pressure and emotion response and recognition was examined.  One perspective of this link emphasizes an overall dampening of emotional responses to affect-laden stimuli (McCubbin et al., 2011), whereas another emphasizes perceiving emotions in a way that maximizes positive affect and minimizes negative affect (Jorgensen Johnson, Kolodziej, & Schreer, 1996).  To compare these theoretical perspectives, Phase 2 sought to examine the relationships between resting BP and the recognition and response to dynamic facial stimuli.   Analyses showed that systolic BP (β = .26; t = 2.30, p = .02) was a significant predictor of the valance rating assigned to surprise stimuli, and diastolic BP (β = .22; t = 2.02, p = .05) was a significant predictor of the arousal rating assigned to joy stimuli.  Further, regression analyses revealed that diastolic BP (β = -.30; t = -2.84, p = .006) was inversely associated with the accuracy of the appraisal fear stimuli.  Finally, regression analyses also revealed that systolic BP (β = .34; t = 2.92, p < .01) was a significant predictor of reaction time when viewing anger stimuli and disgust stimuli (β = .29; t = 2.59, p = .01). These results are consistent with a bias toward accentuating positive emotions while minimizing acknowledgement of negative emotions.  Research directions related to response dampening versus positive response bias are discussed.

@@ -1,0 +1,11 @@
+$TITLE:
+Essays on supply chain analytics: Investment and capacity planning under uncertainty
+
+$DEPARTMENT:
+Supply Chain Management
+
+$KEYWORDS:
+Capacity planning, Disruptions, Investment planning, Weather uncertainty, Wine futures
+
+$ABSTRACT:
+In this dissertation, we study a firm’s investment and capacity planning strategies in the presence of different types of supply uncertainties and risks. Both essays in this dissertation benefit from empirical analysis as the analytical models build on the findings and observations from the corresponding empirical investigation. Each essay shows the benefits from utilizing flexible options that are deemed to be less preferable before conducting the analysis. Wine futures investment represents the flexible option (due to its liquidity) in the first essay, however, it exhibits greater uncertainty in price than the traditional bottled wine. We find in our empirical analysis that both weather and market fluctuations influence the evolution of the price in wine futures, and thus, despite being the flexible option, it also represents the riskier investment. On the other hand, capacity expansion at a geographically remote facility represents the flexible option (due to its greater backup capabilities) in the second essay, however, it is a more costly backup alternative than a nearby facility. As a result, both essays examine the trade-offs between these flexible, yet risker and/or costlier, alternatives, and shed light on the risk-reward structure of these various operational levers.

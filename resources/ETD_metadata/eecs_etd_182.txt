@@ -1,0 +1,11 @@
+$TITLE:
+A new method for circuit simulation suitable for parallel computing
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+networks
+
+$ABSTRACT:
+A new formulation method based on analog computer techniques for circuit simulation is described in this dissertation. With this new method, networks are modeled as a set of interconnected digital operational amplifiers (Op-Amp) which then are realized as a program in a digital computer.Circuit simulation employing this new method has many significant features which are very important for parallel computation. Unlike most of the traditional circuit simulators which realize parallelism by relying on new algorithms based on the mathematical model of the network, the new circuit simulation method achieves its parallelism directly from the topology of the network. Therefore, problems encountered in parallel computing, such as problem partitioning, load balancing, and inter-processor communications, are greatly simplified. Since waveform properties can be fully exploited with the new method, the speed of simulation can be accelerated dramatically. The simulation model constructed by using this new method has very low inter-processor communications, possesses sensitivity and dynamic range properties similar to the original network, and can easily be mapped into various types of parallel computers. Potentially all these features make the new method very efficient CAD tool in the area of parallel circuit simulation.This research first reviews the circuit simulation problems. Then based on the theory of the new method basic simulation models (the cells) for digital computers are created. Tools and methods for simulating general networks are presented with both simple and more complicated examples. Areas for further research are proposed.

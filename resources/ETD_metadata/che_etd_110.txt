@@ -1,0 +1,11 @@
+$TITLE:
+Studies toward the total synthesis of octalactin A and B
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Cytotoxin, Lactone ring, Octalactin
+
+$ABSTRACT:
+An attempted linear synthesis of the cytotoxic marine metabolites octalactin A and B is reported. Isolated in 1991 from a microorganism growing on an ocean sponge, octalactin A was found to be modestly cytotoxic while octalactin B exhibited significantly less bioactivity. Spectroscopic studies have provided details of a unique structural array including an unusual eight-membered lactone ring while single crystal X-ray analysis has described the three dimensional structure.Previous successful synthetic efforts as well as some preliminary work towards the octalactins has been presented. All of the reported syntheses of the octalactins accomplished rely on a common convergent strategy utilizing a Ni(II)/Cr(II) coupling of a vinyl halide and an aldehyde.A racemic, stereoselective synthesis of the entire carbon framework of the octalactins is described. A linear sequence utilizing a series of sigmatropic rearrangements is employed to establish the carbon framework as well as the key stereochemistry. Chirality at C13 is installed through an allyl Grignard addition to isobutyraldehyde. (2,3) -Wittig rearrangement of an $\alpha$-tertiary allylic ether develops asymmetry at C7 and C8. A novel S$\sb{\rm N}\sp\prime$ lactonization establishes the stereocenter at C9 while a (3,3) -Claisen rearrangement of a glycolate ester creates chirality at C3 and C4. Possible routes to the completion of the natural product are also discussed.

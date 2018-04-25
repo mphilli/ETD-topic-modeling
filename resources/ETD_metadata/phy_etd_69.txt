@@ -1,0 +1,11 @@
+$TITLE:
+The analogy between QED(2) and QCD(4)
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Quantum electrodynamics, Quantum chromodynamics, Chiral field theory, Pion scattering
+
+$ABSTRACT:
+We revisit the treatment of the multiflavor massive Schwinger model by non-Abelian Bosonization. We compare three different approximations to the low-lying spectrum: (i) reading it off from the bosonized Lagrangian (neglecting interactions), (ii) semi-classical quantization of the static soliton, (iii) approximate semi-classical quantization of the "breather" solitons. A number of new points are made in this process. We also suggest a different "effective low-energy Lagrangian" for the theory which permits easy calculation of the low-energy scattering amplitudes. It correlates an exact mass formula of the system with the requirement of the Mermin-Wagner theorem.Massive two-flavor $QED\sb2$ is known to have many similarities with two-flavor $QCD\sb4.$ We compare the $\pi - \pi$ scattering amplitudes (actually an analog process in $QED\sb2)$ of the two theories. The $QED\sb2$ amplitude is computed from the bosonized version of the model while the $QCD\sb4$ amplitude is computed from an effective low energy chiral Lagrangian. A number of new features are noted. For example, the contribution of the two dimensional Wess-Zumino-Witten term is structurally identical to the vector meson exchange contribution in $QCD\sb4$. Also, it is shown that the $QED\sb2$ amplitude computed at tree level is a reasonable approximation to the known exact strong coupling solution.It is shown that the potential functions for the ordinary linear sigma model can be divided into two topographically different types depending on whether the quantity $R \equiv (m\sb\sigma/m\sb\pi)\sp2$ is greater than or less than nine. Since the Wigner-Weyl mode $(R = 1)$ and the Nambu-Goldstone mode $(R = \infty)$ belong to different regions, we speculate that this classification may provide a generalization to the broken symmetry situation, which could be convenient for roughly characterizing different possible applications of the model. It is noted that a more complicated potential does not so much change this picture as add different new regions.

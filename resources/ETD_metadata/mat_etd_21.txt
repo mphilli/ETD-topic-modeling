@@ -1,0 +1,11 @@
+$TITLE:
+On the geometry of p-harmonic mappings
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+p-harmonic, Calculus of variations, Nonlinear PDEs
+
+$ABSTRACT:
+The main subject of this dissertation is the geometry of  p  -harmonic mappings and related topics. The class of quasiradial mappings in the plane is introduced and their basic properties are investigated. We discuss generating p  -harmonic functions and mappings via compositions and observe that in several cases only composition with an affine function produces new p  -harmonic functions or mappings. This illustrates the rigidity of p  -harmonic mappings.The variational interpretation of p -harmonics leads to several problems and generalizations. We present radial p -harmonics on ring domains and show solvability of the Dirichlet problem. Existence of four fundamental solutions is proven and their geometric properties are presented. We generalize the p -Dirichlet energy to the weighted case, free-Lagrangians are discussed as well. Next we investigate homeomorphisms with finite distortion and relate them to p -harmonic mappings. The planar Grötzsch problem is extended to higher dimensions and exposed in connections with polyconvex, quasiconvex and rank-one convex functionals. We define the Grötzsch property for energy functionals and show that it holds for a wide class of polyconvex energy functionals.To every p -harmonic mapping in the plane with p ≥ 2 there corresponds a quasilinear system of first order PDE's which couples the complex gradients of the coordinate functions of the mapping. The ellipticity of such system is proved. A relation between planar quasiregular mappings and p -harmonic mappings is discussed. The p -harmonic conjugate problem is stated.We finish the exposition with some open problems in the geometry of nonlinear systems.

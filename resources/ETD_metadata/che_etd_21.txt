@@ -1,0 +1,11 @@
+$TITLE:
+Investigating the pharmacodynamic and magnetic properties of pyrophosphate-bridged coordination complexes
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Pharmacodynamic, Pyrophosphate, Oxidative stress, Adriamycin
+
+$ABSTRACT:
+The multidentate nature of pyrophosphate makes it an attractive ligand for complexation of metal cations. The participation of pyrophosphate in a variety of biological pathways and its metal catalyzed hydrolysis has driven our investigation into its coordination chemistry.We have successfully synthesized a library of binuclear pyrophosphate bridge coordination complexes. The problem of pyrophosphate hydrolysis to phosphate in the presence of divalent metal ions was overcome by incorporating capping ligands such as 1,10-phenanthroline and 2,2'-bipyridine prior to the addition of the pyrophosphate. The magnetic properties of these complexes was investigated and magneto-structural analysis was conducted.The biological abundance of pyrophosphate and the success of metal based drugs such as cisplatin, prompted our investigation of the cytotoxic properties of M(II) pyrophosphate dimeric complexes (where M(II) is Co II , Cu II , and Ni II ) in adriamycin resistant human ovarian cancer cells. Thess compounds were found to exhibit toxicity in the nanomolar to picomolar range. We conducted in vitro stability studies and the mechanism of cytoxicity was elucidated by performing DNA mobility and binding assays, enzyme inhibition assays, and in vitro oxidative stress studies.

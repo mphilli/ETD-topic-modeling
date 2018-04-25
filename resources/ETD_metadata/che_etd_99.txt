@@ -1,0 +1,11 @@
+$TITLE:
+The primary event of visual opsins
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Primary event, Opsins, Vision
+
+$ABSTRACT:
+Opsin proteins are responsible for capturing light during the initial steps of vision. Opsins have a characteristic cofactor, retinal, which harnesses light energy. Color vision is possible because different groups of opsins tune the spectral sensitivity of retinal from 350 nm to greater than 600 nm. The origins of this spectral tuning remain a mystery. The primary event describes the transformation of opsin from its initial state to the first trappable (by temperature) intermediate, bathorhodopsin, after retinal absorbs a quantum of light. During this event, as much as 60% of the light energy is chemically trapped by the protein. This energy is then used in subsequent steps to alter the conformation of the protein to a state which binds and activates a G-protein. I have studied the primary event in two poorly characterized but important classes of opsins: the short-wavelength sensitive and invertebrate opsins. These proteins have not been studied extensively biochemically due to experimental limitations in obtaining significant quantities. Using heterologous expression systems, I have demonstrated that significant quantities of these proteins can be produced for cryogenic UV-Vis spectroscopy. By analyzing the primary event in short-wavelength sensitive opsins, I report that the mechanism used to adjust the spectral sensitivity of the violet opsins is the same as the other visible-absorbing pigments. Computer simulations combined with experimentally derived primary event data, indicate that the primary mechanism responsible for spectral tuning is modulation of the Schiff base--counterion distance. Furthermore, spectral tuning of the UV-sensitive opsins must be different. An investigation of the primary event of Drosophila rhodopsin1 reveals that the retinal binding site is similar to the vertebrate binding sites. The binding site must contain a single counterion stabilizing a protonated Schiff-base. This is contrary to previous resonance Raman experiments which have shown that the vertebrate counterion equivalent position is neutral in a cephalopod opsin.

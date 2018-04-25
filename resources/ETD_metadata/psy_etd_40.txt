@@ -1,0 +1,11 @@
+$TITLE:
+An approach to assessment in the classroom: A concurrent-operants functional analysis
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Concurrent-operants, Off-task, Self-reinforcement
+
+$ABSTRACT:
+Functional analysis refers to a method for identifying environmental variables that maintain an individual's behavior. Research has demonstrated the ability of this assessment methodology to accurately identify behavioral function. The success of functional analysis in identifying maintaining contingencies of problem behavior has led researchers to explore the use of this technology in applied settings. In particular, research has recently focused on functional analysis in classroom settings. One possible method for assessing behavioral function that has not yet been explored in the literature is through the use of choice. The purpose of the current study was to assess the effectiveness of a Concurrent-Operants Functional Analysis in the classroom setting. Students were given the opportunity to choose from an array of consequences when exhibiting off-task behavior by raising a card that corresponded to the consequence he or she wanted. Results indicated that students engaged in self-evaluation of their own behavior and, 3 of the 4 students, engaged in self-reinforcement of appropriate behavior. Implications of these findings and future directions are also discussed.

@@ -1,0 +1,11 @@
+$TITLE:
+High-confidence development of secure e-mail systems
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+E-mail, Security, Formal specification, Code generation
+
+$ABSTRACT:
+Building systems that are assured to be secure requires precise and accurate descriptions of system security properties, which must then be accounted for at the implementation level. It is thus essential to have both a correct system specification satisfying these properties and a valid refinement of this specification into actual working code. In this thesis a software development methodology is adopted that addresses these concerns. The methodology uses a combination of higher-order logic, algebraic specifications, and category theory to integrate formal specification and verification, and code generation. It supports the reuse of specification, verification, and implementation through composition, parameterization, and component-based design. Higher-order logic provides a means to assure the correctness of design, and acts as a bridge between code generation and refinement verification. Algebraic specifications provide the framework for component reuse. Category theory furnishes the means for composing specifications and refinements. As a concrete illustration of this methodology, it is applied to the electronic mail system, complying with "Internet Engineering Task Force (IETF) standard Privacy Enhanced Mail ." This system's top-level security properties and protocols are first defined through higher-order logic, verified to satisfy the required security properties, and instantiated by adding specific data structures and operations. These instantiations are then verified to be correct using higher-order logic. Finally, the design specifications are refined to C++ code through stepwise refinements and compositions of these refinements.

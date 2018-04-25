@@ -1,0 +1,11 @@
+$TITLE:
+Family rituals as a protective factor for children with asthma
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Asthma, Children, Protective factor, Family rituals
+
+$ABSTRACT:
+The protective function of meaningful family rituals for children with asthma was examined. Eighty-six families participated in the study. Forty-three children with asthma and 43 healthy children, between the ages of 6 and 12 years, completed the Revised Child Manifest Anxiety Scale (RCMAS) and a health rating form. Both parents completed the Child Behavior Checklist (CBCL), the Parent Stress Index (PSI), the Family Routines Questionnaire (FRQ), a demographic form, and questions regarding child and family health. A relationship was found between lower child reported anxiety and parent reported meaningful family rituals. Some differences were found for mothers and fathers in regard to family rituals. A significant interaction was found between life stress events and father's ritual meaning, in relation to child reported anxiety. Support for the protective function of meaningful family rituals was stronger when a general health stress model was used rather than the presence or absence of asthma alone. Using a health-life stress model, a main effect was found for fathers routines. Fathers who reported relatively high ritual routines had children who reported lower levels of anxiety, and children whose fathers reported relatively lower ritual routines reported higher levels of anxiety. A significant interaction was found for health-life risk and mother ritual meaning in relation to child reported anxiety, and in relation to mother's total CBCL score. Family rituals added significantly to the model in regression analysis predicting child reported anxiety. In predicting mother and father reports of the child's behavior, the greatest percent of variance was accounted for when parenting stress was added. Variance accounted for by family rituals was significant for total CBCL scores, but not internalizing or externalizing scores. When the asthma group alone was considered, family health and family rituals added significantly to the model beyond child severity and family perceptions of severity.

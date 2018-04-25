@@ -1,0 +1,11 @@
+$TITLE:
+On some aspects of the Arens-Hoffman extension of Banach algebras
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Banach algebras, Arens-Hoffman
+
+$ABSTRACT:
+In this dissertation, we will refer to any commutative algebra over the complex field which possesses an identity e simply as an algebra...This dissertaion deals primarily with algebraic aspects of the Arens-Hoffman extension of a Banach Algebra A and thus builds upon the work of G. A. Heuer, J.A. Lindberg, and Heuer and Lidberg...

@@ -1,0 +1,11 @@
+$TITLE:
+The moderating effect of family rituals on asthma symptom severity in the context of high and low expressed emotion
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Family, Asthma, Symptom severity, Emotion
+
+$ABSTRACT:
+Several studies have used Expressed Emotion (EE), the verbal expression of criticism in close relationships, as a predictor of child adjustment to asthma (e.g., Wamboldt, Wamboldt, Gavin, Roesler, & Brugman, 1995). Contradictory results found in these studies may be attributed to the use of EE as a single predictor of adjustment. Family routines and rituals have been shown to have a powerful impact on family life during times of stress (Bossard & Boll, 1950) and may be a moderating variable. The primary purpose of this study was to investigate the relationship between family routines/rituals and asthma outcomes (i.e., symptom severity) in children with asthma from families with high and low EE. Participants ( N  = 60) were families with a child between 5 and 12 years of age ( M  = 8.75) with asthma. As predicted, for child report of asthma symptom severity, the Criticism dimension provided the strongest predictor of outcome in which higher Criticism was associated with lower pediatric quality of life. Routine and ritual outcomes varied; for routines, a positive relationship emerged for parent report in which an increased report of family routines was associated with an increased report of child functional severity of asthma. Strategies related to survival in low-SES households were considered as one explanation for the current findings that contradict past research on family routines. For rituals, findings were consistent with past research; that is, more ritual involvement was associated with significantly higher quality of life, reported by children. The hypothesis that routines/rituals would serve protective functions under high EE conditions was not supported. Additionally, exploratory analyses conducted for the fathers only group revealed no significant findings. Results are interpreted in the context of education and interventions for families with children with asthma.

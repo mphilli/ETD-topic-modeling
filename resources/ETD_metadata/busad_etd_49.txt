@@ -1,0 +1,11 @@
+$TITLE:
+People as a competitive edge: Examining the empirical relationship between human resource flexibility and firm performance
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+Competitive edge, Human resource flexibility, Firm performance, Organizational flexibility
+
+$ABSTRACT:
+This study investigates the relationship between organizational flexibility and firm performance. Flexibility, defined as the ability to reconfigure existing resources and processes, is conceptualized as a distinct capability of the firm. A multilevel model of organizational flexibility is developed, based on ideas from existing literature. Specific emphasis is on flexibility of the human resource system of the firm. I propose that human resource flexibility, measured in terms of skill, behavior, and HR practice flexibility, lead to greater firm performance. The resource-based theory framework is used to explain this relationship. Environmental variation and organization structure are expected to moderate the relationship between HR flexibility and firm performance. New scales are developed and validated for measuring human resource flexibility. Results support the hypotheses that human resource flexibility contributes positively to firm performance. The moderating effects of environmental variation and organization structure are not supported. Future research issues are discussed.

@@ -1,0 +1,11 @@
+$TITLE:
+The authorization calculus
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Authorization calculus, Access control, Computer security, Delegation
+
+$ABSTRACT:
+The Authorization Calculus is a modal logic with which to formally model systems that provide credentials that indicate privileges and make access control decisions based on those privileges. Extending an access control calculus of Abadi, Burrows, Lampson, and Plotkin with privileges gives us a formal way to reason about explicit privileges issued to principals that authorize access as well as such things as authorizing group membership and role activation. Formal deduction rules are used to create proofs that yield a sound foundational basis for making the access decision. We finalize by applying the Authorization Calculus for a formal analysis of the Common Object Request Broker Architecture (CORBA) Common Secure Interoperability Version 2 (CSIv2) Protocol.

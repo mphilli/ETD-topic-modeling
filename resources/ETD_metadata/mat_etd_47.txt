@@ -1,0 +1,11 @@
+$TITLE:
+A uniform property for finite sets of points in projective space
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Mathematics, Hilbert functions
+
+$ABSTRACT:
+In this thesis we are concerned with the uniform properties of finite sets of points in projective space. The Hilbert function of a variety V in $P\sp{n}$ gives for each degree d, the codimension in the entire family of hypersurfaces of degree d, of the subfamily of hypersurfaces of degree d that contain V. Using the value of the Hilbert function, J. Harris defined the uniform position property for finite sets of points in projective space. Extending the notion used in the Hilbert function to include varieties of arbitrary codimension, one can define an integer valued function gXf, for each given Hilbert polynomial f and an irreducible component X of the Hilbert scheme $Hilb\sbsp{P\sp{n}}{f}.$ For any finite set Y of points in $P\sp{n},\ gXf(Y)$ gives the codimension in X of $\Omega\sb{Y}$ the set of points in X corresponding to the varieties in $P\sp{n}$ that contain Y. This dissertation is based on the study of the function $gXf$ and the uniform properties resulting from it. Chapter I contains the introduction to the problem, and the necessary preliminary definitions. Chapter II starts with the generalized Hilbert function $gXf,$ and studies the properties of $gXf$ and the set $\Omega$. In chapter III, a uniform property based on $gXf$ is defined and studied, and its relation with other existing uniform properties is explored. A weaker version of the Uniform Position Lemma of J. Harris, based on the newly defined uniform Hilbert property is proved in chapter IV. Some unanswered questions and interesting problems are also identified in chapter IV.

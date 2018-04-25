@@ -1,0 +1,11 @@
+$TITLE:
+Teacher pedagogical content knowledge as a predictor of student learning gains in direct current circuits
+
+$DEPARTMENT:
+Science Teaching
+
+$KEYWORDS:
+Teacher, Pedagogical content knowledge, Learning gains, Direct current circuits
+
+$ABSTRACT:
+Science educators are constantly seeking to better understand the role that teachers and teaching strategies play in helping students better understand the nature and content of science. The research that is available on the role that teachers play in developing students understanding in science has generally focused on qualitative approaches for understanding this phenomena and has not tried to directly measure the effect that teachers have on student learning gains. This study examines the effects of the teacher pedagogical content knowledge along with the teachers' content knowledge and affective stance toward teaching on student learning gains in understanding direct current circuits. To determine the role that teachers' pedagogical content knowledge plays in student learning gain, a group of physics teachers were shown results of their own students' knowledge of the topic of direct current circuits prior to instruction. The teachers were then asked to complete a group of instruments, which served to measure the teachers' content knowledge, pedagogical content knowledge and the teachers' beliefs and practices toward science teaching in general. Following instruction on the topic of direct current circuits the students in each of the classrooms were re-administered the same instrument that was used to determine their understanding prior to instruction. The results of this posttest were compared to the students' pretest to determine a normalized learning gain for the students. The results of this study indicate the most significant factor for predicting student learning gain in this topic area is the teachers' pedagogical content knowledge.

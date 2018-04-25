@@ -1,0 +1,11 @@
+$TITLE:
+Optimizing the use of the audit in alcohol screening for college students
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Alcohol abuse, Alcohol screening, College students, Drinking
+
+$ABSTRACT:
+The screening and brief intervention (SBI) modality of treatment for  at-risk college drinking is becoming increasingly popular.  A key to  effective implementation is use of validated screening tools.  While the  Alcohol Use Disorder Identification Test (AUDIT) has been validated in  adult samples and is often used with college students, research has not  yet established optimal cut-off scores to screen for both at-risk  drinking and diagnostic levels of drinking. A total of 401 current  drinkers completed computerized assessments of demographics, family  history of alcohol use disorders, alcohol abuse and alcohol dependence,  alcohol-related problems, and general health. Of the 401 drinkers, 207  met criteria for at-risk drinking and 194 did not. A total of 178 met  criteria for an alcohol use disorder (AUD) diagnosis and 223 did not.  Receiver-operating characteristic (ROC) curve analysis revealed that the  AUDIT performed better than chance in detecting at-risk drinkers. The  AUDIT-C performed significantly better than the AUDIT in the detection  of at-risk drinking and a total score of 6 is the recommended cut-off.  Gender differences emerged in the criterion validity of the AUDIT-C. A  total score of 7 should be used for males and a score of 5 should be  used for females.  For AUD detection, the AUDIT performed better than  chance and an overall cut-off score of 10 is recommended.  Gender-differences existed and total scores of 7 for females and 10 for  males are recommended. The AUDIT performed significantly better than the  AUDIT-C in the detection of AUD. Thus, the AUDIT-C is a better  screening tool for at-risk drinking than the full-scale AUDIT, whereas  the AUDIT performs better than the AUDIT-C in the screening of alcohol  use disorders.  Use of gender-specific cut-off scores when using either  the AUDIT-C for at-risk drinking or the AUDIT for AUD screening is  recommended.

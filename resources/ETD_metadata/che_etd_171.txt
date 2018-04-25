@@ -1,0 +1,11 @@
+$TITLE:
+Synthesis and Characterization of Aminotroponiminate-Zinc Functionalized Mesoporous Silica and Exfoliated Fluorosilica Nanomaterials as Efficient Catalysts
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Aminotroponiminates, Mesoporous silica, Fluorosilica, Nanocatalysts
+
+$ABSTRACT:
+The use of the highly ordered mesoporous silica SBA-15 as a scaffold for zinc aminotroponiminates (ZnATOs) and aminotroponates (ZnATIs) for the intramolecular hydroamination catalysis of non-activated alkenes was explored. The cyclization reactions were found to result in 59-93 % conversions in 8-12 h. Furthermore, recyclability studies proved that multiple catalytic cycles could be performed without loss of catalytic efficiency. The synthesis and characterization of highly ordered mesoporous fluorosilicas (OMFs) which contain 2.4-7.0 wt% F, corresponding to a loading of 1.3-3.7 mmol/g was also accomplished. Synthesis of these materials is carried out from parent mesoporous silicas (MCM-41 and SBA-15) under ambient conditions using dilute non-aqueous solutions of triethyloxonium tetrafluoroborate (Et 3  OBF  4 ). Fluorination of the mesostructures is accomplished with only minor alteration of the materials' overall order. The described synthetic procedure is also applied to sulphonic acid (-SO 3  H) functionalized SBA-15. Enhancement of the acid-catalyzed epoxide ring opening of styrene oxide in the presence of aniline to produce the corresponding β-aminoalcohol by the fluorinated materials is presented. Reaction at room temperature after 4 h using - SO 3  H functionalized SBA-15 result in 77% conversion while the as-synthesized OMF and OMF-SO 3 H materials exhibit 79% and 87% conversions, respectively. All material syntheses were characterized by compositional and structural analyses such as N 2  (g) sorption, small angle powder X-ray diffraction (XRD), solid state 13  C and 29  Si NMR, FTIR spectroscopy and X-ray photoelectron spectroscopy (XPS), as well as elemental and thermogravimetric analyses.

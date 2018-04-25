@@ -1,0 +1,11 @@
+$TITLE:
+The effects of selective attention on adult age differences in skill acquisition: Evidence supporting a nonlinear 2-factor model
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Logan's (1988) instance theory, adult age differences in skill acquisition
+
+$ABSTRACT:
+Logan's (1988) instance theory describes the development of skill acquisition as involving the gradual shift from algorithmic, controlled processing to memory-based, automatic processing. One aim of the present study was to examine the usefulness of instance theory to explain possible age differences in the effects of practice on the development of skilled performance. A second aim was to examine how visual selective attention affects the rate at which learning takes place. Young adult, middle-aged, and older participants were given extensive training on alphabet substitution problems of the form G (3) K (3) O. String lengths were varied, but only the initial letter-digit-letter triplet was relevant. Analysis of the group means and group error data revealed age effects in the rate at which participants learned to selectively attend to the relevant initial triplet. Further inspection of individual error data, however, uncovered strategy differences in participants' approach to the task. The learning curves for the group data were described well by the power function, however, the 2-factor model tested in the present study more precisely described the individual data by taking into account the two types of learning required for mastery of this task; attentional selectivity and triplet evaluation. Inspection of response time distributions revealed age-related differences in the development of skilled performance in terms of a shift from algorithmic processing to instances-based retrieval.

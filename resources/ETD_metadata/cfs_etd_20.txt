@@ -1,0 +1,11 @@
+$TITLE:
+The impact of financial strain on adolescents' psychological functioning in Romania: The role of family processes
+
+$DEPARTMENT:
+Child and Family Studies
+
+$KEYWORDS:
+Financial strain, Adolescents, Psychological functioning, Romania, Family processes
+
+$ABSTRACT:
+This study examined the impact of financial strain on family processes and adolescents' psychological functioning in Romania. Drawing on the conceptual model of economic stress and family functioning by Conger and colleagues, this investigation analyzed the direct and indirect links among financial strain, perceived social support, maternal depression, marital conflict, parenting quality and adolescents' psychological functioning. The sample consists of 239 mothers and their 12-14 year-old children. Structural equation modeling using AMOS 4.0 was employed to test the model. The results suggested that a higher level of economic strain is associated with higher levels of maternal depression, marital conflict, and social isolation. There is a compartmentalization between marital processes and parenting behaviors. There is no impact of financial strain, maternal depression, and marital conflict on the quality of parenting and adolescents' psychological functioning.

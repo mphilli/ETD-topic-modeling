@@ -1,0 +1,11 @@
+$TITLE:
+Binary decision diagram algorithms for computer-aided logic design and verification
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Logic optimization
+
+$ABSTRACT:
+Binary Decision Diagrams (BDDs) provide a compact representation for Boolean functions. This research is an effort to apply BDDs to various CAD applications, especially those of hierarchically structured circuits. The results include a universal BDD manipulator and an algorithm of using BDDs in logic synthesis, design verification, testing, etc.The BDD manipulator, GBBDD, builds BDDs for any Boolean functions which are originally represented as any compositions of BDDs, Boolean formulae, Boolean networks, Boolean operations, Boolean variables and Boolean constants. It supports the largest set of BDD operations.The BDD-based observability analysis (BBOA) calculates the influence relationship between circuit signals. It provides effective solutions to CAD applications dealing with the relationship between the behavior and the structure of logic circuits. In this research, BBOA has been successfully applied to logic minimization for 100% testability, test generation for 100% test coverage, restructuring of logic circuits, design diagnosis and optimized resynthesis. These applications are grouped into two systems: one for preserving circuit behavior as circuit structure changes and the other for modifying circuit structure to achieve specified circuit behavior. The success of this research effort is based on the recognition of the close relationship between various CAD applications.

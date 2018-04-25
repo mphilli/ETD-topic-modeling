@@ -1,0 +1,11 @@
+$TITLE:
+Does what we know affect how we learn? Adult age differences in the effects of item knowledge and rule knowledge on skill development
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Age differences, Item knowledge, Rule knowledge, Skill development
+
+$ABSTRACT:
+The current project investigated the effects of item knowledge and rule knowledge on the modifiability of age-related differences in cognitive skill development. Response times, retrieval proportions, and item-level strategy shifts were examined. Experiment 1 established that differences in the frequency of strategy probes (following 0%, 33%, or 100% of trials) does not affect strategy use in the learning of pound arithmetic equations. Experiment 2 distinguished the benefits of item and rule pre-training on learning for young and older adults. Subjects were pre trained with item knowledge, rule knowledge, or with a control task, and then were trained on repeated items in a synthetic operator task. Item pre-training accelerated item learning, with a more substantial benefit for old than for young. Rule pre-training improved initial response times and accuracy. with comparable benefits across age groups. The influences of item knowledge utilization and rule knowledge utilization on the interpretation of age differences in skill acquisition are discussed.

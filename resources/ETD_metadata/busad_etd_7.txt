@@ -1,0 +1,11 @@
+$TITLE:
+On both sides of the deal: How does overlapping institutional ownership affect mergers and acquisitions
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+Corporate governance, Institutional, Ownership, Mergers and acquisitions
+
+$ABSTRACT:
+This dissertation examines empirically what is the impact on M&A; outcomes if some of the shareholders of the acquiring firm are also shareholders of the target firm. Although management scholars have continually questioned the value creating potential of mergers and acquisitions, the practice is so widespread that the U.S. deals announced in the last decade exceed ten trillion dollars. Furthermore, Moeller, Schlingemann and Stulz (2005) found that shareholders of acquiring firms have endured massive losses, averaging 12 cents for each dollar spent on acquisitions. By examining the impact of heterogeneous interests of owners on mergers and acquisitions outcomes, the present study extends prior literature on M&A; and corporate governance. Building on prior research findings that owners of the target firms enjoy significantly positive shareholder returns, I propose that when shareholders of the acquiring firm are simultaneously owners of the target firm, they would be more concerned with their portfolio gains, and therefore their interests would differ from the interests of owners that are shareholders of the acquiring firm, but not of the target. Such heterogeneity of owners' interests could weaken the corporate governance of the firm and the impact of principals' monitoring on agents' behavior. For instance, managers would have more latitude and ease to engage in value destroying mergers and acquisitions, when such deals are in the interests of some shareholders. The empirical results suggest that when more institutional owners of the acquiring firm also hold stock in the target company, executives engage in M&A; deals that are more likely to destroy shareholder value and overpay for the target.

@@ -1,0 +1,11 @@
+$TITLE:
+Development and Delivery of a Brief Intervention to Reduce Suicidal Ideation among Veterans in a Primary Care Setting
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Ecological Momentary Assessment, Primary Care, Suicidal Ideation, Suicide, Veteran
+
+$ABSTRACT:
+An elevated rate of suicide among Veterans remains a growing and pressing public health concern. Available interventions often lack empirical support or are too protracted and expensive to implement on a wide scale. Primary care represents a unique opportunity with which to engage those Veterans who are experiencing suicidal ideation. However, Veterans who are not at imminent risk often fall into a treatment gap and experience significant wait times until beginning treatment with a specialty mental healthcare provider. An efficacious intervention introduced into this gap in services may reduce suicidal ideation among Veterans and increase rates of follow-up with specialty care. One therapeutic intervention that has been identified as being efficacious in the reduction of suicidal ideation and suicidal self-directed violence is dialectical behavior therapy (DBT). A brief intervention aimed at reducing suicidal ideation was piloted among a sample of Veterans enrolled in primary care at a Department of Veterans Affairs (VA) medical center (n = 4; 1 completed full protocol). The intervention drew on elements of DBT and included four brief training modules including (mindfulness, distress tolerance, interpersonal effectiveness, and emotion regulation). Using single-case experimental design methodology and ecological momentary assessment, preliminary data from daily assessments indicate this method of data collection is feasible and suggests that the emotion regulation and interpersonal effectiveness modules may help to reduce the variability of suicidal ideation, as well as alcohol consumption.

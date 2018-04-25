@@ -1,0 +1,11 @@
+$TITLE:
+Chern-Simons term: Theory and applications
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Chern-Simons ; Particle physics
+
+$ABSTRACT:
+We investigate the quantization and applications of Chern-Simons theories to several systems of interest. Elementary canonical methods are employed for the quantization of abelian and nonabelian Chern-Simons actions using ideas from gauge theories and quantum gravity. When the spatial slice is a disc, it yields quantum states at the edge of the disc carrying a representation of the Kac-Moody algebra. We next include sources in this model and their quantum states are shown to be those of a conformal family. Vertex operators for both abelian and nonabelian sources are constructed. The regularized abelian Wilson line is proved to be a vertex operator. The spin-statistics theorem is established for Chern-Simons dynamics using purely geometrical techniques. Chern-Simons action is associated with exotic spin and statistics in 2 + 1 dimensions. We study several systems in which the Chern-Simons action affects the spin and statistics. The first class of systems we study consist of G/H models. The solitons of these models are shown to obey anyonic statistics in the presence of a Chern-Simons term. The second system deals with the effect of the Chern-Simons term in a model for high temperature superconductivity. The coefficient of the Chern-Simons term is shown to be quantized, one of its possible values giving fermionic statistics to the solitons of this model. Finally, we study a system of spinning particles interacting with 2 + 1 gravity, the latter being described by an ISO(2,1) Chern-Simons term. An effective action for the particles is obtained by integrating out the gauge fields. Next we construct operators which exchange the particles. They are shown to satisfy the braid relations. There are ambiguities in the quantization of this system which can be exploited to give anyonic statistics to the particles. We also point out that at the level of the first quantized theory, the usual spin-statistics relation need not apply to these particles.

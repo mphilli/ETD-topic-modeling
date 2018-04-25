@@ -1,0 +1,11 @@
+$TITLE:
+Planning for a K-12 distance learning system: A case study
+
+$DEPARTMENT:
+Instructional Design, Development and Evaluation
+
+$KEYWORDS:
+instructional design, technology, School administration, Educational software, Elementary education, Secondary education
+
+$ABSTRACT:
+In recent years, there has been a significant increase in the use of communications technologies for distance learning by educational institutions. Rapid improvements in educational technology and lower costs increase the likelihood that more schools will seek to adopt new technologies if they are seen as an improvement over old systems. It is important to provide practical strategies for those planning to develop distance learning systems. Few published reports focus specifically on the planning process for K-12 distance learning. Planning models related to instructional systems design and diffusion of innovations offer some recommended planning strategies.The primary research question for this study was: What is the nature of the planning process for a K-12 distance education system? Observation of the Central New York Telecommunications Learning System's Interactive Pilot Project provided insights to the planning process from initiation through the decision to halt the project after the planning stage. Qualitative case study methods were employed to provide rich, detailed information about this complex decision-making process: (1) to identify the issues that emerged, (2) to examine the group's decision-making process, (3) to document the actual and perceived outcomes of the project. Participants described their experiences as planners with the project and suggest that the planning effort, by itself, added value to the local educational community. A model for the K-12 distance education planning process is described in detail and compared to other planning models. The findings indicate that the planning process for an educational innovation can have a significant impact, even if the innovation is not adopted.

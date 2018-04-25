@@ -1,0 +1,11 @@
+$TITLE:
+Design and evaluation of optimizations in I/O-intensive applications
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Performance bottlenecks, Parallelism, Prefetching, Caching, Input/output
+
+$ABSTRACT:
+The area of parallel and distributed computing has grown very fast in the past few decades with the aim of offering vast computational capabilities that applications can tap into. Applications from the various areas of science and engineering can perform large-scale, high-accuracy computations and simulations with the advent of new machines and architectures. Run-time libraries, operating systems software, performance analysis tools, support for compilers and data base systems are aimed at increasing the productivity and usability of these machines in the hands of applications programmers. Efficient application design and performance analysis and the fine tuning of applications have become an absolute necessity.In this thesis we focus on applications that are highly data intensive and require large amounts of storage and extensive data processing capabilities. As the I/O devices have very high latencies, such applications use many useful processor cycles waiting for disk accesses to complete. This problem is exacerbated in parallel machines since there are many processors with the result that there are multiple high-volume requests to the I/O subsystem, making I/O a troublesome bottleneck. Because of this problem parallel machines require both systems support and the fine tuning of application to achieve efficient implementations.We optimize the I/O activity of some large production applications as well as some small scientific applications and synthetic workloads, and we evaluate and analyze the performance of optimizations on these applications using I/O performance tools. Some of the applications that we study spend around 60% of their execution time performing I/O operations. Optimizations such as prefetching, caching/buffering, collective I/O influence the I/O performance of these applications. In addition, systems attributes such as the number of processors and I/O nodes, the stripe unit and the stripe factor affect the performance. We study the relative impact of all the different factors on the application performance and the best-fitting optimizations based on the nature of the applications.

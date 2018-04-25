@@ -1,0 +1,11 @@
+$TITLE:
+Mutual information-based image registration with applications
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Mutual information-based, Image registration, Global optimization, Interpolation artifacts
+
+$ABSTRACT:
+Image registration means the alignment of images of the same scene/object. Typical application areas include computer vision, medical imaging, and remote sensing. A variety of image registration techniques have been developed for different image registration problems. The goal of this dissertation is to develop a general solution to 2D/3D rigid body image registration problems based on mutual information (MI).Since 1995, MI has been demonstrated to be a successful similarity measure for many multi-modality image registration problems. However, existing implementations limit the performance of the MI based image registration technique. First of all, under certain conditions, a phenomenon called interpolation artifacts was discovered for existing implementations in the year 1999. This phenomenon, when it occurs, hampers the optimization process and limits the registration accuracy. In this dissertation, we develop a new implementation of the MI based image registration technique to overcome this problem. Secondly, to make the MI based image registration technique a general solution to 2D/3D rigid image registration problems, a robust yet efficient global optimizer is desirable. In this dissertation, we develop several optimization schemes to achieve this goal. The core of these optimization schemes is a heuristic test for distinguishing the global maximum of the MI registration function from local maxima. In this manner, human intervention is not required to justify the registration result, which is needed by most of the existing image registration techniques. Applications in medical imaging and remote sensing areas are considered to evaluate the performance of our algorithms.

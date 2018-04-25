@@ -1,0 +1,11 @@
+$TITLE:
+Effective Lagrangian Models for gauge theories of fundamental interactions
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+quantum chromodynamics
+
+$ABSTRACT:
+The non abelian gauge theory which describes, in the perturbative regime, the strong interactions is Quantum Chromodynamics (QCD). Quarks and gluons are the fundamental degrees of freedom of the theory. A key feature of the theory (due to quantum corrections) is asymptotic freedom, i.e. the strong coupling constant increases as the energy scale of interest decreases. The perturbative approach becomes unreliable below a characteristic scale of the theory ($\Lambda$). Quarks and gluons confine themselves into colorless particles called hadrons (pions, protons,$\...$). The latter are the true physical states of the theory.We need to investigate alternative ways to describe strong interactions, and in general any asymptotically free theory, in the non perturbative regime. This is the fundamental motivation of the present thesis. Although the underlying gauge theory cannot be easily treated in the non perturbative regime we can still use its global symmetries as a guide to build Effective Lagrangian Models. These models will be written directly in terms of the colorless physical states of the theory, i.e. hadrons.

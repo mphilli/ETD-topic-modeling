@@ -1,0 +1,11 @@
+$TITLE:
+Application of the matrix pencil approach to direction finding
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Array processing
+
+$ABSTRACT:
+The Matrix Pencil Approach (1) was shown to be an effective and efficient method for estimating the angles of arrival of multiple narrow-band sources. Having collected the data from the outputs of a linear array consisting of m sensors, the objective is to estimate the locations of the d sources (d $<$ m). The information about the parameters of interest are contained in the rank reducing values of a matrix pencil generated from the set of data.Several extensions of the Matrix Pencil Approach appear in this dissertation. Given d correlated sources, it is shown that improved performance can be achieved using a data window of length L = d. Previous developments of high resolution algorithms neglected the effects of mutual coupling which occurs between the elements of an array. Failure to account for these effects results in poor performance. We have successfully devised compensating schemes for both ESPRIT and the Moving Window. Three techniques dealing with wideband signals are proposed in this dissertation. In the first method the wideband signals are modeled as sums of exponentials. This model is suitable for non stationary signals. The estimation procedure consists of estimating both natural frequencies and angles of arrival of the sources by means of three matrix pencils. A second method is proposed where the wideband sources are assumed to be linear systems driven by white noise. This model is appropriate for stationary signals. The analysis is carried out on the unit circle using the Discrete Fourier Transform. The third approach makes use of the coherent signal subspace method proposed by Wang and Kaveh (56). Finally, we have studied the effects of perturbation due to noise and due to sensor spacing. We have derived upper bounds for the Chordal Metric which is a measure between the true eigenvalue and the perturbed one. The chordal metric is shown to be a functional of the true and the perturbed angles of arrival.Computer simulations are carried out for each of the analyses associated with respect to data window length, mutual coupling compensation, the three wideband methods, and the upper bounds in the chordal metric.

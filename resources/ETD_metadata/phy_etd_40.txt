@@ -1,0 +1,11 @@
+$TITLE:
+A measurement of parity-violating asymmetry with polarized electrons scattered from protons and implications for strange form factors
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Parity-violating, Asymmetry, Polarized electrons, Protons, Strange form factors
+
+$ABSTRACT:
+We have measured the parity violating asymmetry with polarized electrons scattered elastically from protons. The result is A  = -15.05 ± 0.98( stat  ) ± 0.56( syst  ) ppm at the kinematic point [left angle bracket][straight theta]  lab   [right angle bracket] = 12.3° and [left angle bracket] Q  2  [right angle bracket] = 0.477(  GeV/c  ) 2  . The value for the linear combination of the strange form factors found using A  is [Special characters omitted.] + 0.392[Special characters omitted.] = 0.025 ± 0.020 ± 0.014 where the first error is experimental and the second stems from the uncertainties in the electromagnetic form factors.

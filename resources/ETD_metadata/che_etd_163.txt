@@ -1,0 +1,11 @@
+$TITLE:
+Part I. Substituted Dihydropyridines as Models for Coenzymes Cationic nad-nadh. Part II. Synthesis of Sulfated Derivatives of Ascorbic Acid
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Chemistry, Organic chemistry
+
+$ABSTRACT:
+There are two parts to this thesis. In Part I, several compounds containing two 1,4-dihydronicotin-amide moieties (e.g. bis-o-xylylene-3-carbamoyl-1,4-di-hydronicotinamide) have been synthesized. In addition, a number of compounds containing only one 1,4-dihydronicotin-amide moiety were sysnthesized. In Part 2, a method is described for the sulfation  of methyl B-glucoside, ascorbic acid and 5,6-isopropylidene-1-ascorbic acid.

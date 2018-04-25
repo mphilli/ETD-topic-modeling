@@ -1,0 +1,11 @@
+$TITLE:
+Replicators, majorization and probabilistic databases: New approaches for the analysis of evolutionary algorithms
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Majorization, Replicators, Probabilistic databases, Evolutionary algorithms
+
+$ABSTRACT:
+The research described in this thesis is a novel examination of evolutionary algorithms using three inter-related frameworks: Replicator models, Majorization processes, and Probabilistic database theory. Each framework is used to study a particular problem in the area of evolutionary algorithms, thereby illustrating the kind of problems for which the framework may apply. Thus, replicator selection models are used to study the optimization capabilities of evolutionary algorithms. New techniques are developed to use replicator selection systems to discover sub-optimal solutions for large graph instances (50,000 nodes plus) of the NP-complete graph bisection problem. Majorization theory is used to develop a unified interpretation of selection, mutation and crossover operators as majorization processes, differing in directionality and dimensionality. Probabilistic databases are used to analyze the problem of dependency in genetic algorithms (GAs). Specifically, the selection and crossover operators are shown to increase functional and multivalued dependencies in a GA population. The problem of deception is re-analyzed in the context of Saari's method and its deep connection with Simpson's paradox and other decision-theoretic issues exhibited. In place of deception, the database theoretic concept of reconstructability is offered as a theoretically more tractable and practically more meaningful substitute.

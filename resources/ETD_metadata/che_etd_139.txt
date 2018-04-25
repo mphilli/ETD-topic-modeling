@@ -1,0 +1,11 @@
+$TITLE:
+The Photochemical Rearrangements of 4-Cyclopropyl-4-Phenylcyclohexenone and the Corresponding Dienone
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+4, 4-Disubstitutedcyclonhexenones, Cyclohexadienones
+
+$ABSTRACT:
+4, 4-Disubstitutedcyclonhexenones (1) and cyclohexadienones (2) have long been known to arrange photochemically to bicyclone [3.1.0] hexanones (3) and bicyclo[3.1.0]-hex-3-ene-2-ones (4), respectively. Because of the structural similarity of these products, both the cyclonhexenone and dienone photoreactions have been studied extensively and their reactivities compared and contrasted by many investigators. Detailed reviews of both enone 1-3 and dienone photochemistry 3,4 have emphasized the generality of these reactions.

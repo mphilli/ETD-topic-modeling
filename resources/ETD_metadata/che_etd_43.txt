@@ -1,0 +1,11 @@
+$TITLE:
+Liquid crystalline holography: The effect of various additives on photopolymerization
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Liquid-crystalline, Holography, Additives, Photopolymerization
+
+$ABSTRACT:
+A switchable holographic material based on a free-radical photopolymerizable nematic diacrylate was improved by addition of the trithiocarbonate, EtO 2 CCH 2 SC(S)SCH 2 CO 2 Et, at levels near 0.1% by mass. Diffraction efficiencies as high as 34%, the thin-grating theoretical maximum, were achieved at large (10-14 μm) grating spacings. Improved diffraction efficiency was seen over a range of grating spacings (0.35-10 μm) demonstrating increased resolution. The exposure window for grating formation was increased by an order of magnitude, resulting in much improved reproducibility and grating uniformity.The concentration of the two liquid crystal components of the trithiocarbonate-containing switchable material were varied from 9:1 to 1:9 in order to investigate effects on recording mechanism and efficiency. This study showed that a mixture with 80% difunctional liquid crystal monomer gave the best results and that recording depends on immobilization but not phase separation.The mechanism of action of the trithiocarbonate was investigated through electrically switchable holographic grating results, along with results from initiator bleaching experiments, concentration studies, addition and in-situ generation of trithiocarbonate-trapped radicals, EPR studies, cyclic voltammetry measurements, and determination of diffraction grating refractive index profiles. This additive was shown to simultaneously promote the rate and inhibit the photopolymerization process, but not through the traditional RAFT (reversible addition fragmentation chain transfer) mechanism often seen with trithiocarbonates.Various other additives were applied to the holographic systems and grating formation was studied. A tertiary amine coinitiator was added to the system leading to overexposure even in the low light of dark room conditions. A phenol inhibitor required longer exposures and reduced diffraction efficiency. An iodium salt accelerator showed the best results when added with the trithiocarbonate, giving higher diffraction efficiencies. For example, a 3-μm grating spacing improved from 25% with trithiocarbonate alone to 34% with added accelerator.

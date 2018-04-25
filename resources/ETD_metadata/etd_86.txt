@@ -1,0 +1,11 @@
+$TITLE:
+Characterizing Pharmaceutical Polymorphs Using Terahertz Spectroscopy
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+low-frequency vibrations, molecular binding forces, polymorphs, solid-state DFT, Terahertz spectroscopy
+
+$ABSTRACT:
+During drug manufacturing, pharmaceutical companies need to fully investigatethe solid-state assemblies of the molecules being produced. Even slight variations in thesolid-state packing arrangement of the active pharmaceutical ingredient (API) can greatlyinfluence the effectiveness of the product. This work investigates various aspects of thepharmaceutical screening process, including: the characterization of polymorphs(external changes in the solid-state packing arrangement of a solid or internalconformational), investigation of disorder (conformational or positional), and theformation of cocrystals. The chosen tool for these investigations is terahertzspectroscopy. Terahertz spectroscopy probes the solid-state lattice specific, lowfrequencyvibrations (sub-100 cm-1) of molecular solids, providing a useful tool for thedifferentiation of polymorphs. In this work, terahertz spectroscopy is used to detect andidentify different polymorphic materials, with up to eight polymorphs that exhibitdisorder (both internal and external), undergo solid-state phase transitions, are affected byhumidity, or exist as cocrystals. The relative stabilities of the crystalline polymorphs arean important aspect of the manufacturing and effective utilization of pharmaceuticals andcan be investigated using solid-state density functional theory in combination withterahertz spectroscopy. The approach of combining these experimental and theoreticalmethods yields insight into the formation and stability of the polymorphs by revealing thebalance between the intermolecular and intramolecular forces that is ultimatelyresponsible for the physical characteristics.

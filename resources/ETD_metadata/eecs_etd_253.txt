@@ -1,0 +1,11 @@
+$TITLE:
+Decentralized detection and estimation with fuzzy and asynchronous data
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+fuzzy sets, signal detection
+
+$ABSTRACT:
+Decentralized detection and estimation systems have found a wide variety of applications in many disciplines which involve team decision-making. In many practical situations, the mathematical model used to represent the physical phenomenon encountered by the decentralized detection or estimation system is not completely defined, i.e, one or several of the parameters of the mathematical model may be unknown or partially known. On the other hand, there may be measurement inaccuracies attached to the sensors. However, most of the work on decentralized detection systems has been conducted on the assumptions that the mathematical models are completely known and that exact measurements are available. The use of fuzzy sets in representing uncertainty in signal detection problems has been shown to complement the conventional approaches using probabilistic modeling. This formulation is considered in the context of decentralized detection and estimation systems in this dissertation.We concentrate on two distinct approaches that use fuzzy sets in modeling uncertainty. In one approach, the sample information available from the physical phenomenon of interest is assumed to be vague. The vagueness of the data is represented by means of 'fuzzy events' defined over the real line. In the second approach, one or more parameters in the mathematical model describing the physical phenomenon are assumed to be unknown. A fuzzy set representation is employed in modeling the unknown parameters.A common assumption that is encountered in the literature on decentralized detection and estimation systems is that the local sensors are synchronized. However, one may often come across decentralized decision making problems where the local sensors receive data and/or generate decisions in asynchronous fashion. We present a multi-sensor decision fusion rule when the local sensors transmit their decisions to the global decision maker in asynchronous fashion. We introduce an asynchronous decision fusion model that takes into account the decision generation rates at the local sensors. Numerical examples are presented illustrating the analytical results.

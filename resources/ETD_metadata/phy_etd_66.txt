@@ -1,0 +1,11 @@
+$TITLE:
+Topics on vortex matter in type-II superconductors
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Vortex matter, Superconductors, Hydrodynamic fields, Non-Gaussian hydrodynamic free energy, Bosons
+
+$ABSTRACT:
+The main part of this thesis deals with the hydrodynamic description of the long wavelength properties of vortex liquids in extreme type-II superconductors. The underlying theoretical background at the more fundamental level is that of the London approximation. Starting from the formal analogy between directed flux-lines and lines of time evolution of non-relativistic, charged bosons proposed by Feigel'man and collaborators some time ago, we derive a non-Gaussian hydrodynamic free energy which is a functional of coarse-grained, hydrodynamic fields. This description fully takes into account the nonlocality of the intervortex interaction in the applied field direction. An important property of the flux-line liquid which characterizes the correlation of the lines along the applied field direction is the tilt modulus. We use lowest order perturbation theory in the non-Gaussian free energy to calculate the interaction-induced, upward renormalization of the tilt modulus in a clean, infinitely thick, vortex liquid. We extend this calculation to perturbatively calculate the disorder-induced renormalization of the tilt modulus for vortex liquids in the presence of weak disorder of various geometries. After discussing some inherent flaws of the directed flux-line models, we propose a new hydrodynamics of a liquid of arbitrarily curved flux-lines and vortex loops. We derive this new model from a relativistic boson analogy.The last chapter is somewhat independent from the rest of the thesis. Its subject is the onset of plasticity in driven vortex lattices away from equilibrium. We particularly study the results of a recent experiment carried out by the Argonne group and collaborators in the Corbino disk geometry. We describe the onset of plasticity as the proliferation of free dislocations breaking away from bound pairs. Our analysis of the thermal effects closely follows the stress relaxation theory of Bruinsma, Halperin, and Zippelius for two-dimensional crystals.

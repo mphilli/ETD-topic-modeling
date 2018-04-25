@@ -1,0 +1,11 @@
+$TITLE:
+Biophysical applications of parallel cascade identification
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Parallel cascade identification, Intracellular signaling, Gesture recognition, Human-computer interfaces
+
+$ABSTRACT:
+Parallel Cascade Identification (PCI) (Korenberg, 1991) is an iterative algorithm that represents nonlinear systems by assembling parallel paths of cascades, each of which consists of a dynamic linear element followed by a static nonlinear element. This algorithm is based on a Volterra series expansion of a function that represents the unknown system. Knowing the stimulus (input) and response (output) of a system, we can use PCI to help us identify and model the dynamics of various systems. We have studied two biological systems: intracellular signal detection (in Chlamydomonas reinhardtii ) and gesture recognition.For intracellular signal detection, a key feature in our approach is the use of multiple inputs with different dynamical rates. Since experimental data are not available yet, simulated results are shown.For gesture recognition, parallel cascade has been modified to function as a classifier (Korenberg and Morin, 1997). We have adapted the parallel cascade to work in a real-time setting. Our experimental results on the gesture recognition project shows promise.We conclude with a discussion on possible applications and open problems.

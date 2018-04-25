@@ -1,0 +1,11 @@
+$TITLE:
+Parallel pipelined computational model for space-time adaptive processing
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Parallel pipelined, Space-time adaptive processing, Radar
+
+$ABSTRACT:
+This dissertation presents a parallel pipelined computational model for radar signal processing applications. Performance results for the design and implementation of a real Space-Time Adaptive Processing (STAP) application on parallel computers are presented. The dissertation also discusses the process of software development for such an application on parallel computers when latency and throughput are both considered together and presents tradeoffs considered with respect to inter and intra-task communication and data redistribution. The results show that not only scalable performance was achieved for individual component tasks of STAP but linear speedups were obtained for the integrated task performance, both for latency as well as throughput. Multi-threaded design for the STAP application is also presented for the parallel machine with SMP nodes. It is shown that the performance is enhanced when a multi-threaded implementation is employed. In this dissertation, we also study the effect on system performance when the I/O task is incorporated in the parallel pipeline computational model. There are two alternatives for I/O implementation: embedding I/O in the pipeline or having a separate I/O task. From these two I/O implementations, we discovered that the latency may be improved when the structure of the pipeline is reorganized by merging multiple tasks into a single task. All the performance results shown in this work demonstrated the scalability of the parallel pipeline STAP system.

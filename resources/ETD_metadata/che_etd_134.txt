@@ -1,0 +1,11 @@
+$TITLE:
+Chemical and Physical Studies of Select Oxa- And Thiabicycles
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Nonbonded interaction, Huckel's treatise
+
+$ABSTRACT:
+For the past four decades, Hucke's treatise on aromaticity has helped to fashion the development of contemporary organic chemistry. Major efforts have been directed at the synthesis of choice compounds which would test the theory's applicability and limitations. Through ingenuity, diligence and perseverance, chemists have scrutinized the "aromatic" character of fully conjugated monocyclic systems containing 4n + 2 [pi] electrons for values of n from 0 to 7. During this process, the original structural prerequisite set by the "4n + 2" rule has been subjected to extensive variations. Notable among these is the use of dehydro derivatives .. and of spanning alkyl fragments ... to prevent intramolecular cyclization.

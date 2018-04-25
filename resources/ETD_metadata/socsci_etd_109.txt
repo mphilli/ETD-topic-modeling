@@ -1,0 +1,11 @@
+$TITLE:
+The recyclables marketplace: A transaction cost economics approach
+
+$DEPARTMENT:
+Social Sciences
+
+$KEYWORDS:
+recyclablers, marketplace, transaction, cost economics
+
+$ABSTRACT:
+In recent years, the recycling of municipal solid waste has created a new industry in the United States largely as a result of public sector interventions into the marketplace. Such interventions were useful in that they facilitated the development of a new industrial infrastructure. However, public policy initiatives designed to divert materials from disposal did not adequately address how to move recyclables back into commerce in the most efficient manner possible. Transactions between buyers and sellers were being impeded for a variety of reasons.The theory of transaction cost economics is used to explain the complex evolution of exchange relationships and the factors causing increased transaction costs. It is also used to analyze a new marketplace innovation designed to reduce transaction costs the Chicago Board of Trade's Recyclables Exchange. Several subscribers were qualitatively interviewed to determine why they were using the Exchange and the transaction costs factors they were seeking to overcome. There were three major transaction cost factors subscribers were seeking to overcome: uncertainty, asset specificity, and bounded rationality. It is suggested that future research focus on quantitatively measuring actual transaction costs.

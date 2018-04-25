@@ -1,0 +1,11 @@
+$TITLE:
+Adaptive radar target detection algorithms in space-time and polarization domains
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Electrical engineering
+
+$ABSTRACT:
+Addressed in this dissertation is the problem of detecting a target in clutter and noise with unknown statistics, in the space-time, polarization, and polarization-space-time domains.First, we analyze a practical problem of selecting Localized Processing Regions (LPR) for joint space-time localized processing, considering the angle-Doppler coupling effects of the clutter spectrum. The effects of LPR size, position, shape, and window on the detection performance of the joint domain localized generalized likelihood ratio (JDL-GLR) processor are analyzed in detail.Three processors in the polarization domain, i.e., the adaptive clutter polarization canceller-based detector (APC), polarization discontinuity detector (PDD), and Kelly's GLR detector are compared to see which of the three has a relatively good detection performance while still relatively easy to implement.The problem of combining adaptive polarization processing and space-time processing is also studied for further performance improvement of radar target detection in clutter and jammer environments. The development focuses on the joint polarization-space-time domain, since most straightforward cascade combinations have quite limited performance improvement potentials. The processing algorithm developed does not need a potentially costly polarization filter bank to cover the unknown target polarization parameter. The analytical detection performance is derived and evaluated in terms of the probability of detection and the probability of false alarm, and it is compared with other algorithms that do not utilize the polarization information, or that assume the target polarization is known.Finally, two polarization-space-time processors are compared in a nonhomogeneous and nonstationary clutter environment, along with performance potential comparison of the processors of different configurations. To solve the limited secondary data problem, we shall apply the localized processing technique to the polarization-space-time processors and compare their detection performance.

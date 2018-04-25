@@ -1,0 +1,11 @@
+$TITLE:
+Housing Demand, Housing Wealth, and Public Policy
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Homeownership, Household Formation, Housing Policy
+
+$ABSTRACT:
+This dissertation comprises three papers on housing demand, housing wealth, and public policy. The first two papers make use of veteran access to the VA Loan Guaranty Program during the post-war housing boom during the 1940s and 1950s. The findings show that, for both World War II and Korean War veterans, access to the VA loan program promoted household formation. Specifically, access to the program increased an individual’s probability of both marriage and homeownership relative to comparable individuals who did not have access to the program. The third paper analyzes the impact of the Deficit Reduction Act of 2005’s change in the status of housing equity as a protected asset in determining Medicaid long-term care payment eligibility. The impact of the policy on the housing equity holdings of individuals likely to require long-term care is estimated across three dimensions: before versus after the policy change, above versus below the eligibility cutoff, and a variety of self-reported health measures. The findings show that the policy induced individuals above the policy cutoff who were likely to require long-term care to hold less housing equity than comparable individuals who were either below the eligibility cutoff or did not report a health measure.

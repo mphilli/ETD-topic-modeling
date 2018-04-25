@@ -1,0 +1,11 @@
+$TITLE:
+Control of Inflammation Using Drug Delivery Strategies in in vitro Models
+
+$DEPARTMENT:
+Biomedical and Chemical Engineering
+
+$KEYWORDS:
+Cellular signaling, Decoy oligonucleotide, Drug delivery, Polysialic acid
+
+$ABSTRACT:
+Regulation of inflammation is a crucial component of the immune system in response to injury and infection. In otherwise healthy individuals, an initial acute inflammatory response will subside once the injury or infection is eradicated. However, in certain disease states including autoimmune disease and persistent infection, miscommunication between cells of the immune system leads to a chronic inflammatory response, contributing to disease pathology and exacerbating symptoms. A major regulator of inflammation communication at the cellular level is transcription factor (TF) NF-κB. Under normal conditions, NF-κB is bound to an inhibitor in the cytoplasm. In a chronic disease state, NF-κB is overactive and found in the unbound form, resulting in increased production of inflammatory signals.Transcription factor decoys (TFD) are small nucleic acid sequences (~20 base pairs) that mimic the binding site for the TF on the native DNA, but do not encode for any proteins. By binding to the TF in the cytoplasm, TFD have potential to limit excessive immune signaling and inflammatory protein production. Unfortunately, clinical success of TFD has been hampered by a lack of an effective delivery method. Lack of stability and ease of degradation of the TFD require a protective carrier for delivery; however many synthetic carrier systems induce toxicity or an enhanced inflammatory response. In disease states characterized by excessive inflammation, treatment-induced toxicity or immune response is highly undesirable.The Bader lab has previously reported a nanoparticle carrier system based on natural polysaccharides, designed specifically for the treatment of rheumatoid arthritis. The materials used in this system have properties that can be exploited for the additional application of DNA delivery. This thesis will detail the adaptation of polysialic acid-N-trimethyl chitosan nanoparticles to be used as delivery vehicles for an NF-κB TFD treatment in in vitro models of rheumatoid arthritis and cystic fibrosis.

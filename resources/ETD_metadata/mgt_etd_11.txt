@@ -1,0 +1,11 @@
+$TITLE:
+The R&D; Boundaries of the Firm and the Governance of R&D; Alliances: Essays on Institutions, Strategic Considerations and Contract Structure
+
+$DEPARTMENT:
+Management
+
+$KEYWORDS:
+Alliances, Collaborative R&D;, Contract design, Cooperative strategy, Institutions, New institutional economics
+
+$ABSTRACT:
+The three essays in this dissertation examine questions related to the R&D; boundaries of the firm and the governance of R&D; alliances. The first essay draws on institutional theory to examine the history of corporate R&D; in the U.S. since the mid-19th century. Formal and informal institutional rules and constraints are shown to play a role in the initial rise of markets for technology in the 19th century, their decline during the early-20th century, and their eventual return at the end of the 20th century. The influence of formal and informal institutions on the adoption of in-house R&D; labs in the US during the mid-20th century is also examined.In the second essay, the focus shifts to an investigation of the discrete project-level R&D; outsourcing decision. A framework for understanding the direct and indirect influence of strategic considerations and environmental factors is developed. The impact of project- and transaction-level characteristics on the R&D; outsourcing decisions are also considered, highlighting the importance of integrating information possessed by managers from different levels of the firms. Finally, the second essay proposes that cross-level interactions may exist within the framework, which may help to explain why the decisions observed in some cases run counter to the predictions traditionally derived from theory.The third essay includes two empirical studies that examine different aspects of the contracts designed to govern R&D; alliances. Using a unique set of contracts from the medical device industry, the studies in the final essay investigate the factors that influence the structure of R&D; alliance contracts and the assignment of key decision and control rights in such contracts. In addition, the final essay investigates the impact of previous alliance experience on the relationship between the key factors identified and the structure of R&D; alliance contracts.

@@ -1,0 +1,11 @@
+$TITLE:
+Structure and excitation energy in retinals and retinal proteins
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Retinals, Retinylidene proteins, Bacteriorhodopsin, Excitation energy
+
+$ABSTRACT:
+Retinylidene proteins, also know as retinal proteins, are membrane-bound protein pigments that bind retinal through a Schiff base linkage. Retinal proteins are photochemically reactive proteins. Though all proteins in this class have the same light absorbing moiety, a retinal chromophore attached via a protonated Schiff base linkage, their absorption maxima cover a wide range. Sensory rhodopsin II (SRII) is unique among archaeal-type rhodopsins in that it has a λ max  = 500 nm, about 70 nm blue-shifted from bacteriorhodopsin (BR). The MOZYME ground state optimizations and MNDO-PSDCI (partial single-double configuration interaction) excited state calculations reveal that the relocation of Arg72 in SRII (Arg 82 in BR) is associated with spectral difference between SRII and BR. The dispersive effect of protein residues with regard to spectral tuning was also quantitatively obtained.High-performance liquid chromatography (HPLC) method was developed to separate and collect geometric isomers of retinal, 3-dehydro retinal and 13-desmethyl retinal. The excitation energy results, using density functional theory (DFT) optimization and MNDO-PSDCI calculations, successfully predict the absorption bands of each isomer and are in good agreement with experimental data. The results also show that modifications on the polyene chain have significant impacts on the conformational energies of the chromophore.In the study of photochemistry of 13-desmethyl BR analog, a long-lived P-like state with λ max = 525 nm and 9- cis chromophore conformation was discovered. This P-like state is obtained via either direct conversion from the all- trans resting state or sequential conversion from a 13-cis conformation. Theoretical studies and circular dichroism (CD) reveal that rotational freedom of the 13-desmethyl chromophore is associated with the formation and stability of this P-like state.

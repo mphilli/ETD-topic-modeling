@@ -1,0 +1,11 @@
+$TITLE:
+Whom Would You Choose? The Role of Trust in New Venture Partner Choice
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+New venture, New venture partner, Trust, Trustworthiness
+
+$ABSTRACT:
+What is the role of trust in new venture partner choice? To  answer this question, this study uses a human capital framework to investigate  the relative importance of the factors of trustworthiness (i.e. ability,  benevolence and integrity) in the decision to choose a new venture partner. A  second query is, how does familiarity of a potential partner contribute to the  choice? This study also explores the moderating influences of propensity to  trust, gender and race in new venture partner decision policies. This research  uses conjoint analysis and hierarchical linear modeling techniques to capture  and decompose more than 3700 new venture partner choice evaluations which are  nested in a sample of 116 CPAs. The findings of this study suggest that trust is  important in the choice of new venture partner. Specifically, the results show  that among this study's sample, the factors of trustworthiness are more  important than familiarity. Also found was that integrity is more important than  ability and benevolence in new venture partner choice and that propensity to  trust moderates the choice.           This research offers several contributions. First, this study delves  into the underexplored area of new venture team formation and is one of the  first to investigate the role of trust in this context. Using a human capital  framework, the conceptualization of this concept is extended to include  trustworthiness. Methodologically, this study is one of the first to use  conjoint analysis in the study of new venture team formation and in the study of  trust. Finally, implications for theory, practice and future research are  discussed

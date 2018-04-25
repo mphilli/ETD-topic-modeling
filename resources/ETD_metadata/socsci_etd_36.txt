@@ -1,0 +1,11 @@
+$TITLE:
+The economic effects of enterprise zone programs on local labor markets: Two essays
+
+$DEPARTMENT:
+Social Sciences
+
+$KEYWORDS:
+Enterprise zone, Labor markets, Fiscal incentives, California Enterprise Zone Program, California
+
+$ABSTRACT:
+Enterprise Zones have been one of the most prominent economic development tools used at the state and local levels of government in the United States during the 1980s and 1990s. Yet with close to twenty years of use, there is little definitive evidence of their efficacy. This dissertation is presented in two distinctive parts or essays.In the first essay a economic model used from the public finance literature is applied to determine the employment and wage effects from enterprise zones. The limitations of the model motivated the development of a new model that more accurately reflects the economic behavior of the economic agents associated with enterprise zones. Analytical solutions are derived for both models and some comparative static results are discussed. Given the lack of precision from the analytical solutions, numerical simulations are run for a plausible range of the key variables. The numerical results indicate that at best employment changes associated with enterprise zones are the result of labor mobility and may not result in a net economic gain. The essay ends with a discussion of how the results of this study could be used in the design of enterprise zone programs.The second essay provides an empirical test of the employment effects of the California Enterprise Zone Program. The research design utilizes a constructed comparison group and analyzes employment changes over a ten year period. Employment date is estimated for zip codes with enterprise zones and the comparison group. Fixed effects estimation techniques on panel data are used determine if employment changes are statistically significant. The results indicate that there are no statically significant effects on employment changes due to the enterprise zone program. The essay ends with some suggestion for further study.

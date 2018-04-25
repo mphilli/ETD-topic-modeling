@@ -1,0 +1,11 @@
+$TITLE:
+Peer Led Team Learning in Introductory Biology: Effects on Critical Thinking Skills
+
+$DEPARTMENT:
+Science Teaching
+
+$KEYWORDS:
+CCTST, Critical Thinking, Introductory Biology, Peer Leaders, PLTL
+
+$ABSTRACT:
+This study evaluated the potential effects of the Peer-Led Team Learning (PLTL) instructional model on undergraduate, biology peer leaders' critical thinking skills. This investigation also explored peer leaders' perceptions of their critical thinking skills. A quasi-experimental pre-test/post-test with control group design was used to determine critical thinking gains in PLTL/non-PLTL groups.Critical thinking was assessed using the California Critical Thinking Skills Test (CCTST) among participants who had previously completed and been successful in the second semester of a two-semester introductory biology course sequence. Qualitative data from open-ended questionnaires confirmed that factors thought to improve critical thinking skills such as interaction with peers, problem solving, and discussion were perceived by participants to have an impact on critical thinking gains. However, no significant quantitative differences in peer leaders' critical thinking skills were found between pre- and post-treatment CCTST measurements nor between experimental and control groups. Additionally, students led by peer leaders attained significantly higher exam and final course grades in introductory biology than similar students not participating in PLTL. Finally, among introductory biology students who opted not to enroll in the associated lab course, those who participated in PLTL averaged more than a letter grade higher than those who did not, and this difference was statistically significant.

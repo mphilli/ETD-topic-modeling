@@ -1,0 +1,11 @@
+$TITLE:
+Cardiovascular and metabolic responses during active coping: Individual differences in blood pressure and personality
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+measured cardiac output, blood pressure and personality
+
+$ABSTRACT:
+The present study measured cardiac output, total peripheral resistance and oxygen consumption in response to a laboratory stressor. Forty-eight subjects completed two sessions, one consisting of a 20-minute baseline followed by a 12-minute graded exercise task, the other consisting of a 20-minute baseline followed by a 6-minute active coping task. In addition, all subjects completed measures of hostility, defensiveness and anger expression. Results showed that: (1) no task expectancy effects were apparent across baselines, (2) the active coping task produced significant amounts of additional cardiac output, (3) differences in blood pressure were due entirely to increased cardiac output, and subjects in the "high" blood pressure category showed clear evidence of systemic overperfusion for both baseline and task values, in contrast to those in the "low" blood pressure category, and (4) cynical hostility was a significant predictor of reactivity.

@@ -1,0 +1,11 @@
+$TITLE:
+Endogenous RNAi pathways are required in neurons for dauer formation in Caenorhabditis elegans
+
+$DEPARTMENT:
+Biology
+
+$KEYWORDS:
+C. elegans, Dauer, Neurons, Pheromone, Stress
+
+$ABSTRACT:
+Animals can adapt to unfavorable environments through changes in physiology and behavior. For Caenorhabditis elegans nematodes, environmental conditions perceived early in development determine whether the animal enters the reproductive cycle or enters into an alternative diapause stage called dauer. Here we demonstrate that endogenous RNA interference (endo-RNAi) pathways play a pivotal role early in the life cycle of worms in the detection of environmental conditions and mediating the appropriate developmental decisions. Our findings illustrate that functional endo-RNAi pathways contribute to the regulation of dauer formation in larvae when exposed to stress and recovery from the dauer stage when the conditions improve. Our experiments demonstrate that disruption of the Mutator proteins or the nuclear argonaute CSR-1 result in differential dauer-deficient phenotypes that are dependent upon the environmental stress. We found that these RNAi components function in individual neurons upstream of TGF-β and insulin signal transduction pathways to positively regulate G protein genes that are required to make dauer formation decision, suggesting a role for the distributed neuronal circuit in regulating this decision. Our results also suggest that endo-RNAi governs dauer recovery decisions in pheromone induced dauers when conditions are favorable. Together, our data suggest a model wherein the CSR-1 pathway promotes expression of genes required for the detection and signaling of environmental conditions, and highlight a mechanism whereby RNAi pathways mediate the link between environmental stress and adaptive phenotypic plasticity in animals.

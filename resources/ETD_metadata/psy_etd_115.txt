@@ -1,0 +1,11 @@
+$TITLE:
+Performance feedback and generalization programming in writing instruction
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+writing instruction
+
+$ABSTRACT:
+Effective writing instruction continues to be a major concern of educators. A key variable in effective writing instruction is feedback about performance. In this study, a performance feedback system, including self-monitoring, public posting, and reinforcement, was implemented to improve student writing. Selected compositional variables (Total Words, Action Verbs, Describing Words) were manipulated and increases were related to judgments of overall writing quality. Finally, because the goal of effective instruction is to guide the learner to generalize the use of a skill, a generalization programming technique (incorporating functional mediators) was employed to generalize the writers' use of describing and action verbs in other writing tasks. Using a multiple-baseline-across-behaviors design, the feedback system was applied to six students, ranging from age from 11 to 13 years.Increases in writing rate (Total Words), the use of describing words and action verbs were observed. These increases were related to judgments of writing quality. Increased writing rate generalized to another writing task. Implications of the use of precise, systematic feedback and the use of generalization programming techniques in writing tasks are discussed.

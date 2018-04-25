@@ -1,0 +1,11 @@
+$TITLE:
+Organizational crisis public relations management in Canada and the United States: Constructing a predictive model of crisis preparedness
+
+$DEPARTMENT:
+Mass Communications
+
+$KEYWORDS:
+Leadership, Organizational, Crisis, Public relations, United States, Preparedness
+
+$ABSTRACT:
+Organizations face crises everyday: From seemingly small, localized events that interrupt an organization's ability to achieve its objectives, to national and international crises that disturb the social and political framework within which global organizations operate. Organizational crisis public relations management combines a set of theoretical and organizational characteristics that have been shown to influence an organization's ability to ready itself, respond to, and recover from crisis events. This study of 468 public relations practitioners in Canada (N = 239) and the United States (N = 229) has examined the contribution that six key organizational indexes (leadership, organizational culture, the organization's perception mindset, public relations excellence, crisis management and organizational learning) have on the overall crisis preparedness of organizations. This is the first quantitative study of public relations managers that has assessed the role of public relations in the management of organizational crises. Furthermore, the study proposes and tests a predictive model of crisis preparedness showing that a composite index of 12 organizational crisis public relations management (OCPRM) variables is the best predictor of organizational crisis preparedness.

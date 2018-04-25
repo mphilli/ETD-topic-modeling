@@ -1,0 +1,11 @@
+$TITLE:
+Making Math Risky: A Translational Study on Preference for Mixed- Versus Fixed-Ratio Schedules during Problem Completion
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Math Problem Completion, Ratio Schedules, Risky Choice
+
+$ABSTRACT:
+Basic research has demonstrated that when given a choice between a reinforcement schedule that requires a fixed number of responses or one that requires a mixed number of responses, preference typically emerges for the mixed option even when it requires a larger response requirement.  The current study attempted to replicate and extend these findings to math problem completion by fourth-grade students. Across 5 phases, 4 students chose either to complete 5 addition problems per trial (fixed-ratio schedule) or a mixed number of addition problems per trial (mixed-ratio schedule). The first mixed schedule examined required either 1 or 9 problems per trial.  The number of math problems in the mixed schedule was increased by 20% (1 or 11 problems per trial) in the subsequent phase. The third phase featured a mixed schedule requiring 5 or 7 problems per trial. This was followed by a reversal to the preceding phase in which preference for the mixed schedule had been observed and a final reversal back to the phase featuring a mixed schedule requiring 5 or 7 problems per trial.  Findings were consistent with previous research in that preference emerged for the mixed schedules that required only 1 problem on some trials, but did not when the mixed option required 5 or 7 problems.  Results highlight the importance of small work requirements in the emergence of preference for mixed schedules and offer implications for future studies aimed at encouraging students to choose lengthier assignments.

@@ -1,0 +1,11 @@
+$TITLE:
+Interactions between Inflammatory Cells and CoCrMo Alloy Surfaces under Simulated Inflammatory Conditions
+
+$DEPARTMENT:
+Biomedical and Chemical Engineering
+
+$KEYWORDS:
+CoCrMo, Corrosion, Inflammatory cell, Inflammatory condition
+
+$ABSTRACT:
+Metallic biomaterials continue to be the primary materials for medical devices because of their excellent physical and mechanical properties especially for certain implants which need high strength (hip, spinal, shoulder, knee etc.).  However there is no perfect material to meet all the requirements of a medical device.  Metallic biomaterials are prone to corrosion and wear which has been associated with implant failure (osteolysis, aseptic loosening, pseudo tumor etc.)  This study focused on investigating how inflammatory cells interact with CoCrMo alloy surfaces under simulated inflammatory conditions (H2O2 treatment).  It is hypothesized that the presence of Reactive Oxygen Species (ROS) in cell culture will affect the viability of inflammatory cells and that when ROS interacts with CoCrMo alloy surfaces the effect on cell viability is increased.  The first part of the study focused on the cell behavior (viability and morphology) when cultured directly on CoCrMo alloy surfaces with different concentrations of H2O2 in the medium (0.2 mM – 1 mM) and compared with the same solution conditions but on tissue culture substrate.  The electrochemical behavior of CoCrMo alloy surfaces was also examined when exposed to inflammatory cells and inflammatory fluid (i.e. medium with H2O2 added).  The results show a narrower range of H2O2 concentration for cell viability for the CoCrMo group when compared to tissue culture substrate (p < 0.05).  This indicates that the presence of metal implants during inflammation might raise the ROS toxicity towards cells after surgery.  Inflammatory conditions (i.e. H2O2 + inflammatory cells) were also found to result in corrosion of CoCrMo alloy surfaces.  These short-term results raise significant questions about the long-term interactions between ROS, CoCrMo alloy and inflammatory cells.

@@ -1,0 +1,11 @@
+$TITLE:
+Cognitive, Academic, and Neuropsychological Effects of Treatment
+
+$DEPARTMENT:
+Instructional Design, Development and Evaluation
+
+$KEYWORDS:
+Cancer Survivor, Childhood Cancer, Executive Function, Leukemia, Pediatric Psychology
+
+$ABSTRACT:
+This study explored the effects of number of intrathecal chemotherapies and time off therapy on cognitive, achievement, and neuropsychological functioning of post treatment children with Acute Lymphocytic Leukemia (ALL). Participants consisted of sixteen sibling pairs between the ages of eight and fourteen who were grouped into the high or low group for number of intrathecal chemotherapies (IT), and then regrouped for high or low time off therapy (TOT). Participants were administered a battery of cognitive, achievement, and neuropsychological tests. Matched sibling difference scores from these tests were analyzed. Results found that children with ALL performed in the average range, although below their healthy siblings in some domains, indicating that treatments appear to be doing less harm than anticipated from the past literature. Results indicate that on reading composite (comprehension and pseudoword reading) and math reasoning the high IT children with ALL, when compared with low IT children with ALL, performed more poorly than their healthy siblings. A large effect size for intelligence quotient indicated that high IT children with ALL, when compared with low IT children with ALL, performed more poorly than their healthy siblings. Large effect sizes also were noted for time off therapy (TOT) for reading composite and math reasoning, with the high TOT children with ALL performing more poorly than the low TOT children with ALL, relative to their healthy siblings. Nevertheless, there is cause for optimism.This study replicated prior research on the effects of high number of intrathecal chemotherapies on the intellectual, reading, and math performance of children with ALL, with late effects becoming most apparent at five or more years post therapy. However, post hoc analyses cautioned that these results should be interpreted conservatively, given the study’s methodological limitations.

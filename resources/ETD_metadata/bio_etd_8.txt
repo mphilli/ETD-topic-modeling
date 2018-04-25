@@ -1,0 +1,11 @@
+$TITLE:
+Ecology of the Trans-Himalayan grazing ecosystem
+
+$DEPARTMENT:
+Biology
+
+$KEYWORDS:
+Grazing ecosystem, Herbivory, Climate change, Biodiversity, Soil quality
+
+$ABSTRACT:
+This study investigates ecosystem function in the Trans-Himalayan grazing ecosystem in northern India. First, herbivory-tolerance in plants was studied under a full-factorial arrangement of experimental clipping, irrigation and fertilization. In absence of fertilization, plants compensated for defoliation if not irrigated, but failed to compensate under irrigation. When fertilized, plants compensated for defoliation only under irrigation. These results indicate that grazers can alter the strength of resource co-limitation faced by plants. Second, using herbivore-exclusion experiments, direct and indirect impacts of grazers on ecosystem function were measured. Results show that grazing promotes aboveground production but reduces it belowground. Grazing also reduces C:N ratio in plant tissue and litter, which coincides with increased plant-available inorganic N in soil. These results indicate that herbivores can have positive effects on ANPP if they accelerate nutrient cycling. Third, simultaneous grazer control on plant production and community composition were estimated. Results indicated that after accounting for influence of co-varying variables, these two aspects are not related. Fourth, differences between effects of native and introduced grazers on ecosystem function was estimated. Results indicate that introduced livestock grazers reduce wholeecosystem productivity and lower the potential for C-input in soil. This reduces potential soil-C sequestration.

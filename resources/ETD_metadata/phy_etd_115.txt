@@ -1,0 +1,11 @@
+$TITLE:
+Higher Derivative Gravitational Systems and Ghost Fields
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Ghosts, Gravity, Higher Derivatives
+
+$ABSTRACT:
+Effective Field Theory (EFT) is one of the most powerful theoretical tools in the hands of cosmologists, it allows them to come up with testable effective descriptions of the universe even when a fundamental theory is missing. EFT though, is not the only possible answer for pushing our knowledge beyond the limits of what has already been established. Applying EFT and other alternative methods has become an important part of a cosmologist’s work, particularly in the last few years when a vast plethora of extensions of the Standard Model of Cosmology has been proposed and needs to be tested against experimental results. In this work we mainly investigate the limits of EFT in the context of cosmic acceleration, and the possibility of calculating corrections to the low energy standard cosmological results by re-interpreting the meaning of higher derivative terms in perturbation expansions.

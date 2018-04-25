@@ -1,0 +1,11 @@
+$TITLE:
+Early universe cosmology as a probe of fundamental physics
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Beyond the Standard Model, Cosmic Microwave Background, Cosmology, Effective Field Theory, High Energy Physics
+
+$ABSTRACT:
+Cosmology, together with cosmological and astrophysical observations of ever increasing precision, represents a unique opportunity to study physics at energies far beyond the reach of terrestrial laboratories. In particular, observations of the cosmic microwave background radiation supports the idea for an early phase of accelerated expansion called inflation. While the simplest inflationary models provide a consistent theoretical framework in explaining observational data, we are yet to understand the microscopicdetails of the inflationary dynamics, the process of how the inflation ends and how the evolution in the post-inflationary era proceeds. In this dissertation, we will explore observational consequences of well-motivated scenarios in the early universe both from a top-down and bottom-up perspective. In particular, motivated by the null results of low energy searches of Supersymmetry at Large Hadron Collider, we will first focus on the so-called Split Supersymmetry scenarios including a stable dark matter candidate and study observational signatures/constraints of (on) these models. Next, we investigate the phenomenology of particle production events during inflation focusing on cases that are well motivated both by UV physics and bottom-up EFT considerations. Considering thecosmological correlators in the presence of particle production, we explore the viability of scenarios in light of recent data on the Cosmic Microwave Background radiation. Finally, we take some small steps towards understanding the dynamics at the end of inflation from an Effective Field Theory perspective and discuss a possible observational effects that might arise in this formalism.

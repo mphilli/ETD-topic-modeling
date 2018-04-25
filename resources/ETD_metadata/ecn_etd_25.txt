@@ -1,0 +1,11 @@
+$TITLE:
+Uncertainty, zoning and land development
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Real options, Growth management, Urban Growth Boundary, Uncertainty, Zoning, Land development
+
+$ABSTRACT:
+Theoretical work suggests that land development is akin to exercising a real option to own a building of a given size. The first chapter of the dissertation utilizes a rich dataset of parcel characteristics and real property transactions from the Seattle area to test two predictions of real options with respect to land markets: greater price volatility delays development and raises land prices. Evidence for both predictions is found, suggesting developers consider their real options when deciding to invest.The second chapter examines the impact of growth controls on development in a real options framework. Uncertainty about housing prices leads to uncertainty about optimum intensity of investment and is thus a deterrent to development. Zoning laws that limit density may reduce uncertainty about what to build and actually accelerate development. This paper examines the imposition of an Urban Growth Boundary around Seattle and finds that the law lowers the likelihood of development outside the boundary between 28 to 39 percent. However, once the boundary is imposed, price volatility, a principal determinant of real-option value, ceases to slow development, suggesting that the law would have been stronger absence of real options considerations.The third chapter tests whether the existing rate of homeownership in a community affects the intensity of subsequent land development. If homeowners have a greater taste for restrictive zoning then increasing the rate of homeownership, a major policy objective of the federal government, may impede other goals such as limiting sprawl or integrating neighborhoods. Examining new subdivisions in 40 different zoning districts in Greater Seattle, I find evidence consistent with this hypothesis. I also find that regional planning laws, which constrain zoning by cities, may partially ameliorate these tendencies.

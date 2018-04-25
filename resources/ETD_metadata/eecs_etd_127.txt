@@ -1,0 +1,11 @@
+$TITLE:
+Architecture of fine-grained data flow network programming environments
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Data flow, Network programming, Visual programming
+
+$ABSTRACT:
+This thesis focuses on the architecture of a data flow visual programming environment. An experimental system NeatTools, was built to test and verify key concepts. Although the system and architecture considerations are general, software support for assisting interfaces is the main motivation for and test bed for our ideas.The programming environment had to be implemented based on a programming language before the computer science experiments could proceed. In this thesis, I discuss the pros and cons among C, C++ and Java. Later on I discuss and compare NeatTools with Object Management Environments, Modeling Language, and some commercial visual programming tools.

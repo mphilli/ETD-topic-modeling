@@ -1,0 +1,11 @@
+$TITLE:
+Two essays on multi-tasking, efforts interaction and compensation
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+Efforts interaction, Compensation, Multitasking, Incentives, Principal-agent model
+
+$ABSTRACT:
+This dissertation investigates the optimal incentive schemes of a risk-averse agent in a multi-tasking environment where performing one task can have positive or negative impact on the other task. In the first chapter, we derive the optimal mix of short term and long term incentives using the principal agent framework when the agent performs both short-term and long-term tasks. We do the analysis for both risk neutral principal and risk averse principal. We first show that the uncertainty in one period has an inverse relation with the optimal incentives of the same period. In addition, we show that the uncertainty in one period has an impact on the other period's incentive as well. The precise relationship between one period's uncertainties on the other period's incentive depends on whether these tasks are complementary or substitutive. With complementary tasks, short-term (long-term) incentive increases with the long-term (short-term) uncertainty. On the other hand, when the tasks are substitutive, this relationship gets reversed. In the second chapter, we test the theoretical predictions of our aforementioned model on the compensation database of the executives available through COMPUSTAT for the year 1993-2000. We use the Jacquemin-Berry entropy measure of diversification to calculate the degree of related and unrelated diversification for a firm. We treat the degree of related diversification as a measure of complementary efforts and the degree of unrelated diversification as a measure of substitutive efforts. Consistent with our predictions, we find that the short term incentive i.e. bonus of the CEOs is positively associated with the long term uncertainty when the firm is diversified in related industries and negatively associated with long term uncertainty when the firm is diversified in unrelated industry groups. The results for the long term incentive are in predicted direction but weaker.

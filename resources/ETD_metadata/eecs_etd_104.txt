@@ -1,0 +1,11 @@
+$TITLE:
+Parallel hierarchical adaptive genetic algorithm for genome sequencing
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Adaptive genetic algorithm, Genome sequencing, Bioinformatics
+
+$ABSTRACT:
+Finding gene locations for specific functions is an important topic in bioinformatics research that requires accurate genome maps. Assembling fragments or "reads" to reconstruct long continuous and least ambiguous contigs (groups of clones representing overlapping regions of a genome) is a crucial early step in genome understanding. Solving this problem is like playing a puzzle game, but it is not an easy problem, especially since datasets are noisy. Although many scientists have been trying to solve this problem for many years, the assemblers developed so far have various weaknesses and are believed to have misassembled contigs. Even in the absence of noise, this problem is NP-hard; given k  sequences, there are 2   k   * k  ! combinations. In reality, solving this problem is even harder due to several complicating factors.This dissertation presents a new sequence assembler using a new variation of evolutionary algorithms: a Parallel Hierarchical Adaptive Genetic Algorithm (PHAGA), which employs optimization techniques and searches for an optimal contig. The innovative features include a new measure for evaluating sequence assembly quality, application of sophisticated optimization techniques and a hybrid of a scalable algorithm and a GA. Reinitialization of the population of individuals helps prevent premature convergence, and control the explosion in computational resources required, major concerns in solving most bioinformatics problems. Results from the simulation of 56 cases demonstrate that sequence assembly by the new sequencing method is highly accurate and noise-tolerant.

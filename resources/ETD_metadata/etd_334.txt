@@ -1,0 +1,11 @@
+$TITLE:
+IDENTIFICATION OF SUBSTRATE CHEMICAL GROUPS IMPORTANT FOR GHRELIN O-ACYLTRANSFERASE ACTIVITY
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+acrylodan, enzymology, ghrelin, ghrelin O-acyltransferase, integral membrane protein, membrane bound O-acyltransferase
+
+$ABSTRACT:
+Ghrelin is a 28 amino acid peptide hormone, expressed primarily in the gastrointestinal tract, which is involved in hunger signaling and energy balance. For ghrelin to bind to and activate its cognate receptor GHSR-1a, it must be octanoylated (C:8 acylated) at serine 3 of its GSSFLS N-terminal sequence.  This acylation is catalyzed by ghrelin O-acyltransferase (GOAT), a 49 kDa integral membrane protein located in the endoplasmic reticulum. Ghrelin-mediated stimulation of food intake is well documented, and acyl-ghrelin expression may also impact glucose metabolism. In addition, some studies have proposed ghrelin involvement in learning and memory. Ghrelin maintains a central role in these critical physiological processes, which are disregulated in many diseases including diabetes, Alzheimer's and obesity. Researchers are therefore interested in developing therapeutics targeting the ghrelin-GOAT system. There is extremely limited information available regarding GOAT structure and mechanism, and the enzyme active site in currently unknown. This absence of structural and mechanistic information renders rational design of small molecule GOAT inhibitors difficult. To address this bottleneck in GOAT inhibitor development, I aimed to define the substrate recognition elements utilized by GOAT to bind and modify ghrelin. Towards this goal, I have shown novel expression of human GOAT (hGOAT) in Sf9 insect cells. Using the expression of GOAT from this system, I have screened a number of peptide-based compounds for inhibition of hGOAT and identified a new class of GOAT inhibitors. I have also utilized site-specific mutations at several positions with ghrelin's GOAT recognition motif to identify crucial contact points within the enzyme.

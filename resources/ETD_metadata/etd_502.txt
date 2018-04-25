@@ -1,0 +1,11 @@
+$TITLE:
+Response of mercury in a forest stream to lime application: Accelerated watershed recovery
+
+$DEPARTMENT:
+Civil and Environmental Engineering
+
+$KEYWORDS:
+acid rain, Adirondacks, honnedaga, liming, mercury, methylmercury
+
+$ABSTRACT:
+Following decreases in acid deposition, some impacted surface waters in northern Europe and the northeastern USA are beginning to recover. The resultant increases in pH in these waters has coincided with increased dissolved organic carbon concentrations, which is also correlated with increases in both total mercury and methylmercury concentrations. Understanding how ecosystem mercury dynamics respond to recovery from acid deposition has important implications for fisheries and human exposure. Honnedaga Lake is one of seven lakes in the Adirondack Park of New York State with a heritage Brook trout (Salvelinus fontinalis) population, making the bioavailability and trophic transfer of mercury (Hg) a particular concern. Lime was applied to a tributary watershed of Honnedaga Lake in 2013 in an effort to accelerate biological recovery from acid deposition. Significant increases in DOC, THg and MeHg were evident in streamwater after treatment (maximum THg post-treatment=5.5 ng/L, maximum THg reference=2.15 ng/L). Six months after treatment, there was no significant difference in MeHg concentrations from reference values, while DOC and THg remained significantly higher than pre-treatment and reference values. This pattern suggests that Hg is leaching at elevated levels from the treated watershed, but that short-lived increases in MeHg could not be sustained due to limitations in either the net methylation rate or the transport of MeHg to the stream.

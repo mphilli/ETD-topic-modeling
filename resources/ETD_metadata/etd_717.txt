@@ -1,0 +1,11 @@
+$TITLE:
+Bacterial polymertropism, the response to strain-induced alignment of polymers
+
+$DEPARTMENT:
+Biology
+
+$KEYWORDS:
+Biofilms, Elasticotaxis, Mechanosensing, Motility
+
+$ABSTRACT:
+In nature, bacteria often live in surface-associated communities known as biofilms. Biofilm-forming bacteria deposit a layer of polysaccharide on the surfaces they inhabit; hence, polysaccharide is their immediate environment on any surface. In this study, we examined how the physical characteristics of polysaccharide substrates influence the behavior of the biofilm-forming bacterium Myxococcus xanthus. M. xanthus colonies, and indeed those of the majority of biofilm-forming species tested, respond to the compression-induced deformation of polysaccharide substrates by preferentially spreading across the surface perpendicular to the axis of compression. This response is conserved across multiple distantly related phyla and is found in species with an array of distinct motility apparatuses.The birefringence and small angle X-ray scattering patterns of compressed polysaccharide substrates indicate that the directed surface movements of these bacteria consistently match the orientation of the long axes of aligned and tightly packed polysaccharide fibers in compressed substrates. Therefore, we refer to this behavior as polymertropism to denote that the directed movements are a response to the physical arrangement of the change in packing and alignment of the polymers in the substrate. In addition to altering the colony morphology we find the behavior of groups of cells, called flares, is also affected in several species resulting in increased flare speed, duration, and displacement on compressed gel substrates.We suggest that polymertropism, which requires a downward-facing motility apparatus in M. xanthus, may be responsible for the observed tendency of bacterial cells to follow trails of extruded and presumably aligned polysaccharides, which their neighbors secrete and deposit on the substrate as they move across it. Polymertropism may also play a role in the organization of bacteria in a biofilm, as the iterative process of polysaccharide trail deposition and following is proposed to yield aggregates of cells.

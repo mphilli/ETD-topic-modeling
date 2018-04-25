@@ -1,0 +1,11 @@
+$TITLE:
+Channel aware decision fusion for decentralized detection in sensor networks
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Decision fusion, Decentralized detection, Sensor networks, Channel-aware
+
+$ABSTRACT:
+The dissertation considers several topics in signal processing for resource constrained wireless sensor networks engaged in a distributed detection task. A distinct feature that makes wireless sensor networks different from a traditional distributed detection system is the unreliable transmission channel. Besides, a typical wireless sensor network has stringent resource constraints, for instance, limited battery power and limited communication bandwidth. In the light of these constraints, our goal is to explore channel aware decision fusion and distributed signal processing algorithms for optimal system detection performance.For given sensor decision rules, we develop optimal coherent detection based fusion statistics for decisions transmitted over wireless fading channels. The high and low signal to noise ratio approximations of the optimal fusion rule are also presented. We then extend the channel aware decision fusion design to the case of non-coherent detection where each sensor employs an on/off signaling; three fading scenarios are explored: Rayleigh, Ricean, and Nakagami. Robust suboptimal fusion statistics based on generalized nonlinearities are also proposed for both the coherent and non-coherent cases.For distributed sensor signal processing design, we derive necessary conditions for optimal local sensor decision rules under a communication constraint. This enables a person-by-person optimization approach to obtain the local sensor decision rules. Also this complements the channel aware fusion rule for the non-coherent detection case and facilitates the implementation of the on/off framework for resource efficient sensor networks for distributed detection applications.

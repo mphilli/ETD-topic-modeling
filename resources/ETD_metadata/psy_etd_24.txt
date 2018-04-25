@@ -1,0 +1,11 @@
+$TITLE:
+Improving elementary-age children's writing fluency: A comparison of improvement based on performance feedback frequency
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Elementary-age, Writing fluency, Performance feedback
+
+$ABSTRACT:
+A considerable amount of attention has focused on reading and mathematics difficulties of elementary-aged students. Significantly less attention has focused on the written expression problems of elementary-aged students, which is problematic given that approximately 6% of the school-aged population may have a disorder in written expression (Luttinger & Gertner, 2001). In an attempt to address this problem, the present study examined the effectiveness of a performance feedback intervention in improving the writing fluency skills of a group of elementary-aged students. In addition, this study attempted to examine whether varying the frequency of feedback affected the amount of improvement observed in students' writing fluency skills. A total of 42 students in three third-grade classrooms participated in the study. Each classroom was randomly assigned to one of three conditions: (a) no feedback; (b) performance feedback intervention once per week; or (c) performance feedback intervention three times per week. Growth in students' writing fluency (i.e., total words written, number of sentences, number of letter sequences) as well as spelling was assessed using a time series design. In addition, a prepost cohort design was utilized to assess changes in students' writing achievement on standardized measures. The results of this study indicated statistically significant differences in students' writing fluency growth (i.e., total number of words written) between the three conditions, with students assigned to the performance feedback intervention three times a week demonstrating more growth than the no feedback condition. No significant differences were detected on students' growth of the remaining writing fluency outcomes (i.e., number of sentences, number of letter sequences) or students' writing achievement on the standardized measures. Implications and future research directions were discussed.

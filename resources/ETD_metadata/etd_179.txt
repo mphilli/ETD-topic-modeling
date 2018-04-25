@@ -1,0 +1,11 @@
+$TITLE:
+A STUDY FOR THE PROPAGATION OF  ELECTROMAGNETIC WAVES OVER IMPERFECT GROUND PLANES  BASED ON SCHELKUNOFF INTEGRALS
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Green's Function, Imperfect Ground Planes, Schelkunoff Integrals, Sommerfeld Integrals, Surface Waves
+
+$ABSTRACT:
+A new formulation for the analysis of propagation of electromagnetic waves over imperfectly conducting planar surfaces is proposed. The classical approach for the analysis of this problem uses the Sommerfeld formulation. In Sommerfeld formulation, the wave function corresponding to a point source is expanded in terms of the propagation constants of the various waves in the radial direction from the source. This gives rise to the well-known Sommerfeld integrals which are highly oscillatory and slowly-decaying in nature, especially when the source is mounted just on top of a planar boundary between two media of arbitrary conductivity. In addition, the nature of the convergence for these integrals is extremely slow and may not yield stable results. In this dissertation we present an approach, developed originally by Schelkunoff, which expands the wave function in terms of the waves emanating perpendicular to the planar interface, not parallel to it as in Sommerfeld formulation. Expressions are given for both cases of vertical and horizontal electric dipoles on top of a planar interface. The debatable nature of this problem is unavoidable, thus a detailed analytical comparison between the Sommerfeld integrals and the expressions derived here is given. Based on the study given in this dissertation, the true rationale in relating the work of Zenneck and Sommerfeld to the relatively new field of surface plasmons is exposed. A detailed literature study as well as an analytical critique of the field of plasmonics and its relation to Sommerfeld-Zenneck surface waves is presented. Finally, some applications of the new formulation are discussed using numerical simulations.

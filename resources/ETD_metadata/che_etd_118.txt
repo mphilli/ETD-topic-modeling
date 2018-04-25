@@ -1,0 +1,11 @@
+$TITLE:
+Advances in vibrational optical activity
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Chemistry
+
+$ABSTRACT:
+The goal of the research described in this thesis is the development of new instrumentation and applications for vibrational optical activity (VOA). VOA consists of two distinct branches, vibrational circular dichroism (VCD) and Raman optical activity (ROA). Specific advances that have been achieved in both branches of VOA are discussed.Studies of ($-$)-(R,R)- and (+)-(S,S)-cyclopropane-1,2-$\sp{2}$H$\sb{2}$ and ($-$)-(R,R)- and (+)-(S,S)-oxirane-2,3-$\sp{2}$H$\sb{2}$ have produced the first high resolution Fourier transform infra-red (FTIR) VCD spectra of gas phase samples. The entire recordable spectral range (3300-850 cm$\sp{-1}$) has been analyzed and comparisons have been made to the theoretical predictions for the VCD spectra of these molecules. Preliminary results show the viability of following the kinetics of thermolysis of these enantiomers in the gas phase with a high degree of precision using VCD as a probe.The second aspect of this research is on the design of a unique scattered circular polarization Raman optical activity (SCP-ROA) spectrometer, which has higher throughput and lower artifact levels than the current ROA instruments that employ incident circular polarization (ICP). The spectral artifact level observed in spectra recorded with the SCP-ROA spectrometer is also more predictable than the artifact levels for the ICP-ROA spectrometers. Faster collection times and smaller artifacts should allow SCP-ROA to be used as a probe of biochemically relevant solutions in order to gain conformational information.

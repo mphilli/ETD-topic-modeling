@@ -1,0 +1,11 @@
+$TITLE:
+Test-taking behavior of students with learning disabilities: An investigation of secondary students' performance on timed reading tests
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Learning disability, Reading, Test-taking, Secondary student, Timed testing, High stakes exams
+
+$ABSTRACT:
+Students with learning disabilities (LD) tend to struggle with academic tasks that are commonly assessed on high stakes exams, potentially jeopardizing their chances for college admissions and scholarship opportunities. There has been very little research on the test-taking behaviors (i.e., reading skills, strategies, time management, etc.) of high school students with LD and with no LD (NLD). The present study assessed 776 high school students in 9th through 12th grades. Thirty-five of those students were diagnosed with LD and receiving test accommodations and 741 had no diagnosis or special services. Students were administered a computerized battery of timed reading tests and scales on test anxiety and test-taking perceptions. Results included the following: (1) The LD group performed less efficiently than the NLD group on all of the reading tasks (speed, comprehension, vocabulary, and decoding), spent more time reviewing comprehension questions, and searched for answers less; (2) students with LD did not perceive themselves to experience more anxiety or more difficulty in test-taking under timed conditions than the NLD group; (3) vocabulary score, reading speed, number of section switches, and decoding score were the strongest predictors of overall comprehension score; (4) students with the most success (top 15%) on the comprehension task performed better on all other reading tasks and approached the comprehension task differently than lower achieving students, perceiving themselves as less anxious and more confident in timed testing. Limitations of these findings, implications, and directions for future research are discussed.

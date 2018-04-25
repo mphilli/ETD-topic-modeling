@@ -1,0 +1,11 @@
+$TITLE:
+Instruments and methods for high speed ciliary imaging
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Ciliary imaging, Motility, Stereomicroscopes
+
+$ABSTRACT:
+There are many open questions on the motion, functioning and control of eukaryotic cilia, including their hydrodynamic interactions with water, and the dynamics of their intracellular signaling. Studies have been limited by the lack of reliable data on their three dimensional motion and the inability to record data for sustained periods.This dissertation addresses the problem with new experimental techniques and instruments to facilitate studies on ciliary motility. The objective of this work is to build a reliable real-time imaging system capable of recording and processing cellular behavior on the time scale of bio-chemical reactions that take place within the cell. The design and implementation of a stereomicroscope with real-time data processing and control is presented along with image results. Methods and modifications to improve image quality, and feature extraction in image streams are also discussed.A major limitation in recording ciliary responses is the limited depth-of-field (DOF) in imaging. A method to extend DOF using phase plates is presented along with a novel method to fabricate optical phase plates using grayscale electron beam lithography (GEBL). A rectangularly separable cubic phase plate design was selected for fabrication. Results of fabrication, deblurring methods and image results are presented.In order to reach valuable insights into how cells make decisions, a generic stimulation and experiment control system was designed and implemented. It is capable of generating a wide variety of stimuli, controlling various actuators, and gathering data.

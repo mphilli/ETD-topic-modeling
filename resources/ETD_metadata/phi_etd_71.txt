@@ -1,0 +1,11 @@
+$TITLE:
+Ideology, Truthmaking and Fundamentality
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Metaphysics
+
+$ABSTRACT:
+In chapter 1 I outline two conceptions of ideology: ideological pessimism and ideological realism. Ideological pessimism is the view that ideological inquiry has dim prospects insofar as ideology is tied to meaning. Ideological realism is the view that there is a fact of the matter about which ideology is taken as primitive when attempting to describe reality correctly. I respond to an argument on behalf of ideological pessimism, develop ideological realism, and then defend it against an objection that attempts to derive the unpalatable consequence that a main dispute in the metaphysics of properties is verbal.In chapter 2 I argue that we should uphold the traditional understanding of the ideology/ontology distinction in light of ideological realism. I then argue against the doctrine that certain disputes about composition have the epistemic consequence of providing no grounds for us to believe in one theory over another.In chapter 3 I argue that truthmakers do not necessitate the truths they make true. They either grounds their truths or make true their truths and nothing else can be said about the connection between truth and reality. It is to be taken as primitive that truthmakers make true the truths they make true.In chapter 4 I explore two versions of truthmaking as a theory of fundamentality. I argue against the first and defend the second against various objections and problems. I argue that if we adopt truthmaking as a theory of fundamentality, then we should believe in the second version.

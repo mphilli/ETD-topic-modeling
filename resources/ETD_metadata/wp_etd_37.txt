@@ -1,0 +1,11 @@
+$TITLE:
+The Piratical Ethos: Textual Activity and Intellectual Property in Digital Environments
+
+$DEPARTMENT:
+Writing Program
+
+$KEYWORDS:
+activity theory, intellectual property, internet piracy, research methodology, rhetorical genre studies, tool mediation
+
+$ABSTRACT:
+The Piratical Ethos: Textual Activity and Intellectual Property in Digital Environments examines the definition, function, and application of intellectual property in contexts of electronically mediated social production. With a focus on immaterial production - or the forms of coordinated social activity employed to produce knowledge and information in the networked information economy - this project ultimately aims to demonstrate how current intellectual property paradigms must be rearticulated for an age of digital (re)production. By considering the themes of "Piracy", "Intellectual Property", and "Distributed Social Production" this dissertation provides an overview of the current state of peer production and intellectual property in the Humanities and Writing Studies. Next, this project develops and implements a communicational-mediational research methodology to theorize how both discursive and material data lend themselves to a more nuanced understanding of the ways that technologies of communication and coordination effect attitudes toward intellectual property. After establishing both a methodology and an interdisciplinary grounding for the themes of the work, this dissertation presents a grounded theoretic analysis of piratical discourse to reveal what I call the "piratical ethos", or the guiding attitudes of individuals actively contesting intellectual property in piratical acts of distributed social production. Congruently, this work also investigates the material dynamics of piratical activity by analyzing the cultural-historical activity systems wherein piratical subjectivity emerges, emphasizing the agenic capacity of interfacial technologies at the scales of user and system. Exploring the attitudes of piratical subjects and the technological genres that mediate piratical activity, I contend that the conclusions drawn from The Piratical Ethos can assist Writing Studies researchers with developing novel methodologies to study the intersections of intellectual property and distributed social production in digital worlds.

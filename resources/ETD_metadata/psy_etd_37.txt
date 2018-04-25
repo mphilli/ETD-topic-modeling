@@ -1,0 +1,11 @@
+$TITLE:
+Randomized controlled trial of a brief information, motivation, and behavioral skills intervention to reduce HIV/STD risk in young women
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Women, HIV, Sexually transmitted diseases, Behavioral skills intervention
+
+$ABSTRACT:
+Rates of HIV and STDs are increasing among young women, especially women at sexual health clinics. This study investigated whether motivational enhancement strategies, in addition to information and behavioral skills, would augment a standard care intervention for young women aged 18-24 at a university-based gynecological clinic. Eligible women at-risk for HIV/STDs were randomized to information-motivation-behavioral skills (IMB ) or information-only (I ) intervention conditions, and assessments were conducted pre-intervention, post-intervention, and at 2-month follow-up. Primary outcomes included theoretical antecedents and sexual risk behaviors (unprotected vaginal sex, condom use, HIV/STD testing), including biological outcomes (STD diagnosis). Women who received the IMB intervention had improved HIV/STD knowledge and self-efficacy for safer sex at follow-ups, compared to women in the I control intervention. Women in both interventions had improvements in partner norms for safer sex at follow-ups. However, there were no differences in other motivational variables, namely condom attitudes, decisional balance, and behavioral intentions. There were no differences in the frequency of communication skills or refusals of unprotected sex. Women in both interventions reduced the number of sexual partners and the frequency of unprotected sex at follow-up. Strengths and weaknesses are discussed, and recommendations for future research. This study showed that a brief motivational intervention is acceptable to high-risk female college students and feasible in a university-based gynecology clinic. The brief motivational intervention showed promise for improving STD/HIV knowledge, self-efficacy, and reduced the number of incident STDs.

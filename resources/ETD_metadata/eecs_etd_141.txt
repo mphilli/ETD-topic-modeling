@@ -1,0 +1,11 @@
+$TITLE:
+Object-based message passing in high performance computing using Java
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Object-based message passing, Java, High-performance computing, Message passing, Parallel computing
+
+$ABSTRACT:
+We present designs for Java interfaces to High Performance Computing softwares, and research implementation issues associated with their development. We investigate various issues and options for parallel programming in Java--data parallelism and message passing libraries. We discuss motivations for introducing HPJava, an HPspmd programming model. As part of the larger environment of HPJava, we have designed and developed mpiJava, an object-oriented Java interface to MPI. This has been implemented by "native methods" wrappers around some pre-existing MPI implementation. We describe the design of the mpiJava API and the issues associated with its development. We present and then discuss performance measurements made of communications bandwidth and latency to compare mpiJava with C and Fortran bindings of MPI. We discuss adoption of the Java object serialization model in mpiJava for marshalling general communication data in MPI-like APIs. This approach is compared with a Java transcription of the standard MPI derived datatype mechanism. We evaluate overheads introduced by object serialization in mpiJava, then present optimized methods that reduce serialization overheads. We present graphical mpiJava Potts model simulation and evaluate the performance of Ising model simulation using Metropolis and Swendsen-Wang cluster algorithms. Benchmark results are compared with native parallel and sequential codes. We have publically released mpiJava on a Web site. This includes complete source, makefiles, configuration scripts, compiled libraries for WMPI, test codes (based on the IBM MPI test suite), example applications, javadoc documentation, and installation and usage notes.

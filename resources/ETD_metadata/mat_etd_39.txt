@@ -1,0 +1,11 @@
+$TITLE:
+Finite element spectral approximations
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Spectral, Finite element
+
+$ABSTRACT:
+In this dissertation we study the convergence properties of a finite element approximation to a fourth order differential eigenvalue problem under the presence of numerical integration. In broad terms, a finite element method, FEM for short, is a Ritz-Galerkin approximation using special basis functions. When used to approximate the solution of a PDE or a variational problem, a FEM reduces the differential or variational problem to a large matrix problem. Our fourth order differential eigenvalue problem is put into variational form using a mixed method formulation. We give a brief overview of the results obtained when exact integration is used in the FEM. We then develop related theories where numerical quadrature is taken into account. We will show that the eigenvalues and eigenfunctions obtained by using a suitable quadrature scheme, without requiring the numerical scheme to be exact, converges to the actual values at the same rates as those obtained by using exact integration. The standard approach to obtaining error estimate of variational eigenvalue problems is based on the error estimate of the solution operators of the source problems. The important issues are the rate of convergence of the solution operators and the conditions required for convergence. These source problems have been extensively studied by many researchers, using a wide variety of approaches. Babuska, Osborn and Pikäranta used mesh dependent norms in their 1980 paper. Paralleling their work, we will use mesh dependent norms to obtain error estimates between the solutions operators. We then use these estimates to get errors estimates between the approximate and the actual eigenvalues and eigenvectors.

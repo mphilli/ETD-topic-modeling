@@ -1,0 +1,11 @@
+$TITLE:
+Distributed deployment algorithms for mobile wireless sensor networks
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Deployment algorithms, Mobile wireless sensor, Wireless communications
+
+$ABSTRACT:
+Many visions of the future include people immersed in an environment surrounded by sensors and intelligent devices who use smart infrastructures to improve the quality of life and safety in emergency situations. Ubiquitous communication enables these sensors or intelligent devices to communicate with each other and to or with the user by means of ad-hoc wireless networking. Organization and optimization of network resources are essential to provide ubiquitous communication for a longer duration in large-scale networks and are helpful to migrate intelligence from higher and remote levels to lower and local levels. In this dissertation, we propose distributed energy-efficient deployment algorithms for mobile sensors and intelligent devices that form an intelligent wireless network. These algorithms employ a synergistic combination of cluster structuring and a peer-to-peer deployment scheme. An energy-efficient deployment algorithm based on Voronoi diagrams is also proposed here. Performance of our algorithms is evaluated in terms of coverage, uniformity, and time and distance traveled till the algorithm converges. Our algorithms are shown to exhibit excellent performance.

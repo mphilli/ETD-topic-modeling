@@ -1,0 +1,11 @@
+$TITLE:
+Increasing the effectiveness of self-monitoring programs: A sequenced approach with performance feedback to monitor on-task behavior and math performance
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Self-monitoring, Performance feedback, Monitor, On-task behavior, Mathematics
+
+$ABSTRACT:
+Self-monitoring interventions have been found to be effective in remediating behavior and academic concerns. This study investigated the efficacy of self-monitoring a sequence of different dimensions of academic responding (i.e., on-task, accuracy, productivity) using a multiple baseline design across participants. Four general education fifth-grade students were presented with frustrational-level math material. The students' performance was assessed by the number of digits correct per minute (DCM), accuracy, and percent intervals on-task during each condition. It was expected that students would (1) increase DCM when self-monitoring a sequence of on-task behavior, accuracy, and then productivity in comparison to baseline; (2) demonstrate the highest levels of DCM at the end of a sequence of self-monitoring dimensions of behavior in comparison to fluency probes conducted earlier in the sequence; and (3) maintain high levels of on-task behavior and accuracy during subsequent intervention phases. There was no support for the first hypothesis. Results support the second hypothesis with all students. The third hypothesis was supported with patterns of accuracy for two of the four students. On-task behavior was high across all conditions of the study, and thus did not provide support for the third hypothesis. Limitations of the study and implications for the use of self-monitoring interventions with skill instruction are discussed.

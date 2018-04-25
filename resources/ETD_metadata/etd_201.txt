@@ -1,0 +1,11 @@
+$TITLE:
+Discrete Gate Sizing Methodologies for Delay, Area and Power Optimization
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Circuit optimization, Delay minimization, Discrete gate sizing, Gate and delay model, Power optimization
+
+$ABSTRACT:
+The modeling of an individual gate and the optimization of circuit performance has long been a critical issue in the VLSI industry. In this work, we first study of the gate sizing problem for today's industrial designs, and explore the contributions and limitations of all the existing approaches, which mainly suffer from producing only continuous solutions, using outdated timing models or experiencing performance inefficiency.In this dissertation, we present our new discrete gate sizing technique which optimizes different aspects of circuit performance, including delay, area and power consumption. And our method is fast and efficient as it applies the local search instead of global exhaustive search during gate size selection process, which greatly reduces the search space and improves the computation complexity. In addition to that, it is also flexible with different timing models, and it is able to deal with the constraints of input/output slew and output load capacitance, under which very few previous research works were reported.We then propose a new timing model, which is derived from the classic Elmore delay model, but takes the features of modern timing models from standard cell library. With our new timing model, we are able to formulate the combinatorial discrete sizing problem as a simplified mathematical expression and apply it to existing Lagrangian relaxation method, which is shown to converge to optimal solution. We demonstrate that the classic Elmore delay model based gate sizing approaches can still be valid. Therefore, our work might provide a new look into the numerous Elmore delay model based research works in various areas (such as placement, routing, layout, buffer insertion, timing analysis, etc.).

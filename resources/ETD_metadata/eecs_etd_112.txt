@@ -1,0 +1,11 @@
+$TITLE:
+A software synthesis methodology for developing component-based applications
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Object-oriented programming, Software synthesis, Component-based software
+
+$ABSTRACT:
+This dissertation proposes an automatic software synthesis system--Intelligent Software Synthesis System (I3S), which helps application developers build component-based systems out of pre-existing components. I3S directly maps a design specification to an implementation. BS requires design specifications to be presented in Unified Modeling Language (UML) and conform to a certain style. An I3S generated implementation consists of a collection of components and necessary interaction entities. This implementation is independent of any specific programming or scripting language. In short, I3S automates processes of component integration using a standard modeling notation--UML.I3S is built based on following ideas: (1) Component-based software architectures are "Components + Interactions." (2) Component-based applications are collections of components. (3) With properly identified extensions, an OO modeling notation - UML can be used for describing component-based software architectures.Therefore, this dissertation builds I3S that automates following processes: (1) Converts and optimizes desired component interactions in behavior specifications to groups of component instances and interaction entities. (2) Allocates and parameterizes components and identified interaction entities in structure specifications. (3) Synthesizes the implementations of given specifications with formats required by the desired operating or development environments. (4) Generates formal descriptions, test cases, and fundamental predicates to verify and simulate given models.

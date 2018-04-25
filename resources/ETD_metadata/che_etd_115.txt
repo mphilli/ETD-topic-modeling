@@ -1,0 +1,11 @@
+$TITLE:
+Instrumentation advances and new applications in Raman optical activity
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+resonance Raman spectrum, chiroptical
+
+$ABSTRACT:
+With incorporation of new laser and detector technology, Raman optical activity (ROA) is on its way to becoming a powerful tool to study chiroptical properties of chiral molecules. This dissertation presents a new design and a complete upgrade of an ROA spectrometer, with demonstration of its performance for a variety of molecules. The second part of the thesis presents examples of new applications of ROA, including the first observation of a resonance Raman optical activity spectrum.In the second chapter, the theoretical and instrumentation background of ROA is summarized. In the third chapter, the in-phase dual circular polarization (DCP$\rm\sb{I})$ Raman and ROA spectra of 1S-(-)-$\alpha$-pinene, 1S-(-)-$\beta$-pinene, 1S-(-)-trans-pinane, 1S-(-)cis-pinane, 1R-(-)-myrtenol, 1R-(-)-nopol, and R-(+)-3-methylcyclohexanone are presented in the 50-600 cm$\sp{-1}$ spectral region. These spectra provide experimental data for future theoretical calculations of these molecules.The fourth chapter presents the complete upgrade and redesign of an ROA spectrometer, which gives improved spectral collection efficiency by nearly two orders of magnitude. In the next chapter, the performance of the new ROA instrument is demonstrated by examining the DCP$\rm\sb{I}$ Raman and ROA spectra of 1S(-)-trans-pinane, 1S-(-)-$\alpha$-pinene, 1S-(-)-$\beta$-pinene, L-alanine, L-alanine-3,3,3-d$\sb3,$ L-alaninyl-L-alanine, lysosyme, $\beta$-methyl-D-glucoside, and D-maltose.In Chapter 6, new applications of the ROA method are presented, including the DCP$\sb1$ Raman and ROA spectra of aspartame, L-phenylalanine, (2S,3S)-(-)-tartaric acid and (S)-ibuprofen in aqueous solution. The last chapter presents the first experimental evidence of resonance ROA behavior for strong resonance in the single state limit, for the case of naproxen in basic aqueous solution and naproxen-OCD$\sb3$ in nonaqueous solution.

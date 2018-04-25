@@ -1,0 +1,11 @@
+$TITLE:
+An investigation of the adsorption properties of Saudi bentonite clay for dyes in wastewater
+
+$DEPARTMENT:
+Biomedical and Chemical Engineering
+
+$KEYWORDS:
+Adsorption, Saudi, Bentonite, Clay, Dyes, Wastewater
+
+$ABSTRACT:
+A Saudi bentonite natural clay was investigated as an adsorbent for the Basic Blue 3 dye from wastewater. A batch adsorber was used to determine the pore diffusivity and the equilibrium isotherms, and a fixed bed adsorber was used to determine experimental breakthrough curves for the dye.A nonlinear mathematical model based on external mass transfer and pore diffusion was used to describe the batch adsorption experimental data and to obtain the pore diffusion coefficient. The method of lines was used to convert the partial differential pore diffusion equation for the batch adsorber into a system of ordinary differential equations. This system was solved with the overall dye mass balance between the aqueous and solid phases to yield the bulk dye concentrations as a function of time. Nonlinear least-squares fitting was used to find the optimum values of the pore diffusion coefficient.The external mass transfer coefficient was found from the initial batch adsorption data to be approximately 0.0003 m/sec. The effective pore diffusion coefficient was found to be 31.0e-9 m2/sec for an initial dye concentration of 183 ppm and this value decreased by more than an order of magnitude as the initial dye concentration was increased to 1427 ppm.The pore diffusion coefficient and the equilibrium parameters determined from the batch adsorption data were used to model the adsorption of Basic Blue 3 dye by Saudi bentonite clay in an experimental fixed bed adsorber. A nonlinear mathematical model with external mass transfer and pore diffusion resistances was used to predict the breakthrough curves for the fixed bed. The partial differential equations for pore diffusion and for the dye mass balance in the packed bed were solved by the method of lines to predict the breakthrough curves for the fixed bed.The predictions from the fixed bed pore diffusion model do not correlate well with the experimental data. The inconsistency between the data and the predictions can be attributed to clumping of the clay and channeling in the fixed bed.

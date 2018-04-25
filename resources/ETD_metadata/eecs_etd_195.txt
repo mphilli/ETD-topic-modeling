@@ -1,0 +1,11 @@
+$TITLE:
+Formal specification and verification of the OSI session layer using the Calculus of Communicating Systems (CCS)
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Electrical engineering, Computer science
+
+$ABSTRACT:
+This document describes the application of formal methods to concurrent software systems, specifically communication protocols. The chosen formal method is Milner's process algebra called the Calculus of Communicating Systems (CCS). We applied CCS to the specification and verification of the Open Systems Interconnection (OSI) Session Layer (SL). We modeled the Session Layer service and Session Layer protocol in CCS, and verified it using CCS's automated model checker, the Edinburgh Concurrency Workbench (CWB). We verified that the protocol specification satisfies the service specification. We also formally embedded CCS in the first-order formal language Larch, using the automated theorem prover Penelope. We tested the embedding by specifying and verifying a simple two-slot buffer example. We compared the automated tools by specifying a portion of the Session Layer and verifying it using Penelope.

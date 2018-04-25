@@ -1,0 +1,11 @@
+$TITLE:
+An Empirical Study of Park and Ride Programs in the United States
+
+$DEPARTMENT:
+Public Administration
+
+$KEYWORDS:
+Bus transit services, Transit planning, Urban planning, Public administration
+
+$ABSTRACT:
+This dissertation will be an in-depth examination of the park and ride programs in various urbanized areas in the United States.

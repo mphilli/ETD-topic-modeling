@@ -1,0 +1,11 @@
+$TITLE:
+Metal Based Synthetic Strategies and the Examination of Structure Determining Factors in Alkaline Earth Metal Compounds
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+heavy alkaline earth metals, metal-based synthesis, metal organic vapor deposition, protolysis, redox transmetallation, secondary non-covalent interactions
+
+$ABSTRACT:
+Last decades have witnessed a large expansion of the organometallic heavier alkaline earth metal species. However, continued growth of this promising area of chemistry has been slowed by severe restrictions and limitations in viable synthetic methodologies leading to difficulties in preparing and characterizing the target compounds. There is clearly a need for the further development of synthetic methodologies and detailed structure function analysis that will promote the further advancement of organoalkaline earth metal chemistry in applications as diverse as materials chemistry and catalysis. This thesis work greatly extends the synthetic options currently available towards organoalkaline earth metal species by introducing redox transmetallation protolysis (RTP), a reaction based on the readily available Ph3Bi as a non-toxic transmetallation agent. Based on a straightforward one-pot procedure and work-up, Ph3Bi based RTP presents a powerful synthetic alternative for the facile preparation of a large variety of heavy alkaline earth metal compounds.The second part of the thesis explores the effect of secondary non covalent interactions on the coordination chemistry as well as thermal properties of a series of novel alkali, alkaline earth, rare earth as well as heterobimetallic alkali/alkaline earth fluoroalkoxides. These compounds showcase the significance of non-covalent M∙∙∙F-C and agostic interactions on metal stabilization and structural features, providing critical input on ligand design for the design of advanced metal organic vapor deposition (MOCVD) precursor materials. This work also showcases the impact of M∙∙∙F-C interactions over M─co-ligand coordination, a critical precursor design element as well.

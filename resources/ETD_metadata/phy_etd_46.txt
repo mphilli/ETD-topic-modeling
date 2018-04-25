@@ -1,0 +1,11 @@
+$TITLE:
+Interface modulation spectroscopy and doping physics in amorphous silicon
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Interface modulation spectroscopy, Doping, Amorphous silicon, Solar cells
+
+$ABSTRACT:
+We have developed an interface-modulation spectroscopy that probes the optical spectra of dopants and defects at interface regions a few nanometers wide in semiconductor devices such as p-i-n diodes. The method involves detecting the modulation of the optical transmittance or reflectance of diodes due to modulation of the electrical space-charge accumulated near these interfaces. We have applied the method to diodes based on hydrogenated amorphous silicon (a-Si:H). The samples that we obtained varied widely in their doped, n-type and p-type layers.The results are far more complex than expected in the context of the "standard" doping model for a-Si:H due to Street. In this standard model, only a small fraction of dopant atoms incorporated into a-Si:H are electronic donors (or acceptors), and such donors and acceptors are created in conjunction with compensating densities of dangling bond defects. This standard model predicts that the modulation spectra should be negative and nearly featureless for a broad range of optical energies less than the semiconductor bandgap (about l.75 eV for a-Si:H), and we do observe such spectra in several samples. In addition, we found an interesting, sharp (0.l eV wide) positive spectral line near 0.8 eV, which we believe is due to an internal optical transition of a dopant-defect complex incorporating a fourfold coordinated phosphorus and a dangling bond. For one series of samples with varying phosphorus-doping levels, this line was absent for doping levels below 0.5%, and was nearly fully developed for levels greater than 1.0%. This line was absent for other series of samples prepared by the same laboratory under somewhat different deposition conditions. These measurements suggest the possibility of a phase transition in the structure of phosphorus-doped a-Si:H for sufficiently large phosphorus concentrations.

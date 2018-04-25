@@ -1,0 +1,11 @@
+$TITLE:
+SYSTEMATIC DISCOVERY OF ANDROID CUSTOMIZATION HAZARDS
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Android Customization, Android Security, Mobile Security, Security, System Security
+
+$ABSTRACT:
+The open nature of Android ecosystem has naturally laid the foundation for a highly fragmented operating system. In fact, the official AOSP versions have been aggressively customized into thousands of system images by everyone in the customization chain, such as device manufacturers, vendors, carriers, etc. If not well thought-out, the customization process could result in serious security problems. This dissertation performs a systematic investigation of Android customization’ inconsistencies with regards to security aspects at various Android layers.It brings to light new vulnerabilities, never investigated before, caused by the under-regulated and complex Android customization. It first describes a novel vulnerability "Hare" and proves that it is security critical and extensive affecting devices from major vendors. A new tool is proposed to detect the Hare problem and to protect affected devices. This dissertation further discovers security configuration changes through a systematic differential analysis among custom devices from different vendors and demonstrates that they could lead to severe vulnerabilities if introduced unintentionally.

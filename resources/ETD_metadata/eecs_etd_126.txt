@@ -1,0 +1,11 @@
+$TITLE:
+Concurrent algorithms and performance modeling for multi-spectral image fusion applications
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Multispectral imaging, Concurrent algorithms, Image fusion, Principal component trans
+
+$ABSTRACT:
+The thesis presents a collection of novel concurrent algorithms and their associated analytical models. The algorithms combine spectral angle classification, the principal component transform, and human centered color mapping. They fuse a multi- or hyper-spectral image set into a single color composite image that maximizes the impact of spectral variation on the human visual system. To demonstrate the utility of the algorithms, they are evaluated from an image quality perspective using images collected from HYDICE sensor, a multi-spectral microscope, and image streams that emanate from a real-time, multi-spectral camera. The algorithms are supported with predictive analytical models that allow performance to be assessed for a wide variety of typical variations in use. For example, changes to the number of spectra, image resolution, processor speed, memory size, network bandwidth/latency, and granularity of decomposition. The motivation in building performance models is to assess the impact of changes in technology and problem size associated with different applications, allowing cost-performance tradeoffs to be assessed.

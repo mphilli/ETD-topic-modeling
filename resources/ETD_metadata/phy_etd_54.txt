@@ -1,0 +1,11 @@
+$TITLE:
+Numerical studies of vortex dynamics in type-II superconductors
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Vortex dynamics, Superconductors, Plastic flow
+
+$ABSTRACT:
+We have studied numerically the nonlinear collective dynamics of current-driven vortices in dirty type-II superconductors. In these systems, a DC applied current yields a uniform driving force on the vortices and the resulting mean vortex velocity determines the current in the material. At zero temperature, a depinning transition occurs at a critical value of the driving force from a pinned state to a sliding state. Our numerical simulations have identified two types of flow near depinning. For weak disorder, the flux array contains few dislocation and moves via correlated patches of vortices in a crinkle motion. As the disorder strength increases, we observe a crossover to a spatially inhomogeneous regime of plastic flow, with a very defective vortex array and a channel-like structure of the flowing regions. There is a corresponding evolution of the shape of the IV characteristics, not unlike that observed in experiments. We have studied both the number of defects present and the local velocity distributions. The bimodal structure of the velocity distribution reflects the coexistence of pinned and flowing regions and is proposed as a quantitative signature of plastic flow.Motivated by recent experiments probing the response of vortex matter to AC current pulses, we have also investigated the dynamics of a single-particle driven by a variety of AC pulses of amplitude above and below the DC depinning force. We find results consistent with the Sinai model where it applies and dynamics with characteristics similar to experimental results on superconductors.In the Appendices, pedagogically-inspired work is presented that relates to the teaching of electricity and magnetism. In particular, emphasis is placed on aspects of Faraday's Law and the question "What does [Special characters omitted.] mean?"

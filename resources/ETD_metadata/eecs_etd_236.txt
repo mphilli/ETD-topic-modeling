@@ -1,0 +1,11 @@
+$TITLE:
+Iteratively Maximum Likelihood Decodable Spherical Codes
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Coding, Error-Correcting, Decoding, Telecommunications, Packings, Electrical engineering
+
+$ABSTRACT:
+In this dissertation a class of spherical codes, called iteratively maximum likelihood decodable (IMLD) spherical codes, is introduced and investigated. An efficient iterative decoding algorithm for decoding such codes is described. When decoding an IMLD spherical code transmitted over an additive white Gaussian noise channel, the proposed decoding method achieves the performance of the maximum likelihood decoder. A necessary and sufficient condition for a spherical code to be IMLD is formulated. Two effective methods for constructing IMLD spherical codes, the simplex code rotation and shrinking procedure and the Voronoi corner shrinking procedure, are developed. They are shown to be equivalent for the second level construction. The second level spherical simplex code generated from the binary simplex code by the proposed method is a group code for the Gaussian channel. With the aid of the associated code, various third level IMLD spherical codes can be generated from the second level spherical simplex code by using the Voronoi corner shrinking technique. The IMLD spherical codes obtained in this dissertation exhibit interesting geometric features and have distance characteristics comparative to those of known error-correcting codes. Some specific problems in the implementation of these codes are discussed. Computer simulation results for selected IMLD spherical codes are given and are in good agreement with theoretical analysis.

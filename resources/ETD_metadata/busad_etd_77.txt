@@ -1,0 +1,11 @@
+$TITLE:
+The effects of the manufacturers' suggested list price (MSLP) for a new product on consumers' internal reference and reservation prices
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+pricing, marketing, management
+
+$ABSTRACT:
+This dissertation studies the effects of manufacturer's suggested list price (MSLP) in a new product innovation and aims to replicate and extend the current body of reference pricing literature to the area of a new product innovation. Specifically, first, it examines how the MSLP of a new product reduces the range of consumers' internal reference price. Second, it examines whether the MSLP of a new product changes the level of consumers' internal reference prices. Third, it studies whether the MSLP of a new product increases consumers' confidence associated with internal references. Fourth, moderating effects of brand name and consumers' product class knowledge on the effects of MSLP are also examined. In addition, this dissertation examines whether the MSLP changes the consumers' reservation price of the new product with an emphasis on the total value concepts which can be decomposed into the acquisition value and the transaction value. Consistent with these objectives, a water-proof 35 mm auto focus camera was selected as a unit of analysis. One hundred sixteen subjects were randomly assigned to the cells in a 2 x 2 x 2 split plot factorial design in a small group setting. The factors in this design included brand names (high and low quality brand name), subjective knowledge (high and low knowledge) and MSLP (absent and present). The results revealed that the MSLP of a new product reduced the width of consumers' internal reference prices significantly. Subjects with a low subjective knowledge reduced the width of the internal reference prices more significantly than subjects with a high subjective knowledge. In addition, MSLP of a high quality brand name reduced the width of the consumers' internal reference prices more significantly than that of a low quality brand name. Finally, MSLP of a new product not only changed the level of consumers' internal reference prices but also changed the reservation prices of the new product.

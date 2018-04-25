@@ -1,0 +1,11 @@
+$TITLE:
+Aspects of boundary states in gauge field theories
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+manifolds, quantum Hall, black holes
+
+$ABSTRACT:
+In this thesis we will discuss various aspects of the boundary states that appear in gauge theories defined on manifolds with spatial boundaries. We show that their existence can be proven by general arguments. The demonstration involves a careful treatment of the Gauss law constraints present in gauge theories. As physical examples, we show how these states arise in Quantum Hall samples as well as in certain models for black holes. The dynamics of these boundary variables is also discussed and it shown that it is determined, as least in part, by the dynamics in the bulk. As a model, we study the Maxwell-Chern-Simons (MCS) theory on a disk where the boundary dynamics can be determined exactly. We show that due to the interaction between the boundary and bulk degrees of freedom, one can find an entanglement entropy that scales with the perimeter of the disk. This suggests that such states appearing also in gravity, can contribute to the black hole entropy. We study the dynamics of these boundary degrees of freedom appearing in gravity and BF type theories.

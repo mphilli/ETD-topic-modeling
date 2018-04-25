@@ -1,0 +1,11 @@
+$TITLE:
+A unified approach to robot path planning using trigonometric splines
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Splines, Systems design, Industrial engineering
+
+$ABSTRACT:
+This dissertation presents a unified methodology for the solution of the robot path planning problem. The method presented is based on the assumption that joint space knots have been generated from Cartesian space knots by an inverse kinematics algorithm. The strength of the method lies in the representation of the joint space trajectories as decoupled piecewise continuous polynomials. The specific polynomials which are used are trigonometric polynomials. Trigonometric polynomials are chosen as the basis functions because of their smoothness, familiarity, and relative ease of computation.Several characteristics of a robot path planner are of potential interest. Is the path planning method computationally inexpensive? Are the derivatives of the resultant joint space path continuous up to the third order? Is the path acceptably smooth? Can the path be optimized with respect to some objective function? Can the path be optimized in closed form, thereby obviating the need for time consuming iterative techniques? Can the path be modified in real time? Is the path planning method flexible enough to accomodate varying accuracy requirements? The path planners proposed to date satisfy up to three of these desiderata. But the approach taken in this dissertation satisfies all of the desiderata mentioned above. This is the justification for the use of the term "unified" in the title of this dissertation.Due to the parametric representation of the joint space trajectories as trigonometric polynomials, the infinite-dimensional robot control problem is reduced to a finite-dimensional parameter optimization problem. The joint space paths are optimized with respect to an arbitrary combination of joint velocity, acceleration, and jerk, in which case the optimization is closed form. The joint space paths are also optimized with respect to energy, in which case the optimization is iterative. Inequality constraints on the desired accuracy of the joint space path are also incorporated into the optimization problem.

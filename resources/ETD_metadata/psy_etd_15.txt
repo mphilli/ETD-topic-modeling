@@ -1,0 +1,11 @@
+$TITLE:
+Individual differences in task switching, executive functioning, and cognition
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Task switching, Voluntary switching, Individual differences, Explicit cueing, Executive functioning
+
+$ABSTRACT:
+Interest in understanding how people shift their mental sets has led to the development of several paradigms that induce participants to switch between tasks. The present individual differences study included three different task switching paradigms to determine if the way in which one is informed to switch between tasks (whether the information is internally cued, externally cued, or a combination of the two) affects switch costs, a measure representing the processing associated with the selection of mental sets. Several cognitive processes have been proposed to explain switch costs, but, because different types of paradigms are used to measure switch costs, it is not certain whether the ability to switch between tasks is due to a common process or whether switch costs are paradigm specific. Two hundred fifty young adults completed measures of task switching, processing speed, executive functioning, working memory, inhibition, and long-term memory. A latent variable approach was taken to examine the relationships among these cognitive measures. Major results indicated that switch costs in the three paradigms were separate, but correlated, suggesting that switching was not a unitary process. After accounting for individual differences in processing speed, switch costs were differentially related to other measures of cognition. Individual differences in internally cued task switching costs were predicted by working memory scores, and individual differences in externally cued task switching costs were predicted by longterm memory scores. Decomposing the externally cued task switching costs indicated that individual differences in these costs could be explained by benefits of repeated cues rather than by changes in tasks. Finally, this study also provided evidence for a general task switching ability that accounted for a significant portion of the remaining interrelationships among the paradigms.

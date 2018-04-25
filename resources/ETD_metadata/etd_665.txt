@@ -1,0 +1,11 @@
+$TITLE:
+Understanding Mediators of the Relationship Between HIV-Related Stigma and Medication Adherence Among People Living with HIV (HIV)
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+antiretroviral therapy, HIV, medication adherence, stigma
+
+$ABSTRACT:
+Although accumulated research demonstrates that HIV-related stigma is associated with medication adherence difficulties for PLWH, this literature is limited by inconsistencies in the conceptualization and assessment of both stigma and adherence. Additionally, few empirical research studies provide tests of the psychosocial mechanisms that may account for the stigma-adherence relationship. The present study sought to clarify these relationships using more refined measures, which assessed multiple domains of stigma (i.e., internalized, anticipated, and enacted stigmas) and multiple domains of adherence (i.e., global and intentional nonadherence). It was further hypothesized that two mediational pathways, depressive symptoms and disclosure concerns, may mediate the association between HIV-related stigmas and adherence. A clinic-based sample of 205 people living with HIV (PLWH) completed a questionnaire battery using audio computer-assisted self-interviewing (ACASI). Contrary to previous research, there was no association between HIV-related stigmas and adherence. There was also no evidence that disclosure concerns acted as a mediational pathway, but there was evidence that depression mediated the association between internalized and enacted stigmas and intentional nonadherence since diagnosis. This lack of an association between stigma and adherence may be attributable to a different stage of the HIV epidemic, in which simplified medication regimens present fewer obstacles for PLWH. Future research should prospectively explore the interrelationships among HIV-related stigmas, mediators, and adherence outcomes in the current era of the HIV epidemic and with differing populations.

@@ -1,0 +1,11 @@
+$TITLE:
+Analysis of Waveguides Filled with Uniaxial Media and Metamaterials for Filter Applications using the Mode Matching Method
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Filters, Metamaterials, Mode Matching Method, Waveguide Filters
+
+$ABSTRACT:
+This dissertation will explore the analysis of waveguide discontinuities for the purpose of dielectric filled waveguide filter analysis and design. The filling media studied are uniaxial media and uniaxial media embedded with metamaterial. A literary search provides numerous methods and numerical techniques for analyzing waveguide class problems, but ultimately the Mode Matching Method (MMM) is chosen as the numerical analysis technique for this dissertation.An overview of waveguide theory and its application to the Mode Matching Method are presented. The Mode Matching Method is then used to analyze simple cases to confirm the numerical accuracy. Once accuracy is confirmed, Mode Matching theory is applied assuming the waveguides are filled with anisotropic medium. This theory is extended to uniaxial media with special orientations of the optic axis, because in practice the coordinate systems of media and waveguide do not always coincide. The Mode Matching Method with rotated optic axis is also extended to include the losses of the dielectric. This thesis also goes on to demonstrate the Mode Matching Method can accurately analyze dielectric waveguides with embedded metamaterial, specifically thin wire metamaterialsFinally two dielectric filled waveguide filters are designed using the Mode Matching Method: one filter with embedded metamaterials and one filter without metamaterials. The filters are then manufactured. The measured results are compared to the Mode Matching results and shown to have excellent agreement.

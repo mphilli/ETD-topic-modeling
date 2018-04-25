@@ -1,0 +1,11 @@
+$TITLE:
+On linear types and imperative update
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+functional programming, operational semantics
+
+$ABSTRACT:
+The rift between imperative and functional programming is one of the oldest in computing. Imperative languages provide for greater speed and efficiency, especially through the use of destructive update of variables. Functional computation is often regarded as being much cleaner mathematically, and is supportive of simple, rigorous reasoning principles. However, the absence of destructive update (along with problems with garbage collection, etc.) in functional languages results in a loss of speed and efficiency. Additionally, functional languages are conceptually indirect and cumbersome when used to express naturally imperative computation. The prospect of unifying these diverse forms of programming, to combine the best features from each, is a continuing concern in programming languages. This thesis investigates the extent to, and the sense in which, programming languages based on linear logic are simultaneously imperative and purely functional, and to what extent they embody the strengths of each programming paradigm.

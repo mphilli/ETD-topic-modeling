@@ -1,0 +1,11 @@
+$TITLE:
+UWB antenna design for signature extraction of buried targets
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Signature extraction, Buried targets, Ultrawideband antenna, Antennas
+
+$ABSTRACT:
+An impulse radiating antenna system for buried target detection and identification is presented in this dissertation. The transient responses of various well-known antennas are studied over broad frequency ranges for use with the target detection system. The phase responses of these antennas as a function of frequency are of great interest for determining their suitability as impulse radiating antennas. In the ensuing analysis, each antenna is excited by a monocycle pulse. Many antennas show resonant properties, and numerous reflections exist in the antenna outputs. This research deals with ways of converting various resonating antennas to traveling-wave antennas by using resistive loading. Appropriate loading increases the bandwidth of operation of the antennas. But the drawback is the additional loss in the load, leading to loss of efficiency to around fifty percent. However, some of the antennas are inherently broadband, up to a 100:1 bandwidth. Hence, the transient responses of these antennas can be used to determine their suitability for wideband applications with low cutoff frequency. An antenna transient response can be used to determine the suitability of the antenna in the target detection system as well as in various other wideband applications. The ground bounce effects present in the target detection system are cancelled by efficient placement of two transmitters and one receiver. The buried target reflects the pulse and the reflection is received and analyzed to identify the target. The antenna responses are deconvolved out from the receiver response by using the conjugate gradient method. The natural resonant frequencies of the target are extracted by applying the matrix pencil method to the late time response. The resonant frequencies are compared with the known resonances of the simulated target. Accurate identification of buried targets can thus be achieved through this methodology.

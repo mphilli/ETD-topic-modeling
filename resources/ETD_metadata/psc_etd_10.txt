@@ -1,0 +1,11 @@
+$TITLE:
+The separation of powers: A framework for guiding judicial decision making when the executive limits individual liberties during armed hostilities
+
+$DEPARTMENT:
+Political Science
+
+$KEYWORDS:
+Terrorism, War, Constitutional law, Presidential power, Civil liberties, Federal courts
+
+$ABSTRACT:
+When the Executive's use of the war powers infringes on individual liberties and resulting cases go through the federal-courts system, we expect such cases to be adjudicated using the rights-based language that is provided in the Constitution to guarantee those liberties. However, the federal courts have consistently decided these cases using the language of the separation of powers. As a result, the courts do not decide the constitutional questions that arise in these war powers cases, but rather decide the issues on statutory grounds. The result is a separation of powers framework that comes to fruition through the courts looking for cooperation amongst the elected branches of government. Specifically, and as suggested in Justice Robert Jackson's  Youngstown Sheet & Tube v. Sawyer  , 343 U.S. 579; 1952, the federal courts are influenced by the approval, or disapproval, of congressional authorization of executive actions. I suggest that the federal courts turn away from the constitutional questions in times of war to protect the institution of the Judiciary and the Constitution itself from being infringed upon in ways that cannot be taken back at the end of hostilities, thus weakening the overall rights regime of the United States. I show how the courts turn to the separation of powers to decide rights-based claims in times of armed hostilities in two regards. First, I suggest that the framers of the Constitution intended for the war powers to be used in such a fashion and show how the early presidents adhered to this vision. Second, by looking historically at three case studies--military detentions, warrantless electronic surveillance, and emergency economic property legislation--I show that the federal courts have traditionally decided war powers cases using a separation of powers framework when the Executive spearheads efforts to limit individual liberties.

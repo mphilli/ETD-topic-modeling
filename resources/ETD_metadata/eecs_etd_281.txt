@@ -1,0 +1,11 @@
+$TITLE:
+Radiation And Scattering From Bodies Of Revolution
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Electrical engineering, method of moments
+
+$ABSTRACT:
+2. Method of solution -- 3. Evaluation of the impedances -- 4. Computation of impedances -- 5. Measurement matrices -- 6. Aperture antennas -- 7. Plane-wave scattering....--From table of contents.

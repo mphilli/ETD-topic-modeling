@@ -1,0 +1,11 @@
+$TITLE:
+Teaching Children to Fluently Decode Nonsense Words in Lists: Generalized Effects to Oral Reading Fluency of Connected Text
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Fluency building, Oral Reading Fluency, Phonics Training, Promoting generalization
+
+$ABSTRACT:
+The present study examined the generalized effects of training children to fluently blend nonsense words containing target vowel teams on their reading of untrained real words in lists and passages. Eight second-grade students participated. Nonsense words containing each of 3 target vowel teams (aw, oi, and au) were trained in lists, and generalization was assessed to untrained real words in lists, untrained real words in target passages, and novel real words in generalization passages. A multiple probe design across vowel teams revealed a) generalized increases in accuracy and fluency on all trained word list for all eight students and these were maintained on subsequent word list probes, b) generalized increases in accuracy and fluency on aw words for all students on either target or generalization passages, but for half or less of the students on oi words. Increases were seen prior to training on both oi and au vowel teams, which weakened the demonstration of experimental control. Implications of these results for fluency training in phonics as an alternative strategy for promoting generalized oral reading fluency are discussed.

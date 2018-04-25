@@ -1,0 +1,11 @@
+$TITLE:
+Image registration and image fusion: Algorithms and performance bounds
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Signal processing, Image registration, Image fusion, Performance bounds
+
+$ABSTRACT:
+This dissertation investigates the use of statistical signal processing techniques for image registration and image fusion problems. Before the fusion of multiple source images, an important preprocessing step is image registration. The goal of image registration problem is essentially to estimate the transformation that aligns two images. We extend a 1D spectral estimation method to the 2D case to enhance the current Fourier based image registration approach. Our results show that our proposed approach achieves higher registration accuracy than the traditional Fourier based registration approach. Performance bounds are very useful to evaluate different image registration algorithms and to analyze the registrability of a given image pair. We investigate a set of performance bounds on image registration problem and derive a closed-form expression for the Ziv-Zakai bound. Several issues that affect image registration performance are also investigated. Experimental results demonstrate the validity of our derived bounds. We further consider registration of remote sensing data that involves dimensionality reduction of high-dimensional data set and pairwise image registration. We develop a new application-specific rule for dimensionality reduction that produces an image pair from the high-dimensional data set such that the best registration performance, i.e., the smallest Cramer Rao lower bound, is achieved. Experiments with a hyperspectral data set and a multispectral data set demonstrate the superiority of our proposed rule. Finally, the problem of image fusion based on Markov random field (MRF) models is also investigated. By incorporating the MRF probability density function in the image fusion model, two novel image fusion approaches are proposed. In our illustrative examples, we observe significant improvement of fusion performance of our algorithms on both multiresolution decomposition based fusion and non-multiresolution decomposition based fusion approaches.

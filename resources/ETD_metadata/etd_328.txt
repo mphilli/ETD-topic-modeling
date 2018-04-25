@@ -1,0 +1,11 @@
+$TITLE:
+Designing Core/Alloy Nanoparticles by Manipulation of Interfacial Oxidation and Atomic Diffusion
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Magnetism, Morphology, Nanoparticles, Nanotechnology, Quantum Dots, Stainless Steel
+
+$ABSTRACT:
+Alloying presents a unique opportunity to combine the chemical and physical properties of two or more metals into one material. This phenomenon can also be used for multi-metallic nanoparticles (NPs), where in conjunction with the size effects induced by quantum confinement, new properties or phase behavior can emerge. The properties of nanoalloys are highly dependent on their composition and morphology, which are contingent upon the method in which they are synthesized. Finding ways to control, or even design, the composition and morphology of nanoalloys could potentially open the door for a standardized approach for creating nanomaterials with unique and desirable properties. In my dissertation research, I designed core/alloy NPs by manipulation of interfacial oxidation and atomic diffusion via galvanic exchange, Cabrera-Mott oxidation, and Kirkendall diffusion. A novel method for the fabrication of FeNi-M3O4 (M = Ni, Fe) heterostructures by galvanic exchange is discussed. Using α-Fe NPs as a template, galvanic exchange was shown to occur if a significant redox potential occurs between the template nanoparticle and the deposition metal. Deposition of metallic Ni or Cr onto the Fe template NP allows for effective alloying as well as control over the symmetry of the final core/alloy NP morphology. Depending on alloy shell thickness, oxidation results in Kirkendall void formation essentially allowing for control over the morphology of hollow core/alloy NP. Formation of an outer oxide shell creates a stainless steel-like interface, which results in passivation from further oxidation. Finally, I describe Mn doping into ZnSe quantum dots, where energy transfer occurs from the host semiconductor, ZnSe, to the dopant excited state, which lies within the bandgap of the host material.

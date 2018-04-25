@@ -1,0 +1,11 @@
+$TITLE:
+Design and synthesis of fluorinated derivatives of indolyl fulgides and fulgimides
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Fluorinated derivatives, Indolyl fulgides, Fulgimides, Photochromic compounds, Optical storage media
+
+$ABSTRACT:
+Two of the more intensely studied classes of photochromic compounds are the fulgides and fulgimides. A large amount of interest exists due to the lack of a thermal reversion of the photochromic event, making fulgides ideal candidates for optical storage media. We set out to design novel fulgides that utilize the lessons learned from the vast number of variously substituted fulgides and fulgimides that already exist in the chemical literature. Combining the advantageous trends perceived from electronic effects and steric bulk we have designed and synthesized novel fulgides and fulgimides maximizing photochromic properties such as quantum yield, cyclicity and the wavelength of the absorption maximum. In addition to the rational design of numerous derivatives of these molecules, modifications to existing synthetic protocols and new synthetic methodologies have been designed and incorporated. Among these are new methods providing for the necessary acyl ketones and the opening of the previously inert cis indole lactones. With improvements to the synthesis and photochromic properties of the fulgides and fulgimides, the reality of a molecular based memory device is becoming more conceivable. Furthermore, with the new patterns between structure and function established, the design and synthesis of further, novel fulgides and fulgimides will be explored.

@@ -1,0 +1,11 @@
+$TITLE:
+Locus-of-control and the five-factor model of personality
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Psychotherapy, Personality, Psychological tests
+
+$ABSTRACT:
+The concept of locus of control has generated a vast amount of research over the years. A finding that has emerged consistently, in a variety of areas of research, has been that the group of individuals with an external orientation tends to be heterogeneous. Factor analytic studies of the early measures of locus of control have found little support for the unidimensionality of the construct. In 1972, Levenson developed the Internal, Powerful Others, and Chance Scales in an attempt to address the apparent multidimensionality of the concept of locus of control. The scales are based on the idea that people who believe powerful others are in control of reinforcements will differ from people who believe reinforcements are controlled by chance or fate. Research comparing unidimensional and multidimensional measures of locus of control has tended to indicate that they may be qualitatively different.The main purpose of this study was a comparison of two locus of control measures, Rotter's unidimensional I-E scale and Levenson's multidimensional IPC scales, within the context of their differing association to the NEO-PI, a personality measure based on the five-factor model of personality. The sample consisted of 203 male and female undergraduates, who participated in the study in exchange for course credit.The results of the study provide support for the hypothesis that the two locus of control measures are qualitatively different. The main differences between the measures emerged on the Extraversion, Openness, and Agreeableness dimensions of the NEO-PI. These dimensions were only marginally related to Rotter's scale, while they were significantly associated with one or more of the IPC scales. The Neuroticism and Conscientiousness dimensions were significantly related to both Rotter's I-E scale and Levenson's IPC scales. A number of sex differences were also apparent between the different locus of control groups.

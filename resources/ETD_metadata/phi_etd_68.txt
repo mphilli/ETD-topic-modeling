@@ -1,0 +1,11 @@
+$TITLE:
+Moral Luck
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Control Principle, Luck, Moral Luck, Moral Responsibility
+
+$ABSTRACT:
+The problem of moral luck arises because of an apparent conflict between the luck that humans face, the pervasiveness of moral considerations in our lives, and the idea that moral responsibility requires a level of control that luck robs them of. The claim is that we cannot be governed by luck and be morally responsible. The notions of luck and moral responsibility are developed, and several solutions to the problem of moral luck are discussed and rejected. Finally, a solution is offered that dissolves the problem. In particular, the luck that affects an agent's moral standing comes from the choices that are presented to her from given character traits. This variety of moral luck is found to be genuine and yet to not conflict with a principle that moral responsibility requires control. The agent has control over what choices she makes from her palette of live options, no matter if the range of options is given to her without her choice. So while she lacks complete control, she has the right kind of control for moral responsibility. Hence, there is moral luck, but no problem of moral luck.

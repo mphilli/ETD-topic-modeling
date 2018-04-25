@@ -1,0 +1,11 @@
+$TITLE:
+When gains exceed losses: Beyond prospect theory
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+Loss aversion, Gains, Prospect theory
+
+$ABSTRACT:
+This study examines the phenomenon of relative magnitudes of perceived gains and losses. Loss Aversion of Prospect Theory (Kahneman and Tversky 1979) suggests that "losses loom larger than gains." Loss aversion has been supported in various contexts although there is some counter-evidence that loss aversion may not always happen. We propose and test a modified version of the Prospect Theory that accommodates and explains the apparent empirical contradictions. We introduce the concept of brand hierarchy and examine its influence on perceived gains and losses. We show that loss aversion can be found when the brand is located low in the hierarchy whereas non-loss aversion happens when the brand is located high in the brand hierarchy. This is because consumers may be 'surprised' when they face low prices of brands placed higher in the hierarchy whereas they may be 'surprised' if they observed relatively high prices for low positioned brands. Asymmetric price expectation is proposed to explain consumer 'surprise'. Impact of a couple of moderators is investigated. These are: consumer confidence of expectation and inter-product category competition.This study has both theoretical as well as managerial implications. First, this study provides an extension of the Prospect Theory and explains why loss aversion may not always happen. Thus our proposed model includes Prospect Theory as a special case. Next, this study can provide insightful clues for the pricing strategy. For example, asymmetric distribution of price expectations may explain why consumers react differentially to store vs. national brand promotions.

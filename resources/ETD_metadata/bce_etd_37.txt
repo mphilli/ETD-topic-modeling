@@ -1,0 +1,11 @@
+$TITLE:
+Hydrogen storage, microstructural properties, and electromigration effects in aluminum/palladium/aluminum films
+
+$DEPARTMENT:
+Biomedical and Chemical Engineering
+
+$KEYWORDS:
+Hydrogen storage
+
+$ABSTRACT:
+Growth and hydrogen adsorption properties of Pd/Al and Al/Pd bilayers, and microstructural and hydrogen storage properties of Al/Pd/Al composite films are studied in this work. Pd was found to grow epitaxially on fiber textured $\langle$111$\rangle$ Al thin films after an initial alloying phase. The full electronic properties of the Pd adlayer, as signified by the saturation work function change, did not develop until 7-8 monolayers of Pd were deposited. Aluminum also grew epitaxially on (111) Pd single crystal films. The growth was initially layer growth followed by a "roughening" which indicated the onset of island formation. Hydrogen did not adsorb on the $\langle$111$\rangle$ Al surface, but did adsorb dissociatively on the (111) Pd surface. The exposures of Pd/Al bilayer surfaces to hydrogen caused a significant work function change indicating adsorption. However, the saturation contact potential difference was less than that for the more perfect (111) Pd surface. The adsorption kinetics for the bilayer surface were similar to those for (111)Pd.Hydrogen, as measured by Secondary Ion Mass Spectrometry, was incorporated into the Al/Pd/Al structures. The hydrogen was confined to the Pd layer. The amount of hydrogen increased with exposure pressure, and no hydrogen above the background level was detected for cases where the Pd thickness was less than 20 A. The electromigration resistance of the three-layer films was unaffected by the incorporation of hydrogen. However, the Pd layer affected the microstructure of the top Al layer leading to an increase in the median time to failure.

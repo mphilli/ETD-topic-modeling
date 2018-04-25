@@ -1,0 +1,11 @@
+$TITLE:
+The heuristic-systematic model and HIV/AIDS information: Developing persuasive communications
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Heuristic-systematic model, HIV/AIDS, Persuasive, Communications, Immune deficiency
+
+$ABSTRACT:
+For over a decade much effort has gone into educating people about the danger of contracting AIDS through sexual intercourse and persuading them to practice safer sex. Much of this information has been directed toward adolescents because it is believed that they may be particularly likely to engage in unsafe sexual practices, e.g., not using a condom. However, the vast majority of this effort to change behavior has not made use of the vast literature on persuasion that has been generated mostly by social psychologists. This study proposed to utilize one such theory, the Heuristic-Systematic model, with the intention of producing more effective persuasive messages. As its name implies, this model proposes two forms of information processing, each of which is hypothesized to have different consequences for behavior. This study tested several hypotheses derived from this model, principally that people who view AIDS as more personally relevant should process AIDS information more systematically and those who view AIDS as less personally relevant should rely on a heuristic to process AIDS information. Although personal relevance did influence how persons rated HIV/AIDS informational messages, the results did not provide support for the hypothesis derived from the Heuristic Systematic Model.

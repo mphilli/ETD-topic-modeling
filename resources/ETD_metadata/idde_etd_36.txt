@@ -1,0 +1,11 @@
+$TITLE:
+An experimental assessment of varied fidelity in instructional simulation on the facilitation of immediate and delayed performance of intravenous calculation and regulation
+
+$DEPARTMENT:
+Instructional Design, Development and Evaluation
+
+$KEYWORDS:
+Intravenous therapy, Educational software, Nursing, Health education, Learning, Simulation
+
+$ABSTRACT:
+The learning of procedural skills can take place with the use of a variety of instructional strategies. The tools used in these strategies can vary from real equipment to paper copy facsimiles that bear little resemblance in many properties to the real item. Nursing students must learn many procedures when preparing for professional practice. Sometimes real equipment can be used and sometimes it is prohibitive from a cost and safety standpoint. To date there is no evidence that any variation in the physical and functional fidelity characteristics of a simulation make a difference in instructional outcomes.This dissertation examined varied fidelity in instructional simulations on the facilitation of immediate and delayed performance of intravenous calculation and regulation. Defined levels of low, moderate and high physical and functional fidelity were used in treatments designed to teach intravenous therapy calculation and regulation. Randomly assigned to treatments, students took both an immediate and two week delayed test for both cognitive and psychomotor ability.All treatments were similarly effective in outcome. The cognitive measures all produced fairly high scores. The psychomotor measures revealed less accurate performance across treatments. A trend for students with more prior education to do better on both measures and a significant time difference across treatments was also discovered.This dissertation provides a groundwork for similar studies probing the most effective and efficient learning strategies for nursing education.

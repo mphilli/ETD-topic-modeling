@@ -1,0 +1,11 @@
+$TITLE:
+Dynamic agent collaboration for open systems using concurrent intepretation of role-based coordination protocols(1)
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Agent collaboration, Open systems, Role-based coordination
+
+$ABSTRACT:
+In a system of collaborating software agents, established protocols for coordination are essential for accomplishing the intended functionalities of their joint-activities . Most existing agents, however, are designed to support predetermined static protocols, limiting their interaction domain to specific sets of agents. This approach hinders computational reusability, agent productivity, and greater opportunities for cooperative problem solving. It also undermines the usability and worthiness of an agent, especially in the context of open systems where the use of agents is critical. This dissertation introduces an agent collaboration framework for open systems that expands an agent's vicinity for interaction and enables it to adapt dynamically to various coordination protocols. These protocols are determined only during the actual collaboration engagements. Our approach is based on the notion of coordination agencies . An agency is an abstract mechanism for managing and servicing coordination protocols for a subscribing collaboration group, where coordination concerns are delegated to a set of coordinator proxies . We developed a general coordination approach using concurrent interpretation of role-based coordination protocols . Aside from dynamic collaboration, an agent is empowered to engage in multiple collaboration groups simultaneously. The framework adopts an economics-based cooperation model for organizing and facilitating the delivery of services. (1) This research is supported in part by IBM Corporation of Endicott, NY and the Department of Science and Technology of the Republic of the Philippines through the ESEP project.

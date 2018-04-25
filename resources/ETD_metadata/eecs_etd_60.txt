@@ -1,0 +1,11 @@
+$TITLE:
+Adding the modal mu-calculus to the instruction-set process calculus
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Mu-calculus, Instruction-set process calculus, Temporal logic, Process algebra
+
+$ABSTRACT:
+IspCal is a formal language well suited for describing synchronous digital systems, and it supports hardware composition. It is also a calculus with which we can equate one description with another. However, its original description lacked the ability to express crucial temporal properties of systems, such as safety and liveness.To provide the ability of expressing temporal properties, we have added a temporal logic (the modal mu-calculus) to IspCal. By adding the modal mu-calculus to IspCal, we enriched the expressiveness of IspCal so that we can express safety-critical temporal properties of systems and verify that systems satisfy the properties. In addition we proved an important proposition of the modal mu-calculus, the satisfaction-equivalence proposition. This proposition states that bisimilar processes share the same properties. The result is a potential great savings in time and effort for property checking.In this thesis we focus on the procedures for adding the modal mu-calculus to Isp-Cal. We implement the syntax and semantics of the modal mu-calculus as conservative extensions to the Higher Order Logic (HOL4) theorem prover. We also prove several propositions of modal mu-calculus in HOL, such as the satisfaction-equivalence proposition.

@@ -1,0 +1,11 @@
+$TITLE:
+Beyond Standard Model Physics under the ground and in the sky
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Beyond Standard Model, Cosmological Constant, Dark Matter, Electroweak symmetry breaking, Higgs Decays, Top partner
+
+$ABSTRACT:
+Cosmology and particle physics are in an exciting data-rich era, with several collider and astronomical searches underway. In this dissertation, we have explored some problems which are not addressed by the standard models of particle physics and cosmology. The implications of the Higgs discovery and lack of new physics results are far reaching. To better understand the nature of Higgs and its connections to electroweak symmetry breaking, we have performed a model independent study of spin-1 contributions in gauge extensions of Standard model. The null results of all low energy supersymmetric searches has lead to the development of Split SUSY models which are based only on gauge unification and dark  matter as guiding principles. We study in detail the cosmic probes of Split SUSY using indirect dark matter detection constraints and hints of small tensor to scalar ratio. We also investigate the phenomenological viability of models with light dilatons that ameliorate the cosmological constant problem by studying conformal phase transitions using holography. Finally, we have also checked the robustness of soft-wall geometry by includinghigher curvature terms in the five dimensional bulk action.

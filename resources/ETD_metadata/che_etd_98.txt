@@ -1,0 +1,11 @@
+$TITLE:
+Raman optical activity: Theory, instrumentation and measurements. Electron transition current density: Ab initio calculation of vibrational transition current density in selected molecules
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Raman optical activity, Electron transition current, Vibrational transition current
+
+$ABSTRACT:
+In the part I of this thesis, the theory of natural Raman optical activity (ROA) is summarized within the far-from-resonance approximation and the strong resonance approximation. Improvements in a dual circular polarization (in-phase) ROA instrument are reported with a summary of the changes in the optics. The ROA spectra of selected proteins measured in the backscattering DCP I configuration are reported. The pH dependence of ROA spectra of captopril is reported. Improved resonance ROA spectra of naproxen are also presented.In the part II of this thesis, vibrational transition current density (TCD) is reported as a new theoretical method to visualize the flow of electron current density caused by nuclear motions during a vibration. TCD is related to vibrational circular dichroism (VCD) through the integrand of electronic contribution to the velocity-form electric dipole transition moment.A TCD map is a vector field plot over a grid of points; each vector represents the magnitude and direction of the electron density velocity for the volume element centered at the grid point. Visual interpretation of these TCD maps provides information about the magnetic dipole transition moment and electric quadruple transition moment as well as the electric dipole transition moment.The calculations on formaldehyde and ethylene demonstrate the theoretical and computational methodology and visual interpretation with respect to requirements of symmetry. The calculation of the methine stretching modes of ( S )-methyl- d 3 lactate- Cd 3 conformers demonstrates how a TCD map can provide insight into the origin of IR and VCD spectral intensities. The calculation of (2 S , 3 S )-oxirane- d 2 demonstrates the effect of basis set size on the TCD map.

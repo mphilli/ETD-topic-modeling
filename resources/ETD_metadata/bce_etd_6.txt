@@ -1,0 +1,11 @@
+$TITLE:
+Detection of tones in reproducible noise: Psychophysical and computational studies of stimulus features and processing mechanisms
+
+$DEPARTMENT:
+Biomedical and Chemical Engineering
+
+$KEYWORDS:
+Reproducible noise, Psychophysical, Stimulus features, Processing mechanisms, Binaural detection, Tone detection
+
+$ABSTRACT:
+This dissertation combines psychophysical experiments with computational modeling efforts in order to help explain how humans detect sounds of interest in the presence of competing background noise. Specifically, tone-in-noise detection was examined for low-frequency tones (500 Hz) in the presence of reproducible narrowband masking noises. Both the N 0  S 0  (noise and signal presented at the same phase to the two ears) and N  0  S π  (noise presented at the same phase to the two ears and signal presented 180° out of phase between the two ears) interaural configurations were tested. Two psychophysical detection experiments are described that used prerecorded, or reproducible  , masking waveforms in conjunction with multiple-regression data analyses. These experiments were designed to determine the dominant stimulus features used by individual listeners to compute detection cues. Candidate stimulus features included stimulus energy, temporal fine structure (e.g., zero crossings, or the stimulus carrier), temporal envelope, or a linear combination of carrier and envelope. Results indicated that listeners used energy cues when they were available for detection under N 0  S 0  conditions, but that they also used temporal processing. Results also indicated that listeners did not separately process envelope and carrier under N 0  S 0  or N 0  S  π  conditions. Computational modeling efforts were designed to approximate physiologically plausible stimulus processing along with several different decision devices. Several recent psychophysical detection models failed at predicting detection statistics for individual waveforms, demanding that new explanatory models for masked detection be examined. The characterization of detection cues used by listeners with normal hearing will lead to improved hearing aids. This improvement could occur either through the preservation of stimulus features found to be critical for detection in noise, or by mimicking the types of processing occurring in the healthy auditory system.

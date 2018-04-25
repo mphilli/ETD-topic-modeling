@@ -1,0 +1,11 @@
+$TITLE:
+A homological approach to differentiation algorithms and dimensions of finite type for representations of partially ordered sets
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Homological, Partially ordered sets
+
+$ABSTRACT:
+The category of representations of a partially ordered set is studied from a homological point of view. This approach is used to generalize the differentiation algorithms for representations of partially ordered sets with respect to maximal respectively minimal elements. Homological methods and the differentiation procedure are further explored to study dimensions of finite type for representations of partially ordered sets.

@@ -1,0 +1,11 @@
+$TITLE:
+A Monte Carlo Comparison of Robust and Resistant Estimators of Bivariate Correlation
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Gaussian, Error distribution, Normal myth
+
+$ABSTRACT:
+Introduction:Whenever we mention the word statistics or statistical procedures, the mean, standard deviation, Pearson correlation coefficient and normal curve are the concepts that come to mind. The Gaussian probability distribution (affectionately known as normal) and its companion least-squares estimators are the foundations for classical statistical procedures and measurement theory. ... Unfortunately the limitations and assumptions are often ignored without regard to what the resulting statistics may or may not represent if our data are not truly Gaussian.

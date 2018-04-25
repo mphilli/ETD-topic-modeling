@@ -1,0 +1,11 @@
+$TITLE:
+Instrumental advances in vibrational optical activity
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+vibrational circular dichroism, Raman optical activity
+
+$ABSTRACT:
+Vibrational optical activity (VOA) can be measured through two manifestations: vibrational circular dichroism (VCD) and Raman optical activity (ROA). In combining the structural richness of vibrational spectroscopy with the stereochemical sensitivity of chiro-optical techniques, VCD and ROA have shown great promise as powerful probes of molecular conformation and stereochemistry, particularly in solution phase. Since the initial measurements in the mid-1970's, the utility of these techniques, however, has been compromised by a combination of poor signal-to-noise ratio, long measurement time, and low resolution. In this work, multiplex and multichannel detection have been applied toward the measurement of VCD and ROA, respectively. Progress has also been made toward understanding the origins and minimizing the magnitude of spurious artifacts which can mask the genuine VOA signals.VCD spectra have been measured using Fourier double modulation, in which the light is intensity modulated using a Michelson interferometer and polarization modulated with a photo-elastic modulator. Demodulation to obtain the VCD spectrum is achieved using a lock-in amplifier and standard Fourier transform techniques.ROA spectra have been measured using a image intensified diode array detector. Superior control of the spurious artifacts was made possible by using an easily-controlled circular polarization modulator in conjunction with novel collection optics. The modulator, a Soleil-Babinet compensator, is much easier to control than an electro-optic modulator, producing nearly perfectly circularly polarized light.The improvements achieved in this study have made it possible to measure both VCD and ROA spectra of superior signal-to-noise and resolution in two to three hours with a minimal contribution from interfering artifacts.

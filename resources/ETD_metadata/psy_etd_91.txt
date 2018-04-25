@@ -1,0 +1,11 @@
+$TITLE:
+Learning complex instances: Adult age differences
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Automaticity, Component training, Learning
+
+$ABSTRACT:
+The overall goal of the present research was to contribute to the understanding of the processes involved in acquiring complex cognitive tasks. One specific aim was to examine the effects of practice with component information on rate of learning a complex task. The second specific aim was to examine possible age-related differences in the rate of skill acquisition for the component tasks and for the complex task, and in the efficiency of application of component leaming to complex cognitive skill acquisition. The framework and conceptualization for the research was based in part on aspects of Logan's (1988) instance theory of automaticity. The task selected for this investigation was alphabet symbol arithmetic (ASA). The speed and accuracy of solving problems or retrieving the answers to problems of the form, J +) = P when) = 4, was measured. This task was considered to be complex because each problem consisted of two component steps or parts, alphabet arithmetic (AA) and symbol substitution (SS). Some participants were given training on AA and SS prior to performing the ASA task, and other participants were not given either type of component training prior to the administration of the alphabet-symbol arithmetic task. Forty-six adults (26 young adults between 18 and 23 years and 20 older adults between 55 and 72 years) participated.As expected, the rate of acquisition of complex problems was faster for subjects who were given prior training on one or both of the component tasks. It was also observed that practice with ASA (i.e., whole-task training) facilitated memory-based learning of AA. Evidence suggesting the beneficial effects of component training on the acquisition of ASA was obtained even though levels of performance on AA were not asymptotic or entirely memory-based. The ASA task, especially when given without any training on the component tasks, was very difficult for older adults. It was concluded that componential training is an efficient means for improving cognitive skill acquisition in complex tasks for both younger and older adults.

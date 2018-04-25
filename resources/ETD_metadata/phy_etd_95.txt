@@ -1,0 +1,11 @@
+$TITLE:
+Nonequilibrium dynamics of driven elastic manifolds in random media
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+overdamped, depinning transition, condensation
+
+$ABSTRACT:
+Different aspects of the overdamped dynamics of elastic manifolds driven through random media have been studied. It is known that at zero temperature such systems typically exhibit a continuous depinning transition at a threshold force $F\sb{T}$ from a pinned state with zero average velocity, $< v >$ = 0, for F $<$ $F\sb{T}$, to a sliding state with nonzero average velocity, $< \nu \not= 0 >$, for $F > F\sb{T}$. Using the example of an elastic interface driven in (l + l)-dimensions, we study (1) the effect of finite temperature on the depinning transition, and (2) the T = 0 dynamics at $F \ll F\sb{T}$ where the interface moves from one pinned state to another in response to a small increment in the driving force. We find in (1) that the depinning transition is smeared out by thermal fluctuations, and in (2) that the T = 0 dynamics at $F < F\sb{T}$ is composed of a sequence of discharging events, or avalanches, whose distribution in size has a power-law decay. We also study the finite temperature dynamics at small driving forces, $F \ll F\sb{T}$, and find a nonlinear glassy response for the driven medium, $< v > \sim \exp(-{\rm const} \times F\sp{-\mu}$). Finally, motivated by recent theoretical and experimental work on driven flux-line lattices in type-II superconductors which suggest that the disorder becomes less relevant at large driving forces, we study the $T = 0$ driven dynamics of a sliding charge-density wave (CDW) at $F \ll F\sb{T}$. The CDW model is chosen here because, while it captures all the essential features of the dynamics of driven elastic manifolds, it is simpler than flux-line lattices in that the dynamical field of interest is a scalar rather than a vector. The sliding CDW exhibits a first order dynamical transition at a critical driving force $F\sb{c}$ between "rough" (disorder dominated) $(F < F\sb{c})$ and "flat" $(F > F\sb{c})$ sliding phases, where disorder is washed out by the external drive.

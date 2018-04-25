@@ -1,0 +1,11 @@
+$TITLE:
+Procedures for selecting the best experimental treatment with comparison to a control
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+statistical selection
+
+$ABSTRACT:
+We consider the problem of selecting the best of k experimental treatments (populations) in comparison to a control treatment (population) when the treatments are normally distributed with unknown means and have a common, unknown variance. Our goal is to select the experimental treatment with the largest mean, when this mean is larger than the control treatment mean. Otherwise, we select the control treatment.Three different procedures are proposed to satisfy our goal. The first procedure is a balanced, two-stage, Stein-type selection procedure, R$\sb{\rm E}$, similar to that of Bechhofer and Turnbull (1978). We define probability requirements and tabulate procedural parameters for R$\sb{\rm E}.$ The expected sample size is derived and we use it to compare procedure R$\sb{\rm E}$ with the other proposed procedures.The second procedure extends R$\sb{\rm E}$ to an unbalanced, two-stage, Stein-type selection procedure, R$\sb{\rm U}.$ R$\sb{\rm U}$ allows for different sample sizes in a given fixed ratio, R, to be drawn from the control treatment and the experimental treatments. We define the selection procedure and probability requirements. Procedural parameters are then computed for a number of choices of R. The expected sample size is derived and we use it to compare procedure R$\sb{\rm U}$ to procedure R$\sb{\rm E}$ for different values of R.The third procedure, ST, combines statistical selection with hypothesis testing and is similar to the method of Thall, Simon, and Ellenberg (1988). In the first phase, we use a selection procedure to determine preliminarily whether the best experimental treatment is better than the control. If no experimental treatment exhibits sufficient evidence of being an improvement over the control, the procedure is terminated. Otherwise, we proceed to the second phase and test the best experimental treatment against the control. The two-phase procedure ST is defined and definitions of power and level appropriate for our hybrid decision method are given. We calculate procedural parameters and derive the expected sample size of this procedure. A comparison of procedure ST with procedure R$\sb{\rm E}$ is discussed.

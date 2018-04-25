@@ -1,0 +1,11 @@
+$TITLE:
+Where the Reasons Come From
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+We have a problem understanding our normative reasons. If there's a reason to do x, we can explain why that reason counts in favor of doing it with the fact that x-ing would be good in some way. But it's also explainable by non-evaluative properties that make x-ing good. Suppose the traffic gives us a reason to leave early for the airport. The deeper reason might be the non-evaluative fact that the traffic would cause us to miss our flight, or it might be the value of making the flight. Although both reasons are perfectly good at the everyday level, it would be wrong to say they both contribute to the fundamental normative story of why traffic favors leaving early. Because both are ways of calling attention to the same idea, that making the flight is our goal, they shouldn't be independent. One of these considerations is a reason only because the other is. If we considered each as its own self-contained reason we'd be double-counting. So which is the more fundamental one? I argue that values--goodness and badness of various kinds--give our best, most ultimate reasons.

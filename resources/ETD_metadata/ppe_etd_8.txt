@@ -1,0 +1,11 @@
+$TITLE:
+Impact of Physical Activity on Postprandial Lipidemia and Glycemic Control after Chronic Fructose Ingestion
+
+$DEPARTMENT:
+Exercise Science
+
+$KEYWORDS:
+Fat Metabolism, Fructose, Hyperlipidemia, Insulin, Physical Activity
+
+$ABSTRACT:
+PURPOSE: The overall aim of this study was to examine the effects of a high-fructose diet on postprandial lipemia and hormones associated with glucose control during periods of altered physical activity. METHODS: Twenty-two recreationally active males and females participated in this randomized, cross-over design study (age: 21.2 ± 0.6 years; BMI: 22.6 ± 0.6 kg/m2). Subjects ingested 75 g of fructose for 14 days during a period of high physical activity (FR+Active) (>12,500 steps/day) and a period of low physical activity (FR+Inactive) (<4500 steps/day). Prior to and following the 2 wk loading period, a fructose-rich meal challenge was administered (45% carbohydrate [25% fructose], 40% fat, and 15% protein). Blood was sampled at baseline and for 6 h after the meal and analyzed for triglycerides (TG), very-low density lipoproteins (VLDL), c-reactive protein (CRP), tumor necrosis factor-a (TNF-a), interleukin-6 (IL-6), glucagon-like peptide 1 (GLP-1), glucose-dependent insulinotropic peptide (GIP), c- peptide, glucose and insulin concentrations. Area under the curve (AUC) and absolute change from peak to baseline concentrations (Δ peak) were calculated to quantify the postprandial responses. RESULTS: TG, VLDL and IL-6 significantly increased in response to the FR+Inactive intervention (p<0.05), while GIP, insulin, c-peptide and GLP-1 (males only) significantly decreased in response to the FR+Active intervention (p<0.05). No changes occurred with glucose, TNF-a and CRP concentrations for either intervention (p>0.05). CONCLUSIONS: When an inactive lifestyle is adopted for two weeks, while consuming a high fructose diet, postprandial lipidemia and low grade inflammation occurs. In contrast, two weeks of increased physical activity induces positive changes in hormones associated with glucose control in order to attenuate the deleterious effects of the fructose-rich diet.

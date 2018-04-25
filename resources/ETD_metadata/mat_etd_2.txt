@@ -1,0 +1,11 @@
+$TITLE:
+Growth of tessellations
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Tessellations, Growth rate, Hyperbolic plane, Homogeneous
+
+$ABSTRACT:
+A tessellation is understood to be a 1-ended, locally finite, locally cofinite, 3-connected planar map. A definition for the rate of exponential growth of a tessellation of the hyperbolic plane is established, and existing methods for computing growth are refined. Growth rates of both face- and edge-homogeneous tessellations are considered, and two major results are proven: first, that tessellations exist for any arbitrary growth rate greater than or equal to 1, and second, that the least rate of growth for a face-homogeneous tessellation is (1 + [Special characters omitted.] )/2.

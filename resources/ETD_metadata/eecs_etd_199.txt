@@ -1,0 +1,11 @@
+$TITLE:
+Shape matching using genetic algorithms
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Simulated annealing, Hill climbing, Attributed strings, Shape matching, Genetic algorithms
+
+$ABSTRACT:
+This dissertation presents an approach for shape matching that is based on genetic algorithms (GAs). Shape recognition is a challenging task, especially for shapes of objects that are occluded, or touch or overlap with other objects. In our approach the problem of shape matching is viewed as an optimization problem. We use attributed strings to represent shapes. This dissertation addresses the task of shape matching rather than issues related to preprocessing and feature extraction. Different GA operators and different selection procedures are compared. A variety of tests is performed to evaluate the robustness of GA with small and large databases. The GA approach is compared to simulated annealing and 'memetic' annealing, which is an extension of simulated annealing with hill climbing. A new population based approach called Particle Swarm Optimization (PSO) is analyzed and a discrete version is proposed. This approach is also compared with the GA. Experimental results show that the steady state GA using all operators (crossover, mutation and hill climbing) performs best.

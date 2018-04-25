@@ -1,0 +1,11 @@
+$TITLE:
+The effects of relational satisfaction, organizational reputation, and identification with company on customers' communication behaviors
+
+$DEPARTMENT:
+Mass Communications
+
+$KEYWORDS:
+Public relations, Identification, Reputation, Word-of-mouth communication, Relationships, Relational satisfaction
+
+$ABSTRACT:
+By combining the growing body of knowledge on organization-public relationships and organizational reputation with insights from marketing literature on identification with company, this study examines the effects of relational satisfaction, a critical dimension of organization-public relationships, and organizational reputation on customers' communication behaviors such as engaging in word-of-mouth communication and paying attention to mass media, and the critical mediation role of identification with company in such effects. For this purpose, a survey was conducted among 350 customers of Wegmans Food Markets, Inc., and structural equation modeling (SEM) was used to empirically test the proposed relations. The proposed model illustrates tenable data-model fits. Results show that the more customers perceive the relationship they have with the company to be satisfactory, the more likely they are to communicate positively to others about it. In addition, the more customers perceive the reputation of the company to be satisfactory, not only are they more likely to communicate positively to others about the company, but also they are more likely to pay attention to mass communication channels such as television, newspaper, magazines, and the Internet for information about the company. More importantly, results show that identification with company significantly mediates the influence of relational satisfaction on customers' engagement in both word-of-mouth and mass communication behaviors.

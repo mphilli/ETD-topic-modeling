@@ -1,0 +1,11 @@
+$TITLE:
+Identification of nonlinear dynamic systems using the Volterra network
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+recurrent neural networks, Electrical engineering, Artificial intelligence, Computer science
+
+$ABSTRACT:
+dentification and control of nonlinear dynamic systems are typically established on a case-by-case basis, since there are no general methods for, at least, a large class of such systems. Recurrent Neural networks (RNNs) have the potential to model nonlinear dynamic systems due to the fact that: (1) they have the ability to learn the nonlinear relationship between the input and the output of the system, (2) the information at the output is fed hack to the input, thus creating a non-linear dynamic mapping. This dissertation presents a new RNN especially useful for system identification of highly nonlinear dynamic systems such as robot manipulators. This RNN is composed of a linear dynamic network, cascaded with a nonlinear static network. It is analytically proved that this network is capable of modeling a large class: of single-input as well as multi-input nonlinear dynamic systems by showing its equivalence to the Volterra series expansion of such systems. Therefore this new RNN possesses the approximation power of the Volterra series, and is called the Volterra Network. A two-method learning scheme is proposed for the Volterra network. For the linear dynamic network a new learning algorithm is proposed, based on Prony analysis. The nonlinear static network can be trained using any method appropriate for feedforward networks, such as the back-propagation algorithm. The operation of the Volterra Network is demonstrated using examples of single-input as well as multi-input nonlinear dynamic systems. The advantage of the proposed RNN is that there exist well-known mathematical tools to analyze the behavior of the subnetworks of the Volterra network. Moreover, due to the proposed training schemes the nonlinear dynamic system can be considered as a black-box, hence there is no need for a priori knowledge of the system under investigation. The simulation results clearly demonstrate the efficiency of the Volterra network, since the error between the desired and actual outputs is very small, and remains virtually constant even during the testing phase of the Volterra network.

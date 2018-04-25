@@ -1,0 +1,11 @@
+$TITLE:
+Exploration of the existence and implications of a light scalar meson nonet using effective chiral Lagrangian models
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Scalar meson, Nonet, Chiral Lagrangian, Exotic mesons, Nonperturbative QCD, Meson-meson scattering
+
+$ABSTRACT:
+We use effective chiral Lagrangian models to consider the related problems of arriving at a quark-level understanding of the scalar mesons and of describing pseudoscalar meson-meson scattering up to energies well above threshold. We study π K scattering in a [Special characters omitted.] -inspired nonlinear chiral Lagrangian framework and get good agreement with experiment up to about 1.5 GeV. We find evidence for a new strange scalar meson, the κ(900). This controversial state emerges in a rather subtle way in the π K channel after we carefully take account of the different contributions to the strongly interfering background below 1 GeV. We also make a prediction for the πη channel within the same framework. Our work on the scalar meson puzzle involves two main ideas. First, we observe that the presence of the light κ state results in a complete nonet of scalar mesons beneath 1 GeV. We explore the nonet hypothesis in the context of the role of scalar mesons in s-wave pseudoscalar meson-meson scattering. We find that, in particular, the scalar isoscalar mixing angle suggests that such a nonet behaves like an exotic qqq¯q¯ multiplet, predicted some time ago by Jaffe. Second, we investigate the possible mixing of conventional and exotic states as an avenue to understanding the complete set of experimentally observed particles. This leads to a simple mechanism which explains the properties of all the established isovector and isospinor states. Finally we look at the pseudoscalar meson scattering in the Linear Sigma Model and compare with our previous results about scalar mesons.

@@ -1,0 +1,11 @@
+$TITLE:
+The characterization of two materials for permanent optical memories: Bacteriorhodopsin with its 9-cis retinal containing photoproducts, and fluorinated indolylfulgides with their derivatives
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Memories, Bacteriorhodopsin, Retinal, Photoproducts, Fluorinated, Indolylfulgides
+
+$ABSTRACT:
+The results of studies characterizing the properties and behavior of two photochemically active materials--the protein, bacteriorhodopsin (BR), and fluorinated indolylfulgides (FIFs), along with some of the variants of both--are analyzed and discussed in the frame of the usefulness of these materials in permanent optical memories. Specifically, the two most suitable forms of each system for this purpose and the nature of their photochemical interconversion were studied. For BR, the resting state and its 9-  cis  retinal containing products are the focus, while cyclizable (Z) and closed (C) forms are targeted for the fluorinated indolylfulgides. In this chapter, the background for each material system is described, followed by a description of their possible implementations in permanent volumetric and holographic optical memories. Each of four chapters in this dissertation following the introduction will be presented in manuscript form--two on bacteriorhodopsin, one on the fulgides, and one that covers a holographic performance analysis of both. Conclusions and recommendations for future work are made at the end of each chapter. They indicate that the work on these materials is very close to generating viable commercial possibilities, and thus in the process of crossing over from pure science into engineering.

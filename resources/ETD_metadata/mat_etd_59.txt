@@ -1,0 +1,11 @@
+$TITLE:
+Regularity of A-harmonic forms
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+mathematics
+
+$ABSTRACT:
+In this thesis we are concerned with estimating the regularity of ${\cal A}$-harmonic differential forms in Euclidean space. The prototype of the ${\cal A}$-harmonic equation is the so-called p-Laplacian equation, div$\vert\nabla f\vert\sp{p-2}\nabla f=0,$ which arises as a nonlinear generalization of the classical Dirichlet problem. When $p=n$ it also serves to characterize quasiconformal functions. In Chapter 1 we discuss existence and uniqueness questions relating to the latter equation. It is natural to consider p-harmonic functions belonging to the Sobolev space ${\cal W}\sp{1,p}.$ Certain estimates are most easily derived in $L\sp2,$ however, so in Chapter 2 we prove that when f is a p-harmonic function, the vector field $\vert\nabla f\vert\sp{{p-1\over2}}\nabla f\in L\sp2$ actually belongs to ${\cal W}\sp{1,2}.$ This is a first step in our proof of the previously unknown fact that $\vert\nabla f\vert\sp{{p-2\over2}}\nabla f$ belongs to $L\sp{s}$ for some $s>2.$ In 2-dimensional Euclidean space, this higher integrability has as a consequence the famous result of K. Uhlenbeck and Ladyzhenskaya and Ural'tseva that p-harmonic functions have Holder continuous gradients. In Chapter 3 we introduce the Sobolev spaces of differential forms, and the general ${\cal A}$-harmonic problem. We present a characterization of ${\cal W}\sbsp{0}{1,p}$ which is naturally adapted to the study of ${\cal A}$-harmonic equations; that our characterization is equivalent to the classical definition in Euclidean space belongs to folklore, but the first recorded proof in the setting of Riemannian manifolds is due to the author and C. Scott. Chapter 4 contains an original extension of Morrey's Lemma to differential forms, which is used to estimate the Holder regularity of $L\sp{p}\ {\cal A}$-harmonic forms, where p is close to n. Some extensions to Riemannian manifolds are extant, and others are still in progress. We will introduce them in Chapter 5, and also mention some directions for future research to expand the applicability of the ideas discussed herein.

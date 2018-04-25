@@ -1,0 +1,11 @@
+$TITLE:
+Diels-Alder Reactions of Thiete Sulfone
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Organic chemistry, heterocycles, Diels-Alder
+
+$ABSTRACT:
+Discusses and reviews research involving the Diels-Alder reaction, or diene synthesis reaction, which is the most general reaction of for the synthesis of six-membered carbocyclic and heterocyclic ring systems in organic chemistry.

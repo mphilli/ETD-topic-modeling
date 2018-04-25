@@ -1,0 +1,11 @@
+$TITLE:
+The Self-Assembly of Peptides to Create Catalysts
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+Enzymes are extremely powerful tools essential for all human life. Enzymes are usually comprised of hundreds of amino acids and rely on well-defined secondary structure for function. While short peptides do not normally adopt well-defined secondary structure, they have the potential to be good models for enzymes. The objective of this research is to use the self-assembly of short peptides into stable structures through thermodynamic potentials to create new catalysts.Hydrolytic metallobinding enzymes are abundant in nature. A library of peptides that mimic the structure of these enzymes was created from minimalistic principles. The resulting peptides can bind Zn2+ through coordination to histidine residues. Zn2+ can modulate the pKa of a coordinated water molecule to create a nucleophile for a particular reaction. A variety of reactions ranging from the hydrolysis of simple esters to complex phosphoesters and amino acids are assayed. The hydroxide anion attacks the ester carbonyl to form the products.Characterization of the peptides show that they self-assemble into stable β-amyloid fibril aggregates. The results show that the designed peptides can successfully catalyze the hydrolysis of esters with activity on par with state of the art computationally designed proteins. The activity of the peptides requires self-assembly in the presence of metal ions as shown by Transmission Electron Microscopy and fluorescence assays with dyes known to bind to amyloid fibrils.By mixing multiple peptides many different coordination sphere environments are probed at once. This creates an essentially limitless number of combinations. Through these techniques it is successfully proven that the designed peptides can self-assemble in the presence of metal ions and it is the metal-containing peptide assemblies that are responsible for catalyzing ester hydrolysis.

@@ -1,0 +1,11 @@
+$TITLE:
+Knowing How: An Empirical, Functionalist Approach
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Knowing-How, Knowing-That
+
+$ABSTRACT:
+Only very recently has the subject of knowledge how and its relation to propositional knowledge, or knowledge that, been given much attention by philosophers. In recent debates on the subject, positions tend to divide around the question: is knowledge how (KH) reducible to, or a kind of, knowledge that (KT), or are they fundamentally distinct categories of knowledge? I argue for the latter view, and I base my argument in the claim that KH and KT serve fundamentally different functional roles - specifically, KT is representational, while KH is practical. I develop my positive, functionalist account of KH in Chapter 6.Earlier chapters deal with background and methodological issues. In Chapter 1, I consider why philosophers, until recently, have tended to ignore the study of KH and have focused almost exclusively on KT. I argue that the omission is due to unexamined, tacit assumptions about the functional role knowledge should play. In Chapter 2, I argue for an empirical approach to the debate, and develop a folk theory of KH to use as a starting point for the investigation. In Chapters 3 and 4, I consider specific empirical domains - neuroscience and experimental psychology - and examine how they might inform the KH/KT debate. In Chapter 5, I critically consider an account of KH put forward by Jason Stanley and Timothy Williamson in a 2001 article, "Knowing How," since it is the most prominent view opposed to my conclusion.Ultimately, I conclude that the preponderance of evidence supports the claim that the two kinds of knowledge are fundamentally distinct categories of knowledge, and that my functionalist account of KH provides the best explanation for this distinction.

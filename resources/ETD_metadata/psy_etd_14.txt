@@ -1,0 +1,11 @@
+$TITLE:
+The application of a three tier model of intervention to parent training
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Parent training, Parent classes, Early intervention, Developmental disabilities
+
+$ABSTRACT:
+The persistence of inappropriate behavior in young children is strongly related to the interactions that occur between a caregiver and child. Although parent training programs appear promising in preventing and resolving childhood behavioral problems, not every family benefits from the interventions. Drawing from the literature on stepped care and response to intervention models, a three-tier intervention system was designed. A single-subject changing conditions design was used to examine the utility of a three tier intervention system in addressing the needs of a diverse group of families (n=9) participating in a parent training program. The three tiers consisted of: (a) self-administered reading material (RM), (b) group training (GT), and (c) individualized video feedback sessions (VF). Following each phase, observations were conducted to assess parental behavior during parent-child interactions at home and to determine parents' response to the intervention(s). Parents who met specified response-to-intervention criteria discontinued treatment, while those that did not meet criteria continued to the next tier. Of the seven participants (77.8%) who completed treatment, all responded to intervention. Results suggest that the Tier 1/RM intervention was effective for only one (11%) parent-child dyad. The other participants required more intensive interventions, with three dyads (33%) responding to Tier 2/GT intervention and three dyads (33%) requiring Tier 3/VF intervention to meet response-to-intervention criteria. Discussion focuses on the utility of a tiered model of intervention to maximize treatment outs and increase efficiency by minimizing the need for more costly time-intensive interventions for participants who may not require them.

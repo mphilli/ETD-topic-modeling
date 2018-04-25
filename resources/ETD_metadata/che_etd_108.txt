@@ -1,0 +1,11 @@
+$TITLE:
+The chemistry of rhenium with hydrazines and thiols
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+http://libezproxy.syr.edu/login?url=http://proquest.umi.com/pqdweb?did=732845311&sid;=1&Fmt;=2&clientId;=3739&RQT;=309&VName;=PQD
+
+$ABSTRACT:
+A number of rhenium compounds were synthesized and characterized in attempts to investigate and expand the coordination chemistry of the widely used medicinal imaging radioisotope technetium-99m. Rhenium and technetium are Group VII cogeners whose hydrazine and oxo-thiolate chemistries are very similar. The periodic similarities have allowed for the study of the non-radioactive metal rhenium instead of the synthetically created technetium, which exists only as radioactive isotopes. Influencing the chemistry were two schools of thought for delivering the potential radiopharmaceutical agents. The first concept, the conjugation technique tethers the metal to a biomolecule with specific biodistribution patterns. In this case, we explored hydrazines as potential tethers, forming the class of compounds (MCl$\sb3(\eta\sp1$-NNC$\sb5$H$\sb4$NH)($\eta\sp2$-H$ \sb{\rm x}$NNC$\sb5$H$\sb4$N)) (M = Re, Tc, or Mo). The study continued with the exploration of the chlorine substitution with potentially useful thiol coligands.The second approach, the "integration technique," utilizes small molecules to incorporate the metal. Here, we designed rhenium-mixed-thiolate complexes, aiming to improve biodistribution by varying steric requirements and charges. Thiolate complexes were evaluated because of their high yields, ease of isolation and characterization, and the ability to synthesize and derivatize novel thiols with relative ease. We systematically synthesized and characterized numerous metal-thiolate complexes, with a heavy emphasis on investigating the coordination chemistry.

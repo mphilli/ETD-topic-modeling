@@ -1,0 +1,11 @@
+$TITLE:
+Message reduction rules (MR(2)): A reduction methodology for message-based multimedia systems
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+computer networks, performance, computer science
+
+$ABSTRACT:
+Messages in multimedia systems possess distinct characteristics: they exhibit strong correlations, restrictions and degrees of freedom in end-user utilization patterns. In this work, we introduce "application's sense of correctness" in the transmission and optimization of multimedia messages. We formalize the relations between messages in terms of application defined concepts. Resultant formalization has led to Message Reduction Rules, MR$\sp2$, which provide an abstract machine to explore message optimizations.The optimization concepts developed, which includes, neighborhood; a mechanism to shift responses in response domain to improve the response timing, active prediction; a scheme to proactively match user's needs before requests are made if possible, passive prediction; a method to maintain most likely to be accessed past and future responses by application provided semantics, composibility; a scheme to combine messages whenever user can be served more efficiently, inclusion: a scheme to eliminate "close-by" requests to serve user more effectively; message deadlines; a method to eliminate messages that are no longer relevant to the service quality have been tested in our testbed, MMTP. Our performance studies on independent and inter-dependent class data applications have revealed significant improvements: The end user response time has been reduced in the order of several magnitude. The delay variation has been decreased significantly, providing a more predictable service. The server and network load has been reduced considerably. The maximum delay bounds for the system has been derived and verified. In our experiments, we have found that inclusion rules to be very effective to reduce the maximum delay, while the composition rules to boost the throughput, and (past and future) caching schemes to reduce the server and network load. By employment of MR$\sp2$, tremendous performance gains have been achieved and applications not feasible under normal circumstances have exhibited satisfactory performance.

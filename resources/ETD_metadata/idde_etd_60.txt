@@ -1,0 +1,11 @@
+$TITLE:
+Differential Effectiveness of Sitting Meditation Program and Movement Meditation Program in Reducing College Students' Cognitive and Somatic Trait Anxiety
+
+$DEPARTMENT:
+Instructional Design, Development and Evaluation
+
+$KEYWORDS:
+Aptitude-Treatment Interaction, Cognitive and Somatic Trait Anxiety, Movement Meditation, Multilevel Modeling, Multi-process theory, Sitting Meditation
+
+$ABSTRACT:
+A quasi-experiment was carried out to examine a possible aptitude-treatment interaction in eight-week meditation programs for college students' anxiety reduction. A total of 42 college students were assigned to either sitting meditation (21) or moving meditation conditions (21) and an additional 39 college students to a comparison group without treatment. Two outcome variables (cognitive trait anxiety and somatic trait anxiety) were measured four times by using on-line self-report questionnaires. It was hypothesized that moving meditation program would be more effective than sitting meditation program for those whose cognitive trait anxiety is dominant over somatic trait anxiety at the baseline and vice versa. The statistical method of Multilevel Modeling (MLM) was used to analyze the longitudinal data. Expected aptitude-treatment interaction was not supported, while significant beneficial effects of overall meditation programs were present. However, post hoc analyses revealed that previous meditation experience was a higher-order moderator differentiating the results. The interaction hypotheses were supported within the non-meditator subgroup, but not within the meditator subgroup. For individuals with previous meditation experience, two meditation programs had no difference in reducing both cognitive and somatic trait anxiety regardless of the baseline measures of both types of anxiety. With regard to the post hoc findings, implications of characteristics of the two meditation programs and attitudinal aspects of meditation practice are discussed.

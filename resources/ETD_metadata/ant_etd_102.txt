@@ -1,0 +1,11 @@
+$TITLE:
+Estate by Estate: The Landscape of the 1733 St. Jan Slave Rebellion
+
+$DEPARTMENT:
+Anthropology
+
+$KEYWORDS:
+Caribbean, GIS, Historical Archaeology, Landscape, Rebellion, Slavery
+
+$ABSTRACT:
+This historical archaeological investigation looks at the 1733 St. Jan Slave Rebellion in the Danish West Indies. This rebellion, which lasted for eight months, was approached via "Archaeology of Event" and was investigated using the archaeological survey, historical documentary analysis, and Geographic Information Systems. Among the topics discussed are the conditions for rebellion, the social structure of the island in the years leading up to the event, how the built environment reflected this social structure, and the consequences of rebellion for the island.

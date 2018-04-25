@@ -1,0 +1,11 @@
+$TITLE:
+Characterization of lead zirconate titanate thin films by atomic force microscopy
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+atomic force microscopy, Lead Zirconate Titanate (PZT) films
+
+$ABSTRACT:
+The present study employed an Atomic Force Microscope (AFM) for the characterization of ferroelectric Lead Zirconate Titanate (PZT) films. Friction force and z-modulation measurements, performed by AFM in the contact mode, showed regions which had properties different from the rest of the film. These regions in the nanometer scale suggested that the friction coefficient was different due to domain orientation of the grains.Piezoelectric coefficients of the ferroelectric film was measured by the AFM. The determined piezoelectric loops provided information of saturation and coercive voltages (which agreed well with values measured in the macroscopic scale). The areas of piezoelectric interaction were measured in this study. A study of the piezoelectric coefficient as a function of applied stress was also performed. The piezoelectric coefficient decreased monotonically with increasing stress; with decreasing stress hysteresis was not observed.Polarization loops of the ferroelectric film were obtained by using the AFM in the non-contact mode. The remanent polarization was assessed and the saturation voltage was found to agree with the determined macroscopic values. From point measurements, the polarization area was calculated. Good agreement was obtained with experimental results. Polarization measurements were performed in the nano-sized region. It was found that the first harmonic signal was grain dependent, suggesting that domain orientation affects the surface potential.Capacitance between the AFM tip and the bottom electrode of the thin film system was calculated by point spectroscopy. This capacitance could then be measured in a given region of the film. From the capacitance, the dielectric constant of the film was assessed in the nanometer range. The capacitance and hence the dielectric constant of the ferroelectric film were both found to be grain dependent.

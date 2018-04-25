@@ -1,0 +1,11 @@
+$TITLE:
+A Comparison of Descriptive and Injunctive Norms Brief Interventions for College Drinkers
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+alcohol use, brief intervention, college students, descriptive norms, injunctive norms, path analysis
+
+$ABSTRACT:
+College drinking remains a major public health concern. One contributing factor is the overestimation by college students of their peers' alcohol use (DN: descriptive norm) and their peers' acceptability of excessive drinking (IN: injunctive norm). Normative re-education interventions have traditionally focused on changing descriptive norms even though the Theory of Normative Conduct identifies both DN and IN as beliefs that motivate behavior. The current study developed a brief, manualized, personalized, IN intervention, delivered face-to-face, in a Motivational Interviewing style that can be used as a stand alone treatment or added to existing descriptive norms interventions. This randomized controlled trial compared the efficacy of the newly developed IN intervention against a DN only condition, a combined DN and IN condition, and an assessment only control condition. In addition, the current study examined actual-ideal discrepancy, and positive and negative affect as potential mechanisms of behavior change following norms feedback. The results indicated that all three norms intervention conditions changed both DN and IN equally. In addition, heavy drinking students reported greater reductions in drinking following the IN only or the combined intervention then heavy drinking students in the DN only condition. Tests of indirect effects from treatment condition to actual-ideal discrepancy to positive or negative affect to alcohol use and consequences were only significant for light drinkers. This study provides evidence that changes in DN and IN result from either form of feedback, and that these changes do not necessarily result in changes in drinking. Further, changes in actual-ideal discrepancy were highly associated with affective changes, but affective changes were not associated with outcomes.

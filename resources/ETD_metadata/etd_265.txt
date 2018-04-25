@@ -1,0 +1,11 @@
+$TITLE:
+Design and Fabrication of Multicomponent Heterostructured Nanoparticles
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+The design and fabrication of sophisticated nanoparticle (NP) architectures are of increased desire as potential applications of these materials expand. In this dissertation research, I focus on designing and synthesizing heterostructured NPs, with complex morphology and tunable composition. Chapter 2 focuses on the synthesis of dumbbell NPs. I was able to make Au/Pd-Ag NPs, which are comprised of an Au core, and a Pd shell, where the addition of a third metal, Ag, yielded the epitaxial growth of Ag on one side of Au/Pd NP. Results suggest that with increased shell layers (n) of Ag, deposition occurs in a sub-monolayer fashion forming small-detached islands on the surface of the Au/Pd. By increasing n, these small islands eventually coalesce into one primary domain that resides asymmetrically with respect to the Au/Pd core. Chapter 3 uses the Au/Pd-Ag NPs as nano templates, where through the use of galvanic exchange, the composition of the heterostructure can be tuned to Au/Pd-Pt, Au/Pd-Au, or Au/Pd-Pd. More importantly, the finalized NPs all exhibited personalized morphology, of core/shell-hollow Au/Pd-Pt, core/shell-parachute Au/Pd-Au, and core/shell-uniform Au/Pd-Pd NPs. The respective systems were tested for catalytic activity, where Au/Pd-Pt nanoparticles exhibited superior catalytic activity towards methanol oxidation compared to its neighboring systems and a Pt/C standard. Finally, Chapter 5 discusses the work of catalytically active Au/Pt NPs, where modifications in the Pt morphology resulted in core/shell Au/Pt NPs or porous Au/Pt dumbbell NPs respectively. Catalytic comparison between the two systems demonstrated the higher catalytic activity of the porous Au/Pt dumbbell NP.

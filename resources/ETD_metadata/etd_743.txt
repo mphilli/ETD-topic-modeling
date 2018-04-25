@@ -1,0 +1,11 @@
+$TITLE:
+Linking descriptive assessment to functional analysis and treatment of transition-related problem behavior
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+functional behavior assessment, problem behavior, transitions
+
+$ABSTRACT:
+Activity transitions are difficult for many children with developmental disabilities, leading to problem behavior and decreased instructional time in schools. Assessing the function of transition-related problem behavior, especially in the school setting, requires special attention. Functional analysis methodology has been employed and can demonstrate functional relations. However, functional analyses may not always capture the naturally occurring contingencies or detect idiosyncratic variables. Thus, the current study examined the concurrent validity and treatment utility of assessing transition-related problem behavior descriptively. Two boys with autism (8 and 11-years-old) and one boy with Down syndrome (6-years-old) participated. All sessions were conducted at an outpatient behavior analysis clinic. Descriptive assessments occurred during natural transitions with caregivers and results were used to design functional analysis test conditions that mimicked the components of the natural transitions. Based on the outcomes from the descriptive assessments and functional analyses, function-matched interventions were developed and evaluated in a reversal deign for each child. Treatment consisted of signaling reinforcement in the post-transition activity and differentially reinforcing independent transitions in the absence of problem behavior. In general, outcomes from the functional analyses confirmed that the variables identified in the descriptive assessment were functionally related to each child’s problem behavior. Additionally, function-matched interventions were effective at reducing problem behavior for all children. The benefits of assessing transition-related problem behavior both descriptively and experimentally are discussed.Keywords: transitions, problem behavior, functional behavior assessment

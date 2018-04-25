@@ -1,0 +1,11 @@
+$TITLE:
+Investigating the unique occurrence of polytypism and the role of available shell precursors in the growth of giant shell quantum dots
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+giant quantum dots, polytypism, wurtzite, zinc blende
+
+$ABSTRACT:
+Researchers have epitaxially grown thick inorganic shells on the surface of quantum dots (QDs) cores to improve quantum yields, increase photostability and suppress fluorescence intermittency (blinking) in ‘giant quantum dots’ (gQDs). These unique properties make gQDs excellent candidates for applications in lasers, single molecular probes and solid state LEDs. Although a growing wealth of knowledge exists for the photophysical properties of the gQDs, limited research has been directed towards understanding the synthetic intricacies and crystal growth. In this dissertation work I present a detailed study of the growth of CdSe/CdZnS multishell gQDs and focus on crystallographic and morphological evolution. I studied the effect of core crystalstructure and shell growth was performed on crystallographically disparate (W, wurtzite and ZB, zinc blende) CdSe cores under identical synthetic conditions. My work revealed that while shell growth transitioned to W type growth in both cases, occurrence of unique W-ZB mixed crystallinity (polytypism) was significant and might result in the final gQDs as a consequence of the ligands and reaction conditions involved in the traditional synthesis. Next, I investigated the influence of the shell anion precursor concentrations on gQD growth employing identical W cores, by altering the mode of addition and three different sources of sulfur. Experimental results indicated that delicate interplay of crystal structure preference and ligands involved in the synthesis resulted in varied morphologies (rod, tripodal, trigonal and polyhedral) and crystal structures (W, ZB, W-ZB and ZB respectively) of gQDs in each of the syntheses.

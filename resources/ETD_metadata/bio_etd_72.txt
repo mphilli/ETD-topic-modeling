@@ -1,0 +1,11 @@
+$TITLE:
+Sophisticated regulation of histone H3 lysine 9 dimethylation accumulation during meiosis in Caenorhabditis elegans
+
+$DEPARTMENT:
+Biology
+
+$KEYWORDS:
+Unpaired chromatin, Meiotic silencing, Caenorhabditis elegans, Histone H3 lysine 9 dimethylation, Meiosis
+
+$ABSTRACT:
+Meiotic silencing of unpaired chromatin (MSUC) is a process that has been proposed to play an essential role in defending against genetic parasites and maintaining gamete quality during sexual reproduction. Our lab uses the model organism, Caenorhabditis elegans,  to study this phenomenon. In C. elegans, MSUC is thought to limit transcription of unpaired chromatin by labeling it with a silencing epigenetic marker, histone H3 lysine 9 dimethylation (H3K9me2), and inducing heterochromatin formation. A germline specific RNA-directed RNA polymerase (RdRP), EGO-1, has been shown to be required for the accumulation of H3K9me2. This study, along with the research of several other labs, has also revealed additional regulators that affect the H3K9me2 pattern during meiosis. Two of them function in small RNA pathways: RNA Helicase A (RHA-1), and another RdRP (RRF-3). These results strongly suggest a connection between the small RNAs and MSUC.In this study, I discovered five genes that are involved in regulating the H3K9me2 accumulation pattern during MSUC. Specifically, removal of CSR-1, DRH-3 and EKL-1 function causes an abnormally high level of H3K9me2 on paired chromatin; removal of SIN-3 function leads to absence of H3K9me2 on unpaired chromatin regions that may be highly histone-acetylated; removal of ERI-1 function delays removal of H3K9me2 from developing sperm cells, suggesting that ERI-1, like RRF-3, is a negative regulator of MSUC. The majority of my dissertation focuses on studying the functions of CSR-1, DRH-3 and EKL-1. My results suggest that CSR-1, DRH-3, EKL-1, and EGO-1 may represent a functional pathway in MSUC. I also provide additional information about the functions of SIN-3, HIM-17, RHA-1 and ERI-1. Based on these results, alternative models of the H3K9me2 modification pathway in C. elegans are described.

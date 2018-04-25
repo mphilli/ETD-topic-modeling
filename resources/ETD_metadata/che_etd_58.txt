@@ -1,0 +1,11 @@
+$TITLE:
+Role of conserved arginine in solar energy conversion: Infrared spectroscopy of bacteriorhodopsin, proteorhodopsin, and model compounds
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Conserved arginine, Solar energy, Bacteriorhodopsin, Proteorhodopsin
+
+$ABSTRACT:
+Time-resolved Fourier transform infrared (FT-IR) difference spectroscopy has been used to investigate the photocycles of two membrane proteins, bacteriorhodopsin and proteorhodopsin, that serve as light-driven H +  pumps. In the initial studies presented, two programs important for time-resolved FT-IR experiments are described. The first program divides automatically a 9-hour time-resolved FT-IR measurement into any specified sub-measurements; while the second global multi-exponential fit program can extract intermediate spectra and their time constants from time-resolved FT-IR spectra. Further studies have concentrated on understanding the molecular mechanisms of active H  +  transport in these systems. A characteristic positive band at 1556 cm -1  in the bR[arrow right]M difference spectra, which shows isotopic downshift and pH dependence, is assigned to arg-82 in M; making it likely that arg-82 itself functions as the fast H +  -release group in bacteriorhodopsin. Time-resolved FT-IR spectra of proteorhodopsin under conditions that allow so-called fast H +  -release suggest that the released H +  cannot originate from the Schiff base or asp-97. Since pR lacks homologs of residues glu-194/-204 of bacteriorhodopsin, the highly conserved arg-94 (analog of arg-82 in bacteriorhodopsin) is the strongest candidate for the fast H +  -release group in proteorhodopsin. In the last chapter, the vibrational spectra of arg-82 side chain in the M state of bR (arg-94 for pR) is modeled by a deprotonated alkylguanidine group in a nonpolar solvent; and the deprotonated arg-82 at physiological pH is modeled as being stabilized by an indirect H-bond with tyr-83 (tyr-95 for pR).

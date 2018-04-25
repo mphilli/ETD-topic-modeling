@@ -1,0 +1,11 @@
+$TITLE:
+Methodologies for designing video servers
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+VCR, Quality of service, Video servers
+
+$ABSTRACT:
+This dissertation addresses the issues of designing a video server with the capability of supporting a variety of VCR operations. A number of issues make the design of a video server difficult. First, a video server should simultaneously provide video services to multiple clients and guarantee the quality of service for each client. Second, a video server should manage system resources, including CPU/disk/memory, and schedule network activity so as to maximally utilize resources while not overloading the system. Finally, a video server should be able to support a variety of VCR operations such as playback, fast-forward, slow-forward, pause, resume, indexing, and scrolling. Furthermore, a user watching a video should be able to change from one service to another--for example, from playback to fast-forward or from playback to slow-forward. A video server should support these dynamic service changes while efficiently utilizing system resources. This dissertation proposes a scaleable approach for integrating CPU/disk/network scheduling and memory management into a single framework under which we can systematically manage system resources and optimize individual resources. To achieve this objective, we have developed a number of techniques and modeling methodologies for analyzing the behaviors of disk accesses, network operations, and CPU activities under the loads of both single client and multiple simultaneous clients, as well as the behaviors of interactions (or interferences) between disk accesses and network operations. We also present a way to utilize information about all the system resources in our admission control strategy in order to determine if a set of video services is acceptable. The proposed hierarchical relationship of service, transaction, and session, together with a finite state machine model, allows us to support efficiently a wide range of VCR operations and service changes.

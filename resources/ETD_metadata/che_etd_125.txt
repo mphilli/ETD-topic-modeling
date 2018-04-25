@@ -1,0 +1,11 @@
+$TITLE:
+Curing chemistry-network property-chemorheology relations in bismaleimide resins
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Glass transition temperature, Sol fraction
+
+$ABSTRACT:
+The curing chemistry-network property-chemorheology relations in bismaleimide resins were investigated using different stoichiometric ratios of 1,1$\sp\prime$-(methylenedi-4,1-phenylene)bismaleimide (BMI) and 4,4$\sp\prime$-methylenedianiline (MDA). The resin cure involved a low temperature primary amine addition to the maleimide double bonds and a high temperature homopolymerization of the maleimide double bonds.The kinetics of the amine addition and the homopolymerization reactions were determined using Fourier Transform Infrared (FTIR) Spectroscopy. The nucleophilic addition of the primary amines to the maleimide double bonds occurred by a second-order reaction and was at least two orders of magnitude faster than the homopolymerization reaction, which occurred by a multistep mechanism involving thermal initiation of chain growth followed by chain propagation.The glass transition temperatures, the sol fractions, the dynamic mechanical moduli, and the viscosities of different stoichiometric amounts of BMI to MDA were determined using DSC, solvent extraction studies, and dynamic oscillatory and steady shear rheological analyses. A model relating the glass transition temperature to the extents of the amine addition and the homopolymerization reactions was developed, and was verified using experimental data for the 1:1 and the 2:1 BMI:MDA.The complex viscosity of the resin was related to the curing chemistry using WLF-type viscosity models, and a model was proposed to relate the steady shear viscosity to the average molecular weight of the resin. The use of the sol fraction data, the dynamic mechanical moduli, and the steady shear viscosity profiles to detect the onset of gelation was examined. Crossover of the loss and storage moduli (i.e., G$\sp\prime$ = G$\sp{\prime\prime}$) in 1:1 BMI:MDA occurred when the homopolymerization reaction was initiated in the resin, and also corresponded to the onset of resin gelation. The times required for the onset of gelation, measured from the solvent extraction studies, were in agreement with those determined from the steady shear viscosity profiles.

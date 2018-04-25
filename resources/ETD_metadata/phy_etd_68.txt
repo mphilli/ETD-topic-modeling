@@ -1,0 +1,11 @@
+$TITLE:
+Analyzing Regge calculus as a tool in numerical relativity
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Astronomy, Astrophysics, Computer science, Physics
+
+$ABSTRACT:
+The Regge calculus is analyzed for its usefulness as a tool in numerical relativity. First, the general formalism for studying discretizations used in solving hyperbolic problems (problems admitting propagating wave solutions) is presented as a skeleton for the analysis. Then, the Regge calculus is presented, including all relevant formulae for implementing a general purpose Regge calculus code. The consistency of the Regge calculus is studied. It is found, both analytically and numerically, that Regge calculus does not pass the "consistency criterion," this criterion being an assumption of general purpose theorems guaranteeing the convergence of numerical solutions to solutions of the continuum theory. A toy model (a finite element discretization of the wave equation in 1+1 dimensions) that does not pass this consistency criterion is presented, and is shown to produce numerical results that converge to the solution of the continuum equations, thus showing that satisfying the consistency criterion is not a necessary condition for convergence. Still, it is not clear what to expect in the way of stability from a full 3+1 Regge calculus evolution. A step towards investigating the stability properties of Regge calculus evolution is taken in the study of linearized Regge calculus. Evolution of linear plane gravitational waves on a flat background is studied. An unexpected number of degeneracies in the Regge equations is found. However, a simple way of dealing with these extra degeneracies is presented, and the ensuing evolution of plane wave initial data converges to the analytic solution of the linearized Einstein equations. The number of degeneracies revert back to the expected number when the grid is unstructured with respect to the flat background. However, evolution in this case is unstable. I conclude the thesis with stating what I believe to be the status of Regge calculus as a tool in practical numerical relativity.

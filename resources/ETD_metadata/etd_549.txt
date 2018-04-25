@@ -1,0 +1,11 @@
+$TITLE:
+Statistical Mechanical Treatments of the Optical Properties of Cadmium Selenide Quantum Dots
+
+$DEPARTMENT:
+Biomedical and Chemical Engineering
+
+$KEYWORDS:
+Cadmium Selenide, ensembles, normal mode analysis, optical properties, Quantum dots, states
+
+$ABSTRACT:
+Semiconductors that exist in the nanoscale are referred to as Quantum Dots (QDs). This distinction is made because in the nanoscale, semiconductors behave much differently compared to their bulk counterparts. QDs possess band gaps that change based on their size and this unique property enables them to emit different colors, rendering them useful in a number of applications. QDs are widely used in LED technology and are becoming commonplace in biological applications involving in-vivo imaging. Efforts have gone into making QDs viable for photovoltaic applications as well. Although a lot is understood about the effects of size and shape on the optical properties of quantum dots, little is known about the extent to which these properties change when the geometry of a QD is perturbed very slightly. The objective of this research is to quantify the changes in the band gap when an ensemble of a QD structure is considered. These changes are of interest because any system at equilibrium over time will experience a multitude of slightly differing structural configurations brought on by their states. This research is split into two parts – this thesis describes the side of the research that focuses on generating a population of states required for study and the other aspect involves conducting rigorous quantum calculations on the states to establish the band gap. Molecular Dynamics (MD) simulations were utilized to generate a population of states of CdSe QD clusters of various sizes at three different temperatures. Quantum calculations on these states showed that for an equilibrated 64 atom cluster at 300 K, the band gap exists mostly between 0.10 to 0.26 hartrees and exhibits a periodicity within this boundary.

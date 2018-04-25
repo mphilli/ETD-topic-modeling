@@ -1,0 +1,11 @@
+$TITLE:
+Essays on measurement error, nonstationary panels and nonparametrics econometrics
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Panel data, Measurement error, Nonstationary, Nonparametrics, Nonstationary panels, Econometrics
+
+$ABSTRACT:
+My dissertation consists three independent chapters. The first chapter studies the asymptotic properties of standard panel data estimators in a simple panel regression model with random error component disturbances. Both the regressor and the remainder disturbance term are assumed to be autoregressive and possibly non-stationary. Ordinary least squares (OLS), fixed effects (FE), first-difference (FD), and generalized least squares (GLS) estimators are shown to have asymptotic normal distributions and have different convergence rates dependent on the non-stationarity of the regressors and the remainder disturbances.  The second chapter extends Robinson's (1988) partially linear estimator to admit the mix of datatypes typically encountered by applied researchers, namely, categorical (nominal and ordinal) and continuous. We employ Racine and Li's (2004) mixed data kernel method, and extend this so that a mix of continuous and/or categorical variables can appear in the nonparametric part. The coefficient estimator appearing in the linear part is shown to be [Special characters omitted.] -consistent.  The third chapter examines measurement errors contained in hourly and weekly earnings reported or calculated in the Outgoing Rotation Group of Current Population Survey (CPS) and March Supplementary Survey from 1998 to 2004. The findings suggest that weekly earnings contain less errors than hourly wages, and that the Outgoing Rotation Group contains less errors than the March Supplementary CPS. The chapter also finds that the errors in the Outgoing Rotation Group and the March Supplementary CPS are not normally distributed nor independent of respondents' demographic characteristics.

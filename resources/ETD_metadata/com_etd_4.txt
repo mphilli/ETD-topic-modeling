@@ -1,0 +1,11 @@
+$TITLE:
+Testing the hardwired for news theory of media surveillance
+
+$DEPARTMENT:
+Mass Communications
+
+$KEYWORDS:
+Media surveillance, Evolution, Terror management theory, Amygdala, News, Surveillance
+
+$ABSTRACT:
+The human animal has a basic need to survey its environment. In modern times, this need is expressed through the news surveillance function. Scholars have proposed that this surveillance function is "hardwired" through the mechanism of natural selection, subject to culturally determined modes of expression. Indirect evidence for this is found in the tendency of the news media to cover negative and deviant events, varying slightly within specific cultures. This research examines this hardwiring at a more literal level, taking advantage of recent advances in neuroscience to identify the role biological evolution plays in the decision to attend to and process news information. A neurophysiological model of evolution-derived surveillance behavior is proposed and a hypothesis based on that model is derived, using the specific case of hurricanes as a news event to test this hypothesis. Limited support for the hypothesis is found, suggesting specific further studies which should be done to confirm the validity of the model and strengthen the theory.

@@ -1,0 +1,11 @@
+$TITLE:
+Influences to Post-graduation Career Aspirations and Attainment in STEM Doctoral Candidates and Recipients
+
+$DEPARTMENT:
+Science Teaching
+
+$KEYWORDS:
+Career Aspirations, Career Attianment, Doctoral Recipients, Socialization, STEM
+
+$ABSTRACT:
+As the realities of the academic job market have forced some PhD recipients to accept less-preferable position types, there has been increasing concerns that these students are not prepared for their careers, especially in STEM fields. However, aside from the labor market, few studies have explored the influences on career aspiration and attainment among doctoral degree holders. This study utilized the socialization theory framework to identify aspects of the doctoral education process that are predictive of the likelihood of certain career aspirations among science and engineering doctoral candidates and career attainment among STEM doctoral recipients by utilizing nationally representative datasets: The National Research Council's Assessment of Research Doctorate Programs student questionnaire and the National Science Foundation's Survey of Earned Doctorates. This study identified field of study, research productivity rank of doctoral programs, primary type of finding doctoral students received, level of satisfaction with research experiences, and their sense of belonging within their doctoral program as factors that predict the likelihood of certain career aspirations compared with a career in education. Doctoral candidates' background characteristics that were significant predictors of career aspirations were gender, marital status, dependent status, race, age, and citizenship status. Further, this study identified participant's field of study, the Carnegie Rank of institutions attended, primary type of funding received, length of time to PhD, gender, marital status, dependent status, race, citizenship stats, and age as factors that predict the likelihood of the career outcomes investigated in this study, including doctoral recipients' employment field and primary work activity.

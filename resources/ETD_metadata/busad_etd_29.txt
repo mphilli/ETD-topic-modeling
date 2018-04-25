@@ -1,0 +1,11 @@
+$TITLE:
+The effects of heterogeneous and discontinuous ownership and options compensation on managerial behavior: An extension of agency theory
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+Ownership, Options compensation, Managerial behavior, Agency theory, Corporate governance
+
+$ABSTRACT:
+Agency theory is the most popular framework used in governance and compensation research. However, it has been criticized for its rigid and over simplistic assumptions. Research has also shown that agency assumptions do not hold under all conditions. In this research, I test a model that addresses some of the concerns raised about the traditional agency theory. I integrate research from management, finance and accounting.This study differs from past research based on agency theory. The vast majority of previous research using agency theory has used a unitary and static concept of the principal. This stream of research has failed to acknowledge the possibility of differences in principal risk preferences based on different investment approaches. In this study I investigate the effects of differences in principal characteristics on managerial behavior. I also investigate whether the incentive alignment tools used by principals have unintended consequences due to wealth accumulation effects.I use the decisions made by the managers that have the possibility of an agency conflict to test the models. There is mixed support for the models. Share repurchase and dividend decisions are negatively related to ownership concentration. Surprisingly the strategic decisions (R&D; and Capital Expenditure) are not significant. The results highlight the importance of the length of the relationship more so then the size of ownership. These results do highlight the need for further investigation of principal characteristics on agent behavior.

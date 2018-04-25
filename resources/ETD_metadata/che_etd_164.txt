@@ -1,0 +1,11 @@
+$TITLE:
+Non-Classical Directive Influences in Addition Reactions
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Chemistry, organic
+
+$ABSTRACT:
+A study about reactions in organic chemistry.

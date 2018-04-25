@@ -1,0 +1,11 @@
+$TITLE:
+A Predictive Model Of Human Relevance Decisions
+
+$DEPARTMENT:
+Mass Communications
+
+$KEYWORDS:
+Computer science, models of psychological processes,  Relevance Decision Model (REM)
+
+$ABSTRACT:
+This work investigates a newly developed but unvalidated model of the interrelated classes of decisions the receiver of a communication makes in relation to the data he/she receives. The model studies the receiver from a psychological viewpoint, emphasizing the decision-making judgmenets made internally by the individual.--Introduction.

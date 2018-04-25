@@ -1,0 +1,11 @@
+$TITLE:
+Noncognitive Variables to Predict Academic Success Among Junior Year Baccalaureate Nursing Students
+
+$DEPARTMENT:
+Higher Education
+
+$KEYWORDS:
+grit, noncognitive variables, nursing students, persistence, regression, student success
+
+$ABSTRACT:
+An equitable predictor of academic success is needed as nursing education strives toward comprehensive preparation of diverse nursing students. The purpose of this study was to discover how Sedlacek’s (2004a) Noncognitive Questionnaire (NCQ) and Duckworth & Quinn’s (2009) Grit-S predicted baccalaureate nursing student academic performance and persistence in the junior year, when considered in conjunction with academic variables such as previous college GPAs and the SAT.  Three cohorts of junior year nursing students (N= 150) answered the survey, and their academic records were combed for previous college GPAs and SAT scores.  After the junior academic year, these variables were regressed on junior year student grade point averages and persistence in the major (dependent variables) to determine predictors of academic success among this student group.  Findings indicated that previous college GPAs were the most predictive of junior year success.  These results impact the practice of nursing education in several ways, and lead to suggestions for further research.

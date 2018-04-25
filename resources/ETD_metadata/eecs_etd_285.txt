@@ -1,0 +1,11 @@
+$TITLE:
+Unified implementation of fuzzy rule based control using self-organizing map neural network
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Neuro Fuzzy Network (NFN), self-organizing map neural network
+
+$ABSTRACT:
+This dissertation presents a new approach to the control of nonlinear dynamic systems with applications to chemical plant operation and robot manipulator control.A novel neural network and fuzzy logic based modeling and control architecture, called Neuro Fuzzy Network (NFN), is proposed. The NFN combines the learning capabilities of a Self Organizing Map (SOM) neural network and the inferencing techniques of fuzzy logic control. The NFN is utilized to obtain a fuzzy rule based inverse model of a nonlinear system from the system's input output data. The NFN learns in a single pass of the training data. An example of a chemical plant operation is used to show the one pass learning and modeling capabilities of NFN through simulation.The trained NFN can be combined with a feedback controller to obtain an inverse model based control scheme for the nonlinear system. A gradient descent based learning scheme is proposed to complement the initial unsupervised learning for on-line adaptation to changes in system parameters and external disturbances.The proposed online learning and control architecture is simulated and tested for trajectory following tasks of a two link robot manipulator. A satisfactory NFN based model of the manipulator is obtained in a single pass of the training data. The NFN based controller is then tested for its adaptation to sudden changes in the manipulator dynamics and shown to perform well under disturbances of parametric variations. The simulation tests clearly demonstrate the efficient use of the proposed controller architecture for tracking control problems.

@@ -1,0 +1,11 @@
+$TITLE:
+Children's construction of emotion inferences during discourse: The role of language ability
+
+$DEPARTMENT:
+Communication Sciences and Disorders
+
+$KEYWORDS:
+Children, Emotion, Discourse, Language ability
+
+$ABSTRACT:
+The ability of a listener to infer emotions quickly and accurately is essential in the comprehension of daily social discourse. The current study investigated the time course in which children with typical language development (TL) and children with language impairment (LI) make emotion inferences necessary for comprehension. In this study, 16 children with LI and 16 children with TL, between the ages of 4;6 and 5;7, watched a series of short animated stories on a computer. Each story was designed to activate knowledge about a specific emotional state. Immediately following each story, a line drawn facial expression appeared on the computer screen, and children were asked to label the expression as quickly as possible. For half of the stories, the facial expression matched the associated emotion; for the remaining half, the facial expression did not match the associated emotion. As a group, children with TL made emotion state inferences during the comprehension process; their response times were shorter in the matched condition than the mismatched condition. There were no differences between the conditions (matched vs. mismatched) for the children with LI, indicating that as a group, they had not made emotion inferences during the comprehension process.A series of experimental tasks examined children's emotion word knowledge and response time abilities in order to determine the relation of these variables to inferencing ability. In addition, teachers completed a social skills questionnaire for each child in order to examine the relationship between inferencing ability and social competence. Exploration of children's ability to make emotion state inferences and the difficulties that children with LI experience in making these inferences provide a better understanding of the processes involved in discourse comprehension and social skill development.

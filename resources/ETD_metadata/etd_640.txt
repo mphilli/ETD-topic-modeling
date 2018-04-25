@@ -1,0 +1,11 @@
+$TITLE:
+Observation of J/psi p resonances consistent with pentaquark states in Lambda_b^0 to J/psi K^- p decays
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Hadrons, LHC, LHCb, Pentaquarks
+
+$ABSTRACT:
+The observation of structures consistent with charmonium-pentaquark states decaying to $J/\psi p$ in $\Lambda_b^0 \rightarrow J/\psi K^- p$ decays is presented. The data sample analyzed corresponds to an integrated luminosity of 3 $fb^{-1}$ acquired with the LHCb detector from 7 and 8 TeV $pp$ collisions. An amplitude analysis was performed which utilized all six kinematic degrees of freedom in the decay. It was shown that adequate descriptions of the data are unattainable with only $K^- p$ resonances in the amplitude model. For satisfactory fits of the data, it was found to be necessary to include two $J/\psi p$ resonances, with each having significances of over 9 standard deviations. One has a mass of $4449.8\pm1.7\pm2.2$ MeV and a width of $39\pm5\pm16$ MeV, while the second is broader, with a mass of $4380\pm8\pm29$ MeV and a width of $205\pm18\pm87$ MeV. The $J^P$ assignments could not be uniquely determined, though there is a preference for one to have spin $3/2$ and the other spin $5/2$ with an opposite parity to the first. The data sample was also inspected in a model-independent way for the presence of $J/\psi p$ or $J/\psi K^-$ contributions. It was demonstrated at more than 9 standard deviations that the data cannot be described with $K^- p$ contributions alone, and that $J/\psi p$ contributions play a dominant role in this incompatibility. These model-independent results support the model-dependent evidence for $P_c^+\rightarrow J/\psi p$ charmonium-pentaquark states provided by the amplitude analysis.

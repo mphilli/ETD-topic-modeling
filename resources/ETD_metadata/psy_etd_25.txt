@@ -1,0 +1,11 @@
+$TITLE:
+Parenting variables associated with childhood anxiety: Parental warmth as a moderator of overly controlling parenting
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Parenting, Childhood anxiety, Warmth, Overly controlling, Anxiety
+
+$ABSTRACT:
+Parental control and warmth are two variables that figure prominently in the literature on childrearing and childhood anxiety. Overly controlling behaviors and attitudes exhibited by parents are related to negative states, anxious symptomatology, and clinical anxiety. Attachment theory suggests that parental warmth may serve as a protective factor against the negative outcomes related to controlling parenting. Sixty-eight families, with an 8 to 11 year-old child attending an elementary school in the Northeast, participated in the current study which focused on the viability of parental warmth as a moderator between parental control and child anxiety. As measured by the Five Minute Speech Sample (FMSS; Magana, Goldstein, Karno, & Miklowitz, 1986), it was predicted that parental warmth acts as a protective factor within families characterized by high control, measured by the Egna Minuen Betraffande Uppfostram "My memories of upbringing" (EMBU; Castro, Toro, van der Ende, & Arrindell, 1993). Multiple regressions were constructed to assess the viability of parental warmth as a moderator variable. Maternal warmth significantly moderated the relationship between mother report of maternal control and child anxiety. Graphical representations of each significant interaction were created and it was found that in cases of high maternal control, maternal warmth acted as a protective factor and minimized child anxiety. These findings lend support to established theories (Chorpita & Barlow, 1998; Krohne & Hock, 1991), that parental warmth is particularly important in environments characterized by high control acting as a protective factor and reducing child anxiety. Interpretations based on father data were limited given low paternal participation.

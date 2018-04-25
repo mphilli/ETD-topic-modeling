@@ -1,0 +1,11 @@
+$TITLE:
+Deposition of zinc oxide thin film using a low-pressure ion-bombardment sputtering technique
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Zinc oxide, thin films, Electrical engineering
+
+$ABSTRACT:
+Zinc oxide as a non-ferroelectric material has a strong piezoelectric effect. Such material deposited in form of thin film finds considerable application in the field of surface acoustic wave devices as the piezoelectric film layer. The use of ZnO thin films for this type of application requires that they possess the basic characteristic of high electrical resistivity and an oriented crystalline structure. These properties are very sensitive to the deposition process employed. Most ZnO thin films reported so far are mainly polycrystalline and some have rather high electrical conductivity. Unfortunately, conductivity diminishes piezoelectricity.This work primarily addresses ZnO thin film deposition procedure using a low-pressure Ion-bombardment sputtering technique, and characterizing both the physical and electrical properties of the resulting films. The data obtained from this characterization are used to adjust the deposition parameters appropriately to obtain high quality ZnO films. Some of these parameters which are given critical consideration in this investigation are the acceleration voltage, the sputtering pressure, sputtering gas composition, and the substrate temperature. The effect of these parameters on the microstructure and electrical properties of the films are carefully examined.Our results indicate a deposition condition which produces ZnO films that are single crystal in general, with good microstructural and chemical properties.The effects of post-deposition thermal treatment on the films have also been carefully investigated. The results show that this process improves the stoichiometry, resistivity, and dielectric constant of the films. Substantial stress relief and reduction in surface contaminations of the films are also shown to have taken place.

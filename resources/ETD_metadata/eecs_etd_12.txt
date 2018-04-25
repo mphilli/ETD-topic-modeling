@@ -1,0 +1,11 @@
+$TITLE:
+Self-organizing adaptive radar space-time adaptive processing
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Adaptive radar, Self-organizing adaptive radar, Space-time adaptive processing
+
+$ABSTRACT:
+For radar on a moving platform, clutter spectrum spreads in the angle (space) domain as well as in Doppler (time) domain. Radar signal processing is done adaptively in both space and time domain to suppress clutter that is called Space-Time Adaptive Processing (STAP). Self-Organizing Adaptive Radar (SOAR) is first proposed by Wang in lecture notes. The sensors of arrays may be developed independently and deployed incrementally, and they may be able to self-organize to form a large array. The objective of this research is to incorporate SOAR with STAP, which is called SOAR-STAP.In this dissertation, the theory of SOAR-STAP and its optimum and sub-optimum solutions are introduced. Then the SOAR concept is applied to a variety of STAP algorithms, which include Sum & Difference Beams STAP ( ΣΔ-STAP) and Direct Data Domain Least Square STAP (D 3 LS-STAP).The main contribution of this dissertation is finding ways to apply the SOAR concept to ΣΔ-STAP and D 3 LS-STAP. At first, a new approach, Adaptive Interference Pre-Suppression ΣΔ-Beamforming for ΣΔ-STAP, is presented. The performance of this approach is evaluated using different jammer scenarios. Then the SOAR concept is applied to a variety of D 3 LS-STAP algorithms, which include Forward Method, Backward Method and Forward-Backward Method. The performance of SOAR-STAP is evaluated by different array setups, which include uniform linear array, non-uniform linear array and non-uniform non-linear array. The advantages of SOAR-STAP include but are not limited to the rate of convergence, computation load, sample support, etc.

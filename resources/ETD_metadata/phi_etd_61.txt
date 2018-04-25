@@ -1,0 +1,11 @@
+$TITLE:
+Personal identity, reductionism and eliminativism
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Personal identity, Reductionism, Eliminativism, Biological approach, Functional arguments, Personwise, Atom arrangement
+
+$ABSTRACT:
+There are no persons; rather, there are atoms arranged personwise. I argue for this eliminativist thesis. Starting from the assumption of materialism, I argue against the psychological approach to personal identity and indicate how a biological approach can handle putative counterexamples far better than typically supposed. I argue that the biological approach is a better account of personal identity.What I call the 'Functional Argument' succeeds against the psychological approach, but it also undermines the biological approach. Thus neither psychological nor biological properties are suitable for providing the persistence conditions of objects, and the Functional Argument undermines the project of giving a reductive account of personal identity.The reasons given for qualifying a thoroughgoing eliminativism by making an exception for persons are inadequate. Arguments for eliminating composite objects, such as statues, also apply to persons. Many of these arguments for exempting persons from eliminativism are based on the suggestion that thinking (or having certain propositional attitudes) requires a single, unified subject. I argue that atoms arranged personwise are capable of thinking and having any propositional attitude that persons would be capable of having. I address the ethical implications of personal identity and argue that the eliminativist, like the reductionist, can account for moral phenomena by appeal to the relation of psychological connectedness.

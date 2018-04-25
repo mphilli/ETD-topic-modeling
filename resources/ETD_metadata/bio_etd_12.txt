@@ -1,0 +1,11 @@
+$TITLE:
+Exploring transcriptional regulators that control emergent behaviors in Myxococcus xanthus
+
+$DEPARTMENT:
+Biology
+
+$KEYWORDS:
+Myxococcus xanthus, Chemotaxis, Development, Self-organization, Emergence
+
+$ABSTRACT:
+A swarm of the δ-proteobacterium Myxococcus xanthus  is a distributed system; a population of superposable automata whose distribution is transparent so that it appears as one machine. These swarms contain millions of cells that act as a collective, exhibiting coordinated movement through a series of signals to create complex, dynamic patterns as a response to environmental cues. These self-organizing patterns are considered emergent, as they cannot be predicted by observing the behavior of the individual cells.Self-organization in M. xanthus is ultimately controlled through gene expression via transcriptional regulators (TRs). We selected to examine the effect of TRs on development, an example of a distinct emergent pattern, and designed new assays to quantify this behavior. We measured the swarm's ability to develop using TR mutant strains and found that mutants previously characterized as producing no disparate phenotype actually did.We identified, characterized, and quantified a second distinct emergent pattern in M. xanthus called chemotaxis. We define chemotaxis as the directed movement of a swarm up a nutrient gradient toward its source. This behavior can only be accomplished when the cells are in a cooperative, multicellular swarm. We have also demonstrated that chemotaxis is under transcriptional control by several members of the highly duplicated NtrC-like family of TRs. The combination of experimental and genetic evidence suggests that chemotaxis evolved after the establishment of the swarm by means of duplication and divergence of multiple signaling pathways.

@@ -1,0 +1,11 @@
+$TITLE:
+Discrete Sparse Fourier Hermite Approximations in High Dimensions
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Fourier Hermite Series, Generalized Fourier Series, Hyperbolic Cross Sparse Index, Multiscale Quadrature, Pseudospectral Approximation, Spectral Approximation
+
+$ABSTRACT:
+In this dissertation, the discrete sparse Fourier Hermite approximation of a function in a specified Hilbert space of arbitrary dimension is defined, and theoretical error bounds of the numerically computed approximation are proven. Computing the Fourier Hermite approximation in high dimensions suffers from the well-known curse of dimensionality. In short, as the ambient dimension increases, the complexity of the problem grows until it is impossible to numerically compute a solution. To circumvent this difficulty, a sparse, hyperbolic cross shaped set, that takes advantage of the natural decaying nature of the Fourier Hermite coefficients, is used to serve as an index set for the approximation. The Fourier Hermite coefficients must be numerically estimated since they are nearly impossible to compute exactly, except in trivial cases. However, care must be taken to compute them numerically, since the integrals involve oscillatory terms. To closely approximate the integrals that appear in the approximated Fourier Hermite coefficients, a multiscale quadrature method is used. This quadrature method is implemented through an algorithm that takes advantage of the natural properties of the Hermite polynomials for fast results.The definitions of the sparse index set and of the quadrature method used will each introduce many interdependent parameters. These parameters give a user many degrees of freedom to tailor the numerical procedure to meet his or her desired speed and accuracy goals. Default guidelines of how to choose these parameters for a general function f that will significantly reduce the computational cost over any naive computational methods without sacrificing accuracy are presented. Additionally, many numerical examples are included to support the complexity and accuracy claims of the proposed algorithm.

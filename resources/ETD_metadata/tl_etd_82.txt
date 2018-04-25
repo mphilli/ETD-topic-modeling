@@ -1,0 +1,11 @@
+$TITLE:
+A study of faculty job satisfaction at Simon Rodriguez University in Venezuela
+
+$DEPARTMENT:
+Teaching and Leadership
+
+$KEYWORDS:
+Faculty, Job satisfaction, Simon Rodriguez University, Venezuela
+
+$ABSTRACT:
+The purpose of this study was to examine faculty job satisfaction at Simon Rodriguez University in Venezuela regarding their main professional functions: (a) teaching, (b) research, and (c) service. One third of the overall faculty population was randomly selected to constitute the sample for this nationwide study of the 20 campuses of Simon Rodriguez University. The response rate was 89% of the sample--370 faculty members. The study not only employed descriptive statistics but also used Pearson correlation, factor analysis, and stepwise multiple regression analysis.The findings indicate that faculty members were satisfied with their teaching function and somewhat satisfied with the research and service functions. Findings of the stepwise multiple regression analysis indicated that there was a moderate relationship between certain personal and professional characteristics of the respondents teaching, research, and service factors. Personal Satisfaction with Teaching and Academic Freedom were the factors that had the highest satisfaction of the study--their means were in the very satisfied interval of the faculty job satisfaction scale.Slightly more than 91% of the faculty members reported that they were satisfied with their jobs as faculty members at Simon Rodriguez University. The academic relationship with students was one of the highest (97.6% of the responses) sources of faculty job satisfaction with teaching. The correlation between the teaching and research functions (r = -.64) suggests that faculty at Simon Rodriguez University view their teaching and research functions as independently and distinctly. Faculty also reported that the service function is not granted much importance by the university and only about 25% of their working time should be invested in it.

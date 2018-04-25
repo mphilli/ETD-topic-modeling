@@ -1,0 +1,11 @@
+$TITLE:
+Implementing an innovation strategy: The effects of strategic leadership compensation, governance, and composition
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+Firm performance, Leadership, Compensation, Governance, Innovation, Composition
+
+$ABSTRACT:
+This research investigates the implication of strategic leadership compensation, governance, and composition on the innovation strategy to firm performance relationship. The top management team (TMT) and board of directors (BOD) share the leadership and decision making responsibilities of an organization. Innovation strategy is becoming a more common vehicle through which firms gain competitive advantage. Innovation strategies along with leadership issues have been examined independently in strategy research. In doing so, previous research has focused only on the direct relationship between innovation and performance or leadership and performance. The present research study attempts to bridge the gap between these two viewpoints and to integrate these research areas by exploring the enabling role of strategic leadership in implementing an innovation strategy.First in order to understand effective implementation, implications of compensation risk and time horizon are considered. The use of different types of compensation (short-term: base, bonus; long-term: options, stock) yields different levels of risk. Aligning strategy and compensation risk assists in enabling effective implementation because some types of compensation serve to ameliorate risk and reduce overall risk. Governance concerns such as CEO duality and proportion of insiders to outsiders are also expected to be related to firm performance because of monitoring and oversight by the BOD. Finally, TMT composition is considered as having the potential to influence the enabling of strategy implementation. Team characteristics, aggregated from individual characteristics, play an important role in actually carrying out strategic decisions. In sum, this research sets out to begin filling the gap in the implementation literature by exploring how strategic leadership compensation package design, governance, and composition enable the implementation of a given strategy and help determine a firm's performance.

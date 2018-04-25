@@ -1,0 +1,11 @@
+$TITLE:
+On the RO(G)-graded equivariant ordinary cohomology of generalized G-cell complexes for G = Z/p
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+G-cell complexes, Equivariant, Cohomology
+
+$ABSTRACT:
+It is well known that the cohomology of a finite CW-complex with cells only in even dimensions is free. The equivariant analog of this result for generalized G -cell complexes is, however, not obvious, since RO ( G )-graded cohomology cannot be computed using cellular chains. We consider G = [Special characters omitted.] / p and study G -spaces that can be built as cell complexes using the unit disks of finite dimensional G -representations as cells. Our main result is that, if X is a G -complex containing only even dimensional representation cells and satisfying certain finite type assumptions, then the RO ( G )-graded equivariant ordinary cohomology is free as a graded module over the cohomology of a point. This extends a result due to Gaunce Lewis about equivariant complex projective spaces with linear [Special characters omitted.] / p actions. Our new result applies more generally to equivariant complex Grassmannians with linear [Special characters omitted.] / p actions.

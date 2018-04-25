@@ -1,0 +1,11 @@
+$TITLE:
+Genesis And Bond Relocation Of The Cyclononatetraenyl Cation And Related Compounds
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Organic chemistry
+
+$ABSTRACT:
+Begins with comments on aromatic versus non-aromatic 4n[pi] systems.

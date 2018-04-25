@@ -1,0 +1,11 @@
+$TITLE:
+The synthesis and Characterization of Novel s-block and Lanthanide Fluoroalkoxides
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Lanthanides, Fluoroalkoxides
+
+$ABSTRACT:
+Examination of the new fluorinated (perfluoro- t  -butoxide) and aryloxide (2-phenylphenolate) species delineates several  factors responsible for their structure and function. Key elements in  the coordination, aggregation behavior, and reactivity of these systems  have been linked to secondary interactions, including M-Cπ, M-Nπ, M-F,  and M-H(agostic) interactions. Further investigations into these often  ignored interactions may provide value information into the  structure-function relationships that could provide an increased  understanding of the reactivity of s-block and lanthanide complexes.This  dissertation is an attempt to investigate some of the significant  secondary interactions [M-F, M-Cπ and M-H(agostic)], gain insight into  methods to quantify them, and determine the structure-functions  relationships of the secondary interactions. Insights were provided by  investigating bond-valence sums as a method to quantify the contribution  toward steric saturation from secondary interactions, the role of the  fluoromethyl group of the perfluoro-  t  -butoxide (PFTB) ligand  as a donor archetype for the M-F interaction, and 2-phenylphenolate  (Ompp) ligand as the prototype to further investigate the significance  of M-Cπ interactions.

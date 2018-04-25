@@ -1,0 +1,11 @@
+$TITLE:
+Network denial-of-service: Classification, detection, protection
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Network, Denial-of-service, Flow control, Internet protocols
+
+$ABSTRACT:
+Denial-of-service (DoS) is one of the major network security threats. While network-DoS (N-DoS) incidents appear in different forms, a large portion of the cases target the vulnerabilities inside Internet protocols and the Internet infrastructure, except for those exploiting flaws in specific applications. The lack of security and reliability in the TCP/IP suite and the Internet infrastructure are the two major factors contributing to the lack of network resource availability--network-DoS. This dissertation analyzes the features and vulnerabilities in the TCP/IP suite, examines insufficiencies of flow control in the Internet infrastructure, and explores defense strategies against N-DoS in Internet-protocol-based networks. First, network DoS is classified into several categories based on protocol types, N-DoS symptom, and senders' intent. Then, for non-flooding type N-DoS attacks, signature-based detection and defense strategies are presented. Protocol vulnerabilities are analyzed. Next, for flooding N-DoS attacks, besides vulnerabilities in Internet protocols, inadequacies in the existing Internet infrastructure are also exposed. Furthermore, a flow-control-based model AFFC (Anti-Flooding Flow-Control) is developed, the main components of which include traffic classification, dynamic buffer management, packet scheduling, and early-traffic-regulation (ETR). The primary traffic regulation policy in the AFFC model is to penalize unresponsive elastic traffic and aggressive best-effort traffic in times of potential N-DoS congestion collapse. The purpose of the ETR is to regulate harmful flows prior to bottleneck nodes in early stages. Finally, Distributed DoS (DDoS) is addressed combining techniques used against classical N-DoS attacks.

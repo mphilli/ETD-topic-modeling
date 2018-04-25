@@ -1,0 +1,11 @@
+$TITLE:
+Teacher planning: a simulation study
+
+$DEPARTMENT:
+Higher Education
+
+$KEYWORDS:
+teacher planning,  teacher education.
+
+$ABSTRACT:
+This study is designed to describe the planning decisions made by elementary teachers before instruction is initiated.  The planning decisions  to be examined are those made by teachers, as they organize reading instruction directed toward 10 children, for varying instructional time periods...

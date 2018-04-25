@@ -1,0 +1,11 @@
+$TITLE:
+World-wide virtual machine: A metacomputing environment integrating World Wide Web and high performance computing and communications technologies
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Virtual machine, Metacomputing, World Wide Web
+
+$ABSTRACT:
+This thesis discusses the major issues in building a metacomputing environment based on World-Wide Web (WWW) and High Performance Computing and Communication (HPCC) technologies and describes the design and implementation of such an environment called World Wide Virtual Machine (WWVM). The presented work helps to carry much of the past decade's work in HPCC technologies to the larger WWW domain.The WWVM exploits the open interfaces brought by Web servers. It extends the servers via Common Gateway Interface (CGI) extensions and uses PVM daemons and low-level protocols such as HTTP, TCP/IP, and UDP/IP in order to combine remote networked computers as a single machine. The WWVM can work in stand-alone, message-passing, and dataflow modes and provides the interoperability of many diverse software and hardware components. The stand-alone mode allows computations to be performed on a remote WWVM server or any other machine coordinated by a server. In the message-passing mode, the WWVM is capable of executing message-passing PVM and MPI programs, and High Performance Fortran (HPF) programs compiled by the Syracuse Fortran 90D/HPF compiler, as well as parallel programs using PCRC or Global Arrays runtime support libraries. In the dataflow mode, WWVM's coordination layer interprets a simple task flow (data-dependency) description language to deduct the dataflow patterns between different WWVM nodes.The WWVM supplies an integrated, Web-based programming environment and gives pervasive access to remote WWVM facilities from any platform (Unix, PC, or Mac) using a standard Web browser. Client-side Web technologies such as HTML, JavaScript, plug-ins, and Java supply a platform-independent graphical user interface and visualization capabilities that include analyzing data output from programs and performance information recorded in Pablo's SDDF format. The associated data wrapper libraries provide real-time, application-specific data display and computational steering capabilities by providing a link between running parallel programs and client-side Java applets.

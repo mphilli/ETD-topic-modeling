@@ -1,0 +1,11 @@
+$TITLE:
+Synthesis of highly functionalized natural products from carbohydrates: Application of the [2,3] Wittig rearrangement and advancement toward nonlinear optical materials
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Carbohydrates, Wittig rearrangement, Natural products, Nonlinear optical
+
+$ABSTRACT:
+A library of [alpha]-alkoxy allylstannyl ether substrates was synthesized to examine the stereochemical outcome of the unstabilized [alpha]-alkoxy allylstannyl ether [2,3] Wittig rearrangement. Well-defined stereoselectivities transpired for the generation of di- and tri-substituted olefins via the [2,3] Wittig rearrangement. Lithiation of [alpha]-alkoxy allylstannyl ethers and subsequent rearrangement produced a mixture of E and Z olefins and the reliability of the unstabilized [2,3] Wittig rearrangement was determined.Upon completion of the unstabilized [2,3] Wittig methodology study, our next project consisted of utilizing carbohydrates, as chiral templates, toward the asymmetric synthesis of natural products. Our ultimate goal was to use this approach to install a Z disubstituted alkene in the target molecule.The partial synthesis of (-)-discodermolide and dictyostatin, a potent immunosuppressive agent against lymphoma and breast carcinoma cells and a cytotoxic agent towards 60 different human cancer cell lines respectively, began with a common carbohydrate precursor methyl-[alpha]-D-glucopyranoside.The preparation of a novel nonlinear optical substrate via molecular engineering of organic materials features a highly conjugated five-membered ring linker fragment. It was postulated that the molecular rigidity of this molecule thereby conformationally locks it into a planar structure thus increasing the [pi]-stacking abilities and NLO properties.

@@ -1,0 +1,11 @@
+$TITLE:
+Rules and more rules: The accessibility of productions in highly trained younger and older adults
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Young adults, Anderson's ACT-R model, Aging, Older adults
+
+$ABSTRACT:
+Under the tenets of Anderson's ACT-R model (Anderson & Lebiere, 1998), an information-processing system is governed by a library of production rules which specify, for a given stimulus configuration, the requisite processing procedure. Access to productions is postulated to be in parallel. We tested this postulate by measuring production selection and execution as a function of the size of the production library (varied from set size 1 to 4), using arithmetic-like rules that operated on digit stimuli. After five sessions of training, the ACT-R prediction was confirmed for most younger and a few older participants: beyond the special case where only one production was active, increases in set size had no further effect on response time. The step increase from size 1 to size >1 was substantial and was represented by an analysis of RT distributions as a shift in all three ex-Gaussian distribution parameters, mu  , sigma  , and tau  . It is suggested that the step size 1 to size >1 reflects either the engagement of processes active in cognitive control or the manifestation of a limited capacity system. The form of the step function can also be characterized in terms of task switch costs (Rogers & Monsell, 1995), in which case there were constant global and local switch costs attached to the maintenance of any production set >1. In older participants, the increase in RT was negatively accelerated and all of the individuals had equivalent RTs for set size >2. The curvilinear form of the older adult function was largely determined by global switch costs and a corresponding shift in the  mu  parameter, which has been implicated in peripheral processing (Balota & Speiler, 1999). Preliminary studies also suggest that in either age group, non-"homogeneous" rule sets may be less well-behaved.

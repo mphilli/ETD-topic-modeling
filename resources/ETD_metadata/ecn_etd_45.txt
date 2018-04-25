@@ -1,0 +1,11 @@
+$TITLE:
+Three essays on the empirical linkage between trade and income
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Trade, Income, Export openness, Import openness
+
+$ABSTRACT:
+The link between trade, income, and growth has been given increasing attention as countries try to justify their trade-promoting policies. Following the recent cross-country work of Frankel and Romer (1999), the first essay, "Further Investigation of the Link between Trade and Income," explores the sensitivity of the estimating effect of trade on income to heteroscedasticity and sample selection. The results support the hypothesis that trade has a significant and positive, yet relatively small, impact on income.In the second essay, "The Link between Trade and Income: Export Effect, Import Effect, or Both?" a new framework is presented to evaluate how cross-country differences of export openness and import openness affect the level of real per capita income. Pure instrumental variable estimators extract the exogenous components of total trade and net exports. We build on existing literature on countries' geography as an instrument for total trade openness, and we build on countries' demography and balance of payments features to develop a novel instrument for net export openness. New estimates reveal that export openness alone correlate with income, not import openness.The third essay, "A Panel Study of the Openness-Income Linkage," explores the role of export openness and import openness in facilitating income growth using country-level data for the period 1970-92. The two-stage model based on the gravity study and the net trade balance determination function is proposed and estimated in the panel framework. The robustness of the openness-income relationship is tested. The main finding is that there is a robust and independent link between the exogenous component of export openness and income. The import openness effect is positive but smaller than the export openness effect.

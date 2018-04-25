@@ -1,0 +1,11 @@
+$TITLE:
+Boon or Boondoggle? Business Incubation as Entrepreneurship Policy
+
+$DEPARTMENT:
+Public Administration
+
+$KEYWORDS:
+Business incubation, Firm growth
+
+$ABSTRACT:
+Business incubators, a popular entrepreneurship policy intended to help  new businesses avoid the risks of failure and generate economic growth,  now serve more than 1,600 communities across the United States. Business  incubators help new ventures by providing subsidized office space,  shared administrative services, access to capital and financing,  networking opportunities, and assistance with legal, technology  transfer, and export procedures. Despite the widespread existence of  business incubators, little systematic knowledge exists detailing  whether incubators help new ventures improve their business performance.  This dissertation investigates two questions: 1) Do incubated firms  outperform their unincubated peers? And 2) Does the economic performance  of incubated firms vary according to design characteristics of  incubators and attributes of the entrepreneur? These studies rely on a  sample of approximately 950 business incubators, 19,000 incubated  businesses, and a matched control group of unincubated businesses.  Measures of new venture performance include survival, employment growth,  and sales growth. Overall, this dissertation concludes that business  incubation lowers the expected lifespan of incubated businesses while  increasing their employment and sales growth rates. Additionally, this  dissertation finds that certain types of business incubators create  better-performing new ventures and that women owned firms benefit more  from incubation than men owned firms.

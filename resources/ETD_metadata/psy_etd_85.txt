@@ -1,0 +1,11 @@
+$TITLE:
+The relationship between patient preferences and health outcome in patients with heart failure
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Patient preferences, Health outcome, Heart failure
+
+$ABSTRACT:
+Patient preferences and their relationship to health outcomes have not been adequately addressed in the heart failure literature. One-hundred eighty-one patients (100 females and 81 males, aged 42-94 years) enrolled in a heart failure program at a northeastern hospital were administered the Press, Ganey Satisfaction Survey, the SF-36 Health Survey, and a Self-Management Behaviors Questionnaire over a six-month period. A subset of these patients (35 females and 35 males) also completed modified versions of the Patient Request for Services Schedule and Patient Learning Needs Scale. The program had five core components: assessment, treatment, education, support, and communication. Results showed that fulfillment of patients' psychosocial preferences had a unique and greater contribution to the variance in patient satisfaction than did patient or illness characteristics ( p <.001). In addition, a higher level of patient satisfaction was associated with better vitality and physical functioning six months after discharge (both p s <.001). Patients also demonstrated greater knowledge and performance of self-management behaviors at three weeks, and higher levels of vitality at six months, than at discharge ( p <.01, p <.001, respectively). Patients desired a great deal of information regarding management of heart failure, though they reported receiving only about half of the information items they wanted. Patients who had a greater percentage of their information preferences met also reported higher levels of self-efficacy for self-management behaviors ( p <.05). Overall, these findings are congruent with the Reactions to Medical Aid model and support the position that the quality of the patient-practitioner relationship contributes to patients' future health and well-being.

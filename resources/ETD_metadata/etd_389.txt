@@ -1,0 +1,11 @@
+$TITLE:
+Measurement of the form factor shape for the semileptonic decay Lb->LcMuNu
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+A measurement of the shape of the Isgur-Wise function for the decay Lb->LcMuNu is presented. It is performed with a sample of Lb semileptonic decays in proton-proton collisions with an integrated luminosity of 3 fb-􀀀1. The semileptonic decays Lb->LcMuNuX are identied bythe detection of a muon and a Lc baryon decaying to pKpi. The decay Lb->LcPiPiMuNu is used to isolate the semileptonic decay Lb->LcMuNu􀀀, and determine the spectrum dN/dw(Lb->LcMuNu), where w is the inner product of the 4-velocities of the the initial and nal state heavy baryons. The slope and curvature of the Isgur-Wise function have been determined with a variety of shape assumptions. The measured values are consistent with sum rules bounds. Finally, the shape of the spectrum dN/dq2 has been studied and compared with recent lattice QCD predictions.

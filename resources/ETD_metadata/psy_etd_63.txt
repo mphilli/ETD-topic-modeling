@@ -1,0 +1,11 @@
+$TITLE:
+The effects of anonymity and respondent characteristics on self-reports of socially sensitive behaviors
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Anonymity, Respondent characteristics, Self-reports, Socially sensitive behaviors
+
+$ABSTRACT:
+Because the potential for self-reports of sensitive behaviors to be distorted is great this investigation examined: (a) the effects of anonymity assurances on reports of sensitive behaviors, (b) respondent characteristics that moderate the effect of the instructional set on the quality of participants' self-reports, (c) the effects of anonymity assurances on socially desirable responding, and (d) the effects of question sensitivity on response bias. College students (155 males, 203 females) were randomly assigned to complete self-report measures under anonymous or confidential conditions. Analyses revealed that the confidential instructional set increased item non-response, the number of terminations, perceived question threat/sensitivity, and decreased behavioral frequency reports of sensitive behaviors. In addition, sex of the participant and need for approval qualified the effect of the instructional set on data quality. Finally, participants who rated behaviors as more threatening were more likely to report engaging in those same behaviors. Taken together, these findings support the proposed model of threats to data quality. In the present investigation, task variables decreased the quality of sensitive self-reports and this effect was qualified by respondent characteristics/attributes. Future investigations need to address decreases in data quality by assessing sensitive self-reports within a theoretical framework and assessing other task variables (e.g., task complexity, question threat) that have been proposed to threaten the data quality of sensitive self-reports.

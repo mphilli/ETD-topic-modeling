@@ -1,0 +1,11 @@
+$TITLE:
+N-Substituted Azonines
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Aromaticity, Monocyclic planar molecule, Delocalization energy
+
+$ABSTRACT:
+Huckel's "4n+2" theory of aromaticity has long been regarded as an important milestone in organic chemistry. His well known "4n+2" rule states that a moncyclic planar molecule containing 4n+2 -pi electrons, where n is zero of an integer, will have all of its bonding molecular orbitals occupied and all of its anti-bonding molecular orbitals vacant. Further, this stable arrangement in predicted to possess a higher delocalization energy than its iso-pi-electronic acyclic counterpart. A number of systems theoretically capable of satisfying these demands have been studied in recent years.

@@ -1,0 +1,11 @@
+$TITLE:
+Computational studies on rapidly-adapting mechanoreceptive fibers
+
+$DEPARTMENT:
+Biomedical and Chemical Engineering
+
+$KEYWORDS:
+Rapidly adapting, Psychophysical threshold, Skin, Mechanoreceptive
+
+$ABSTRACT:
+A firing-rate-based population response model for monkey rapidly-adapting (RA) mechanoreceptive fibers was used to find the probability of activity in the population as a function of various stimulus parameters. However, this rate-based model does not include rate variance and cannot directly predict psychophysical thresholds. Therefore, a time-dependent model was established. The responses of cat RA fibers were modeled using a Markov process and Laplace distribution of action-potential phases with respect to the stimulus. The population model based on the Markov process was used to obtain the 40-Hz thresholds of the Non-Pacinian I (NP I) psychophysical channel as a function of the stimulus-contactor location. Different receptive-field distributions and rate-based decision criteria were also studied. Predictions of the population model are close to the human psychophysical results. The experiments show that the NP I thresholds remain approximately constant across the terminal phalanx of the finger, suggesting that the receptive-field distribution may be uniform as opposed to the findings in the literature. Thus, this is in contradiction with the increase of the innervation density towards the distal end of the phalanx which would be expected to produce lower thresholds. It was also found that the mechanical properties of the skin vary across the fingertip as found by impedance measurements. Therefore, it is concluded that the mechanical attenuation function used in the model should be modified in such a way that the effects of the innervation density and skin mechanics cancel out.

@@ -1,0 +1,11 @@
+$TITLE:
+Time-frequency gain manipulation for noise-reduction in hearing aids: Ideal and phase-opponent detectors
+
+$DEPARTMENT:
+Biomedical and Chemical Engineering
+
+$KEYWORDS:
+Noise reduction, Time-frequency gain, Hearing aids, Phase-opponent detectors
+
+$ABSTRACT:
+The ability of listeners with hearing loss to understand speech in noise is severely degraded compared to that of normal-hearing listeners. While several physiological and psychophysical models exist to explain how normal-hearing listeners detect various stimuli in noise, few of these models have been used as the basis of any sort of corrective algorithms for use in hearing-aids or communication devices. Here, a signal processing implementation of a physiological model was developed for the detection of tones in noise. The performance of the detector was evaluated for conditions under which speech in noise commonly occurs, with the goal of using the detector as part of a larger noise-reduction system. The potential benefits of the general class of noise-reduction (NR) algorithms that perform time-frequency gain manipulation were examined through the use of the ideal binary mask, a tool used in automatic speech recognition. By degrading the ideal binary mask, the detection parameters necessary to provide benefit were derived. Lastly, a phase-opponent noise-reduction (PONR) algorithm was developed and tested. Testing consisted of both an indirect measurement of intelligibility, as well as overall preference testing. The PONR algorithm resulted in up to 10 dB improvement in the signal-to-noise ratio of the speech in noise; this improvement, however, did not result in an improvement in intelligibility. This finding is consistent with the results from the binary mask experiments, as the PONR system was unable to detect the 90-95% of the speech energy necessary to show improvement in intelligibility.

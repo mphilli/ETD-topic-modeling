@@ -1,0 +1,11 @@
+$TITLE:
+An annotated edition of Henry David Thoreau's 'Walden.'
+
+$DEPARTMENT:
+English
+
+$KEYWORDS:
+Henry David Thoreau's Walden
+
+$ABSTRACT:
+Henry David Thoreau's 'Walden.'

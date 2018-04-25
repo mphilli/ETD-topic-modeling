@@ -1,0 +1,11 @@
+$TITLE:
+Measurement of Tau(D('s)/(,+) to muon('+)neutrino)/Tau(D('s)/(,+) to phi pion('+)) and the pseudoscalar decay constant fD(,s)
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Tau lepton, Pseudoscalar decay constant, D meson, Phi meson, Charm quark
+
+$ABSTRACT:
+In this thesis we present a new determination of [Special characters omitted.] using 5 million [Special characters omitted.] events obtained with the CLEO II detector at the Cornell Electron Storage Ring (CESR). Our value is derived from our new measured ratio [Special characters omitted.] . Using [Special characters omitted.] , we extract [Special characters omitted.] MeV. We compare this result with various model calculations.

@@ -1,0 +1,11 @@
+$TITLE:
+Towards an Information Theoretic Framework for Evolutionary Learning
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+diversity, ensemble model, evolvability, fitness, information distance, mutual information
+
+$ABSTRACT:
+The vital essence of evolutionary learning consists of  information flows between the environment and the entities differentially  surviving and reproducing therein. Gain or loss of information in individuals  and populations due to evolutionary steps should be considered in evolutionary  algorithm theory and practice. Information theory has rarely been applied to  evolutionary computation - a lacuna that this dissertation addresses, with an  emphasis on objectively and explicitly evaluating the ensemble models implicit  in evolutionary learning. Information theoretic functionals can provide  objective, justifiable, general, computable, commensurate measures of fitness  and diversity.We identify information transmission channels implicit in  evolutionary learning. We define information distance metrics and indices for  ensembles. We extend Price's Theorem to non-random mating, give it an effective  fitness interpretation and decompose it to show the key factors influencing  heritability and evolvability. We argue that heritability and evolvability of  our information theoretic indicators are high. We illustrate use of our indices  for reproductive and survival selection. We develop algorithms to estimate  information theoretic quantities on mixed continuous and discrete data via the  empirical copula and information dimension. We extend statistical resampling. We  present experimental and real world application results: chaotic time series  prediction; parity; complex continuous functions; industrial process control;  and small sample social science data. We formalize conjectures regarding  evolutionary learning and information geometry.

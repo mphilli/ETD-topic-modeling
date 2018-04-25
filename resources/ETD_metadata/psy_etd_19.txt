@@ -1,0 +1,11 @@
+$TITLE:
+Dual-process signal detection theory in item recognition: Evidence for some-or-none recollection
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Dual-process, Signal detection theory, Item recognition, Recollection, Recognition memory
+
+$ABSTRACT:
+Recent years have seen the development of a consensus that recognition memory is subserved by two processes, familiarity and a recall-like recollection mechanism (Wixted, 2007a). However, considerable debate still exists about the form of the recollection process and the relationship between recollection and familiarity, and also about the correct model to describe recognition accuracy across decision criteria (Parks & Yonelinas, 2007a, 2007b; Wixted, 2007b). The two-process version of the Unequal-Variance Signal Detection Model (UVSD) claims that recollection is a continuous strength process (Wixted, 2007a). The Dual- Process Signal Detection Model (DPSD) maintains that recollection is an all-or-none, categorical process, and that it does not always succeed. We compared the fit of the UVSD and the DPSD models to recognition of words and pictures, and found an interaction between model type and material: Neither model can adequately describe all of the data. The Variable Recollection Dual-Process Model (VRDP) dispenses with an all-or-none assumption and assumes that recollection is subserved by a continuous mechanism that also exhibits threshold behavior. We evaluated the fit of the VRDP model to item and source recognition of words and pictures, and found that the VRDP model was superior to both the UVSD and the DPSD models. The VRDP model also approximates the UVSD and the DPSD accounts as limiting cases. The conjoint modeling of item and source information revealed that source recognition was restricted to items from the recollective distribution. On the other hand, for some items recognition was significantly above chance in the absence of source discrimination, suggesting familiarity-based retrieval. We conclude that two processes contribute to item recognition, and that recollection is a threshold process. We also conclude that the VRDP model should provide a more general framework for describing recognition accuracy.

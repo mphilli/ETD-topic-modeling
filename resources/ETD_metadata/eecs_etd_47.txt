@@ -1,0 +1,11 @@
+$TITLE:
+Electromagnetic scattering from chiral objects using double-grid finite-difference frequency-domain (DG-FDFD) method
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Bianisotropic, Electromagnetic scattering, Chiral objects, Double-grid, Finite-difference, Frequency-domain
+
+$ABSTRACT:
+In this dissertation, a double-grid finite-difference frequency-domain (DG-FDFD) method is introduced to solve for scattering of electromagnetic waves from bianisotropic objects. The formulations are based on a double-grid scheme in which a traditional Yee grid and a transverse Yee grid are combined to achieve coupling of electric and magnetic fields that is imposed by the bianisotropy. Thus the underlying grid naturally supports the presented formulations. Introduction of a double-grid scheme doubles the number of electromagnetic field components to be solved, which in turn implies increased time and memory of the computational resources for solution of the resulting matrix equation.As a remedy to this problem, an efficient iterative solution technique is presented that effectively reduces the solution time and memory. While the presented formulations can solve problems including bianisotropic objects, the validity of the formulations is verified by calculating bistatic radar cross-sections of three-dimensional chiral objects and comparing the results to those obtained from analytical and other numerical solutions.

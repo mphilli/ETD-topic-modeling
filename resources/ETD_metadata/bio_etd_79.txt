@@ -1,0 +1,11 @@
+$TITLE:
+Role of the Nla6S and Nla28S histidine kinases in fruiting body development of Myxococcus xanthus
+
+$DEPARTMENT:
+Biology
+
+$KEYWORDS:
+Biofilm formation, histidine kinase, Myxococcus xanthus fruiting body formation, two component signal transduction systems
+
+$ABSTRACT:
+The complex life cycle of Myxococcus xanthus makes it a model organism for studying multicellular developmental processes in bacteria. In response to adverse environmental conditions, M. xanthus aggregates and forms multicellular structures known as fruiting bodies. Two component signal transduction systems (TCS) are widely used by bacteria to detect and respond to environmental cues by regulating large-scale changes in gene expression. They contain a histidine kinase sensor that detects environmental cues and a response regulator that modulates cellular processes. Two key regulators of the early stages of fruiting body development are the Nla6S/Nla6 and Nla28S/Nla28 TCSs. The response regulators of these TCSs, Nla6 and Nla28, are important for the successful completion of fruiting body formation. However, the histidine kinase sensors that modulate the activity of these key response regulators were previously unknown. Here we report the identification and characterization of the Nla6S and Nla28S histidine kinases. Analysis of Nla6S reveals that it represents a new family of bacterial histidine kinases. Furthermore, it plays an important role in the M. xanthus life cycle. Analysis of Nla28S shows that this is an important sensor of early developmental events. Our data suggests that Nla28S is involved in sensing the two important events of early development, nutrient depletion and cell density. In response to these signals Nla28S regulates sporulation of M. xanthus. Characterization of Nla6S and Nla28S expands our knowledge of the signaling networks that regulate initiation of the multicellular developmental process of M. xanthus.

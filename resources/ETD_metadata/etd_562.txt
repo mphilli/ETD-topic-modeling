@@ -1,0 +1,11 @@
+$TITLE:
+Exendin 4 Conjugation and Sequence Modification to Treat Type 2 Diabetes and Obesity
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+This thesis addresses three primary questions based on the pharmacodynamics (PD) or pharmacokinetics(PK) of the diabetes drug exendin 4 (Ex-4), and vitamin B12 (B12) bioconjugates, thereof.Q1. (Chapter 2) What effect does B12 conjugation to Ex-4 have on agonism of the glucagon-like peptide-1receptor (GLP-1R) in vitro and on PD/PK (including brain uptake and function) in vivo?Goal: To remove side-effects (nausea, weight loss) of Ex-4 without loss of glucoregulation.Q2. (Chapter 3) Can B12 dietary uptake proteins such as gastric intrinsic factor offer protection to B12conjugated peptides or proteins (focusing on Ex-4), with a view to improving in vivo PK?Goal: To demonstrate (in vivo) that IF binding of B12-Ex-4 confers protection against gastricproteolysis as a road-map to oral peptide delivery.Q3. (Chapter 4) Can a dual agonist of the GLP-1R and neuropeptide Y2 receptor, based on the Ex-4 primaryamino acid sequence, be designed and validated in vitro and in vivo.Goal: To create a new therapeutic to simultaneously treat diabetes and obesity.

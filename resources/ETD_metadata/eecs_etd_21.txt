@@ -1,0 +1,11 @@
+$TITLE:
+A framework for network monitoring and performance based routing in distributed middleware systems
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Network monitoring, Routing, Middleware
+
+$ABSTRACT:
+The Internet is presently being used to support increasingly complex interaction models as a result of more and more applications, services and frameworks becoming network centric. Efficient utilization of network and networked-resources is of paramount importance. Network performance gathering is a precursor to any scheme that seeks to provide adaptive routing capabilities for interactions. Furthermore, hardware based performance based routing solutions are hard to manage since they require a knowledge about the underlying hardware structure of the network, as well as access privileges to the network related hardware devices. In this thesis we present de-centralized, scalable, and hardware independent performance based dynamic routing system which consists of three parts; performance monitoring, aggregation and dynamic routing. We present a network performance aggregation framework that is extensible and appropriate for distributed messaging systems that span multiple realms, disparate communication protocols and support different applications. We propose using publish/subscribe messaging scheme for efficient propagation of monitored performance values in the network system. We present the test results regarding the difference aspects of our system for different network settings.

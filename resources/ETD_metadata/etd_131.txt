@@ -1,0 +1,11 @@
+$TITLE:
+THE EFFECTS OF EXTENDED TIME ON READING COMPREHENSION PERFORMANCE FOR ENGLISH AS A SECOND LANGUAGE COLLEGE STUDENTS: IS THERE A NEED FOR ACCOMMODATIONS?
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+college, English language learners, extended time, test accommodations
+
+$ABSTRACT:
+American colleges and universities are enrolling an increasing number of students for whom English is a second language (ESL). These students face literacy challenges that may impact their academic performance as well as create disadvantages on tests, particularly reading intensive tests under time constraints. This study examined the effects of extended time as a test accommodation on a timed reading comprehension test for ESL students compared to non-ESL peers under standard time, time and one half, and double time conditions. Results revealed that under standard time conditions ESL students with low Cognitive Academic Language Proficiency (CALP) in English access significantly fewer test items and answer significantly fewer items correctly than non-ESL peers. ESL students with high CALP levels have access to the same amount of the test as non-ESL peers and have comparable levels of accuracy. All three groups improved reading comprehension performance under extended time conditions, especially those with higher levels of English language proficiency. Low proficiency students are able to surpass the performance of non-ESL peers at standard time when allotted 50% to 100% extra time. These results suggest extended time, in allocations less than 50%, may be appropriate for some ESL students.

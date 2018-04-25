@@ -1,0 +1,11 @@
+$TITLE:
+Why cosmic fine-tuning needs to be explained
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Universe, Anthropic principle, Cosmic fine-tuning
+
+$ABSTRACT:
+Discoveries in modern physics and Big Bang cosmology indicate that if either the initial conditions of the universe or the physical laws governing its development had differed even slightly, life could never have developed. It is for this reason that the universe is said to be "fine-tuned" for life. I argue that cosmic fine-tuning, which some want to dismiss as the way things just happen to be, in fact needs to be explained.In Chapter One I provide an overview of the evidence that the universe is fine-tuned for life. In Chapter Two I present a set of sufficient conditions for a fact's needing to be explained. The conditions are that the fact is improbable and that a "tidy" explanation of it is available. A tidy explanation of a fact is considerably less improbable than that fact and makes the obtaining of that fact considerably less improbable.Chapters Three, Four, and Five are devoted to showing that cosmic fine-tuning meets these conditions. In Chapter Three I argue that the universe's being finely tuned for life can meaningfully be considered improbable. In Chapter Four I claim that there is at least one tidy explanation of cosmic fine-tuning: that the universe was created by some sort of extramundane designer. In Chapters Four and Five I respond to three objections. The first is that the design hypothesis is ad hoc . The second is that we have no reason to believe a supernatural designer would prefer life-permitting cosmoi to other possible cosmoi and that our tendency to believe otherwise is the result of anthropocentrism. The third is that the design hypothesis never buys us an explanatory advantage.

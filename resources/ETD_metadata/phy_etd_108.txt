@@ -1,0 +1,11 @@
+$TITLE:
+Vortex dynamics in nanostructured superconducting weak-pinning channels
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Vortex dynamics, Superconductivity, Weak pinning
+
+$ABSTRACT:
+The dynamics of vortex flow in confined geometries can be explored with weak-pinning channels of superconducting a-NbGe surrounded by strong-pinning NbN channel edges. Periodic constrictions of the channel walls lead to strong oscillations of the critical current, which we observe through transport measurements of the vortex dynamics. We explore the role of the shape and periodicity of the confining potential, as well as intervortex interactions, by fabricating a variety of samples that me measure over a range of temperatures. We have also fabricated asymmetric weak-pinning channels in a superconducting thin-film strip. We present measurements of vortex dynamics in the channels and compare these with similar measurements on a set of uniform-width channels. While the uniform-width channels exhibit a symmetric response for both directions through the channel, the vortex motion through the asymmetric channels is quite different, with substantial asymmetries in both the static depinning and dynamic flux flow. This vortex ratchet effect has a rich dependence on magnetic field and driving force amplitude. By varying the channel geometry and configuration, we are able to explore our model for the asymmetric confinement of the vortices in the ratchet. At high vortex densities, vortex interactions both within channels and between vortices in neighboring channels can often lead to a reversal of the effective ratchet potential and a strong enhancement of ratchet signal. These effects may be due to the vortex collective motions at such high vortex density regimes. Our findings demonstrate the rich dynamics of vortex interactions in confined geometries and asymmetric potential landscapes. We address the edge barrier effect and propose the future directions and the potential methods to avoid this effect.

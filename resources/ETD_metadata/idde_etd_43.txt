@@ -1,0 +1,11 @@
+$TITLE:
+Instructional multimedia in a foreign language classroom: A systemic environment
+
+$DEPARTMENT:
+Instructional Design, Development and Evaluation
+
+$KEYWORDS:
+interactive multimedia, computer based language learning, Macintosh
+
+$ABSTRACT:
+This study examined the perceptions and experiences of students, teaching assistants and administrators who employed interactive multimedia (IMM) and computer based language learning (CALL) to teach and learn French. The individuals involved in the study were with the Department of Foreign Languages at a northeastern, private university. The computer language lab, that served as the setting for the study, consisted of twenty Macintosh$\sp{\rm TM}$ computers and associated hardware and software. The equipment was purchased as part of a university wide effort to infuse technology into the undergraduate curriculum.The data collection procedures followed the constant comparative method outlined by Bogdan and Biklen (1992). Qualitative data collection methods included interviews, naturalistic observations and document analysis. The interviews were audiotaped for later transcription and analysis. Additional field notes were also generated. The data were analyzed by searching for common themes in an attempt to generate grounded theory.The findings of the study indicate that the perceived benefits of CALL and IMM result not from the computers, but rather from the design and format of the overall course. Data also indicated that the issues raised by the study's participants are tied to larger issues of departmental organization and communication. A systemic environment is presented and described to illustrate the complex nature and interconnectedness of the IMM/CALL lab studied to the broader goals and initiatives of the university.

@@ -1,0 +1,11 @@
+$TITLE:
+A Conceptual Framework and Simulation Modeling Of Engineering Change Management in a Collaborative Environment
+
+$DEPARTMENT:
+Mechanical and Aerospace Engineering
+
+$KEYWORDS:
+Change Propagation, Engineering Change, Engineering Change Management, New Product Development, System Dyanmics Modeling
+
+$ABSTRACT:
+Engineering Change Management (ECM) in a collaborative environment is a complex process and is crucial to the Original Equipment Manufacturer (OEM) to ensure low product development time and cost. In this thesis, the ECM in a collaborative environment has been studied and a conceptual framework to support the process is presented. New Product Development (NPD) and ECM processes have been modeled and simulated to study the associated process dynamics.An extensive review of the literature indicated that the research on ECM in a collaborative environment is very limited. The review also highlighted that, (i) the ECM frameworks from past research do not support a flexible ECM workflow and (ii) the ECM process in a collaborative environment has never been modeled and studied.A Service Oriented Architecture (SOA) based conceptual framework for ECM process in a collaborative environment, which supports an agile ECM process, is presented along with a case study to demonstrate its implementation. NPD and ECM process templates have been developed. These developed process templates can be used to model and the study the dynamics of the NPD and ECM processes within an organization and in a collaborative environment. The process templates are later used to model and simulate the ECM process, within an organization and a sample collaborating network. The effects of various process parameters and ECM management policies on the NPD lead time have been studied.

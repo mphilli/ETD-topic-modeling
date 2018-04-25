@@ -1,0 +1,11 @@
+$TITLE:
+The applications of the matrix pencil to speech processing
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Matrix pencil, Speech processing
+
+$ABSTRACT:
+Matrix Pencils facilitate the study of differential equations resulting from oscillating systems. Certain problems in linear ordinary differential equations, such as speech processing, can be represented as the problem of finding a canonical pencil strictly equivalent to a given pencil. It was originally applied by the radar community, to phased array radar. In this type of application the problem of signal directional finding is solved and nulls are formed in the direction of noise.The Matrix Pencil (MP) algorithm is a direct data approach, which depends on only the data and not statistical information. This approach has many benefits over a statistical approach. One benefit allows the user to approximate the error of the reconstructed signal without reconstructing the signal. Second, it takes less time and less computational power to execute the algorithm. Third, the matrix pencil approach has a lower variance of the estimates of the parameters of interest than a statistical approach such as traditional Linear Prediction Coding (LPC).Speech processing has many applications, which directly assist in the advancement of technology. These technologies utilize speech tools that include, but are not limited to speech compression, speech enhancement, speech recovery, pitch estimation, and cochannel interference reduction. However, the speech processing community has not grasped the power of the MP algorithm, which will likely make a significant leap forward in improving these speech processing tools. Similar to 15 years ago, the MP algorithm will do for the speech community, what it did for the radar community.

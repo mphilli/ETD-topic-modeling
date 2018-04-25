@@ -1,0 +1,11 @@
+$TITLE:
+Triple-layer structure of vorticity amplification in the stagnation point flow and its effect on heat transfer
+
+$DEPARTMENT:
+Mechanical and Aerospace Engineering
+
+$KEYWORDS:
+vorticity amplification, stagnation point flow, heat transfer
+
+$ABSTRACT:
+The present work investigates the dependence of stagnation-point heat transfer rate on freestream turbulence. The stagnation flow is shown to be linearly stable to a three-dimensional disturbance. A triple-layer theory is proposed, revealing the structure of nonlinear amplification of freestream disturbances carried into the stagnation region. The heat transfer rate is calculated based on the triple-layer velocity distribution to show that the heat transfer can be enhanced by the freestream disturbance while the friction is kept at the same level.The linear stability is concluded by examining boundary conditions at the outer edge of the boundary layer. It is argued that of two asymptotic branches of eigenfunctions at the outer edge, only the one that decays exponentially satisfies the homogeneous boundary condition in physical space and represents a disturbance of the stability problem. The other branch represents the amplification of a disturbance that is persistently generated from outside the boundary layer as the stagnation point is approached.The triple-layer theory shows that the disturbance will be subjected to a nonlinear amplification process in a nonlinear buffer layer before it is carried into the boundary-layer region. The nonlinear buffer layer formed between linear outer layer and the boundary layer has a thickness of $\sqrt{\varepsilon}$ with $\varepsilon$ being the disturbance amplitude. The double-layer structure proposed by Sutera applies only if the boundary-layer thickness, $Re\sp{-1/2},$ matches with $\sqrt{\varepsilon}$ so that $\varepsilon Re\sim1.$ The triple-layer theory predicts a dependence of heat transfer on the Reynolds number based on the disturbance velocity, which agrees with the experiments by Van der Hegge Zijnen. It also predicts some experimental observations of Van Fossen and coworkers.

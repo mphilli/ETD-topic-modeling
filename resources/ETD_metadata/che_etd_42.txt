@@ -1,0 +1,11 @@
+$TITLE:
+Structural diversity of the oxovanadium organodiphosphonate and the M(I,II)/1,2,4-triazolate systems: A platform for the design of multifunctional hybrid organic-inorganic materials
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Oxovanadium organodiphosphonate, Triazolate, Metal-organic framework, Microporosity, Photoluminescence, Magnetism
+
+$ABSTRACT:
+This research work encompasses the detailed investigation of the design and synthesis of hybrid organic-inorganic materials involving the oxovanadium diphosphonate system and the M(I, II)/1,2,4-triazolate system in order to expand our understanding of the principles which render the chemistry of hybrid organic-inorganic materials more controllable and predictable. In addition, this research investigates the development of properties in these classes of compounds. Furthermore, the hydrothermal reaction conditions, such as stoichiometry, temperature, pH and fill volume influence the product identity.In an attempt to elaborate the structural systematics of these materials, we have investigated the oxovanadium organodiphosphonate system, focusing on a number of variables, specifically: variations in tether length of α, ω-alkyldiphosphonates, the introduction of organic or metal complex cations, and the incorporation of fluoride anions into the V-P-O substructure.In order to explore the structural consequences of diverse anions on materials of the M(I/II)/triazole/anion system for M = Cu(I), Cu(II), Zn(II), and Cd(II) numerous novel phases were prepared and their properties studied. We have described the exploitation of hydrothermal synthesis in the preparation of these metal-triazolates with complex framework structures, photoluminescent properties, microporosity, and unusual magnetic properties.

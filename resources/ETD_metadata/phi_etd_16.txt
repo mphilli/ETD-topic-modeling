@@ -1,0 +1,11 @@
+$TITLE:
+Beyond comparison: Incomparability and the psychology of choice
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Incomparability, Psychology of choice, Rationality, Decision theory
+
+$ABSTRACT:
+This work uses recent developments in cognitive psychology to critically examine the assumption that practical reason is oriented by the goal of maximizing goodness and guided by comparative judgments of relative value. The strength of that assumption results from the observation that if reasons for choice take the form of comparisons, then they will reflect the formal structure of the betterness relation and if they conform to the axioms of rational decision theory, then reasonable choice can be represented as a function of expected utility. That provides both a descriptive schema and a normative constraint on what counts as a reasonable choice: choices count as reasonable insofar as they maximize expected utility. Recent research in cognitive psychology, however, suggests that our preferences systematically violate the axioms of expected utility. I argue that those violations show not that people are consistently irrational but rather that we should abandon the comparativist assumption about reasons for choice. The project consists of six chapters. Chapter one describes the comparativist assumption and the role it plays in current debates over practical reason. Chapter two argues that the comparativist assumption can be understood as an analytic claim about the meaning of the terms that define rational choice or a substantive claim about the way people make practical decisions. If we accept the analytic reading, comparativism will be true, but it won't carry the implications commonly associated with it. If we accept the substantive reading, then comparativism will be substantive but it may turn out to be false. Chapters three, four and five explain why the substantive version of comparativism is false. Chapter six concludes by arguing that the strategies responsible for the violations of comparativism I identify count as reasonable and that this provides us with a reason for thinking that comparativism is inadequate as an account of our reasons for choice.

@@ -1,0 +1,11 @@
+$TITLE:
+On the structure of reliability polynomials
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Reliability polynomials, Convex basis, Inflection point
+
+$ABSTRACT:
+This dissertation explores a new way to look at reliability polynomials by use of a convex basis. The shape of reliability polynomials has been studied by numerous people including Moore, Shannon, Birnbaum, Esary, Saunders, and Colbourn. Colbourn posed the question, "Is it true that a reliability polynomial has at most one point of inflection in the range  p  ∈ (0; 1)?" This newly created convex basis allows us to consider the inflection point problem from a new viewpoint. In fact, it is used to deduce that reliability polynomials can have more than one inflection point.

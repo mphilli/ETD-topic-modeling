@@ -1,0 +1,11 @@
+$TITLE:
+Measurement of the branching fraction of D+ meson going to muon+ neutrino and the pseudoscalar decay constant fD+ using the full psi'' sample and search for neutral D meson going to proton-electron and neutral D meson going to antiproton-positron
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Branching fraction, Pseudoscalar decay constants, D mesons, Proton decay, fD form factor, Lepton violation
+
+$ABSTRACT:
+Two analysis have been described in this work. In the first analysis, we measure the decay constant of the D  +  meson by measuring [Special characters omitted.] ( D  +  [arrow right] μ +  ν) = (3.86±0.32±0.09)×10 -4  using 818 pb -1  of data taken on the ψ(3770) resonance with the CLEO detector at the CESR collider. This is the full sample of taken acquired by CLEO-c at this center-of-mass energy. Taken along with precision measurement of the lifetime, and assuming | V cs   | = |  V ud   |, we derive f D    +  = (205.8 ± 8.5 ± 2.5) MeV. We also set a 90% confidence upper limit on [Special characters omitted.] ( D  +  [arrow right] e   +  ν) < 8.8 × 10 -6  . In the second analysis we search for simultaneous baryon and lepton number violating decays of the  D  0  meson. Specifically, we use 281 pb -1  of data taken on the ψ(3770) resonance with CLEO-c detector to look for decays D  0  [arrow right]  p¯e  +  , D¯  0  [arrow right]  p¯e  +  , D  0  [arrow right]  pe  -  and D¯  0  [arrow right]  pe  -  . We find no significant signals and set the following branching fraction upper limits: D  0  [arrow right] p¯e  +  ( D¯  0  [arrow right] p¯e  +  ) < 1.1 × 10 -5  and D  0  [arrow right] pe  -  ( D¯  0  [arrow right] pe  -  ) < 1.0 × 10 -5  , both at 90% confidence level.

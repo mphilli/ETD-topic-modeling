@@ -1,0 +1,11 @@
+$TITLE:
+Molecular genetics and evolution of red-green vision in vertebrates
+
+$DEPARTMENT:
+Biology
+
+$KEYWORDS:
+Evolution, Visual pigments, Red-green vision, M/LWS, Vertebrates
+
+$ABSTRACT:
+To investigate the molecular mechanism and evolution of red-green color vision, we cloned, sequenced and expressed in vitro the red-green sensitive type pigment genes of 8 mammals, goat ( Capra hircus ), rabbit ( Oryctolagus cuniculus ), rat ( Rattus norvegicus ), cat ( Felis catus ), horse ( Equus caballus ), deer ( Odocoileus virginianus ), guinea pig ( Cavia porcellus ) and squirrel ( Sciurus carolinensis ), and the goldfish ( Carassius auratus ). Additionaly, red-green pigments of three more vertebrates, chicken ( Gallus gallus ), frog ( Xenopus laevis ) and cave fish ( Astyanax mexicanus ), that previously had been isolated by other investigators, were expressed in vitro. The absorption spectra of the purified goat, rabbit, rat, cat, horse, deer, guinea pig, squirrel, chicken, frog, cave fish red, cave fish green and goldfish pigments had wavelengths of maximal absorption (λ max ) of 553 ± 1, 509 ± 1, 509 ± 1, 553± 1, 545 ± 1, 531 ± 1, 516 ± 1, 532 ± 1, 561 ± 2, 558 ± 2, 559 ± 2, 530 ± 2 and 559 ± 4 nm, respectively. Multiple linear regression analyses showed that differences between the λ max values of vertebrate red-green sensitive visual pigments estimated in vitro can be fully explained by the effects of amino acid differences at positions 180, 197, 277, 285, 308, and the pair-wise interaction of positions 180 and 197. Amino acid substitutions S180A, H197Y, Y277F, T285A and A308S and interaction the interaction between sites 180 and 197 were estimated to shift λ max value by about -7, -28, -8, -15 and -27 and +11 nm, respectively. This model was corroborated experimentally by site-directed mutagenesis and in vitro expression of constructed visual pigments. Furthermore, the evolution of vertebrate red-green pigments was experimentally retraced by construction and in vitro expression of inferred vertebrate ancestral pigments. The results of this analysis suggest that extant red-green pigments evolved from a red-sensitive ancestral pigment with a λ max value of about 560 nm.

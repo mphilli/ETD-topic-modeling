@@ -1,0 +1,11 @@
+$TITLE:
+Predicting freshmen persistence and voluntary withdrawal from Heath's model of maturing
+
+$DEPARTMENT:
+Higher Education
+
+$KEYWORDS:
+Heath, Douglas, Freshmen, Maturing, Persistence, Voluntary withdrawal
+
+$ABSTRACT:
+Researchers have called for theory elaboration to enhance the theory's explanatory power by combining new disciplinary perspectives (Braxton, Sullivan, & Johnson, 1997). This study applied, as the theoretical base, the Tinto Model of College Student Persistence and Departure to explore the effects of psychological maturity using Heath's Model of Maturity. Heath contends that psychological maturity involves the maturation of an individual's cognitive skills, self concept, values, and interpersonal relationships on five interdependent dimensions; increasing symbolization, allocentrism, integration, stability and autonomy. It was hypothesized that the higher the level of maturity of an entering freshman, the better that student will be able to adapt, to meet the challenges of college, to integrate into the new system, and to persist.The research design to test this hypothesis was longitudinal in nature and path analyses were conducted on a sample of 180 resident college freshmen who were attending a religious, liberal arts college. Patterns of effects hypothesized by the theoretical model were partially supported by the results. The findings indicate that both academic and social integration are positively influenced by psychological maturity. It was also found that psychological maturity had a positive indirect effect on subsequent institutional and goal commitments. However, results provided no support for the hypothesis that psychological maturity would have a positive, direct or indirect effect on persistence.

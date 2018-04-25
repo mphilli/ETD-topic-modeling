@@ -1,0 +1,11 @@
+$TITLE:
+Arbuscular Mycorrhizal Fungi in Grasslands of Yellowstone National Park: A Role for Plant-Fungal Mutualism in Grassland Sustainability
+
+$DEPARTMENT:
+Biology
+
+$KEYWORDS:
+Mycorrhizal fungi, Grasslands, Yellowstone National Park, Plant-fungal mutualism, Arbuscular mycorrhizae, Herbivory
+
+$ABSTRACT:
+Arbuscular mycorrhizal fungi are ubiquitous soil organisms that form symbioses with many families of terrestrial plants. Although mycorrhizae have been extensively researched, the relationships between arbuscular mycorrhizal fungal (AMF) community composition, AMF morphological structural investment, and the rate of nutrient exchange between symbionts is still unclear, especially in a field setting that includes multiple trophic levels and spatial scales. The research presented in this manuscript examined the influence of herbivory on plant-fungal dynamics across microbial, plant, and landscape level scales through mathematical modeling and field experiments. The first series of field studies demonstrated that some mycorrhizal species were more successful than others when host plants were grazed and/or when soil resource limitation varied. Grazing and soil nutrient availability induced shifts in the relative abundance of AMF spore species across a naturally occurring resource gradient, that resulted in maintained or increased nutrient delivery to the plant, and differentially influenced sporulation and hyphal production of AMF species. In the second field study soil nitrogen (N) fertilization by simulated bovine urine (SBU) amendment induced shifts in AMF species composition that resulted in higher benefit for the fungus than the host plant, demonstrated by increased sporulation of AMF, especially large-spored AMF species, and reduced abundance of plant supply structures. These results contribute to the understanding of how landscape variability and consumers influence the degree of benefit that plants and AMF species receive from their symbiotic relationship and contribute to community composition.

@@ -1,0 +1,11 @@
+$TITLE:
+Evaluation of Non-Covalent Interaction Models in Molecular Crystals Using Terahertz Spectroscopy
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+Density functional theory (DFT) is a powerful tool that can be used to evaluate the low-frequency vibrational spectra of solid-state crystalline materials. Since THz spectroscopy is sensitive to both the intermolecular and intramolecular forces that govern the formation of crystalline materials, it is an ideal tool to investigate the accuracy of calculated DFT crystal structures and their vibrational spectra. When using solid-state DFT, non-covalent dispersion interactions are not fully treated in typical approaches. In order to account for these interactions, the addition of dispersion force correction terms are necessary. A number of methods exist to correct for this deficiency of DFT, and this work investigates the use of semi-empirical London dispersion force correction models. Through the investigation of several small organic molecules, amino acids and related compounds, the standard implementation (referred to as DFT-D) is examined, and the need to alter this standard approach has been identified. Modifications of the scaling factor and atomic parameters within this method have led to more accurate simulations, termed the DFT-DX model. In addition to this work on improving London dispersion force corrections, solid-state DFT calculations with these enhancements can be used to predict the crystal structures of previously unknown or difficult to synthesize materials, such as amino acid hydrates, and achieve detailed information about the internal and external forces in molecular crystals.

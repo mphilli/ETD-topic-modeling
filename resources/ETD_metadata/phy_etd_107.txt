@@ -1,0 +1,11 @@
+$TITLE:
+Adsorption Studies of Oxygen and Carbon Monoxide on Oriented Platinum and Epitaxial Palladium Films
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Auger electron spectroscopy, Electron loss spectroscopy, Thermal desorption spectroscopy, Electron diffraction pattern, Kikuchi rings
+
+$ABSTRACT:
+Oxygen and carbon monoxide adsorption studies were carried out in ultra high vacuum on vapor deposited polycrystalline platinum films with a <111> fiber axis and on monocrystalline (111) palladium films. The techniques of Auger electron spectroscopy (AES), electron loss spectroscopy (ELS) and thermal desorption spectroscopy (TDS) were used. A new form of electron diffraction pattern, namely Kikuchi rings, was also observed from these films. Oxygen adsorption studies on the Pt films showed the existence of two forms of adsorbed oxygen. TDS of carbon monoxide adsorbates showed only one peak and resulted in the development of a new loss line in the ELS spectrum. Electron beam irradiation decomposed the adsorbed CO resulting in a shape change for the carbon Auger line. The rate of reaction for carbon monoxide oxidation was found to be temperature dependent, thereby supporting the Langmuir-Hinshelwood mechanism for CO oxidation.Transmission electron microscope (TEM) replica studies of vapor deposited (111) Pd films showed them to have a very flat topography. Argon ion sputtering of their surfaces increased the surface roughness and also resulted in the formation of twins in the film. Sputtering also increased the amount of adsorbed oxygen on (111) Pd by approximately fifty percent. Moderate annealing of the sputtered film increased the surface roughness by increasing the size of the hillocks while decreasing their density. Annealing also removed the double positioned twins and restored the original adsorption characteristics of the surface.

@@ -1,0 +1,11 @@
+$TITLE:
+Three Essays on the Property Value Impact of Neighborhood Disamenities
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Social sciences, Property value, Neighborhood, Disamenities, Market demand, Failing school, Homicide, Mosque
+
+$ABSTRACT:
+This dissertation employs hedonic analysis to examine market demand for three neighborhood disamenities. The first chapter investigates the property value impact of a No Child Left Behind "failing" school designation. The second chapter studies the property value impact of a local homicide. The third chapter examines the property value impact of proximity to a mosque post 9/11. Each disamenity has a negative and significant effect on property values with the magnitude of impact varying across household type.

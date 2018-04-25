@@ -1,0 +1,11 @@
+$TITLE:
+Electromagnetic scattering from three-dimensional chiral objects using FEM-MOM (hybrid) technique
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Hybrid, Radar cross section, Cross-polarized radar, Cross section, Chiral
+
+$ABSTRACT:
+In this dissertation, a FEM-MOM hybrid program has been developed to calculate the scattered field generated from three dimensional chiral medium. New FEM-MOM scattered-field formulations for chiral media are developed and presented. Based on my knowledge, this is the first study that uses FEM-MOM hybrid technique for scattering from a three dimensional chiral sphere, finite cylinder and cube. This dissertation describes the approach to formulating the problem, choosing a solution routine, developing a method of discretization, proving the accuracy by comparing the numerical results to exact and other available solutions whenever possible, and analyzing the computational efficiency of the package. The body is assumed to be illuminated by a plane wave. It employs the edge-based finite element method (FEM) to analyze the three-dimensional volumes, and the edge-based method of moments (MOM) to analyze the current distribution on the surface of these volumes. The two methods are coupled through the fields on the dielectric surface of the three dimensional volumes.Spurious vector solutions, which arise in FEM node-based formulation of numerical approximations to three dimensional electromagnetic problems, were eliminated by using an edge-based FEM-MOM hybrid technique to ensure that divergence free conditions are satisfied. Bi-conjugate gradient, using a sparse matrix algorithm, expedited computation and reduced memory requirements. An automatic tetrahedral element mesh generation was developed for discretization.

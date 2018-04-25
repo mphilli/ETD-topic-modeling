@@ -1,0 +1,11 @@
+$TITLE:
+Market trading volume and price reaction to public information
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+Market, Trading volume, Price reaction, Public information
+
+$ABSTRACT:
+The purpose of this study is to investigate the reaction of security prices and trading volume to public information announcements. We develop a two-period noisy rational expectation model of trading to explain how post-announcement trading volume and equilibrium prices are determined. With the assumption that investors' pre-announcement private information is linked to the anticipated public information announcement, we are able to associate the market reaction directly with the post-announcement idiosyncratic error-correction behavior of investors. Our results identify three important announcement characteristics that affect the expected post-announcement trading volume. First, public announcements whose outcomes are volatile are expected to generate larger trading volume than those whose outcomes are stable. Secondly, relevant public announcements, which can greatly reduce the uncertainty about the risky asset's intrinsic value, will result in larger expected trading reaction than the irrelevant ones. Finally, when investors possess pre- announcement private information with better predictability about the anticipated public information, the resulting trading volume is expected to be smaller under certain sufficient condition.We also investigate factors that affect the magnitude of price reaction to public information announcements and its relationship with trading volume reaction. Our results show that price changes reflect the gradual incorporation of public information into price and the effect of noise trading, but trading volume is due to heterogeneous error-correction behaviors of investors and the effect of noise trading. In general, the existence of noise trading is the main reason why trading volume and price changes are correlated.

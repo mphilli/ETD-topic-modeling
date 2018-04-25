@@ -1,0 +1,11 @@
+$TITLE:
+Type-2 complexity theory
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Complexity theory, Computability, Topology, Continuous functionals
+
+$ABSTRACT:
+The notion of type-2 computability occurs naturally in many practical and theoretical settings in computer science. For examples, machine learning, programing languages, databases enquiry, complexity-theoretic problem reductions, and so on, are immediate applications of type-2 computation. However, there is no satisfactory type-2 complexity theory to characterize the computational cost of these widely ranged applications. Thus, the purpose of this thesis is to give a theoretical framework for analyzing the complexity of type-2 computation.We use the Oracle Turing Machine (OTM) as our standard formalism for type-2 computation. The best way to characterize the computational cost of type-2 computation is to give a robust notion of type-2 complexity classes. In order to do so, we first study the induced topologies determined by type-2 continuous functionals of type ( N [arrow right] N ) × N [Special characters omitted.] N . Then, based on the compact sets in the induced topologies, we define a type-2 almost-everywhere relation [Special characters omitted.] over type-2 continuous functionals. The type-2 almost-everywhere relation [Special characters omitted.] provides an analogous notion of asymptotic approach for complexity analysis in type-2. We also specify a clocking scheme for OTMs based on a class of computable functions called Type-2 Time Bounds ( T 2 TB ). With the tools we developed, each type-2 time bound β ∈ T 2 TB determines a type-2 complexity class C (β). We also define a type-2 big-O notation-- O (β)--which would be a useful tool for type-2 algorithm analysis.To justify our notion of type-2 complexity classes, we prove the Union Theorem, the Gap Theorem, the Compression Theorem, and the Speed-up Theorem in type-2 along the lines of classical complexity theory. Most of the theorems we proved are very different from their type-1 counterparts. We thus learn that the structure of type-2 complexity classes is not as sturdy as the structure in type-1; they are very sensitive to the topological constraint. With theses complexity results, we have a reasonable outlook for a general type-2 complexity theory.

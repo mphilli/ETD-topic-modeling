@@ -1,0 +1,11 @@
+$TITLE:
+Argon and Neon Diffusion in Lunar Impact Glass & The Development of the Electron Microprobe Zircon Fission-Track Dating Technique
+
+$DEPARTMENT:
+Earth Sciences
+
+$KEYWORDS:
+40Ar/49Ar, argon, diffusion, fission-track, lunar, neon
+
+$ABSTRACT:
+This dissertation is subdivided into three independent chapters on low temperature thermochronology. In chapter one a new methodology is presented for dating zircon using the fission-track technique. Chapters two and three describe experiments and modeling to determine the diffusion kinetics of Ar and Ne in lunar impact glass.

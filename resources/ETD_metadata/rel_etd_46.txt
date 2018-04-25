@@ -1,0 +1,11 @@
+$TITLE:
+Beliefs, grounds, and the basing relation
+
+$DEPARTMENT:
+Religion
+
+$KEYWORDS:
+epistemology
+
+$ABSTRACT:
+A number of epistemologists have held that a person who has a particular a posteriori belief is justified in that belief only if it is based on adequate grounds. Generally, these philosophers have focused on trying to determine exactly what is required for the grounds to be adequate. Surprisingly few epistemologists, however, have attempted to analyze just what it is for a belief to be based on grounds at all. In Chapter 1, after introducing the general concept of basing, I propose a set of desiderata which, I argue, any analysis of the basing relation should meet. In Chapters 2-4, I expound and critically evaluate the best-known treatments of basing by contemporary epistemologists--namely, those of Marshall Swain, Robert Audi, and Paul Moser--bringing out their strengths and weaknesses in light of the desiderata advanced in Chapter 1. The final chapter is a defense of my own analysis, which reconciles the epistemic and causal aspects of the basing relation by construing it as resulting from the operation of what William Alston calls "doxastic practices." Such practices are activations of settled cognitive habits through whose exercise we process occurrent experiences and belief states, thereby forming new beliefs and reinforcing existing ones. As I show in Chapter 5, my analysis of the concept of basing--together with plausible analyses of certain ancillary notions--satisfies the Chapter 1 desiderata.

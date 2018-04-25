@@ -1,0 +1,11 @@
+$TITLE:
+Essays on Agglomeration, Homeownership, and Labor Market Outcomes
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+agglomeration economies, homeownership, labor market pooling, number of children, volatility of hours worked
+
+$ABSTRACT:
+This dissertation consists of two essays on the labor market impact of agglomeration economies and that of homeownership. The empirical analyses use different U.S. data and econometric techniques to examine the impact on different labor market outcomes such as volatility of hours worked and men's employment.The first essay is motivated by the labor market pooling model from Krugman (1991). The paper adds to a small but important literature that provides evidence on the microeconomic foundation of agglomeration economies. Using various years of data from the American Community Survey and the County Business Patterns survey, I show that the agglomeration of economic activities reduces the volatility of hours worked. Drawing on Krugman's model, I argue that this implies that labor pooling contributes to agglomeration economies, and helps to explain why cities are productive places.In the second essay, I consider the extent to which homeownership affects men's labor supply. Research on the labor-supply consequences of homeownership is complicated by the endogeneity of housing tenure status. To address this endogeneity problem, I use a set of family size instruments (the presence of the third and additional children in a single family household) to estimate the effect of homeownership in a bivariate probit model. Based on a sample of married white male household heads from the American Community Survey, the IV result suggests that men who own their homes are 1.2% more likely to be employed relative to those who rent. I also show that the relationship between homeownership and family size is highly nonlinear and nonmonotonic. The first two children have positive influence on both homeownership and men's employment. The third and additional children are negatively associated with homeownership but have no significant incremental effects on men's labor supply.

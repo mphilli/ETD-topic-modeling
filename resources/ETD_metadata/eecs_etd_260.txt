@@ -1,0 +1,11 @@
+$TITLE:
+Supercritical fluid extraction of polychlorinated biphenyls from soils
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Soils, Supercritical fluid extraction, Polychlorinated biphenyls
+
+$ABSTRACT:
+In this work, supercritical fluid extraction experiments were executed to remove Aroclor 1248 (a mixture of 50 polychlorinated biphenyl congeners) from soil samples with carbon dioxide as the fluid. Two types of soil samples were used: one was spiked with Aroclor 1248 in the laboratory while the second was removed from polychlorinated biphenyl contaminated sites. Various factors have been tested for their effects on extraction efficiencies; these include initial solute concentration, soil water content, temperature, pressure, co-solvent, and soil property. Congener distributions after extraction were studied for spiked-till samples and real-world St. Lawrence River and Hudson River sediments.To describe the mechanism of the extraction process, different models were investigated. They are a diffusion-controlled mass transfer model, a modified linear-driving force model, and a model considering film-resistance.Experimental data show that supercritical fluid extraction technique is feasible for the removal of Aroclor 1248 from soils/sediments under mild conditions (40$\sp\circ$C and 100 atm). The residual solute concentration can reach 10 PPM level within 60 minutes of extraction.Modeling results indicate that the extraction process in our system can be approximated by a modified linear driving force model with appropriate assumptions. The regressed diffusion coefficients from the model describing the relatively slow extraction period fall in the same range as published data.

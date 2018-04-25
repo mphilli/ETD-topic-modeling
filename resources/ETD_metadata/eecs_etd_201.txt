@@ -1,0 +1,11 @@
+$TITLE:
+Visual reconstruction using variable nonlinear resistive networks
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Resistive networks
+
+$ABSTRACT:
+This thesis concerns the use of nonlinear resistive networks for solving ill-posed problems in computer vision. The particular problems considered are surface reconstruction, edge detection, stereo vision, optical flow computation and shape-from- shading. Ill-posed problems in early vision can be reformulated as optimization problems through regularization. Since many of the optimization problems in early vision are non-convex, it is difficult to solve them by using ordinary gradient descent algorithms. Also the optimization problems in early vision often require much computing power. In this thesis we propose Variable Nonlinear Resistive (VNR) networks that can be used for solving non-convex optimization problems. A VNR network is a resistive network that includes variable nonlinear multi-terminal resistors. Since they are resistive networks, they can easily be simulated on a parallel computer and may also be implemented on VLSI circuits.In this study, VNR networks that can be used to minimize non-convex functions are described, and conditions for the unique solution are given. We show that the Graduated Non-Convexity (GNC) algorithm and the Mean Field Annealing (MFA) algorithm can be implemented on this network, and we give some of the simulation results. To show that VNR networks can be used for general optimization problems, we use them for solving the traveling salesman problem. We also apply these networks to edge detection, surface reconstruction, stereo matching, optical flow computation and shape-form-shading problems. The networks give stable solutions for each problem.By theoretical developments and computer simulation, we demonstrate that the proposed VNR network is a very flexible and powerful method to solve non-convex optimization problems.

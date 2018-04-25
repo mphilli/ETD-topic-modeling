@@ -1,0 +1,11 @@
+$TITLE:
+The Rootbeer Gpu Compiler
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+GPU Programming, Java Bytecode Classloading, Java GPU Programming
+
+$ABSTRACT:
+Graphics Processing Units are a new type of hardware device that	have over 112 floating-point units accessible from CUDA or OpenCL using the SPMD abstraction. These can be used in many high performance applications such as medical imaging, computational biology and video image processing. The Rootbeer GPU Compiler is a system that enables these processors to be used from the Java Programming Language. The system is the only system including support for Java Programming Language features such as methods, fields and objects. It includes a high performance throughput API that offers faster performance than the competitor Aparapi and contains a complete API to use CUDA primitives from Rootbeer including atomic integers, shared memory, threadfence and syncthreads. To obtain maximum performance while programming a GPU, the developer should experiment with thread count, block count, shared memory	size	and	register count. These aspects of programming are all configurable while using Rootbeer and we show in examples that tuning these leads to improved performance. This dissertation explains GPU programming and describes the internal structure of the Rootbeer GPU Compiler along with additions to the Soot Java	 Optimization	 Framework and several examples demonstrating performance speedups. We show an example from computational biology of using Hidden Markov Model learning and likelihood calculation which Rootbeer can accelerate 102.7x with an NVIDIA Tesla C2050 device. In the final concluding remarks we give recommendations for supporting Java on GPUs to NVIDIA and Oracle for an industrial setting.

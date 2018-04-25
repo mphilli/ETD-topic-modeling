@@ -1,0 +1,11 @@
+$TITLE:
+Small traders and increased price volatility after stock splits
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+Price volatility, Stock splits, Small traders
+
+$ABSTRACT:
+Generally, the measurement error hypothesis and the noise trader hypothesis are employed to investigate the potential reasons for the significant post-split stock volatility increase. Neither hypothesis has proven convincing. Providing strong evidence supporting the small trader hypothesis, this study proposes replacing the flawed noise trader hypothesis with small trader hypothesis. According to the small trader hypothesis, small traders may prefer low-priced stock and the post-split volatility increase may be due to the trading activity of these small traders.The main objective of this study is to verify the small trader hypothesis. Empirical results in this study unanimously support the following three hypotheses, which is conformed to the small trader hypothesis: (1) H1: Volatility increases after stock splits. (2) H2: The trading activity of small traders increases after stock splits. (3) H3: The increase in volatility after splits is associated with the increased trading activity of small traders. Previous studies have shown some but incomplete evidence consistent with the H1 and H2 hypothesis. Unfortunately, no extant study has successfully linked the trading activity by small traders to the post-split volatility increase in the U.S. stock market. This study not only documents a significant post-split increase in volatility independent of different volatility measurement methods but also shows a significant post-split increase in volatility over specific time intervals within a trading day. By using disaggregated data differentiated by trade sizes, this study shows a contemporaneous connection between volatility and trading activity in different trade-sized categories around stock splits. More importantly, it documents significant effects of trading activity by small traders on the post-split increase in volatility, which is ignored by previous studies.

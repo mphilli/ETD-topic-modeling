@@ -1,0 +1,11 @@
+$TITLE:
+A mean field model for species abundance
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Ewens sampling, Mean field, Species abundance
+
+$ABSTRACT:
+In this thesis, we use the multitype mean field voter model as a model of species interaction, to obtain results about species abundance. Briefly, we start with the complete graph on n vertices, K n , with each site occupied by a particle. Particles are represented by a value in (0, 1), where distinct values represent different species. Particles, then undergo mutation at rate α, and are relabeled with a value chosen uniformly from (0, 1). Particles also give birth at rate 1, and invade any of the other n sites randomly. This process has a unique stationary distribution denoted by [Special characters omitted.] , which is given by the Ewens sampling formula. For each value in (0, 1) that is present in [Special characters omitted.] , we count the number particles represented by the same value, and call that the patch size of the species. Let K n [ a, b ] denote the number of species with patch size in [ a, b ]. We study the limiting distribution of K n [ a, b ] as the mutation rate α tends to 0, which will in turn force [Special characters omitted.] . In particular, we obtain results about [Special characters omitted.] , and [Special characters omitted.] , where [Special characters omitted.] .

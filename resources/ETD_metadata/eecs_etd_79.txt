@@ -1,0 +1,11 @@
+$TITLE:
+Electromagnetic scattering from an arbitrarily shaped chiral body of revolution
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Electromagnetic scattering, Body of revolution, Method of moments
+
+$ABSTRACT:
+In this dissertation, the problem of electromagnetic scattering from an arbitrarily shaped chiral body of revolution has been formulated using the surface equivalence principle and solved numerically using the method of moments technique.A plane wave illuminates the body. The surface equivalence principle is used to replace the body by equivalent electric and magnetic surface currents. The scattered field produced in the unbounded free space outside the body is due to these equivalent currents. The correct total internal field is produced in the unbounded chiral medium by the negatives of these equivalent currents. By using the boundary conditions on the surface of the body, four simultaneous surface integral equations are obtained which must be satisfied by the two unknown equivalent currents, electric and magnetic. The set of four equations is reduced to a coupled pair of equations by taking linear combinations of the original four equations. Because many pairs of linear combinations are possible, there are many surface integral equation formulations for the problem. One formulation commonly encountered in the literature is discussed and solved by the method of moments. A general computer program for chiral bodies of revolution is developed. Examples of numerical computations are given for a chiral sphere and a finite chiral circular cylinder. Numerical results for bistatic radar cross sections of a sphere are in excellent agreement with the exact ones obtained by the eigenfunction solution.The effect of adding chirality to dielectric scatterers is investigated throughout numerical results obtained for chiral bodies of different shapes and material parameters.

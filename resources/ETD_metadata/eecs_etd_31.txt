@@ -1,0 +1,11 @@
+$TITLE:
+Channel aware distributed detection in wireless sensor networks
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Distributed detection, Wireless sensor networks, Channel-aware, Relay networks
+
+$ABSTRACT:
+Classical distributed detection theory assumes that the local sensor outputs are reliably received at the fusion center as long as the transmission rates are below the channel capacity. This, however, requires optimum channel coding which may incur delay and complexity that are not affordable in systems with stringent resource and delay constraints. As such, the focus of this dissertation is the design of channel aware distributed detection systems where knowledge of transmission channels is integrated in the detection algorithm design to achieve optimal trade-offs between the inference performance and the resource/delay constraints.This dissertation investigates several topics in channel aware distributed detection. Specifically, all of them pertaining to the optimal distributed quantizer design for binary and multiple hypotheses testing problem under various models and assumptions. Toward minimizing the error probability at the fusion center, we derive the necessary conditions for the optimal local sensor decision rules. We establish the optimality of the likelihood ratio quantizer for local decision rules for the various problems under considerations. We first discuss the optimal channel aware local signaling design for a canonical distributed detection system with only partial channel knowledge. To broaden the scope of this dissertation, we then extend the results to the distributed detection design with the knowledge of only channel fading statistics. We also apply our channel aware design to cooperative relays in a wireless relay network that exploits the finite-alphabet property of the source. These three topics are unified under the common theme of an integrated channel informed approach for the local signaling design of distributed detection systems.

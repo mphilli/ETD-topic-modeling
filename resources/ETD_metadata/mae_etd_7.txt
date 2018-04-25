@@ -1,0 +1,11 @@
+$TITLE:
+Modeling and numerical simulation of salt transport and phase transitions in unsaturated porous building materials
+
+$DEPARTMENT:
+Mechanical and Aerospace Engineering
+
+$KEYWORDS:
+Salt transport, Porous building materials, Porous media, Construction materials
+
+$ABSTRACT:
+In this research work a model was developed that describes the combined heat, air, moisture and salt transport including phase transitions in unsaturated porous building materials. Particularly the properties of salt solutions and the interaction with moisture transport and storage properties of the material are considered in the model. The phase transitions crystallization, dissolution, hydration, dehydration and deliquescence are described as kinetic processes. The model is applicable to inert materials, such as bricks and natural stones. An efficient numerical solution method was developed and implemented into a simulation code to solve the coupled set of equations describing the interconnected transport and phase transition phenomena. This simulation code was tested in various simulation cases and demonstrated to be applicable for the analysis of practical problems. Therewith a useful model and tool was created to analyze the complex processes, and provide answers to questions arising from salt related durability problems.

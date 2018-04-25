@@ -1,0 +1,11 @@
+$TITLE:
+Self Similar Optical Fiber
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Fiber Optics, Fiber Optics Fabrication, Fractal, Micro Structured Optical Fiber, Nonlinear Optics, Self Similar
+
+$ABSTRACT:
+This research proposes Self Similar optical fiber (SSF) as a new type of optical fiber. It has a special core that consists of self similar structure. Such a structure is obtained by following the formula for generating iterated function systems (IFS) in Fractal Theory. The resulted SSF can be viewed as a true fractal object in optical fibers. In addition, the method of fabricating SSF makes it possible to generate desired structures exponentially in numbers, whereas it also allows lower scale units in the structure to be reduced in size exponentially. The invention of SSF is expected to greatly ease the production of optical fiber when a large number of small hollow structures are needed in the core of the optical fiber.This dissertation will analyze the core structure of SSF based on fractal theory. Possible properties from the structural characteristics and the corresponding applications are explained. Four SSF samples were obtained through actual fabrication in a laboratory environment. Different from traditional conductive heating fabrication system, I used an in-house designed furnace that incorporated a radiation heating method, and was equipped with automated temperature control system. The obtained samples were examined through spectrum tests. Results from the tests showed that SSF does have the optical property of delivering light in a certain wavelength range.However, SSF as a new type of optical fiber requires a systematic research to find out the theory that explains its structure and the associated optical properties. The fabrication and quality of SSF also needs to be improved for product deployment. As a start of this extensive research, this dissertation work opens the door to a very promising new area in optical fiber research.

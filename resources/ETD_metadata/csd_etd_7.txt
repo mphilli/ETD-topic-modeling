@@ -1,0 +1,11 @@
+$TITLE:
+Recovery from prior stimulation of the human compound action potential
+
+$DEPARTMENT:
+Communication Sciences and Disorders
+
+$KEYWORDS:
+Tympanic membrane, Hearing, Depolarization threshold, Action potential, Anatomy & physiology, Neurology
+
+$ABSTRACT:
+The recovery from prior stimulation of the compound action potential (CAP) was measured in normal hearing subjects by recording the CAP from the tympanic membrane using a forward masking stimulus paradigm. The effects of a 4000 Hz, 97 dB SPL conditioning stimulus on CAP amplitude and latency in response to a 4000 Hz probe were measured as a function of conditioner-probe interval for three probe levels. Normalized probe response amplitude was completely recovered to the control values at an average conditioner-probe interval of 1142 ms. N1 latency was completely recovered to its control value at an average conditioner-probe interval of 164 ms. The time for complete recovery from prior stimulation of human CAP amplitude was similar to that observed in chinchilla for similar stimulus conditions (Relkin, Doucet, and Sterns, 1994). The present results are interpreted as a consequence of the slow recovery of low spontaneous-rate (SR), high threshold neurons from prior stimulation (Relkin and Doucet, 1991) and may provide the first indirect physiological evidence for the existence of a class of low-SR auditory neurons in humans.

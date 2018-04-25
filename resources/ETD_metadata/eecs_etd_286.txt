@@ -1,0 +1,11 @@
+$TITLE:
+Analysis And Design Of Ceramic Transformers And Filter Elements
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Electrical engineering, Ceramic Transformers, Filter Elements, piezoelectric component design, mechanical resonance
+
+$ABSTRACT:
+Describes and analyzes ceramic power transformers, and ceramic transformers acting as filter elements, with focus on piezoelectric transformers.--Preface.

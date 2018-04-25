@@ -1,0 +1,11 @@
+$TITLE:
+Mate choice in the presence of sperm parasites
+
+$DEPARTMENT:
+Biology
+
+$KEYWORDS:
+Sexual imprinting, Poeciliopsis, Mate choice, Sperm parasites
+
+$ABSTRACT:
+The present study looks at the interaction between species recognition and mate choice within a set of sympatric species. In Mexico, a complex of species of internally fertilizing, viviparous fishes (Genus Poeciliopsis ) live sympatrically with each other and with an array of clonal females. The clones depend on inseminations from males of the various species to initiate embryogenesis. The clones are considered "sperm parasites" since none of the DNA from the males is incorporated into the offspring. Considering the costs incurred by males in time, energy, inter-male aggression, exposure to predation and, of course, the wasted gametic material, the question investigated was why males from these species court and mate with clonal females? Many hypotheses were considered, including whether males are allocating mating effort in proportion to the probability of achieving sexual offspring, or whether males are deriving other fitness benefits from clonal inseminations, such as discarding old sperm, gaining valuable practice or increasing their attractiveness to sexual females. The hypothesis found to be most consistent with the evidence was the one that tested whether males must interact and mate with clonal females while learning to discriminate between clonal and conspecific females. It was demonstrated that males can learn clonal discrimination only if they are given extensive experiences with a sexual female first and then given extensive experience with a clonal female. The reverse order of experiences did not result in males exhibiting clonal discrimination. Further, it was shown that males more rapidly learned cues associated with sexual females than they learned cues associated with clonal discrimination. Finally, a model of the proximate mechanism involved in learning clonal discrimination was proposed.

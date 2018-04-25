@@ -1,0 +1,11 @@
+$TITLE:
+An analysis of linear and non-linear coherent detection in atmospheric noise at very low frequency
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Electrical engineering, Gaussian noise, atmospheric noise, VLF/LF communication systems, modems
+
+$ABSTRACT:
+The motivation for this effort, begun in 1970, was the inadequacy of the available descriptions of the available descriptions of coherent receiver performance in very low frequency (VLF) and low frequency (LF) atmospheric noise. Extensive on-air testing of coherent VLF/LF communication systems clearly showed that their real-world performance was far different from that calculated for and measured in white Gaussian noise. Moreover, modulator-demodulator (modem) systems designed to be optimum in Gaussian noise are not necessarily optimum in atmospheric noise. Hence, a quantitatively accurate characterization of coherent detection in VLF/LF atmospheric noise would provide the dual capabilities of accurately assessing system performance and a basis for developing optimum real-world modem and receiver systems.

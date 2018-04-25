@@ -1,0 +1,11 @@
+$TITLE:
+An empirical examination of the Heath, Jarrow and Morton term structure model using treasury bond futures options data
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+Heath, David, Jarrow,  Robert A., Morton, Andrew, Interest rates, Options, Term structure, Treasury bond futures
+
+$ABSTRACT:
+The purpose of this study is to empirically examine several versions of the Heath, Jarrow and Morton (HJM) term structure model, using data from the T-bond futures options market over the sample period of March-June, 1996. More precisely, the study attempts to determine whether any of these no-arbitrage models provide better price forecasts than those given by the theoretically inferior, but substantially simpler Black model. The results show that although the HJM models can be made to fit the market data reasonably well, the Black model forecasts are appreciably more accurate. That is, if the goal is to simply match market prices, then there is little doubt that the more straight forward model performs best. The differences in the price predictions are largely attributed to the fact that the HJM models are unable to accurately match the observed prices of the underlying securities (the futures contacts) considered here. This is contrary to one of the promoted advantages of the HJM model, which is designed to ensure that the model exactly matches the market price of the underlying asset. Unfortunately, the study is unable to usefully examine whether the observed price discrepancies represent profitable trading opportunities, mainly due to testing problems imposed by the daily data sample. There also remain a number of serious problems with the existing methodologies used for that purpose, and it is this area which deserves more emphasis in future research.

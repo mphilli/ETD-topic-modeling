@@ -1,0 +1,11 @@
+$TITLE:
+Marital similarity, marital interaction, and couples' shared view of their marriage
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Couples, Marriage, Communication, Intimacy
+
+$ABSTRACT:
+Berger and Kellner (1964) theorize that marital communication is a crucial aspect of couples' forming a shared understanding of their experiences or a "shared view of reality." It is proposed that couples with a shared view of their marriage will perceive common aspects of their relationship in a similar Way. The current study uses a new methodology devised by Kenny and Acitelli (1994) to remove potential stereotype effects and thus, measure the unique similarity created within a couple.The current study was conducted to investigate relations among marital communication variables, couples' perception of intimacy, and couples' similarity. Fifty-three couples were videotaped discussing a problem area in their marriage. The videotaped interactions were coded using the Rapid Couples Interaction Coding System (RCISS; Krokoff, Gottman, & Hass, 1989) and the Specific Affect Coding System (SPAFF; Gottman & Krokoff, 1989). Couples were grouped based on plotted slopes calculated from their positive and negative speaker behaviors. Couples that were observed consistently using more positive communication behaviors were found to be more similar regarding their ideas about intimacy in their marital relationship. However, once the similarity score was corrected to remove the stereotype effect these group differences were no longer statistically significant. Alternative hypotheses regarding the concept of a "shared view of reality" are discussed, as are the implications of these results for future research.

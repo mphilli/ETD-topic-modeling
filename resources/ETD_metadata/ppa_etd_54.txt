@@ -1,0 +1,11 @@
+$TITLE:
+Evaluation of factors affecting the cost of public services with an application for fire protection
+
+$DEPARTMENT:
+Public Administration
+
+$KEYWORDS:
+New York. Public administration, Finance
+
+$ABSTRACT:
+This study asks the question, "what factors have an important effect on the cost of providing local public services?," What lies behind this simple question is a complex subject which touches on many important policy issues for local governments. Understanding what drives public sector cost increases is an important step in the improvement of local government fiscal planning and forecasting. Although there is a large body of literature which has addressed some aspect of local service provision, it is fragmented, with significant variation in the problems examined and the methodologies employed. The objective of this study is to integrate this diverse literature into general models of public service costs and demand. Since there has been limited research modelling public sector costs, this is the major purpose of this study. This study proceeds in two stages. First, the theoretical implications of adding cost factors to the standard median voter model is examined. Specifically, this model is expanded to take into account economies of scale, factor price endogeneity, capital expenditures, debt financing and tax exporting. This analysis helps to highlight the significant impact that different production technologies and factor prices can have on the "price" of public goods to voters. The major objective of this study is to develop empirical models of public sector costs (and demand). The framework developed by Bradford, Malt and Oates (1969) is used to modify private sector cost models to fit public services. These models are then used to analyze the cost of providing local fire protection in New York State. The results from simultaneous estimation of cost and demand models are substantially different from the findings of previous research examining them in isolation. In summary, this dissertation sheds light on important factors affecting local government costs by developing cost models which fit service provision in the public sector. Equally important, this study provides insight on the direction which future research should take to further improve models of local public service provision.

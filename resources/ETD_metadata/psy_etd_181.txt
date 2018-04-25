@@ -1,0 +1,11 @@
+$TITLE:
+Reading and Test Taking in College English as a Second Language Students
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+College Students, ESL, Reading Comprehension, Test Taking
+
+$ABSTRACT:
+Throughout the United States the number of students who speak English as a second language (ESL) enrolled in United States colleges and universities has been increasing steadily over the past 20 years. ESL students may be considered an at-risk group for performance on reading comprehension portions of classroom and high stakes tests (HST) like the SAT. However, little research has examined the test taking behaviors and skills of ESL college students on timed tests of reading comprehension. The present study assessed 84 ESL and 84 native English speaking (L1) college students on a variety of measures commonly associated with HST. Results revealed that ESL students performed poorer on tests of reading speed, reading comprehension, vocabulary, and word recognition. Despite their lower reading comprehension performance, ESL students did not engage in different testing behaviors or test taking strategies compared to the L1 students. ESL students reported lower confidence in their abilities to perform on reading tests than the L1 students but did not report higher test anxiety. Vocabulary was the strongest predictor of reading comprehension performance for the ESL students. Implications of these findings as well as limitations and directions for future research are discussed

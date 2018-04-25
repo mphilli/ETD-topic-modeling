@@ -1,0 +1,11 @@
+$TITLE:
+Factors related to the retention of biology knowledge in non-science college students
+
+$DEPARTMENT:
+Science Teaching
+
+$KEYWORDS:
+Biology, College students, Knowledge retention, Nonscience students
+
+$ABSTRACT:
+The primary purpose of this study was the identification of factors that contribute to the long-term retention of biology knowledge. Long-term retention is defined here as knowledge retained one, two, or three years following the completion of a two-semester college biology course. The factors examined for their influence on retention were primarily learner-centered in that they compared the qualities of the students rather than the nature of the instruction used. The variables examined for their relationship to long-term retention were: the student's learning approach (meaningful or rote), the student's perception of the relevance of the course content to his or her life, the student's interest in biology, the student's biology course grade, and the time between the completion of instruction and the retention measure. This study also examined how the impact of these variables on retention was related to the factual or conceptual nature of the biology content learned.The results of the regression analysis have revealed several interesting interactions among the variables examined. A student's tendency to utilize either a rote or more meaningful approach to learning interacts with his or her perception of course relevance in predicting biology knowledge retention. When the retention of higher-level biology concepts was examined, an interaction was observed between students' approaches to learning and the time between the course and the retention measure.Students with higher performance in the biology course demonstrated greater retention after one or two years but showed the greatest relative loss of retention following a three-year interval. Students' interest in biology, as measured by the frequency of biology related behaviors, showed a small positive correlation to long-term retention.

@@ -1,0 +1,11 @@
+$TITLE:
+A Study of Teacher Experience, Knowledge of and Attitude toward Mathematics and the Relationship of These Variables to Elementary School Pupils' Attitudes toward and Achievement in Mathematics
+
+$DEPARTMENT:
+Teaching and Leadership
+
+$KEYWORDS:
+Mathematics, Attitudes, Achievement, Teacher Knowledge
+
+$ABSTRACT:
+The purpose of the present study were threefold: (1) to describe the relationship between teacher attitude toward mathematics and such teacher characteristics as grade level taught, college semester hours earned in mathematics, educational level and teacher knowledge of mathematical concepts; (2) to describe the relationship among teacher attitudes toward mathematics, pupil attitude toward mathematics and pupil achievement in elementary school mathematics; and (3) to describe the relationship between teacher knowledge of mathematical concepts and pupil achievement in elementary school mathematics.

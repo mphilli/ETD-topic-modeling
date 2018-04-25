@@ -1,0 +1,11 @@
+$TITLE:
+Learning through Games: Essential Features of an Educational Game
+
+$DEPARTMENT:
+Instructional Design, Development and Evaluation
+
+$KEYWORDS:
+Challenge, Educational Games, Fantasy, Feedback, Pretest Posttest, Quantitative
+
+$ABSTRACT:
+This study investigated the following research questions: (1) Do instructional games augment learning? (2) What is the impact of the challenge and fantasy features in instructional games on learning? For the purpose of this study, a game called "Humatan" was designed to teach human anatomy to high school students based on the Baltimore County Public Schools curriculum. Four different versions of the Humatan game were created:1. A game with only the challenge feature turned on2. A game with only the fantasy feature turned on3. A game with both the challenge and fantasy features turned on4. A game with challenge and fantasy turned offHigh school students from Baltimore County Public Schools (n=202) were randomly assigned to play one of the above four versions of the Humatan game after taking a pretest on human anatomy. After playing the game, they also took a posttest and a survey to obtain information related to their Grade Point Average (GPA), Socioeconomic Status (SES), game skillfulness, gender, and the ethnicity. Since there were no existing survey instruments available for measuring game skillfulness, the researcher created a new survey instrument which was validated by the Survey Research Laboratory in the University of Illinois at Chicago. All the four groups showed an improvement in learning, which suggests that instructional games augment learning. Students who played the game version with only the challenge feature turned on (n=48) scored a higher average gain score than the students who played other variations of the game. Analysis of variance showed a main effect of challenge on the gain score, F (3, 198) = 4.71, p = .003. Students who played with only the fantasy feature turned on (n=52) obtained the lowest average gain score. This implies that the challenge feature significantly improved learning and the fantasy feature did not significantly improve learning. The GPA, SES, game skillfulness, gender, and the ethnicity of the students did not show any significant impact on learning.

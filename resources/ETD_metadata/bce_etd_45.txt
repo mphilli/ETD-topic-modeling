@@ -1,0 +1,11 @@
+$TITLE:
+Nonlinear model predictive control and modeling of liquid-liquid extraction processes
+
+$DEPARTMENT:
+Biomedical and Chemical Engineering
+
+$KEYWORDS:
+bivariate population balance equation, Sauter, DMC, dynamic matrix control
+
+$ABSTRACT:
+Rigorous dynamic models, i.e., Bivariate Population Balance Equation (BPBE) models, and a simplified solution method are developed for computer simulations and modeling of extraction processes. The BPBEs account for drop breakage, coalescence, convection, and interphase mass transfer when controlled by diffusion or reaction. Hydrodynamic and mass transfer properties, such as the Sauter mean diameter, average holdup, and solute concentrations, can be computed from the model equations. The calculated results of three different systems in either a CSTR or multistage column are compared to experimental data. Without adding any adjustable parameters in the calculations, good agreement has been obtained for all three cases. Furthermore, the computational intensity for the method is low, which permits future practical applications of the modeling for process control and simulation.The BPBE models are also used to replace the empirical linear model used in Dynamic Matrix Control (DMC) algorithms for SISO and MIMO control studies of a seven-stage Oldshue-Rushton extraction column pilot plant. The resulting nonlinear DMC controllers are shown to bring the extraction column to new setpoints (servo control) or to reject disturbances (regulatory control) faster with tighter control. The faster response means better control; the tighter control allows the process to be regulated so that it is closer to the optimal operating condition. It is shown that a good mechanistic process model reduces the plant/model mismatch significantly, which improves the performance and robustness of a DMC controller.This research contributes to the field of liquid-liquid extraction by providing a novel and robust multivariable control algorithm that is transferable to many types of extractors, which will permit reliable operation near flooding conditions where optimal efficiency of separation exists. The detailed framework of the hydrodynamic and mass transfer in liquid-liquid extraction processes presented in this work also leads to a better understanding of drop-to-drop and phase-to-phase interactions.

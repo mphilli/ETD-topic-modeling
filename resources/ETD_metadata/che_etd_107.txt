@@ -1,0 +1,11 @@
+$TITLE:
+The synthesis and structural study of oxovanadium phosphites, phosphates, and phosphonates
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Oxovanadium, Phosphates, Phosphites, Organophosphonates
+
+$ABSTRACT:
+The synthesis and structural studies of a number of oxovanadium phosphites, phosphates, and organophosphonates were undertaken. Utilization of alternative phosphorous polyoxoanion units allowed the isolation of solid state materials with novel structural motifs: (i) Oxovanadium phosphites with and without organoammonium structure directing agents have been produced with two- and three-dimensional frameworks. (ii) Investigations in the oxofluorovanadium phosphate system have produced solid state materials with organoammonium cation structure directors and alkali metal cation space fillers. (iii) The oxovanadium organophosphonate system has produced a novel cylindrical structure type. (iv) Furthermore, the structural diversity of the oxovanadium organodiphosphonate system permits the formation of a series of materials with frameworks ranging from zero- to three-dimensional.Synthesis of these materials is achieved by hydrothermal methods. The hydrothermal technique provides a means to the isolation of meta-stable materials which would be unattainable by high-temperature ceramic methods. The study of V/P/O open-framework solids may provide a route to the synthesis of a catalytic material with high selectivity in addition to possessing extended catalytic mechanisms.

@@ -1,0 +1,11 @@
+$TITLE:
+An empirical study of impulse radiating antenna application to target identification
+
+$DEPARTMENT:
+
+
+$KEYWORDS:
+Impulse radiating antenna, Target identification, Wideband pulses, Deconvolution
+
+$ABSTRACT:
+The Impulse Radiating Antenna (IRA) is a solution to the problem of radiating a wideband, non-dispersive pulse into the far-field. One of the applications of the IRA is the observation of targets at far distances. In this research, a model of the IRA is developed and simulated alone and in a scene with a target. Deconvolution of the target signature from the simulated scene is achieved using a Method of Moments simulation code to acquire the frequency domain responses of each component in the scene. The frequency domain responses are transformed to the time domain using a Gaussian window and the inverse Fourier transform. The time domain signature of the target is gated so that the IRA transmit and receive antenna signatures can be deconvolved to isolate the target alone. The result of the deconvolution process is compared to the simulation data of the target alone. The simulated and deconvolved signatures show good agreement in both time and frequency domains.  This dissertation details the process to successfully model and simulate a complex electromagnetic radiation and scattering scene for the purpose of extracting a target signature from the received antenna response. This research focuses on the Impulse Radiating Antenna (IRA) and provides a frequency domain Method of Moments model and simulation results for two sizes of IRAs.

@@ -1,0 +1,11 @@
+$TITLE:
+Design of optimization techniques for soft-decision decoding of linear block codes
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+decoding, algorithms, computer science
+
+$ABSTRACT:
+This dissertation deals with maximum-likelihood soft-decision decoding as well as suboptimal soft-decision decoding of linear block codes. We present three new decoding algorithms: $MA\sp*D,\ H\sp*,$ and Directed Search. The first algorithm, $MA\sp*D,$ is an instance of Algorithm $A\sp*$ that conducts heuristic search through a code tree of the transmitted code when the decoding problem is transformed into a problem of graph-search through a code tree. $MA\sp*D$ takes into consideration more properties of the code and is considerably more efficient than the original $A\sp*$ decoding algorithm presented by Han, Hartmann, and Chen in 1993. The second algorithm, $H\sp*,$ is a new decoding algorithm that determines the value of every component of a minimum-cost codeword by estimating the cost of the minimum-cost codeword, which has a fixed value at one of the k most reliable, linearly independent bit positions. The suboptimal version of this algorithm is combined with other decoding algorithms to reduce the search space during the decoding process. The third algorithm, Directed Search, is designed to enhance the performance of soft-decision decoding by searching in continuous space. This approach explores the search space between a given vector and the received vector and finds the codeword closest to the received vector in the space explored. We also present a novel and efficient hybrid decoding algorithm for (n, k) linear block codes. It hybridizes $MA\sp*D,\ H\sp*,$ and Directed Search algorithms, utilizing their strengths to make the decoding more efficient. Simulation results for this hybrid algorithm are presented for the (104,52) binary-extended quadratic residue code and for the (128,64), the (256, 131), and the (256, 139) binary-extended BCH codes. This hybrid algorithm can efficiently decode the (104,52) binary extended quadratic residue code and the (128,64) code for any signal-to-noise ratio and has near-optimal to optimal performance. Previously, no practical decoder could decode these two codes with such a performance for all signal-to-noise ratio ranges.

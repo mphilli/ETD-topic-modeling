@@ -1,0 +1,11 @@
+$TITLE:
+Social Beliefs, Agonistic Goals, Anger, and Biased Perceptions of Outgroups: A Social Action Theory of Covert Racial Prejudice
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Attitudes, Beliefs, Motives, Perception, Racial Discrimination, Social Action Theory
+
+$ABSTRACT:
+Racial prejudice and discrimination are an important societal and public health problem.  Approaches to understanding the origins of prejudice and discrimination have focused on attitudes, both overt (explicit) and covert (implicit).  But attitudes correlate only modestly with implicit biases and explicit discriminatory behavior.  Drawing on Social Action Theory, this study tested the hypothesis that the relationship between racial attitudes and implicit biases / overt discrimination is moderated by socially-induced personal regulatory struggles that take the form of agonistic striving, or persistently seeking to influence or control other people.  The research tested the hypotheses that agonistic striving fosters implicit racial biases and discrimination by (a) inducing states of hyper-alert vigilance to social threats; and (b) fostering reactive anger when personal strivings are threatened.  These reactions magnify the connection between disparaging social beliefs about subordinate groups and the perception that individuals from this group are dangerous.  Participants were 150 college students (mean age = 18.8 +1.4 years); 57% female; Caucasian) enrolled in an introductory psychology course.  Social beliefs were assessed with the Modern Racism Scale and the Social Dominance Orientation scale; agonistic strivings with the Social Competence Interview; covert racial biases with the Race Implicit Association Test; and explicit racial discrimination behavior with a job qualifications rating task. The social action theory taxonomy of regulatory strivings was replicated in this sample. Tests of study hypothesis indicated that implicit racial biases were associated with social dominance beliefs but not with modern racism, agonistic vigilance, or reactive anger. Overt racial discrimination was associated with agonistic reactive anger but not with agonistic vigilance or social beliefs.  Findings suggest ways to improve research on racial discrimination, and point to social-structural and psycho-educational interventions to curb discrimination and enhance public health.

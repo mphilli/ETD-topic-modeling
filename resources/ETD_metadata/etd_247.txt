@@ -1,0 +1,11 @@
+$TITLE:
+Looking Beyond the Standard Model from the Lattice
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+The overall motivation behind the work undertaken in this thesis, is to gain a deeper insight into the dynamics responsible for the Higgs mechanism.  In particular we use lattice gauge theory techniques, to understand the inherent symmetry breaking patterns of three specific BSM (beyond the standard model) theories. The first model (in chapter 3) describes the spontaneous symmetry breaking pattern in a two dimensional, eight supercharge supersymmetric Yang-Mills theory. We discuss the mechanism responsible for the said symmetry breaking and show evidence for a possible light Goldstino-the fermionic analogue of a massless goldstone boson. In chapter 4, we study the phase structure of the gauged NJL model on the lattice to verify continuum calculations that predict a possible second order phase transition corresponding to a line of new fixed points. Contrary to theoretical predictions, we find that, this model does not exhibit a second order phase transition and instead the influence of the four fermi term results in a dramatic enhancement of the chiral condensate signal. Finally, in chapter 5, we show that a strongly coupled theory comprising just of fermions and gauge fields displays dynamical gauge symmetry breaking due to the formation of a gauge invariant four-fermion condensate.

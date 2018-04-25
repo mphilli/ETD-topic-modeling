@@ -1,0 +1,11 @@
+$TITLE:
+Multi-layer adaptive digital particle image velocimetry and its application
+
+$DEPARTMENT:
+Mechanical and Aerospace Engineering
+
+$KEYWORDS:
+Velocity field, Digital particle image velocimetry, Multilayer adaptive
+
+$ABSTRACT:
+A new multi-layer adaptive cross-correlation algorithm was developed to extract the 2-D velocity field from particle images. The technique could significantly improve the resolution and accuracy of the digital particle image velocimetry (DPIV) as well as greatly reduce the evaluation time in comparison with other approaches. A video based DPIV system with a complete motion analysis software package incorporating the new algorithm was developed. The effect of various parameters, such as seeding density, velocity gradient, out-of-plane motion, particle-size, image dynamic range etc., on accuracy of the system was investigated using a Monte Carlo simulation. Validation was performed through a simulated Oseen-vortex flow field and through experiments on the flow past a cylinder and the flow past a flat plate. The system was applied to the axisymmetric starting flows behind a solid disk and slotted disks as test cases. The evolution of the time dependent velocity and vorticity fields were studied. Time-histories of the circulation and the impulse acting on different disk models were also obtained with the present DPIV system. The effects of acceleration rates and spacing ratios on the near-wake regions behind the disks were investigated.

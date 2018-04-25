@@ -1,0 +1,11 @@
+$TITLE:
+Grid-based collaboration
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Grid-based, Collaboration, Shared event model, Thin client
+
+$ABSTRACT:
+Grids are managed Internet scale distributed services supporting collaboration and virtual organization. Collaboration over networks is becoming more and more popular and important in such areas as online conferencing, distance education, e-Science, e-Business, and e-Learning. We research the topic of shared event collaboration on Grid; we build three prototypes to investigate the issues from different software models and languages; we demonstrate this by making clients (collaboration entities) collaborate on events, taking advantages of the Grid for delivery of event messages and the computing powers of the clients' host computers. Grids are built from Web Services exchanging messages.Peer-to-peer Grids exploit the observation that the entities in both P2P systems and Grids are autonomous agents (peers, services) whose state is determined by exchanging messages. Our work addresses Peer-to-peer Grids and leverages the advantages of both so that they complement each other. We have developed collaborative prototypes in PowerPoint, Impress, and ReviewPlus applications to demonstrate this, using Message Oriented Middleware (NaradaBrokering Message Service) to provide a Grid messaging substrate that can support collaborative Grids. The work with ReviewPlus is in Interactive Data language (IDL), where the complete and proper definitions of event structures are supplied and elegant mechanisms of widget programming are guaranteed; the events are systematically and completely defined with respect to structures, levels, configurations, and associated types of event handler routines. The prototypes are instantiations of the Shared Event Model and demonstrations of the collaborative Peer-to-peer Grids.In order to promote the collaborative applications' usefulness and universal accessibility, we investigate a "Thin Client Collaboration Web Services" client architecture. We further develop a theoretical framework in terms of deterministic finite automata to describe our collaborative systems. We use the prototypes to define a general approach to shared event collaboration on the Grid.

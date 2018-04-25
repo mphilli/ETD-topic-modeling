@@ -1,0 +1,11 @@
+$TITLE:
+DUAL-THIN MARRIAGE AND LABOR MARKETS: LOCATION CHOICES AND EMPLOYMENT OUTCOMES FOR PH.D. WORKERS
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Consumer Amenity, Immigrants, Job Colocation, Labor Markets, Marriage Markets, Ph.D. Workers
+
+$ABSTRACT:
+This dissertation comprises two papers that examine the employment outcomes and location choices of Ph.D.-trained individuals that often face dual-thin marriage and labor markets. The first paper investigates the degree to which single Ph.D.-trained workers, both domestic and foreign-born, face trade-offs between marriage and labor market opportunities. When job markets are not geographically overlapping with marriage markets, single PhDs may be forced to choose between metropolitan areas (MSAs) that offer better employment opportunities versus better marriage markets. I find significant evidence of a “sorting” effect – the local marriage market is a location-specific consumer amenity for which highly trained foreign-born singles may sacrifice real wage in equilibrium to access a more active dating environment. The second paper uses differencing strategies to compare the location choices of foreign-born versus domestic-born Ph.D.-trained workers. Results suggest that single foreign-born Ph.D. workers are partly willing to forgo the greater labor market opportunities found in large MSAs in exchange for a more active dating scene. In contrast, findings on married foreign-born Ph.D. workers echo those from Costa and Kahn (2000) that highly educated couples are disproportionately drawn to large MSAs in order to solve their job market co-location challenge.

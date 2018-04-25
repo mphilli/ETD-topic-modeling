@@ -1,0 +1,11 @@
+$TITLE:
+Locke on essence and identity
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Philosophy, John Locke
+
+$ABSTRACT:
+The purpose of this dissertation is to examine the relationship between Locke's anti-essentialism and his theory of identity. Subsequent to developing these theories in chapters one and two, I argue that the organisms and persons in Locke's ontology must have both spatial and temporal extent, since he takes them to be diachronically compounded out of shorter-lived, successively existing substances. In chapter four I defend this interpretation by arguing, first, that Locke could have entertained a four-dimensional account of physical objects, and hence that this interpretation of his identity chapter is no mere anachronism. I subsequently present some additional reasons for thinking that he would be favorably disposed towards such an account, reasons which pertain to his treatment of space and time, to his theory of creation, and to his philosophy of mind. In the final chapter I present what I take to be the most compelling reason for thinking that Locke would have rejected three-dimensionalism in favor of four-dimensionalism, had he been given a clear choice between the two. First, I show that his anti-essentialism is flatly inconsistent with his theory of identity on a three-dimensional account of objects, since this account would commit him to attributing de re essential properties to particular objects. I subsequently argue that a four-dimensional account of objects would rescue him from this essentialist implication.

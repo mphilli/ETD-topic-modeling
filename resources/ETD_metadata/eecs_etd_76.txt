@@ -1,0 +1,11 @@
+$TITLE:
+Optimizing transforms for Java and .NET closed systems
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Transforms, Java, Optimization, NET
+
+$ABSTRACT:
+The Java programming environment uses a highly-developed virtual machine (VM) to execute its programs. The idea of a VM environment isn't new, but was popularized greater than ever before with the advent of Java. Java gains flexibility in this environment but pays for that flexibility in terms of performance. Exacerbating the problem, Java is a dynamically linked language which often defied traditional static analysis techniques. This constraint eliminates many opportunities for compiler optimization. Certainly, the established science of compiler optimization would have had much to contribute to Java's performance woes if such analysis were possible. This dissertation examines the composition of Java applications and presents a framework to identify portions of Java applications that are statically analyzable. In essence, few Java applications are fully statically analyzable, however the techniques presented herein strive to identify program subsets (which we shall call {\em closed-systems;) that are safely statically analyzable in isolation. Once such subsets are identified and statically analyzed, classic optimization transforms may be applied. The NET framework was released by Microsoft several years after Java and after the core framework of this dissertation was developed. However, because of the NET environment's runtime similarity with Java's, the techniques presented here also apply to NET with minimal modification. Specific modifications are noted where applicable. The end result of this work is a framework which presents the ability to optimize parts of Java applications in ways not previously possible. In addition, new optimizations specific to the Java (and NET) execution environment were discovered for performance improvement, application size reduction, and reverse engineering impedance.

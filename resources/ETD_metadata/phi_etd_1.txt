@@ -1,0 +1,11 @@
+$TITLE:
+Addiction: Rationality and responsibility
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Addiction, Rationality, Hyperbolic discounting, Self-deception
+
+$ABSTRACT:
+This dissertation discusses behavioral economic, decision theoretical and social-political philosophical accounts of addiction. I begin (chapter one) by surveying these various accounts in light of Plato's famous argument against the possibility of strict akratic action. I then argue (chapter two) that George Ainslie's hyperbolic discounting model of addiction is superior in a number of respects. However, his view of the self is problematic, and I propose (chapter three) several modifications. On the basis of my proposals, I argue (chapter four) that hyperbolic discounters do not suffer from akrasia, but, rather, from self-deception. I then show (chapter five) how awareness of this kind of self-deception serves to help the agent overcome the dynamic inconsistency of hyperbolic discounting. Finally, I propose (chapter six) that agents as I envisage them are still responsible for at least some of their choices.

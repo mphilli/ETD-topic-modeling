@@ -1,0 +1,11 @@
+$TITLE:
+Psychiatric history and cognition trajectories in later life: Variation by sex, race and ethnicity, and childhood disadvantage
+
+$DEPARTMENT:
+Social Sciences
+
+$KEYWORDS:
+Psychiatric history, Cognition, Later life, Ethnicity, Childhood disadvantage
+
+$ABSTRACT:
+Advocates of the life course perspective suggest that cumulative inequality affects later-life cognitive function, and that a history of psychiatric problems may be detrimental to cognition among individuals at risk of experiencing cumulative disadvantage. Psychiatric conditions are more prevalent among disadvantaged groups, who may also be at risk of experiencing cognitive decline in later life. Therefore, it is important to explore the relationships between sex, race/ethnicity, childhood disadvantage, psychiatric history, and cognitive function. This study addresses the following research questions: (1) Do individuals with a history of psychiatric problems have lower initial cognitive functioning and/or a unique trajectory of cognitive function with age? (2) Does the relationship between psychiatric history and cognitive function in later life change when controlling for ascribed, early-life, and later-life characteristics? (3) Do ascribed characteristics interact with psychiatric history to affect cognitive function in later life?This study applies growth curve models to analyze six waves of Health and Retirement Study data, examining influences on total cognitive function and three components of cognitive function, while controlling for demographic and health variables. The psychiatric history variable includes psychiatric, emotional, and nervous problems. Findings indicate that psychiatric history is related to lower cognition and steeper rates of decline, and that race/ethnicity and childhood disadvantage are also related to cognition. These findings also demonstrate that cumulative disadvantage and psychiatric history shape later-life cognition and decline and can enhance our understanding of trajectories of cognitive decline experienced by disadvantaged groups.

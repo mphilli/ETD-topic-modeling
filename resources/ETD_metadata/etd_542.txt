@@ -1,0 +1,11 @@
+$TITLE:
+Aluminum is more tightly bound in soil after wollastonite treatment to a forest watershed
+
+$DEPARTMENT:
+Civil and Environmental Engineering
+
+$KEYWORDS:
+cation exchange, forest health, Organically bound aluminum, soil acidity, watershed, wollastonite
+
+$ABSTRACT:
+Aluminum concentrations decreased on soil exchange sites and in soil solutions after a whole-watershed wollastonite (CaSiO3) treatment at the Hubbard Brook Experimental Forest in New Hampshire. This study was conducted to determine whether these decreases could be explained by changes in organically bound Al (Alorg) in soils. The concentrations of Alorg, exchangeable Al (AlKCl) and other chemical properties in organic (Oi + Oe, Oa) and 0-10 cm mineral soil layers were measured using samples collected prior to treatment (1998) and afterwards (2002, 2006, 2010 and 2014). Compared to pre-treatment values, Alorg concentrations in the Oa horizon and the 0-10 cm mineral soil layer increased by 312% and 803%, respectively; over the same period, AlKCl concentrations in these horizons decreased by 57% and 15%, respectively. Through 2014, the Alorg pool in the 0-10 cm mineral soil layer increased by 602% compared to the pretreatment value, whereas the AlKCl pool in the Oa horizon decreased by 84%. In the surface Oi + Oe horizon, no significant changes in soil Al concentrations and pools were observed after the treatment, though AlKCl concentrations showed a slight decrease. Aluminum is migrating downward from the Oa horizon to the 0-10 cm mineral layer. The predominant form of Al binding has shifted from weaker exchangeable Al to stronger organically bound Al. This conversion of exchangeable Al to organically bound Al has reduced Al solubility and contributed to improved forest health.

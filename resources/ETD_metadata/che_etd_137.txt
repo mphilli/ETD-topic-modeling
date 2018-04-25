@@ -1,0 +1,11 @@
+$TITLE:
+Synthesis of polyketide-derived natural products from carbohydrates: Application of the (2,3)-Wittig rearrangement of carbohydrate-derived alpha-alkoxy tertiary allylic ethers to the syntheses of Adda and rapamycin
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Wittig rearrangement, organic chemistry
+
+$ABSTRACT:
+Considerable effort has focused on the development of synthetic methodology to effectively construct the unique structural subunits found within biologically active, polyketide-derived natural products. One successful approach begins with carbohydrates as chiral building blocks from which the complex structure and stereochemistry of polyketide-related intermediates can be elaborated. This dissertation describes the development of a synthetic strategy which utilizes carbohydrates in combination with the (2,3) -Wittig rearrangement for the synthesis of polyketide-derived natural products.The synthesis of the novel $\beta$-amino acid (2S, 3S, 8S, 9S)-Adda, a component of hepatotoxic cyclic peptides, such as the microcystins, nodularin and motuporin, isolated from fresh water cyanobacteria is described. The present approach uses the (2,3) -Wittig rearrangement of a carbohydrate-derived tertiary allylic ether to establish the stereochemistry at the C$\rm\sb6,\ C\sb8$ and C$\sb9$ stereocenters of Adda.A stereoselective and efficient synthesis of an advanced C$\sb{24}$-C$\sb{42}$ fragment of rapamycin from a carbohydrate template is presented. This fragment was rapidly assembled by serial sigmatropic rearrangements of carbohydrate-derived allylic ethers. The (2,3) -Wittig rearrangement was used to install the C$\sb{29}$ trisubstituted olefin and the C$\sb{31}$ and C$\sb{32}$ chiral centers of the target compound. Subsequently, the (3,3) -Claisen rearrangement was employed to introduce the cyclohexyl unit and the C$\sb{35}$ methyl group of rapamycin.

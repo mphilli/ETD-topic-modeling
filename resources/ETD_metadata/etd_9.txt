@@ -1,0 +1,11 @@
+$TITLE:
+Precision measurement of the Lambda_b baryon lifetime
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+b hadron lifetime, B physics, HQE, Lambda b baryon
+
+$ABSTRACT:
+The ratio of the Lambda_b baryon lifetime to that of the B0 meson is measured using data corresponding to an integrated luminosity of 3.0 /fb collected with the LHCb detector using pp collisions at the LHC. The Lambda_b baryon is observed in the decay mode Lambda_b ->J/psi p K-, while the B0 meson decay used is the well known B0->J/psi pi+ K- mode, where the pi+K- mass is consistent with that of the K*0(892) meson. The ratio of lifetimes is measured to be 0.971+/-0.007+/-0.005, in agreement with theoretical expectations based on the heavy quark expansion. Using previous determinations of the B0 meson lifetime, the Lambda_b lifetime is found to be 1.476 +/- 0.010 +/- 0.010 ps. In both cases the first uncertainty is statistical and the second systematic.

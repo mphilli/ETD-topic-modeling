@@ -1,0 +1,11 @@
+$TITLE:
+Bimodal presentation of text, passage previewing, and repeated readings: Effects on reading accuracy, fluency, and comprehension
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Comprehension, Fluency, Reading, Bimodal presentation, Passage previewing, Repeated readings
+
+$ABSTRACT:
+This study examined the effects of the following two types of interventions on students' reading accuracy, fluency, and comprehension: (1) allowing students to only see passages presented on a computer screen as they read them aloud versus allowing students to simultaneously see and hear passages presented on a computer screen, and (2) allowing students to read passages once versus three times. The sample consisted of 42 below average readers in grades 3-7. Students read two passages that were written at their instructional level; the passages were randomly assigned to one of the following modality conditions: Visual (students only saw the passages as they read them aloud), and Bimodal (students saw and heard the passages at the same time, as when someone else reads aloud and the student follows along). Half of the students read the passages one time whereas the other half read them three times. As expected, students demonstrated better reading comprehension after they read the passages three times as opposed to only once. The effects of number of exposures on reading accuracy and fluency were not significant, although the effects for fluency approached significance. The effects of modality condition on reading accuracy, fluency, and comprehension were contrary to expectations. Unlike previous research, the students evidenced better reading comprehension following the visual condition than following the bimodal condition. Significant differences were not found between the visual and bimodal condition with respect to accuracy and fluency. Both conditions did, however, lead to substantial reading fluency gains. Interestingly, although students' reading performance following the visual condition was comparable to or better than their performance following the bimodal condition, they reported preferring the bimodal condition.

@@ -1,0 +1,11 @@
+$TITLE:
+Thermochemical Reactions of a Thiete Sulfone
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Thiete Sulfone, chemistry
+
+$ABSTRACT:
+Examines chemistry of Thiete Sulfone

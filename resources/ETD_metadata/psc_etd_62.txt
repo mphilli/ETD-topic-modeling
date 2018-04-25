@@ -1,0 +1,11 @@
+$TITLE:
+The logic of security dilemmas: A speech act analysis of the INF treaty negotiations
+
+$DEPARTMENT:
+Political Science
+
+$KEYWORDS:
+Logic, Security, Speech act analysis, INF treaty, Negotiations, Nuclear weapons
+
+$ABSTRACT:
+International relations theory failed to adequately explain the end of the cold war. In this dissertation I argue that the limitations of the traditional approaches to IR stem from a conceptualization of social interaction as strategically rational agents interacting in a material environment. Drawing on speech act theory, pragmatics, Habermasian critical theory, and Onuf's constructivist theory of world politics, I conceptualize social interaction as communicatively rational agents interacting in a historical context of intersubjectively valid social rules. I develop a speech act model of social interaction to account for this linguistic conception of politics and use it to analyze the superpower negotiations over intermediate-range nuclear forces (INF) during the 1980s. The speech act model shows how Soviet new thinking influenced the negotiations and moved the talks in a more successful direction. The analysis supports the new thinking argument, which states that altered Soviet practices based on a redefinition of security brought about the treaty. I conclude by arguing that the new thinking argument is more plausible than the buildup argument, which states that the Soviet Union succumbed to the West's military superiority in Europe following the 1983 NATO deployment of INF weapons.

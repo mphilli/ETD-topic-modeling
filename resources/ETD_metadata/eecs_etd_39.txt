@@ -1,0 +1,11 @@
+$TITLE:
+Security through diversity for wireless sensor networks
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Security, Wireless sensor networks
+
+$ABSTRACT:
+Securing sensor networks, which have extensive military applications, is very challenging. Sensor networks are usually deployed in an untrusted environment. Hence, homogeneity of nodes makes the system vulnerable to large scale security attacks, because compromising one gives enough information to compromise other nodes. Diversifying sensor nodes in a network is a promising solution. In this thesis, three techniques for diversification are presented.The first technique is for diversifying highly constrained sensor networks with known topology. The constraints are based on nodes, software, and links. This technique can be applied to sensor networks as well as general networks.The second technique is for diversifying communication links in a key predistribution scheme. This technique works for dynamic networks. In this scheme, more keys are assigned among the nodes that have low security dependency than nodes with high security dependency without exceeding the maximum number of keys for each node or affecting the connectivity of the network.The third technique is for protecting the keys in wireless sensor nodes by diversifying data and code segments. This technique achieves diversity by obfuscating the keys in the data segment, using a hash function for each bit that is different from one node to another. Then, our random code obfuscation scheme is applied, creating a new and different version of the code for each node that hides all critical information, such as hashing parameters.Simulation and directed implementation results are presented. The results illustrate the advantages of these schemes over other schemes.

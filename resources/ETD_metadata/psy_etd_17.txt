@@ -1,0 +1,11 @@
+$TITLE:
+Effects of interspersal, momentum and tangible reinforcement on the mathematics problem completion rate and on-task behavior of students with emotional disturbance
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Tangible, Reinforcement, Mathematics problem, Completion rate, On-task, Emotional disturbance
+
+$ABSTRACT:
+The current study compared the effects of three interventions that have been shown to be effective at increasing problem completion rate: interspersal (i.e., inserting easy problems amongst difficult problems), behavioral momentum (i.e., interspersing a series of 3 easy problems amongst more difficult problems) and tangible reinforcement (i.e., providing rewards for problem completion). An alternating treatments design with a return to baseline and subsequent reversal to intervention was used to determine the most effective method for increasing the relative problem completion rate and on-task behavior of five middle school students classified as Emotionally Disturbed. Results revealed that four of the five students achieved slight increases in mean digits correct per minute (DCPM) during at least one intervention condition, with three of the students showing the largest response to tangible reinforcement. Further, high levels of variability were observed in three of the students' responding. All of the students showed initial increases in on-task behavior over baseline upon entry into the intervention phase; however a decreasing trend emerged for two of the students. For three students, interspersal resulted in slightly higher levels of on-task behavior compared to baseline and intervention. Limitations and directions for future research are discussed.

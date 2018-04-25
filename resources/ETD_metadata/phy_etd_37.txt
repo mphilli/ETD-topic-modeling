@@ -1,0 +1,11 @@
+$TITLE:
+A search for new physics at the TeV scale via a precise measurement of the weak mixing angle in Moller scattering
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Moller scattering, Parity violation, Weak mixing angle
+
+$ABSTRACT:
+This dissertation reports on a precise measurement of the parity-violating asymmetry in electron-electron (Møller) scattering at a four-momentum transfer Q  2  = 0.03 (GeV/c) 2  . The observed parity-violating asymmetry is A PV   = -128 ± 14 (stat.) ± 12 (syst.) × 10 -9  . This is the most precise asymmetry ever measured in a parity-violating electron scattering. In the context of the Standard Model, the APB result determines the weak mixing angle, which is one of the fundamental parameters of the model. The result is sin 2  [Special characters omitted.] = 0.2403 ± 0.0014, which is consistent with the Standard Model expectation at the current level of precision. The comparison between this measurement of the weak mixing angle at low Q  2  and at the Z  0  pole establishes the running of sin 2  [straight theta] W  with 6.5σ significance.In addition, we report on the first observation of a transverse asymmetry in electron-electron scattering. The observed asymmetry is [Special characters omitted.] = 2.7 × 10 -6 , which is consistent with the theoretical predictions. We also provide a new measurement of the transverse asymmetry in ep scattering [Special characters omitted.] = 2 × 10 -6 .The consistency of the result with the theoretical prediction provides new limits on the TeV scale physics. A limit of 0.9 TeV was set on the mass of the extra Z ' boson in the SO(10) Model. A limit of 14 TeV and 6 TeV was set on the compositeness scales [Special characters omitted.] and [Special characters omitted.] , respectively. Finally a limit of 0.2 TeV was set on ratio of the doubly-charged Higgs mass to the ee Δ coupling [Special characters omitted.] .

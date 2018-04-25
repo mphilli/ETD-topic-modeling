@@ -1,0 +1,11 @@
+$TITLE:
+Over the hurdle: A quantitative study examining the obstacles of achieving professional certification and the perceived effective practices for overcoming them
+
+$DEPARTMENT:
+School of Information Studies
+
+$KEYWORDS:
+Information Studies, Professional Certification, Project Management
+
+$ABSTRACT:
+The purpose of this study was to identify the issues that Information Systems (IS) professionals face when pursuing professional certification as well as the perceived effective practices to overcome these issues. I have observed many students seeking professional certification while only a small subset achieves it. This document provides a review of relevant literature on the topic of professional certification and a research study that examined why some IS professionals achieve this certification and what obstacles they overcame to do so.  The study has relevance to organizations that offer professional certifications, those firms who offer exam preparation for these certifications, and individuals seeking the certification. A review of the literature found no study matching these research questions so a desired outcome of this study was to determine perceived effective practices that could assist the certification process for both professionals and professional certification organizations.  Findings suggest a number of possible strategies that could assist certifying entities, training organizations, employers, and individuals pursuing certification.  As certification becomes increasingly important for success in the workplace, more research is needed in order to build out a support system that enables adult learner success in this particular non-traditional setting.

@@ -1,0 +1,11 @@
+$TITLE:
+The Presidency Effect
+
+$DEPARTMENT:
+Political Science
+
+$KEYWORDS:
+Council Presidency, European Integration, European Union, Presidency Effect, Role Theory, United Kingdom
+
+$ABSTRACT:
+From humble beginnings with the merely managerial duties of a formal Chair, the rotating Council Presidency of the European Union (EU) has evolved into a crucial player in the context of EU decision making, although its impact remains largely unaddressed in accounts of EU output. More than from its formal job description, the rotating Presidency's four roles derive from the (informal) decision dynamics of the Council and the expectations it faces from its fellow Council members and the other EU institutions. Together, these factors can motivate the member state holding the Presidency to wield every tool at its disposal and even, where necessary, unilaterally sacrifice its own national interest, to achieve agreement in the Council, in effect biasing the incumbent in favor of further European integration. This study uses "hard case"-evidence from United Kingdom (UK) Council Presidencies to test the predictions of this "Presidency effect" (PE) about member state behavior and its consequences for overall decision outcomes.

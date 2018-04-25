@@ -1,0 +1,11 @@
+$TITLE:
+Quantum Aspects of Topological Solitons
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Particles, Fields, Skyrmion, Anomaly
+
+$ABSTRACT:
+In this thesis we examine some quantum mechanical and quantum field theoretic aspects of topological solitons of the non-linear sigma model and the role of the anomaly in quantization.The non-linear sigma model supports classically stable solitons which enjoy the same spin and flavor quantum numbers of the baryons composed of quarks. It is natural then to suggest that the non-linear sigma model, a model composed only of mesons, admits a spectrum of baryons through its solitonic structure. The non-linear sigma model is a good candidate effective Lagrangian for quantum chromodynamics and is the focal point of this thesis.The static soliton is quantized using collective coordinate quantization. It is found that the Wess-Zumino action places an important role in defining the physical states. It also determines whether the soliton is quantized as a fermion or a boson in some cases. We also examine those solitonic sectors that do not admit the Wess-Zumino action and find a quantization ambiguity. Here the classical soliton can have several quantum mechanical partners. We elaborate on the issue of quantization ambiguities and its relation to the number of flavors in the theory. Also the quantization of the baryon number two soliton is discussed in some detail.The stability of the soliton is studied under quantum fluctuations which locally restore chiral symmetry. It is found that in its own right, the topological soliton decays far too quickly to be identified with the proton. Arguments are made suggesting that soliton decay naturally leads to a three quark state, implying that the true state of baryons is a quantum mechanical mixture of the topological soliton and three quarks. Putting this idea to practice reveals considerable theoretical agreement with experiment.A derivation of the baryon current as a Noether current from the Wess-Zumino anomaly is offered. This current, which is induced from the anomaly, leads to applications in studying the self-adjointness of the Dirac Hamiltonian in background fields, magnetic monopole physics, and the Skyrmion-quark mixing scenerio mentioned above. Extensions to induced non-abelian currents from the Wess-Zumino action are also shown.

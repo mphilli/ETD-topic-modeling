@@ -1,0 +1,11 @@
+$TITLE:
+Photon spectroscopy of heavy quarkonia
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Quarkonia, Branching ratios, Bottomonium
+
+$ABSTRACT:
+We have studied the inclusive photon spectrum in [Special characters omitted.] (2 S  ), Υ(2 S  ), and Υ(3  S  ) decays using the CLEO III detector. We present the most precise measurements of electric dipole (E1) photon transition rates and photon energies for [Special characters omitted.] (2 S  ) [arrow right] γχ  cJ   (1  P  ), Υ(2 S  ) [arrow right] γχ   cJ   (1 P  ), and Υ(3 S  ) [arrow right] γχ   bJ   (2 P  ) ( J  = 0, 1, 2). The rate for rare E1 transition, Υ(3 S  ) [arrow right] γχ   b0   (1 P  ) is measured for the first time. We also confirm the hindered magnetic dipole (M1) transition, [Special characters omitted.] (2 S  ) [arrow right] γη  c   (1  S  ). However, the direct M1 transition [Special characters omitted.] (2 S  ) [arrow right] γη  c   (2  S  ) observed by the Crystal Ball as a narrow peak at a photon energy of 91 MeV is not found in our data.We have also searched for the spin-singlet bottomonium states η b (1 S ) and η b (2 S ) via the hindered magnetic dipole (M1) photon transitions Υ(3 S ) [arrow right] γη b (1 S ), Υ(3 S ) [arrow right] γη b (2 S ); and Υ(2 S ) [arrow right] γη b (1 S ). No evidence for such transitions are found. We set upper limits on the branching ratios which rule out some of the theoretical calculations.

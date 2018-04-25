@@ -1,0 +1,11 @@
+$TITLE:
+Study of zeolite-supported platinum catalysts using small angle x-ray scattering
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+calcination
+
+$ABSTRACT:
+A study of the morphological features of zeolite-supported (LZ-Y52, 13X, and LZ-M-5) platinum catalysts as a function of preparative history is presented. Small-angle X-ray scattering has been used as the primary investigative tool. A new high-temperature cell was constructed and used for in situ studies of the catalysts during preparation. The average particle radii of the platinum metal within the catalyst have been calculated using the small-angle X-ray scattering data and have been found to lie in the range 3-26 A. The sizes of the Platinum particles are generally found to increase with increasing temperature of calcination during the heat treatments phase. The in situ studies show that the sizes of platinum particles are established during the early stages of the calcination step. The catalysts supported on the zeolite LZ-M-5 exhibit differences from the other zeolites studied, which are attributed to the distinct differences of its internal three-dimensional structure. The limitations of the small-angle X-ray scattering technique applied to zeolite-supported catalysts are discussed and suggestions are made regarding the main issues that need to be addressed further.

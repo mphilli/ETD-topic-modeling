@@ -1,0 +1,11 @@
+$TITLE:
+Analysis of Agc Nonlinear Effects Utilizing the Volterra Approach
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Systems design, Automatic Gain Control, Interference effects
+
+$ABSTRACT:
+A method utilizing the Volterra nonlinear transfer functions for estimating the interference effects in systems with Automatic Gain Control (AGC) is developed in this report.The nonlinear interference signals at the output of systems with AGC are shown to be resulting from two nonlinear sources i.e. nonlinearities that are inherent to the devices comprising the AGC system and the nonlinear nature of the AGC system itself. Nonlinear models for active devices commonly used in communication systems are presented. These device models are incorporated in the methodology that is developed for estimating the nonlinear interference effects caused by the two sources mentioned earlier. The methodology is demonstrated through examples. The examples also demonstrate how the two nonlinear sources may be used to reduce the overall nonlinear interference signals at the system output and in effect improve system performance.The analysis is extended to AGC systems in cascade configuration. The ways in which the provision of AGC to different stages of the cascade configuration affects the nonlinear interference signals at the system output is studied and demonstrated through examples.The sensitivity of the Volterra nonlinear transfer functions and the nonlinear interference signals at the system output to different AGC methods is also studied.This methodology was incorporated into the Nonlinear Circuit Analysis Program (NCAP) on the Compatibility Division computer at Rome Air Development Center, Griffiss AFB, N.Y.

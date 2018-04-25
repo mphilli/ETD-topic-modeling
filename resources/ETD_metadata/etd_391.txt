@@ -1,0 +1,11 @@
+$TITLE:
+Ruthenium-Catalyzed Transformations for the Synthesis of Conjugated Dienes
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+A general description of transition metal catalysis of alkynes and alkenes for the formation of conjugated dienes is briefly discussed. Specifically, a synopsis of ruthenium-hydride catalysis for the formation of 1,3-dienes is presented.The development of the trans-silylvinylation of internal alkynes with acrylates and vinyl boronates to form conjugated dienes is discussed. This transformation was accomplished via a recently developed tandem silylative coupling using RuHCl(CO)(PCy3)2. The reaction optimization, mechanistic hypothesis and substrate scope for the coupling with acrylates and vinyl boronates is described. The vinyl boronate scope and alkyne scope is presented, in addition to the selective derivatization of the boronate moiety. The synthesis of a chiral silicon-tethered alkyne is described and its application toward a stereo- and enantioselective chiral conjugated diene utilizing the aforementioned methodology was accomplished and is discussed herein.The development of an intramolecular trans-silylvinylation of internal alkynes catalyzed by RuHCl(CO)(H2IMes)(PPh3) with methyl vinyl ketone (MVK) additive is discussed. The substrate scope of the reaction provided five-, six-, and seven-membered oxasilacycles. The ruthenium-hydride catalyzed trans-silylvinylation of internal alkynes under an atmosphere of ethylene gas is discussed. This methodology improved upon the reactivity of the starting alkynes and upon the selectivity of the diene products formed from the previous transformations with MVK additive. Reversal of Z/E selectivity can be obtained with increased pressures of ethylene gas. Further functionalization of the diene products to form more diverse scaffolds is described.Lastly, the cycloisomerization of silicon-tethered 1,7-enynes to form 1,3-dienes utilizing catalytic Cp*Ru(COD)Cl is described herein. The reaction optimization, mechanistic hypothesis, substrate tolerance and synthetic utility is discussed. The question of whether a silicon atom is required in the tether of the starting enyne for the reaction to proceed is addressed.

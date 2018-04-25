@@ -1,0 +1,11 @@
+$TITLE:
+Two brief alcohol interventions for referred college students
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Alcohol, Interventions, College students, Binge drinking
+
+$ABSTRACT:
+College students who engage in episodic, heavy drinking (i.e., binge drinking) are at significantly greater risk for negative consequences than those who do not drink in this way. Encouraging but limited research indicates that brief motivational interventions maybe an effective way to reduce binge drinking in college students. This study aims were to (a) replicate previous research by evaluating the efficacy of brief motivational interventions with binge drinking students, (b) extend previous work by comparing a brief motivational intervention to an active control group (i.e., an individually administered alcohol education session), and (c) extend previous research by recruiting from a referred sample. Participants were 53 male and 11 female students referred to two alcohol and drug prevention and intervention programs at Syracuse University and Le Moyne college. Eligible students were randomly assigned to one of two individually administered conditions: (a) a 60-90 minute motivational interview (MI), or (b) a 60-90 minute alcohol education session (AE). The students completed baseline, 3- and 6-month assessments. Although students reported that both interventions equivalently helpful and informative, the MI students reduced their alcohol use (typical and peak blood alcohol content) more than the AE students. No changes were observed for binge drinking episodes or alcohol-related problems. Neither perceived drinking norms nor alcohol-related expectancies mediated observed reductions in use, and there was no evidence of differential reductions in use for heavy and light drinkers. Promising ways to increase the impact of future interventions include increasing the relevance of the personalized feedback and the implementation of post-intervention contact. Future research would benefit from more frequent assessments and longer follow-up periods, allowing for the statistical modeling of changes on drinking trajectories following a motivational intervention.

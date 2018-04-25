@@ -1,0 +1,1 @@
+crack tip deformation a finite element computer program using initial stress approach of elastic-plastic analysis was developed crack tip deformation under small scale yielding condition was studied dugdale model was reviewed the elastic-plastic strip yielding model does not agree with the classic dugdale model

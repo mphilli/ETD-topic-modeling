@@ -1,0 +1,11 @@
+$TITLE:
+The relationship between risk, hardiness and social support on perceived quality of life among individuals diagnosed with fibromyalgia
+
+$DEPARTMENT:
+Counseling and Human Services
+
+$KEYWORDS:
+Risk, Hardiness, Social support, Quality of life, Fibromyalgia, Resilience
+
+$ABSTRACT:
+Purpose  . The purpose of this dissertation project was to explore the potential moderating effects of hardiness and social support on quality of life among individuals with fibromyalgia.Methods . Eighty individuals diagnosed with fibromyalgia were recruited through the help of local physicians, rehabilitation centers and support groups. Each individual completed five self report questionnaires collecting information on demographics, the impact of fibromyalgia (Fibromyalgia Impact Scale, FIQ), health related hardiness (Health Related Hardiness Scale, HRHS), perceived social support (Personal Resource Questionnaire, PRQ-2) and quality of life (Quality of Life Scale, QOLS).Results . Correlation analysis supported the main effects of each of the predictor variables on quality of life. Hierarchical regression analysis supported the collective contributions of the predictor variables on quality of life. The full model was significant and accounted for 60% of the variation in quality of life. The hypothesized moderating effects of hardiness and social support, individually and collectively, were also supported.Conclusion . The analyses confirmed the importance of risk, personal and environmental variables on health outcomes. The implication for the consideration and incorporation of these variables in the assessment and intervention stages of rehabilitation is discussed. The potential moderating and mediating effects of personal and environmental variables warrant further investigation.

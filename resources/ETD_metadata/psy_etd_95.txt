@@ -1,0 +1,11 @@
+$TITLE:
+The number, width, and labels for racial categories
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Group categorization, Boundary, Racial categories
+
+$ABSTRACT:
+This study establishes the topography of the boundaries between those perceived to be members of one's racial ingroup and those perceived to be members of a racial outgroup, and the degree to which these boundaries are influenced by category width (Pettigrew, 1958) and prejudice (McConahay et al., 1981). A morphing program produced target "persons" along a racial continuum (i.e., from Whites to Blacks). Category-Width and level of prejudice were expected to moderate the perceived number and respective widths of perceived categories with "narrow" categorizers allowing less variation in racial appearance than "broad" categorizers before identifying the target as an outgroup member. High-prejudiced individuals were expected to allow less variation from the ingroup target than low-prejudiced participants before labeling the target an outgroup member. Participants tended to perceive about three distinct racial categories within the racial continuum. Regardless of the number of perceived categories, there was little difference in the proportionate category widths. Middle category targets were most frequently identified as Hispanic and individual difference measures had no effect on processes of racial categorization. Thus, the hypotheses were not supported. The relationships between the individual difference measures, the number, widths, and labels of perceived categories, and racial categorization are discussed.

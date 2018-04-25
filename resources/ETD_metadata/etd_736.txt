@@ -1,0 +1,11 @@
+$TITLE:
+DEVELOPMENTAL PATHWAYS BETWEEN LOW BIRTH WEIGHT STATUS AND CHILDREN’S ACADEMIC AND SOCIOEMOTIONAL COMPETENCE: THE ROLE OF PARENTING PROCESSES AS A MODERATOR
+
+$DEPARTMENT:
+Child and Family Studies
+
+$KEYWORDS:
+Academic/Cognitive outcomes, Externalizing behaviors, Low birth weight, Maternal warmth, Parenting stress, Social competence
+
+$ABSTRACT:
+The present study examined the longitudinal associations among moderate low birth weight (MLBW), parenting factors, and children’s developmental outcomes within an at-risk sample (N= 1,809), using secondary data from Fragile Families and Child Wellbeing (FFCW) study. Of particular interest was whether parenting factors moderate the associations between MLBW and indicators of both socioemotional and cognitive/academic competence. Birth weight and prenatal data were taken from medical records. Parenting factors were assessed during in-home assessments at ages 3 and 5. Mothers and teachers reported on externalizing behaviors and teachers reported on social skills at age 9. In addition, cognitive/academic outcomes were assessed using teacher reports and standardized assessments at age 9. Overall, findings suggest that MLBW was significantly associated with teacher reports of children's socioemotional competence as well as cognitive/academic outcomes including receptive vocabulary, reading, and math achievement at age 9. These associations remained significant after accounting for a large battery of control variables; the exception was the link between MLBW status and parent's report of externalizing behavior at age 9. Results also indicated that maternal warmth, but not parenting stress, moderated the longitudinal associations between MLBW and cognitive/academic outcomes and teacher-reported socioemotional competence. To conclude, these results highlight the significance of MLBW and positive parenting processes across diverse child outcomes. The implications of these findings are discussed for interventions targeting MLBW children within at-risk populations.

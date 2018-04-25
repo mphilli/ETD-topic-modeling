@@ -1,0 +1,11 @@
+$TITLE:
+Income tax incentives to investment for economic development: The Korean experience
+
+$DEPARTMENT:
+Social Sciences
+
+$KEYWORDS:
+Tax incentives, Investment, Korean, Income tax, Economic development
+
+$ABSTRACT:
+The purpose of this research mainly examines the effects of the Korean income tax incentives to investment for economic development during the past four decades (1953-1992), and then investigates how to improve the efficiency, equity, and effectiveness (3Es) of the tax incentives.In order to figure out the extent to which tax incentives affect investment behavior I quantify the impact of changes in the tax systems during that period on the user costs of capital according to the neoclassical framework. I examine the relationship between major economic variables including the user costs of capital and investment through the multiple regression analysis using the aggregate time-series data. The calculation of the user costs of capital and the regression analysis are carried out according to the six types of capital assets. I set up the four kinds of regression models based on the Hull and Jorgenson's model ("partial adjustment (simple)" models: Models 1 and 2) and Ebrill's method ("full" models: Models 3 and 4) by type of capital asset. Moreover, the sensitivity analyses are made on the basis of the results of both the calculation of the user costs of capital and the regression analysis. The results show that economic variables and tax variables have different effects on the user costs of capital and that the user costs of capital would have no effect on investment behavior in Korea during that period.I also analyze the 3Es of the Korean tax incentive for investment according to the economic rationality for tax incentives based on the historical background of the tax incentives, the results of calculating the user costs of capitals and the regression results.Finally, I recommend the establishment of the budgetary system for tax expenditures as one of the alternatives for enhancing the 3Es of the tax incentives.

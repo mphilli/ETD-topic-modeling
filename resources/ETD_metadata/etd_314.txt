@@ -1,0 +1,11 @@
+$TITLE:
+Development of Improved Methodologies Toward the Formation of C-C and C-N Bonds
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Amidation, BINOL, C-H Activation, Palladium, Ruthenium Hydride, Silylvinylation
+
+$ABSTRACT:
+Organometallic chemistry provides valuable tools for the formation of carbon-carbon and carbon-heteroatom bonds that would otherwise require multiple steps and resources to achieve through conventional methods. Studies toward the regioselective and stereoselective formation these types of bonds using different organometallic methods will be presented. Three focal areas have been studied: C-N bond formation, C-H borylation, and silylvinylation of alkynes.In Chapter 1, palladium-catalyzed amidation has been used to effectively form C-N bonds toward the synthesis of valuable imidazo[4,5-b]pyridines and imidazo[4,5-c]pyridines. The reaction conditions are tolerable for a variety of N-substituted-3-amino-2-chloropyridines. All current routes to expand the substrate scope in regards to substitution on the pyridine ring will be discussed.Chapter 2 will detail a new method for the synthesis of 3,3'-bis-arylated BINOL derivatives through an ortho C-H borylation of commercially available (R)-BINOL followed by an in situ Suzuki-Miyarua coupling. Conventionally, these compounds are made via time-consuming multi-step routes. Development of this new method, which takes a total time of 24 hours with only a single purification step, will be discussed in detail.In Chapter 3, ruthenium hydride-catalyzed silylvinylation of alkynes under an ethylene atmosphere has permitted the facile formation of highly functionalized diene systems. The synthesis of conjugated diene systems has been of great interest due to their prevalent appearance in naturally occurring compounds. Derivatizations of these novel diene systems will be presented, including a rare method for the trans-silylformylation of alkynes.

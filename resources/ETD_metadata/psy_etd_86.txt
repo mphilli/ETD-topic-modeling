@@ -1,0 +1,11 @@
+$TITLE:
+The relationship of self-efficacy beliefs to condom use: A meta-analysis of HIV prevention research
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Self-efficacy, Beliefs, Condom use, HIV prevention, Immune deficiency
+
+$ABSTRACT:
+Human immunodeficiency virus (HIV), the agent that causes acquired immunodeficiency syndrome (AIDS), remains a serious threat to public health. The theoretical foundation for many behavioral interventions designed to reduce risk of infection is Self-Efficacy Theory (SET; Bandura, 1977a, 1986a). However, imprecise operationalizations of self-efficacy are common and are theorized to have important implications for the prediction of risk behavior (Forsyth & Carey, 1998). This quantitative review of HIV prevention research investigates the relationship of self-efficacy beliefs to condom use using procedures developed by Hedges and Olkin (1985). Moderator analyses examine the impact on effect size attributable to (a) differences in the operationalization of' self-efficacy beliefs, item specificity, measurement precision, respondent demographics and respondent behaviors. The weighted mean effect size for all studies ( k = 63) was r + =.14, which is consistent with other research indicating a positive association between self-efficacy and condom use. Subsequent analyses indicated that measurement content moderates effect sizes, such that measures with content consistent with SET yield smaller effect sizes ( r + =.12) than purported efficacy measures with content inconsistent with SET ( r + =.16). For studies using true self-efficacy measures, variables related to item specificity (e.g., contextual challenges to successful enactment), measurement precision (e.g., number of items and psychometric evidence), respondent demographics (e.g., ethnicity, population), and respondent behavior (e.g., sexual activity) also were associated with effect sizes. For comparison purposes, exploratory analyses examined moderators For studies using measures that did not meet criteria for SET. Results qualify extant claims about the association between efficacy beliefs and condom use and suggest the need for greater attention to conceptual and operational analyses of self-efficacy among studies employing the construct as a predictor. Conceptual and methodological limitations are discussed, as are recommendations for future research.

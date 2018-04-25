@@ -1,0 +1,11 @@
+$TITLE:
+Aspects of the antisymmetric tensor field
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Tensor field, Black hole
+
+$ABSTRACT:
+With the possible exception of gravitation, fundamental interactions are generally described by theories of point particles interacting via massless gauge fields. Since the advent of string theories the picture of physical interaction has changed to accommodate one in which extended objects interact with each other. The generalization of the gauge theories to extended objects leads to theories of antisymmetric tensor fields. At scales corresponding to present-day laboratory experiments one expects to see only point particles, their interactions modified by the presence of antisymmetric tensor fields in the theory. Therefore, in order to establish the validity of any theory with antisymmetric tensor fields one needs to look for manifestations of these fields at low energies. The principal problem of gauge theories is the failure to provide a suitable explanation for the generation of masses for the fields in the theory. While there is a known mechanism (spontaneous symmetry breaking) for generating masses for both the matter fields and the gauge fields, the lack of experimental evidence in support of an elementary scalar field suggests that one look for alternative ways of generating masses for the fields. The interaction of gauge fields with an antisymmetric tensor field seems to be an attractive way of doing so, especially since all indications point to the possibility that there will be no remnant degrees of freedom. On the other hand the interaction of such a field with black holes suggest an independent way of verifying the existence of such fields.In this dissertation the origins of the antisymmetric tensor field are discussed in terms of string theory. The interaction of black holes with such a field is discussed next. The last chapter discusses the effects of an antisymmetric tensor field on quantum electrodynamics when the fields are minimally coupled.

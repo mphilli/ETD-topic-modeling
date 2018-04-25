@@ -1,0 +1,11 @@
+$TITLE:
+Application-level protocol steganography
+
+$DEPARTMENT:
+
+
+$KEYWORDS:
+steganography, information hiding, network security, privacy, applicationlayer protocols, security and robustness, steganalysis, syntax, semantics, evolutionary computation, genetic algorithms
+
+$ABSTRACT:
+In the context of modern telecommunications effects leading, on one hand, to the increase of law enforcement's need for communications intelligence and surveillance, and, on the other hand, the growth of censorship and pervasive monitoring on the Internet, Protocol Steganography arises as a new means of achieving secret communication. Protocol Steganography is the art and science of embedding information within network control protocols and messages used by common applications and systems. Accomplishing covert transmission in this scenario means that an external observer must not be able to detect the presence of the hidden message within the innocuous communication. Otherwise, the adversary or the original owners of the communication may suspect that a form of traffic hijacking is taking place. Protocol Steganography preserves the properties of both cover traffic and cover payloads while ensuring continuance of the overt communication by producing syntax  and  semantics  -preserving stego methods through two different approaches:  conventional embedding  and evolutionary extraction. The first approach included novel information-hiding techniques resembling traditional scenarios of network covert channels while the second one involved the genetic generation of functions that by exploiting payload data minimize the amount of embedded content. After assessment through a series of goodness-of-fit tests, analysis of descriptive statistics, and formal protocol semantics verification, results indicated that it was indeed possible to produce protocol stegosystems of diverse capacity that were both reasonably secure and reasonably robust under the constraints of syntax and semantics preservation.

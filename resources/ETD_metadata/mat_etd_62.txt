@@ -1,0 +1,11 @@
+$TITLE:
+Complexity over Finite-Dimensional Algebras
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+cluster tilted algebra, complexity, finite-dimensional algebra, tilting theory, trivial extension
+
+$ABSTRACT:
+In this thesis we study two types of complexity of modules over  finite-dimensional algebras.In the first part, we examine the Ω-complexity of a  family of self-injective k-algebras where k is an algebraically closed field and  Ω is the syzygy operator. More precisely, let T be the trivial  extension of an iterated tilted algebra of type H. We prove that modules over  the trivial extension T all have complexities either 0, 1, 2 or infinity,  depending on the representation type of the hereditary algebra H. As part of the  proof, we show that a stable equivalence between self-injective algebras  preserves the complexity of modules.In the second part, we study the τ-complexity of modules  over cluster tilted algebras where τ is the Auslander-Reiten translate.  We prove that modules over the cluster tilted algebra of type H all have  complexities either 0, 1, 2 or infinity, depending on the representation type of  the hereditary algebra H.

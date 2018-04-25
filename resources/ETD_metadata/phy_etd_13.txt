@@ -1,0 +1,11 @@
+$TITLE:
+Numerical simulations for channel flow in disordered materials
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Channel flow, Disordered materials, Numerical simulations, Pinning, Vortex flow, Type-II superconductors
+
+$ABSTRACT:
+Results are presented for a coarse-grained model of collective transport in disordered materials, which generically incorporates both elastic and plastic viscous couplings. This model is motivated by the observation of both switching and macroscopic hysteresis in the driven transport of flux liquids (and in charge density waves). Such effects are ruled out when flux lines are coupled elastically. This anisotropic model is more general--it describes elastic channels interacting plastically. For exact mean-field calculations, this anisotropic model has a complex phase diagram with many interesting features, including a tricritical point which separates the non-hysteretic region from the region where there is a coexistence of stuck and moving states. This thesis examines this coarse-grained model in finite dimensions in detail to determine what features of the mean-field model remain. We integrate numerically the viscoelastic equation of motion, for two-channel, and two- and three-dimensional models. Strong evidence is presented for the existence of a tricritical point at finite viscosity in three dimensions. For the two-channel, and two-dimensional cases, it is unclear whether or not there is a critical point at zero viscous coupling. The shape of the phase diagram is significantly different from the mean-field calculations (e.g., the depinning force is viscous coupling-dependent). We find that the model exhibits hysteresis, which, for the two- and three-dimensional cases, increases with increasing viscous coupling strength, while for the two-channel case it may reach a constant value at a large viscous coupling. The hysteretic behavior might remain in the thermodynamic limit for the three-dimensional case. The equation of motion displays transient chaos, but we did not find evidence of strange attractors. This, along with sensitive dependence on initial conditions, complicates the analysis and conclusions.

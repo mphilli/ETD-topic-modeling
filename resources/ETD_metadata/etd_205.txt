@@ -1,0 +1,11 @@
+$TITLE:
+Three Empirical Essays on Energy and Labor Economics
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+China, Demand side management programs, Energy, Enterprise restructuring
+
+$ABSTRACT:
+This dissertation analyzes the differences between private and non-private firms in two contexts. Chapters 1 and 2 examine the electricity industry in the United States and the motivation behind electric utilities' usage of demand side management programs. The first chapter focuses on load management programs, which decrease electricity demand during the peak hours of the day. It looks into the impact of a plausibly exogenous decrease in natural gas prices on the utilization and capacity of these programs. The second chapter analyzes the relationship between electricity market deregulation and electric utilities' energy efficiency activity. The third chapter investigates the impact of Chinese enterprise restructuring on employment, wage bills, and productivity. All three chapters show that different objectives due to ownership type lead to differences in firm behavior.

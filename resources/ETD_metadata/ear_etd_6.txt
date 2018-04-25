@@ -1,0 +1,11 @@
+$TITLE:
+Wetland geochemical and thermal processes at the watershed scale
+
+$DEPARTMENT:
+Earth Sciences
+
+$KEYWORDS:
+Wetland, Geochemical, Thermal, Watershed, Peatland, Ethiopia
+
+$ABSTRACT:
+Freshwater wetlands are an important natural resource; on a local scale they function to buffer hydrological and geochemical processes, and on a global scale they are an important sink source of atmospheric carbon due to their high carbon density. The purpose of my PhD research was to study the thermal regime of northern peatlands and to study the impact of wetlands on surface water quality in a semi-urbanized watershed.Heat and hydraulic head data measured in the peat of a large bog in Minnesota was modeled to assess how heat is transported from the land surface to the base of the peat column. I found that the major controls over heat transport through the peat profile are thermal conduction and heat loss and gain caused by the latent heat of ice during freezing and thawing in the upper part of the peat profile. To properly model the heat transport, I modified the US Geological Survey SUTRA groundwater and energy transport model to incorporate freezing and thawing, and prepared benchmark simulations for subsequent comparison. With respect to evaluating wetland functions on water quality on a regional scale, I studied what processes control the overall water quality of over 80 wetlands in the Croton Watershed (New York State) that provide drinking water to the City of New York. The focus of my study was to evaluate how wetlands control water quality and color to the Croton Reservoir.Four synoptic samplings measured water chemistry and coloration parameters in almost all catchments with wetlands. The g440 color of wetland surface waters is related to the dissolved organic carbon concentrations (DOC) and the percent of wetland area within catchments. The concentrations of sodium and chloride in wetland waters are directly correlated to the length of roads per wetland watershed area. The remainder of the major dissolved solids in the wetland waters is mostly derived from simple dissolution of carbonate minerals in the glacial drift mantling the watershed.The dissertation also includes additional research on the water quality and source of springs used as domestic water source in Southern Ethiopia.

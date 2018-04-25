@@ -1,0 +1,11 @@
+$TITLE:
+Simulation analysis on distributional effects of reforming Medicare financing system with fundamental tax reform
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Medicare financing, Fundamental tax reform, Welfare effects
+
+$ABSTRACT:
+The Medicare program is a major component of social insurance in the United States. A major concern about Medicare is whether there will be enough resources to meet health care financing needs of the disabled and elderly over time. Some recent studies propose different solutions to avoid bankruptcy of the Medicare program in the long run. In this study, I propose that another alternative to reform the Medicare financing system is to radically alter the revenue base--employing fundamental tax reform. To evaluate this proposal, I examine the changes in welfare within and across generations from a short-run and a long-run perspective by conducting a comparative static analysis.The simulation results shows that, in the short-run study, when the Medicare program is financed by a flat consumption tax, the current old generation will be hurt and the young generation will benefit. However, the changes in welfare levels are relatively small. In the long run, switching to a flat consumption tax makes the old generations a little bit worse off and the young generation slightly better off. The old generation would consume less health service good besides Medicare service given by the government and more nonhealth good.A flat income tax produces a small range of gains for both generations. The old generation enjoys welfare gain. The lifetime welfare level of the young generation also improves. With a flat wage tax reform, the old generation enjoys a big welfare, while the young generation suffers loss in the first period of its lifetime. However, taking the loss and gain in two periods into consideration, the lifetime welfare level of the young generations increases slightly.The above findings indicate that fundamental tax reform would allow keeping the Medicare program while not necessarily providing a hard hit to the old generation. This suggests that concerns over the negative impact of tax reform on the old generations should not stand as an impediment to reform.

@@ -1,0 +1,11 @@
+$TITLE:
+Critical reflection as a professional development outcome of asynchronous computer-mediated communication
+
+$DEPARTMENT:
+Instructional Design, Development and Evaluation
+
+$KEYWORDS:
+Critical reflection, Professional development, Computer-mediated communication
+
+$ABSTRACT:
+This study explored the experiences of 28 teachers in ten Chicago suburban schools involved in a two-year technology supported Problem-Based Learning curriculum development effort. Asynchronous computer-mediated communications were featured as teacher communication and project development tools. Research methods including discourse analysis, interview, and archival data analysis were applied to determine the reflective content of teacher discourse; understand what features of the technology affected reflection and curriculum development; and investigate the relationship between teacher reflection and self-efficacy. Results show that computer-mediated teacher dialogue was slightly less interactive, yet significantly more reflective ( t = 4.14, p =.001) than face-to-face discourse. Factors best facilitating reflective discourse were the storage capacity and text-based format of the technology, and the grade-level focus of the discourse. Factors hindering reflection included the lack of time, a culture of nondisclosure among participants in the study, and teachers' lack of proficiency on the medium. No significant correlation was found between self-efficacy and reflection.

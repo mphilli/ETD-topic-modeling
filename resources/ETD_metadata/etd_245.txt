@@ -1,0 +1,11 @@
+$TITLE:
+The Impact of Natural Resource Booms on Local Economic Conditions
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+My research examines the impacts of natural resource booms on local economic conditions. Each chapter relies upon evidence from the three-state region of Montana, North Dakota, and South Dakota. A combination of rising prices and advancements in extraction technologies led to a boom in oil production in the region. This boom represents an exogenous shock to local economic conditions.The first and second chapters of my dissertation examine the impact of this exogenous labor demand shock that increased earnings in the three-state region. The first chapter analyzes the impact of earnings growth on net migration rates. My estimates suggest that a 10 percent increase in earnings will increase the net migration rate by nearly 3 percentage points in oil counties, consistent with theoretical models of local labor markets and migration. The second chapter examines the extent to which labor force participation and Disability Insurance (DI) are substitutes, since DI becomes more attractive as outside employment options decline. Consistent with evidence from previous studies, my estimates indicate a higher degree of substitutability for current workers. I find that a 10 percent increase in earnings will reduce DI payments by 10 percent and DI participation by nearly 7 percent.The third chapter studies the impact of local economic conditions on the sales and income tax bases. I find that increases in the value of oil produced substantially increase the sales and income tax bases. More specifically, during the boom, a doubling in the value of oil produced led to an 18 percent increase in the sales tax base and a 16 percent increase in the income tax base for oil counties in North Dakota.

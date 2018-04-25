@@ -1,0 +1,11 @@
+$TITLE:
+Selfless Service: An Examination of Motivation in Public Sector Information Technology Service Transformation
+
+$DEPARTMENT:
+Information Management and Technology
+
+$KEYWORDS:
+IT Service Transformation, Motivation, Public Sector IT Services
+
+$ABSTRACT:
+This study explores the relationship between middle manager motivation and information technology (IT) service transformation in the public sector.  The pace of IT service transformation in the public sector, and specifically the U.S. Army, is slow compared to the lightning-fast pace of warfighting operations or the incredible rate of change in information technology.Middle management plays a key role in organizational change (Mintzberg, 1979).  Executives in the private sector often use extrinsic rewards to motivate employees to facilitate transformational change.  However, extrinsic rewards are severely restricted in the public sector.  Although public sector employees are motivated differently than private sector employees, it is likely that motivational determinants still influence their performance (Crewson, 1997).Leveraging Expectancy Theory (Vroom, 1964), this case study explores the influence of intrinsic and intangible motivational determinants on the performance of middle managers in a public sector IT service transformation initiative.  The study was conducted in the context of the U.S. Army's Enterprise Email initiative and was designed to answer the research question: To what extent are IT service managers motivated to facilitate the implementation of the enterprise email solution in the U.S. Army?  Data was collected from a variety of sources that included an online survey of mid-level IT service managers, project documents and reports, customer surveys, orders, and strategic communications.The findings suggest that organizational culture has a stronger influence than other extrinsic and intrinsic motivational determinants on the performance of military mid-level IT service managers during a service transformation.

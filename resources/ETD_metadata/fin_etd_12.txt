@@ -1,0 +1,11 @@
+$TITLE:
+Applications of Search Theory in Finance
+
+$DEPARTMENT:
+Finance
+
+$KEYWORDS:
+Bid-ask spread, Competitive search, IPO underperformance, IPO underpricing, Market microstructure, pre-IPO market
+
+$ABSTRACT:
+In this dissertation, I apply two types of search based theoretical models to interpret two important issues in finance, respectively. (1)The first essay belongs to the field of corporate finance, in which a random search model is set up to describe the pre-IPO market searching and matching process between private firms with intent to sell equity in an IPO and investment banks (IB) that underwrite the issue. Our model tightly links many IPO-related phenomena such as IPO underpricing and long run underperformance under one unified searching framework. (2) The second essay is related to market microstructure, i.e. bid-ask spread, in which a competitive search model is proposed to re-interpret the existence of the market equilibrium bid-ask spread in a stylized security market, in which market dealers are in charge of posting an instantaneous bid price, investors choose whether to sell their share or not at this price. Different from the asymmetric information based explanation originated from two types of investors, our search based model emphasizes that since the market dealer provides necessary liquidity to the security market via playing such an intermediary role between actual buyers and sellers, the bid-ask spread charged thereafter should largely be justified as the compensation for the market dealer's endeavor in this process.

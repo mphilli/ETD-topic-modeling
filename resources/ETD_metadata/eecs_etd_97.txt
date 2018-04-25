@@ -1,0 +1,11 @@
+$TITLE:
+Transceiver design issues for wireless multicarrier communication systems
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+OFDM, Transceiver, Multicarrier, Wireless communication
+
+$ABSTRACT:
+Current and future broadband wireless communication systems aim to provide high data rate services. As a result, multipath fading becomes a major concern as systems with high data rate are more susceptible to inter symbol interference (ISI) due to the increase in the normalized delay spread. It is, therefore, imperative to use modulation schemes that are robust to multipath fading. Orthogonal Frequency Division Multiplexing (OFDM), because of the split of a high rate data stream into parallel data streams of low rate, provides the much needed resistance to multipath fading and has attracted increasing interest in recent years. Since early 1990s, OFDM has been adopted into various systems, including digital audio/video broadcasting, wireless local area networks, wireless personal area networks, as well as in ultra wideband communications systems.Four major issues for OFDM transceiver design are addressed in this dissertation. These are: carrier frequency offset estimation, channel estimation for OFDM, peak-to-average power ratio analysis, and comparison of the subcarrier allocation schemes for uplink Orthogonal Frequency Division Multiple Access (OFDMA). First, we propose a novel blind method for the estimation of the carrier frequency offset by exploiting the intrinsic phase shift of the oversampling sequences. Second, we introduce a data-efficient blind channel estimation algorithm using receiver diversity. Third, we study the asymptotic distributions and the peak-to-average power ratio for the uplink OFDMA signals. Finally, we analyze the impact of different subcarrier allocation schemes on two important receiver design issues for an OFDMA system.

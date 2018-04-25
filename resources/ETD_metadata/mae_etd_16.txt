@@ -1,0 +1,11 @@
+$TITLE:
+Simulation of the cross-flow fan and application to a propulsive airfoil concept
+
+$DEPARTMENT:
+Mechanical and Aerospace Engineering
+
+$KEYWORDS:
+Cross-flow fan, Propulsive, Airfoil, Computational fluid dynamics
+
+$ABSTRACT:
+A concept of embedding a cross-flow fan into a wing for lift enhancement and thrust production is proposed. The design places a cross-flow fan near the trailing edge of the wing. Flow is drawn in from the suction surface, energized, and expelled out the trailing edge. The commercial CFD software Fluent is used to perform both 2D and 3D calculations for validation of an isolated cross-flow fan and housing against experimental data, with good correlation found in terms of both global performance and local flow field data. CFD results are used to identify regions of high loss, as well as make recommendations in regard to the temporal and spatial accuracy of collected data. Parametric studies demonstrate fan performance and flow field sensitivities to various cross-flow fan housing parameters. The effect of vortex cavities, clearance gap, and blade shape are investigated. A new inline housing geometry is developed and integrated within a modified Gottingen 570 airfoil. Unsteady sliding mesh calculations are used to visualize the flow field, and calculate fan performance and airfoil lift coefficient. The results of the CFD work show that the jet leaving the fan fills up the wake behind the airfoil, while the suction effect produced by the fan virtually eliminates flow separation at high angle of attack, yielding very high lift coefficients. A system level analysis demonstrates the benefits of using an embedded cross-flow fan for distributed aircraft propulsion. The goal of the system analysis is to investigate the tradeoffs between various design parameters, and provide a basis for preliminary cross-flow fan airfoil design.

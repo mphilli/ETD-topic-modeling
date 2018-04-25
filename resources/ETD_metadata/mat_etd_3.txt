@@ -1,0 +1,11 @@
+$TITLE:
+Fast multiscale integral equation methods for image restoration
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Integral equation, Image restoration, Wavelet, Tikhonov
+
+$ABSTRACT:
+Discrete models are consistently used as practical models for image restoration. They are piecewise constant approximations of the true physical (continuous) model, and hence, inevitably impose bottleneck model errors. We propose to work directly with the continuous model for image restoration aiming at suppressing the model errors caused by the discrete models. A systematic study is conducted in the dissertation for the continuous out-of-focus image models which can be formulated as an integral equation of the first kind. The resultant integral equation is regularized by the Lavrentiev method and the Tikhonov method. We develop fast wavelet Galerkin method and fast multiscale collocation method having high accuracy to solve the regularized integral equations of the second kind with Gaussian kernels. A new adaptive numerical quadrature with exponential order of accuracy is derived for computing the integrals of Gaussian integrand. We apply the proposed adaptive numerical quadrature for generating the coefficient matrix. Numerical experiments show that the methods based on continuous model perform much better than those based on discrete model in terms of PSNR values and visual quality of the reconstructed images.

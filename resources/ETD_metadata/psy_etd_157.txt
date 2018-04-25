@@ -1,0 +1,11 @@
+$TITLE:
+Ecological Momentary Intervention [EMI]: Incorporating Mobile Technology into a Disordered Eating Treatment Program for College Women
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Body image, College women, Disordered eating, Ecological Momentary Assessment, Ecological Momentary Intervention, Mobile technology
+
+$ABSTRACT:
+Psychosocial and health behavior treatments can be extended  beyond research and clinical settings by using mobile technology to provide  Ecological Momentary Interventions [EMI] to individuals as they go about their  daily lives. This study integrates the assessment (i.e., Ecological Momentary  Assessment; EMA) and intervention (i.e., EMI) capacities of palmtop computers to  provide individually tailored EMI to participants in real time. The feasibility  and efficacy of using EMI to augment a disordered eating treatment intervention  for college women was evaluated. Participants were randomized to view  psychoeducational videos on a computer (attention control), complete an  interactive CD-ROM-based intervention aimed at reducing body dissatisfaction and  disordered eating behaviors (CD), or receive the CD-ROM supplemented with EMI  (CD+EMI). The content and timing of EMI was individually tailored in real time  and provided on palmtop computers for one week following the CD intervention.  Very high compliance rates with the EMA/EMI protocol were demonstrated and women  were generally satisfied with the intervention, suggesting it is feasible to  implement tailored EMI. An evaluation of treatment efficacy revealed the  computerized CD-ROM intervention did not reliably produce significant  improvements in body-related constructs and there was no unique or added benefit  of EMI. This study was innovative in that it used palmtop computers to combine  ambulatory assessment and intervention strategies to provide tailored and  contextually sensitive EMI. As such, it adds to the relatively young, but  growing EMI literature by identifying challenges and opportunities for  ambulatory assessment and intervention methods in psychosocial and health  behavior treatments.

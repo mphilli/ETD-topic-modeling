@@ -1,0 +1,11 @@
+$TITLE:
+E-Commerce and Income Shifting to Dot-sized Tax Havens
+
+$DEPARTMENT:
+Accounting
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+I investigate the extent to which E-commerce facilitates the tax avoidance (or evasion, per the (OECD) of multinational corporations’ shifting income into dot-sized foreign tax havens. E-commerce exacerbating such tax avoidance has long been a widespread concern. Recent OECD, 2015, position papers extensively discuss this problem and provide a series of recommendations for addressing it. However, there are few empirical research papers on E-commerce and tax avoidance, and the specific effect of E-commerce on income shifting has not been examined. I find evidence that firms concentrating their foreign operations in dot-sized tax havens shift greater amounts of income out of U.S. and that the growth of the digital economy strongly increased this effect, consistent with OECD concerns. Similarly, the effect of E-commerce on multinational corporations’ income shifting to tax havens is exacerbated by the level of their profitability and the intensity of their investment in intangible assets. Though I document a specific, important, result with U.S. firms’ data, there is every reason to think that what I find is not unique to the U.S., but general to all jurisdictions.My paper contributes to the literature by identifying this effect and measuring the magnitude of it on U.S. multinational firms’ U.S. and foreign reported incomes. I also contribute to the literature by developing a new, less ambiguous measure of firms’ abilities and tax incentives to shift income based on the numbers of tax haven subsidiaries they incorporate.

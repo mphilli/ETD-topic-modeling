@@ -1,0 +1,11 @@
+$TITLE:
+Noninvasive in vivo tissue modulated quantitative Raman spectroscopy of human blood
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Noninvasive, Blood, Glucose monitoring
+
+$ABSTRACT:
+We report the first noninvasive in vivo Raman spectrum of human blood. This was accomplished using near infrared Raman and fluorescence spectroscopy and our novel concept of tissue modulation. Tissue modulation is the use of spatiotemporally localized mechanical, thermal, chemical and/or other external influences to manipulate the mobile components of tissue relative to the static components. Tissue modulation allows the use of difference spectroscopy to isolate the spectra of mobile and static tissues. The raw, tissue modulated, noninvasive in vivo Raman spectrum of blood consists of a broad fluorescence component and narrower Raman features. This broad fluorescence component is mainly attributable to hemoglobin and its intensity is proportional to the sampled blood volume. The integral of the fluorescence intensity can be used to normalize the Raman spectrum to the sampled blood volume. The areas of such normalized Raman features are proportional to concentration. The noninvasive Raman spectrum of capillary blood measured in a fingertip is consistent with in vitro spectra. Independent observations supporting the assignment of the spectroscopic signals to blood are needed due to the similar composition and therefore spectra of blood and the surrounding tissues. These independent observations include vasoconstriction and cold induced vasodilatation observed through changes in the fluorescence intensity of fingertips. The optical transmission characteristics of fingertips also change in a manner that is constant with the flow of blood upon tissue modulation. The ability to track the concentration of a blood analyte noninvasively using tissue modulated noninvasive in vivo Raman spectroscopy is of itself further independent proof that the observed spectroscopic signals are attributable to blood. Proof-of-principle clinical studies demonstrating the ability to track blood glucose concentrations noninvasively and in vivo were conducted with the Joslin Diabetes Center at Upstate Medical University in Syracuse, NY.

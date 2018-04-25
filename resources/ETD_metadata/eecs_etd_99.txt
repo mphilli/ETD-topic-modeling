@@ -1,0 +1,11 @@
+$TITLE:
+Support vector parameter selection using experimental design based generating set search (SVEG) with application to predictive software data modeling
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Support vector, Parameter selection, Software, Hyperparameter selection
+
+$ABSTRACT:
+Predictive data modeling is germane to many engineering and scientific applications. Recently, a new type of learning machine, called support vector machine  (svm), has gained prominence for predictive modeling of classification and regression problems. However, the solution of svm requires some user specified parameters called hyperparameters  . In practice these are determined by a computationally intensive grid search.In this research, we develop a principled approach for the selection of svm hyperparameters. The proposed three step methodology consists of determination of parametric ranges based on their interrelationships, setting up experimental designs for an efficient exploration of the error surface, and pursuing generating set search for local refinement. We demonstrate its efficacy for software module classification and effort prediction problems.

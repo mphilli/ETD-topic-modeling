@@ -1,0 +1,11 @@
+$TITLE:
+Capitalization of local public services into house values
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Capitalization, Public services, House values
+
+$ABSTRACT:
+This study tries to measure the effect of local public service quality on house values. Many other studies have attempted to measure this effect, but did not pay a careful attention to the choice of public service. This study estimates a public service index out of an educational cost model. It then uses the index in an hedonic equation to estimate capitalization. This study also uses the index to estimate the demand for education.

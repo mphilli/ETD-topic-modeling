@@ -1,0 +1,11 @@
+$TITLE:
+Metabolic and genetic engineering of Escherichia coli for the production of nonulosonic acid sugars
+
+$DEPARTMENT:
+Biology
+
+$KEYWORDS:
+Amino sugars, Metabolic, Genetic engineering, Nonulosonic acid, Sialic acid
+
+$ABSTRACT:
+Microbial fermentation has proven to be a valuable and essential method for producing both high-value low-volume products such as pharmaceuticals and low-value high-volume goods, e.g.,  fuels and nutraceuticals. Compared to other industrial processes, the scalability, low-cost and green chemistry associated with Escherichia coli -based fermentation has driven it into the forefront of bioprocess engineering. Indeed, this bacterium is a vital recombinant microorganism for accessing not only common bioproducts such as amino acids and sugars, but is a source of more structurally complex, pharmaceutical-precursors, including 6-deoxyerythronolide B and artemisinic acid. Through metabolic and genetic engineering approaches presented herein, we were able to construct E. coli  strains that could biosynthesize and produce the non-native, nonulosonic acid sugars, sialic acid and pseudaminic acid. These nine-carbon keto acids perform unique, key cellular functions, making them highly sought after in the medical and biotechnological industries. In addition, with the limited access to the nonulosonates via enzymatic synthesis, advancements in the basic research on the biochemistry and physiology of these sugars remains hindered. To increase the availability of these compounds, fully functional, biosynthetic pathways for sialic and pseudaminic acid were constructed and successfully expressed in E. coli.  However, optimal production of either sugar required inimitable modifications to E. coli 's amino sugar metabolism for maximizing carbon flow into the desired nonulosonate and obtaining industrial-relevant titers. Known as an industrial workhorse, the E. coli  processes developed herein will serve as valuable platforms for accessing nonulosonic sugars and their derivatives.

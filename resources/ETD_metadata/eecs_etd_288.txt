@@ -1,0 +1,11 @@
+$TITLE:
+Information theoretic measure applied on learning classifier systems for speaker identification problems
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Learning classifier systems, Speaker identification, Machine learning
+
+$ABSTRACT:
+Classifier systems, originally designed for symbolic problem domains, have been successfully used on a variety of real-valued problem domains. For large and complex real-world problems, however, classifier systems are still faced with substantial challenges. We study the feasibility of using classifier systems for large and complex biometric classification problems, specifically, the speaker identification problem. We first introduce the characteristics of the speaker identification problem and present a variant of classifier systems to handle the complexities of the problems with similar characteristics. We also present and evaluate an information theoretic mechanism based on information entropy for classifier systems. Experimental results show that the system using the information theoretic mechanism improves the decision making process, and also significantly reduces learning time when used in population initialization. In addition, we examine the efficacy of information theoretic mechanisms on authentication tasks. The study finds that our improved classifier system is capable of authentication tasks, and is also compatible with normalization mechanisms commonly used for probabilistic models. When probabilistic normalization techniques are combined with the information theoretic mechanism and applied to classifier system parameters, the system improves its classification accuracy by roughly 12-13%. We compare the results against a widely used statistical clustering method.

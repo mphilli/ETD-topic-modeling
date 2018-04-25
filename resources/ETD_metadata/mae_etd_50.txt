@@ -1,0 +1,11 @@
+$TITLE:
+Modelling of crack tip deformation with finite-element method and its applications
+
+$DEPARTMENT:
+Mechanical and Aerospace Engineering
+
+$KEYWORDS:
+crack tip deformation
+
+$ABSTRACT:
+A finite element computer program using initial stress approach of elastic-plastic analysis was developed. Crack tip deformation under small scale yielding condition was studied. Dugdale model was reviewed. The elastic-plastic strip yielding model does not agree with the classic Dugdale model.

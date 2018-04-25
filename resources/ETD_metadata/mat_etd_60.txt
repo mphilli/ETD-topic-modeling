@@ -1,0 +1,11 @@
+$TITLE:
+An Experimental Comparison of Two Liberal Arts Courses in General Mathematics at Syracuse University
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Curriculum, Critical thinking, Mathematical operations, Number system, Abstract rational systems
+
+$ABSTRACT:
+The problem of this thesis is to determine, if possible, which of two different sets of course materials results in better attainment of certain objective of Mathematics 7, the first semester of the general education course in mathematics at Syracuse University.These objectives can be grouped under four main heads: 1. Ability to think critically 2. Skill in performing elementary mathematical operations 3. Understanding of the number systems 4. Understanding of abstract rational systems.

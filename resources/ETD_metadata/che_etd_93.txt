@@ -1,0 +1,11 @@
+$TITLE:
+Influences of organonitrogen components or organonitrogen-heterometal complexes on molybdenum- and vanadium-oxide composite materials: Hydrothermal syntheses and structural characterization
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Molybdenum oxides, Vanadium oxide, Organonitrogen
+
+$ABSTRACT:
+The influences of organonitrogen components on the solid state structures of molybdenum and vanadium oxides, some with secondary metal sites present, were investigated by utilizing hydrothermal techniques to synthesize related materials. All syntheses presented were carried out with either a molybdate or a vanadate starting material, appropriate ligand, and, in some cases, a precursor containing the secondary metal of choice. These components were reacted in either polytetrafluoroethylene-lined stainless steel acid digestion bombs or borosilicate glass tubes. Reaction conditions were varied by adjusting reaction components, temperature, fill volume, time, and precursor concentrations. The organonitrogen ligands utilized for this study included bidentate, tridentate and bis-tridentate, as well as bridging moieties. Careful examination of the crystalline products of these reactions will help further understanding of the complex relationships between ligand choice, metal oxide selection and the presence of secondary metal components.

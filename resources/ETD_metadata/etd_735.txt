@@ -1,0 +1,11 @@
+$TITLE:
+The Presence of Groove in Online Songwriting Projects
+
+$DEPARTMENT:
+School of Information Studies
+
+$KEYWORDS:
+Collaborative Work, Creative Collaboration, Creativity Support Tools, Virtual Teams
+
+$ABSTRACT:
+Collaboration for groups with members who are disconnected by geography or time is convenient for many reasons, but remains a challenge due to time zone differences, network congestion, and the attenuation of nonverbal communication cues. Virtual collaborators engaging in creative work often deal with these challenges, even more so when tasked with expressing their emotions to distant partners.This study seeks to determine the social factors and tools that impact the quality of an online creative collaboration. Members of the Kompoz.com music composition community were surveyed to solicit projects that had the potential to be optimal collaborations. Judges listened to these songs and measured how much each song prompted them to move. This measure, called groove, was used as an indication of a successful collaboration. Judges assisted in selecting one case that was an exemplar of groove, and another that urged them to move much less, to stand as an exemplar of diminished groove. The comparative case method was used to compare and contrast the tools, social practices, and skills employed in each project, and offers guidelines for the design of and participation in online creative communities.

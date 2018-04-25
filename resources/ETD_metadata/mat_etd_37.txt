@@ -1,0 +1,11 @@
+$TITLE:
+A boundedly controlled finiteness obstruction
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Topology, Boundedly controlled, Finiteness obstruction
+
+$ABSTRACT:
+A CW complex X is finitely dominated if there exists a finite CW complex Y together with continuous maps [Special characters omitted.] such that [Special characters omitted.]C.T.C. Wall asked the following question, "If X is finitely dominated, does X necessarily have the homotopy type of some finite CW complex"? He went on to discover the answer in general is, "No". In 1965 in [Wa], a now classic paper, he proved the following theorem:Theorem: Suppose X is finitely dominated. Then there exists an invariant w ( X ) ∈ K 0 ( Z π( X )) such that X has the homotopy type of a finite CW complex if and only if w ( X ) = 0.Here K 0 ( Z π( X )) is the reduced projective class group of the integral group ring Z π( X ) of the fundamental group of X . The invariant w ( X ) is called Wall's finiteness obstruction for X .In the 1980's, Douglas R. Anderson and Hans J. Munkholm developed a new theory in the general area of 'topology with control' or spaces 'parametrized over a space' called boundedly controlled ( bc ) topology . The geometry and algebraic topology of be spaces was introduced in [AM 1].In this dissertation, we review the fundamentals of boundedly controlled topology and generalize Wall's finiteness obstruction theorem to the category of boundedly controlled CW complexes.

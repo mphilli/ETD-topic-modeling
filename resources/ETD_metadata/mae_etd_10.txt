@@ -1,0 +1,11 @@
+$TITLE:
+Development of an analytical model for pitch link loads of bearingless main rotors
+
+$DEPARTMENT:
+Mechanical and Aerospace Engineering
+
+$KEYWORDS:
+Helicopters, Rotors, Pitch link
+
+$ABSTRACT:
+An aeroelastic rotor model for bearingless main rotors is developed. The primary purpose of the model is to predict axial pitch link loads as a function of flight condition and pilot stick positions. The rotor is represented by five principal parts: the blade, the cuff, the yoke, the lag damper and the ptich link. These elements are synthesized into a bearingless rotor model using a multibody dynamics formulation. Symbolic computer algebra scripts using MAPLE are used to derive closed-form analytical expressions for inertial and stiffness analyses and for constraint modeling.Rotor aerodynamics is based on quasi-static blade element theory, with semi-empirical models for inflow distribution and dynamic stall. The aerodynamic and inertial models are limited to steady level flight cases. The multibody formulation and the time-domain solution methodology, however, are general enough to consider transient analyses associated with maneuvering and nontrimmed flight conditions.Correlation of the analytically generated pitch link loads against measured flight test data is presented to validate the formulation.

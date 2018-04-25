@@ -1,0 +1,11 @@
+$TITLE:
+Wavelets on manifolds and multiscale reproducing kernel Hilbert spaces
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Wavelets, Manifolds, Reproducing kernel, Hilbert spaces
+
+$ABSTRACT:
+This research focuses on wavelets adapted to compact domains with further application to manifolds and reproducing kernel Hilbert spaces. In the setting of manifolds, technical requirements allowing the explicit construction of these wavelets are addressed. Wavelet decomposition and reconstruction formulas are given for the class of square integrable functions. Following these results is a demonstration of the theory to several different domains of interest, such as a curved surface and a simplex in dimension two. The constructions are explicit and include several possible initial wavelet spaces.The application of these wavelets to reproducing kernel Hilbert spaces is discussed. Results include a decomposition/reconstruction algorithm and a new fully wavelet multiscale reproducing kernel. Convergence analysis of approximations using these kernels is given.The results of this research are motivated in part by their applicability to modeling flutter. More specifically, modeling flutter for high performance aircraft traveling in high speed flight regimes, a research question sponsored by NASA. The setting and expected benefits for this application are discussed in detail.

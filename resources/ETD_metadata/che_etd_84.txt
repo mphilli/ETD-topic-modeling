@@ -1,0 +1,11 @@
+$TITLE:
+The photocoloration of transition metal oxides
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Photocoloration, Transition metal oxides, Optical memory, Electrochromic
+
+$ABSTRACT:
+We have introduced a novel hypothesis for describing the reversible photocoloration of WO 3 using sub-bandgap light. Unlike earlier explanations of the well known electrochromism and super-bandgap photochromism, this hypothesis involves a mechanism which is independent of water, i.e. protons, or other cations. Our results demonstrate an independent mechanism in which oxygen exchange between the sample and the ambient atmosphere during the reversible photocoloration process plays the dominant role. Raman, Diffuse Reflectance IR spectroscopies, and electron scattering for chemical analysis (ESCA) were used to characterize our tungsten-oxygen system. We have also identified a set of fundamental parameters and their quantitative relationships. The results of this study are adequately accounted for using our proposed hypothesis.

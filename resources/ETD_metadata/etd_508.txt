@@ -1,0 +1,11 @@
+$TITLE:
+Optimal Inference for Distributed Detection
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Distributed detection, Function optimization, Optimal hypothesis testing, Statistical inference
+
+$ABSTRACT:
+In distributed detection, there does not exist an automatic way of generating optimal decision strategies for non-affine decision functions. Consequently, in a detection problem based on a non-affine decision function, establishing optimality of a given decision strategy, such as a generalized likelihood ratio test, is often difficult or even impossible.In this thesis we develop a novel detection network optimization technique that can be used to determine necessary and sufficient conditions for optimality in distributed detection for which the underlying objective function is monotonic and convex in probabilistic decision strategies. Our developed approach leverages on basic concepts of optimization and statistical inference which are provided in appendices in sufficient detail. These basic concepts are combined to form the basis of an optimal inference technique for signal detection.We prove a central theorem that characterizes optimality in a variety of distributed detection architectures. We discuss three applications of this result in distributed signal detection. These applications include interactive distributed detection, optimal tandem fusion architecture, and distributed detection by acyclic graph networks. In the conclusion we indicate several future research directions, which include possible generalizations of our optimization method and new research problems arising from each of the three applications considered.

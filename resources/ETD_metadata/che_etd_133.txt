@@ -1,0 +1,11 @@
+$TITLE:
+Structural investigations of alkali- and alkaline earth-metal thiolates
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+alkali- and alkaline earth-metal thiolates
+
+$ABSTRACT:
+The synthesis and solid-state structural identification of lithium, sodium and potassium thiolates, as well as thiolates of all the alkaline earth metals is described. The target molecules were accessed through several metathesis protocols, where the evolution of a volatile product was used to drive each reaction forward. For example, the metallating reagents butyllithium or the hydrides of sodium or potassium reacted cleanly with a family of arylthiols in non-donor or Lewis basic reaction solvents. In the synthesis of alkaline earth-metal thiolates, the metal bis(trimethylsilyl)amides M(N(SiMe$\sb3)\sb2\rbrack\sb2$ (M = beryllium, magnesium or calcium), the magnesium alkyl Mg(nBu/sBu), and the ammonia-solvated bulk metals calcium, strontium and barium were all employed as metallating reagents. Variation in the electronic and steric nature of the thiolato ligand, adjunct donor molecules, or alteration of reaction stoichiometry has led to the solid-state structural identification of monomers, higher oligomers and polymers, as well as rare alkali and alkaline earth metallates and solvent-separated-ion pairs and triples. Single crystal X-ray diffraction was the primary method for determining solid-state structural chemistry. $\sp1$H and $\sp{13}$C NMR, IR spectroscopy and melting point were also employed for identification.

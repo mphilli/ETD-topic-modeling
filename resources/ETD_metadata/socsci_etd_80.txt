@@ -1,0 +1,11 @@
+$TITLE:
+Caregiver characteristics and experiences: Their effects on the probability of nursing home admission
+
+$DEPARTMENT:
+Social Sciences
+
+$KEYWORDS:
+elder care
+
+$ABSTRACT:
+The demand for long-term care is projected to increase dramatically as the United States experiences the aging of its population, particularly as the baby boom generation reaches the age of requiring long term care. Traditionally, families have been a major source of informal support, often making it possible for an impaired elderly person to stay out of an institution. However, the willingness and capability of providing elderly care is decreasing, primarily due to demographic trends such as a decrease in kin availability and secondarily due to socioeconomic trends such as an increase in female labor force participation and a decrease in family solidarity. Also, due to a downsized economy, social programs for the elderly are not keeping up with the increasing demand for long-term care services.Without agreement on how to share the caregiving burden between society and family, cost containment becomes a popular option in formulating long-term care policies. Increasingly, family caregiving, considered to be an act of love and affection, is encouraged and often enforced. The myth that adult children do not provide the same total parent care now as in the "good old days", while they are capable of doing more, is used to justify the inadequacy of social services which could share or relieve unrelenting stress on caregivers. More often, the personal costs borne by the caregivers are properly not taken into account.In predicting the probability of nursing home admission, along with the carereceivers' characteristics, the present study considers the caregivers' willingness and ability to continue to provide care in a novel way. By investigating the caregivers' felt burden and role conflict, this study focuses on how the social, emotional, and psychological circumstances of a caregiver affect a family's decision to institutionalize. Logit regression is used to estimate the probability of nursing home admission. Data sources are from the 1982-1984 National Long-Term Care Channeling Demonstration (NLTCCD). Finally, this paper will explore policy implications based on the findings of this study.

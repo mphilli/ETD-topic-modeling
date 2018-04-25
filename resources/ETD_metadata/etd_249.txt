@@ -1,0 +1,11 @@
+$TITLE:
+Flux-tunable superconducting transmons for quantum information processing
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+quantum information processing, qubits, superconductivity
+
+$ABSTRACT:
+In this thesis, I describe a series of experiments using flux-tunable transmon qubits for quantum information processing. These qubits are designed with different levels of Josephson junction asymmetry. The first two chapters of this thesis will introduce the reader to superconducting qubits and circuit quantum electrodynamics. I will present experiments using the cQED architecture to implement fast photon swapping between an asymmetric qubit and a superconducting resonator using flux-driven sidebands. This is the first experimental observation of flux-driven sidebands in a superconducting system. This process also allows photon swaps between qubit and resonator to first order in the qubit-resonator coupling strength. I will detail an experiment to study and optimize an all-microwave two-qubit gate using the cross-resonance effect. This work constitutes the first experimental study of the cross-resonance effect vs. frequency and confirms effects from the higher energy levels of the transmon in the effective coupling during a cross-resonant drive. Lastly, I will outline a theoretical analysis and initial experiments to study the coherence properties of asymmetric transmons.

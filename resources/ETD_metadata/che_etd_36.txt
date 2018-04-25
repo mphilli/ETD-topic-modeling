@@ -1,0 +1,11 @@
+$TITLE:
+Rhenium and technetium radiopharmaceuticals: Design and development for applicatons in nuclear medicine
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Rhenium, Technetium, Radiopharmaceuticals, Nuclear medicine, Biotin, PSMA
+
+$ABSTRACT:
+This study focuses on the design, development, and synthesis of technetium and rhenium radiopharmaceutical agents for imaging and therapy applications in nuclear medicine. In conjunction with a bioactive molecule, the use of rhenium and technetium can be powerful tools in targeting disease, since  99m  Tc presents ideal nuclear decay properties. The pendant approach was implemented in the design of the radiopharmaceuticals. The three major components of this strategy, the biologically active molecule, a tridentate chelator, and a radiometal core, were explored.Studies of the interaction of the coupling of the technetium tridentate chelator with a bioactive molecule with receptor specific interactions constitutes a significant segment of this work. After a careful investigation of the coordination preferences of the metal cores towards the different donor ligand systems, a series of single amino acid chelates (SAAC) and their complexes with biologically active molecules such as biotin and PSMA analogues were designed, synthesized, and their biological activity evaluated.Chapters 2 and 3 focus on biotin as a potentially valuable pretargeting agent in conjunction with avidin, and the biological properties this biotin-avidin system maintains. Chapter 4 elaborates on the flexibility and utility of the biotin-avidin system and further expands the applicability into the arena of luminescence. Chapter 5 demonstrates the utility of a series of cationic and urea based N-acetylaspartyl glutamate (NAAG) analogues as potentially useful reagents in the battle against prostate cancer, and the seemingly discrete area of neuroimaging. The improved synthesis of a critical starting material is elaborated on in Chapter 6 which also presents thorough characterization of the newly synthesized [Re(H 2 O) 3 (CO) 3 ]Br starting material.

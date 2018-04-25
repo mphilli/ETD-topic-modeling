@@ -1,0 +1,11 @@
+$TITLE:
+Use of model-based parameter estimation in electromagnetic scattering problems of a conducting body of revolution
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Model-based parameter estimation, Electromagnetic scattering, Body of revolution, Method of moments
+
+$ABSTRACT:
+Frequency-derivative information incorporated with model-based parameter estimation (MBPE) is used to obtain scattering from a perfectly conducting body of revolution (BOR). The electric field integral equation (EFIE) is solved using the method of moments (MoM) to obtain the surface current on the perfectly conducting body. Instead of computing the MoM solution using a pointwise approach, a rational function model is used to approximate the current as a function of frequency. The model coefficients are computed using both frequency and frequency-derivative information at one frequency in the band or alternatively two or more frequencies in the band. With the rotational symmetry of BOR, the computational cost can be significantly reduced compared to that of arbitrary three-dimensional (3-D) objects and more importantly scattering from an electrically large body can be obtained. Numerical results for various perfectly conducting bodies are presented. Results show that the MBPE provides excellent agreement with the pointwise approach over a limited frequency band. In addition, the MBPE performs well for predicting sharp resonances.

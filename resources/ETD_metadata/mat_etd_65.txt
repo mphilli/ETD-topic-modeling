@@ -1,0 +1,11 @@
+$TITLE:
+Potential Theory on Compact Sets
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Compact sets, Harmonic functions, Jensen measures, Potential Theory, Restoring Coverings, Subharmonic functions
+
+$ABSTRACT:
+The primary goal of this work is to extend the notions of  potential theory to compact sets. There are several equivalent ways to define  continuous harmonic functions H(K) on a compact set K in [the set of real numbers]n. One may let H(K)  be the uniform closure of all functions in C(K) which are restrictions of  harmonic functions on a neighborhood of K, or take H(K) as the subspace of C(K)  consisting of functions which are finely harmonic on the fine interior of K. In  [9] it was shown that these definitions are equivalent.

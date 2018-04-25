@@ -1,0 +1,11 @@
+$TITLE:
+ATTACKS AND COUNTERMEASURES FOR WEBVIEW ON MOBILE SYSTEMS
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Android, Attack, Security, WebView
+
+$ABSTRACT:
+All the mainstream mobile operating systems provide a web container, called ``WebView''. This Web-based interface can be included as part of the mobile application to retrieve and display web contents from remote servers. WebView not only provides the same functionalities as web browser, more importantly, it enables rich interactions between mobile apps and webpages loaded inside WebView. Through its APIs, WebView enables the two-way interaction. However, the design of WebView changes the landscape of the Web, especially from the security perspective.This dissertation conducts a comprehensive and systematic study of WebView's impact on web security, with a particular focus on identifying its fundamental causes. This dissertation discovers multiple attacks on WebView, and proposes new protection models to enhance the security of WebView. The design principles of these models are also described as well as the prototype implementation in Android platform. Evaluations are used to demonstrate the effectiveness and performance of these protection models.

@@ -1,0 +1,11 @@
+$TITLE:
+Molecular genetics and evolution of UV vision in vertebrates
+
+$DEPARTMENT:
+Biology
+
+$KEYWORDS:
+Evolution, UV, Vision, Spectral tuning
+
+$ABSTRACT:
+Many vertebrates achieve UV vision through a class of photoreceptors in the retina containing UV-sensitive visual pigments with optimal light absorption (λ max ) at 360∼370 nm. UV vision has been used for such basic behaviors as communication, foraging, and mating. Despite its biological importance, the molecular bases and the evolution of UV vision are not well understood. In this study, we first identified the major amino acid residues that determine the spectral sensitivity of UV pigments in vertebrates. We also provided strong supportive evidence that UV pigments, unlike all the other visual pigments, are based on an unprotonated Schiff base chromophore. We then inferred the amino acid sequences of the ancestral pigments of UV/violet pigments in vertebrates. These ancestral pigments were then reconstructed by introducing the necessary mutations into the contemporary pigments and their absorption spectra evaluated by using an in vitro assay. Our results demonstrated that the common ancestor of vertebrates and most other ancestors had UV-sensitive pigments, and most contemporary UV pigments maintained the ancestral function. The ancestral pigments of birds achieved violet sensitivity by four amino acid substitutions, and some extant avian species regained UV vision by a change at another amino acid site. In conclusion, this study not only revealed the molecular mechanisms for spectral tuning in UV pigments, but also elucidated the evolutionary history of UV vision in vertebrates.

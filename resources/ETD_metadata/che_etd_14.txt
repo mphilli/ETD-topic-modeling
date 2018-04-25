@@ -1,0 +1,11 @@
+$TITLE:
+Terahertz spectroscopy and molecular modeling of molecules connected by a network of non-covalent interactions
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Terahertz, Molecular modeling, Hydrogen-bonding, Electrostatic interactions, Cluster formation
+
+$ABSTRACT:
+Experimental terahertz (THz) spectroscopy and molecular modeling were used to investigate the network of non-covalent interactions that serve to connect molecules in the solution-phase and solid-state. The intermolecular forces found in the molecules studied included hydrogen-bonding, electrostatic interactions, π-π stacking, and long-range dispersion forces. These types of non-covalent forces define cluster formation in solution and the packing arrangement of a crystalline solid. Molecular modeling was utilized to predict the structure and vibrations of the samples and guide the analysis of the experimental data. For solution-phase experiments, isolated-molecule calculations were carried out using density functional theory (DFT) and second-order Møller-Plesset perturbation theory (MP2) methods. Solid-state DFT using periodic boundary conditions was used to interpret crystalline solids. These periodic calculations include the relevant molecular environment found in solids which isolated-molecule calculations can not provide. In all cases, several density functionals were tested to determine how well they reproduce the experimental observation of structure and THz motions.

@@ -1,0 +1,11 @@
+$TITLE:
+A study investigating the effects of sociotropy on ambulatory blood pressure while encountering interpersonal stressors
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Sociotropy, Blood pressure, Stressors, Women, Need for approval
+
+$ABSTRACT:
+Investigated the link between sociotropy, an excessive need for social acceptance, and the experience of negative affect and physiological arousal as college women encountered negative interpersonal interactions throughout the day. Seventy-two female students (85% Caucasian) were asked to wear an ambulatory blood pressure monitor and record the quality and nature of social interactions throughout the day. Mixed modeling showed that women with high levels of sociotropy exhibited lower levels of diastolic blood pressure when they encountered negative social interactions. Results showed no significant relationship between sociotropy, negative social interactions, and systolic blood pressure. Regarding negative affect, mixed modeling found support for the expected interaction between sociotropy and negative social interactions in predicting an increased level of unpleasant affect.

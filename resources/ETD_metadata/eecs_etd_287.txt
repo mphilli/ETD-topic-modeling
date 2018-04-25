@@ -1,0 +1,11 @@
+$TITLE:
+An Information Theory for Time-Continuous Processes
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Entropy, Mutual information, Transinformation, Transducer
+
+$ABSTRACT:
+Introduction: It is a remarkable fact that we can assign a numerical measure to certain quantities, which are closely related to our semantic conception of the word "information." Depending on the model under consideration, these quantities are variously called the uncertainty, the average uncertainty or entropy, the mutual information, and the average mutual information or trans-information. ...

@@ -1,0 +1,11 @@
+$TITLE:
+I. Metal-Citrate Transport in Kineococcus radiotolerans & II. The Interaction of Saposin B with Antimalarial Drugs
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Atovaquone, Calcium citrate, Chloroquine, CitMHS, Kineococcus, Malaria
+
+$ABSTRACT:
+The CitMHS protein family is an understudied area of membrane proteins, and yet is an important family regarding basic biological mechanisms.  Organisms have adapted a way to internalize both metals and citrate simultaneously by recognizing and transporting metal-citrate complexes.  The organism studied in this thesis, Kineococcus radiotolerans, has a CitMHS member and will be described and characterized in great detail.  It is shown that calcium citrate is transported more than any other metal-citrate complex tested.Saposin B is a soluble protein that removes damaged coenzyme Q10 from the inner mitochondrial membrane and transports it through the body for excretion.  It also functions to help degrade lipids by binding them and presenting them to arylsulfatase B.  Saposin B may have some unknown mechanisms as well.  Discussed in this thesis is the saposin B binding to the antimalarial agents atovaquone and chloroquine.  Herein is described the possible uses of saposin B as a treatment for chloroquine poisoning, as well as a possible mechanism for how atovaquone is toxic to Plasmodium falciparum, but nontoxic to humans.

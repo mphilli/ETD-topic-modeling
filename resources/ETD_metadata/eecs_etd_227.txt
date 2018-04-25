@@ -1,0 +1,11 @@
+$TITLE:
+Analysis of a multiconductor transmission line embedded in a layered uniaxial medium using a mixed potential integral equation approach
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Transmission line, Multiple conducting cylinders, Efficiency
+
+$ABSTRACT:
+A surface integral equation in conjunction with the method of moments is formulated for a transmission-line system which consists of multiple conducting cylinders of arbitrary cross section embedded in a stratified medium with or without top and/or bottom ground planes. Each layer of the medium is possibly uniaxially anisotropic, with its optical axis perpendicular to the dielectric interfaces. The contours of the conductor cross sections are approximated by a set of linear segments. Pulse and triangular basis functions are assumed for, respectively, the longitudinal and the transverse surface currents on the conductors in the moment method procedure. A mixed-potential form of the electric field equation is adopted. Therefore, direct computation of the more singular electric field is avoided in the testing process. Numerical results are presented and, wherever possible, are compared with data available in the literature. Propagation constants and current distributions are computed for a variety of configurations, in which the number of conductors ranges from one to five and that of layers of dielectrics from two to six. In particular, the Goubau modes, in which all the longitudinal modal currents flow in the same direction for the systems without the ground planes, have been found. Possible ways of further improving the computational efficiency are also discussed.

@@ -1,0 +1,11 @@
+$TITLE:
+Dynamics and photoinduced anisotropic properties of bacteriorhodopsin and their applications
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Photoinduced anisotropic, Bacteriorhodopsin
+
+$ABSTRACT:
+Bacteriorhodopsin (BR) has emerged as a promising alternative in optical storage, optical imaging, optical information processing, photon detection, and photonic switching and interconnection. We have investigated the dynamics of the real-time holographic process that happens in the medium of the bacteriorhodopsin films and obtained images with high space-bandwidth product with dynamic gains without using any imaging lens. We built a biophysical model using the Lorentz-Lorenz equation and rate equations to characterize the recording process in the BR film. We found that the material of BR is not a Kerr material in general and can be approximated as a Kerr material either under weak light illumination or with a very small thermal relaxing time. The validity of the biophysical model was verified by the resemblance of the time evolution profiles of the diffraction efficiencies obtained by numerical simulations and the ones we got in the experimental measurements. We have studied the holographic recording process under illumination of three beams of light wave and extended our biophysical model to the three-wavelength real-time holography. We used the numerical results calculated from the K-K transformation as the guideline to design and carry out the experiments with appropriate configurations in measuring pure dichroism and birefringence in the BR films. Significant magnitudes of the dichroism and birefringence in different mutations of BR were obtained.

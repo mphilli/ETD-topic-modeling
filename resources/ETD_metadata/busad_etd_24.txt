@@ -1,0 +1,11 @@
+$TITLE:
+Two essays on government bond markets
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+Government bond, Bond markets, Liquidity, Treasury bonds, Municipal bondsGovernment bond, Bond markets, Liquidity, Treasury bonds, Municipal bondsGovernment bond, Bond markets, Liquidity, Treasury bonds, Municipal bonds
+
+$ABSTRACT:
+In the first part of this study, the effects of liquidity and information risks on expected returns of U.S. government bonds are examined. Information risk is measured by probability of information-based trading (PIN) derived from the market microstructure model of Easley, Hvidkjaer, and O'Hara (2002). Liquidity risk is captured by sensitivity of individual bond returns to a market-wide liquidity measure along with the line of Pastor and Stambaugh (2003). After controlling systematic risks and bond characteristics, it is found that both liquidity and information risks have a significantly positive effect on expected bond returns. The findings suggest that incorporating microstructure factors into existing term structure models is a promising avenue for improving the understanding of bond price behavior.In the second part of this study, I examine the effects of liquidity, default and taxes on the relative yields of Treasuries and municipals. A term structure model of municipal bonds with liquidity risk is employed to estimate the effects of the three important factors on municipal bond yields. After accounting for default and liquidity risks, the implied marginal tax rates are much closer to statutory tax rates of high-income individuals and corporations. In addition, the implied tax rates for long-maturity municipals are very close to those of short-maturity municipal bonds. Results show that the generalized model with liquidity and default risks has explained the municipal anomalies with a reasonable success. Municipal bond yields are strongly affected by default and liquidity risks.

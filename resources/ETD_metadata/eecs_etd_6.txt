@@ -1,0 +1,11 @@
+$TITLE:
+Adaptive multi-module approximation networks
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Neural networks, Adaptive learning, Financial forecasting, Function approximations, Multimodule
+
+$ABSTRACT:
+This dissertation addresses the development of neural network architectures and learning rnethodologies for approximation problems not easily solved using traditional neural learning algorithms.  Functions may be approximated using a local method that captures the underlying local structure of the mapping. The use of a local method offers the advantage of fast learning and therefore requires relatively few training iterations to learn the task. Alternatively, the approximation may be realized using a global method that captures the underlying global structure of the problem. The use of global methods often offers the advantage of smaller storage and better generalization performance. The approach proposed herein is an innovative combination of local and global methodologies.  Modularity is an important principle in biological as well as artificial systems. In order to solve difficult new problems, a neural network architecture must allow for modules to be added as learning proceeds, depending on the problem requirements. This is particularly the case in function approximation problems, where previously described adaptive learning algorithms perform poorly. This dissertation proposes a new adaptive modular architecture for function approximation, and simulates its performance on several difficult problems.

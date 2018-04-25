@@ -1,0 +1,11 @@
+$TITLE:
+Alcohol's influence on requisites for HIV-risk reduction
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+immune deficiency, sexual behavior, Psychotherapy, Public health, Behaviorial sciences
+
+$ABSTRACT:
+Previous research has suggested that acute consumption of alcohol may influence subsequent sexual choices. However, this correlational evidence is equivocal. As behavioral prevention of unprotected intercourse remains the primary strategy to curb HIV transmission, understanding the potential role of alcohol as a situational barrier to safer sexual behavior is important to guide effective prevention messages. The first goal of this study was to assess motivation and behavioral skill to negotiate for condom use among 60 men assigned to either a no-alcohol (sober), placebo, or alcohol condition. The second goal was to examine, in hierarchical regression analyses, the influence of dispositional factors and situational influences as predictors of participants' post-drinking attitudes and behavioral skills. Following the experimental manipulation, participants completed a condom attitude measure and responded to audiotaped prompts in role-play scenarios where unsafe sex was proposed. Consistent with predictions, participants in the placebo and alcohol conditions demonstrated poorer skill to negotiate for condom use, relative to sober controls; however, there was not a significant difference between the placebo and alcohol group. Regarding condom attitudes, contrary to predictions, a main effect for condition did not emerge. However, follow-up analyses indicated that participants with stronger sex-related alcohol expectancies endorsed less favorable condom attitudes, and this pattern was evident only in the placebo and alcohol conditions, where alcohol expectancies were mobilized. In regression analyses, experimental condition and the interaction of alcohol expectancies and condition accounted for unique variance beyond variance explained by baseline predictors. These findings provide important experimental evidence about the role of alcohol expectancies in risky sexual behavior.

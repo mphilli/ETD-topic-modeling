@@ -1,0 +1,11 @@
+$TITLE:
+Essays on the accumulation and transfer of wealth at older ages
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+aging, parental transfers, cash transfers, coresidence, bequests
+
+$ABSTRACT:
+This dissertation on the economics of aging uses new data sources to examine the accumulation and transfer of assets by older persons. In Essay 1, I examine the well-being of those first-eligible for early Social Security benefits at age 62. I use the first two waves of the Health and Retirement Study to measure the well-being of individuals in the years just before and just after they are first eligible to receive early Social Security benefits. I find that the well-being of takers and postponers are quite similar. The results hold up when the sample is disaggregated by race, but the overall initial level of well-being for blacks and Latinos is low relative to white respondents. Further, I find health is a better gauge of economic well-being than is taking early Social Security benefits. In Essay 2, I examine parental transfers to children using data from the Assets and Health Dynamics of the Oldest Old Survey. Previous research has focused separately on either cash transfers, coresidence, or bequests. I combine these three sources of transfers as well as deeds to property, life insurance policies, and trust funds to analyze how such transfers are distributed to children with respect to their incomes. I use estimation techniques which estimate the pattern of transfers both within and across families. The findings suggest parents target inter vivos transfers to their relatively poorer children, while transfers made at death tend to be made to all children without regard for income differences among children. In Essay 3, I relax the assumption of independence among transfer equations from chapter two. I use a two-stage technique that accounts for the relationships among transfer types. The results suggest that there are several significant positive correlations between transfers. Failure to account for these relationships when analyzing the distribution of parental resources understates transfer probabilities. Further, I find that children who are poor relative to their siblings have the highest probability of receiving all combinations of transfers, implying that resource transfers reduce within-family income inequality.

@@ -1,0 +1,11 @@
+$TITLE:
+Synthesis and Biosynthesis of Polyketide Natural Products
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+DEBS TE, Diels-Alderase, Polyketides, Polyketide thioesterase, Spiculoic Acid A
+
+$ABSTRACT:
+Traditionally separate disciplines of a large and broad chemical  spectrum, synthetic organic chemistry and biochemistry have found in the last  two decades a fertile common ground in the area pertaining to the biosynthesis  of natural products. Both disciplines remain indispensable in providing unique  solutions on numerous questions populating the field. Our contributions to this  interdisciplinary pursuit have been confined to the biosynthesis of polyketides,  a therapeutically and structurally diverse class of natural products, where we  employed both synthetic chemistry and biochemical techniques to validate complex  metabolic processes. One such example pertained to the uncertainty surrounding  the regiochemistry of dehydration and cyclization in the biosynthetic pathway of  the marine polyketide spiculoic acid A. The molecule's key intramolecular  cyclization was proposed to occur through a linear chain containing an  abnormally dehydrated polyene system. We synthesized a putative advanced  polyketide intermediate and tested its viability to undergo a mild chemical  transformation to spiculoic acid A. In addition, we applied a synthetic and  biochemical approach to elucidate the biosynthetic details of  thioesterase-catalyzed macrocyclizations in polyketide natural products. The  outcome of the enzyme's activity is divided between hydrolysis and  macrocyclization and limited information is currently available pertaining to  its selectivity. We synthesized four enantioenriched NAC-thioester analogs and  assayed them with overexpressed DEBS TE, the canonical thioesterase of  polyketide natural products, to gain insight into the effect key structural and  stereochemical elements of the polyketide substrate have in the macrocyclization  selectivity and regioselectivity of the enzyme.

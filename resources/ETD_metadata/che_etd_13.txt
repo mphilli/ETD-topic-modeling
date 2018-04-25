@@ -1,0 +1,11 @@
+$TITLE:
+Development of time-gated protein detection assays with luminescent nucleotide sensors
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Luminescent, Nucleotide sensors, Protein binding, Terbium, Aptassensors
+
+$ABSTRACT:
+Time-gated detection allows for the exclusion of autofluorescent background signals, improving detection sensitivity. In order to develop a time-gated protein switch the luminescent terbium ion was used with the terbium chelation complex (cs124-DTPA). To observe changes in switch structure, the terbium ion was combined with a nitroxide quencher TEMPO. The terbium/nitroxide pair was first investigated in solution then applied to various unimolecular nucleic acid constructs, each increasing in complexity. Nucleic acid binding sequences, or aptamers, were used for switch development because of their ease of design and generation as well as their avoidance of incubation and wash steps to result in a rapid binding assay. The resulting structures are the initial uses of terbium and TEMPO as a sensor pair to achieve time-gated aptasensors. The aptasensors produced here all displayed rapid responses to the binding targets which were observed with time-gated measurements. However, the aptasensors also exhibited lower than expected contrast ratios. It is proposed that the lower than expected contrast ratios are a result of the unexpected coordination of the TEMPO nitroxide with the terbium ion. Methods to improve the contrast ratios are suggested. Despite the low contrast ratios, novel time-gated switches were developed for the intended binding target, the HIV protein NCp7 which could be used to develop a drug screen. These switches performed as well as the less complicated hairpin and thrombin binding aptamer (TBA) constructs, demonstrating the success of the nucleic acid switch concept. In addition, the methodology presented here can easily be utilized to produce new terbium/TEMPO based switches upon discovery of new nucleic acid binding sequences.

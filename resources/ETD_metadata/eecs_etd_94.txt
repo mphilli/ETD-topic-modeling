@@ -1,0 +1,11 @@
+$TITLE:
+A low-power UHF subsampling receiver front-end in 0.35mum SOI CMOS
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+UHF, Subsampling receiver, CMOS, Silicon-on-insulator
+
+$ABSTRACT:
+Design and implementation of a subsampling receiver front-end built on silicon on insulator (SOI) complementary metal oxide semiconductor (CMOS) technology is presented. To the best of our knowledge, our work is the first of its kind reported to date. The subsampling receiver is suitable for future Mars Missions and would become commercial when technology ripens.High-gain low noise amplifier (LNA) and track and hold circuit (T/H) are the major two building blocks in the subsampling receiver. Drawing 13mW from 2.5V power supply, the high-gain LNA provides 83dB gain and 2.6dB noise figure (NF) at 435MHz. It is shown that although the transistor 3-dB bandwidth is below the operating frequency, a high-gain, low noise, low power amplifier can be implemented with current technology.A novel T/H design shows that by simplifying the circuit architecture with respect to the operational transconductance amplifier (OTA) and the T/H routing, it is possible to achieve high-speed, low power track and hold circuits. The T/H is able to handle frequency shift key (FSK) and double differential phase shift key (DDPSK) up to 2MHz bandwidth and data signal rate (DSR) of 100kbps. Transgate switches are used in the design to alleviate charge injection and clock feedthrough. The T/H draws 1.5mW from 2.5V power supply.The subsampling receiver outperforms the state-of-the-art (SOA) superheterodyne receivers regarding to speed and power consumption, which are the major concerns in the space and next generation communication systems.

@@ -1,0 +1,11 @@
+$TITLE:
+On adaptive cell-averaging CFAR radar signal detection
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+weighted cell-averaging CFAR, cell-censored cell-averaging CFAR processor
+
+$ABSTRACT:
+In radar signal detection, the problem is to automatically detect a target in a nonstationary noise and clutter background while maintaining a constant probability of false-alarm. Classical detection using a matched filter receiver and a fixed threshold is not applicable due to the nonstationary nature of the background noise. Therefore, adaptive threshold techniques are needed to maintain a constant false-alarm rate (CFAR). One approach to adaptive detection in nonstationary noise and clutter background is to compare the processed target signal to an adaptive threshold. In the cell-averaging CFAR processing, an estimate of the background noise from the leading and the lagging reference windows is used to set the adaptive threshold. A threshold multiplier (or scaling factor) is used to scale the threshold to achieve the desired probability of false-alarm.In the first part of this dissertation, we have proposed two modified cell-averaging detectors for multiple target situations. The first one is a weighted cell-averaging CFAR detector, WCA-CFAR, where weighted leading and lagging reference windows are used to obtain the adaptive threshold. The second is a cell-censored cell-averaging CFAR processor where a predetermined fixed threshold is used to eliminate those cells that may contain interference.In the second part of the dissertation, the theory of distributed CFAR detection with data fusion is developed. First, a system consisting of n CA-CFAR detectors with data fusion is considered. The overall system is optimized so that the overall probability of detection is maximum while the overall probability of false-alarm is fixed at the desired value. Next, CFAR detection with multiple background estimators and a data fusion center is studied. Finally, adaptive CFAR detection with multiple detectors for different network topologies is considered. Two topologies, namely, a parallel and a tandem topology are investigated. The overall systems are optimized so that the probability of detection is maximum while CFAR is achieved.

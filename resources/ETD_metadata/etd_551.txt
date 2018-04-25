@@ -1,0 +1,11 @@
+$TITLE:
+Predicting Social Functioning in Young Adults with 22q11.2 Deletion Syndrome: A Longitudinal Study
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+22q11.2 Deletion Syndrome, developmental delay, internalizing, longitudinal, social functioning
+
+$ABSTRACT:
+Background: The primary objectives of the current study were to (a) describe social functioning outcomes over a 9-year span in individual with 22q11.2 Deletion Syndrome (22q11.2DS) and (b) identify childhood predictors of social functioning in young adults with 22q11.2DS.Method: Using data from a prospective longitudinal study, young adult social functioning was compared among individuals with 22q11.2DS, their siblings, and community controls. Childhood cognitive, emotional, and behavioral predictors of young adult social functioning were examined. In addition, the relationship between psychosis and social functioning was explored. Family environment and factors contributing to parental stress in adolescence were investigated as potential mediators of the relationship between significant childhood variables and adult social functioning.Results: Parents rated young adults with 22q11.2DS as having more impaired social functioning than controls. Parent rated childhood internalizing symptoms significantly predicted young adult social functioning in 22q11.2DS, even after controlling for concurrent positive symptoms of psychosis. Problem behaviors contributing to parenting stress in adolescence partially mediated the relationship between child internalizing symptoms and young adult social functioning in 22q11.2DS.Conclusions: These findings highlight child internalizing symptoms and adolescent problem behaviors as potential targets for social functioning interventions designed to prevent / remediate impairments in 22q11.2DS.

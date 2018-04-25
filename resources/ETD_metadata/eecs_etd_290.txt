@@ -1,0 +1,11 @@
+$TITLE:
+Application Level Fault Recovery in Distributed Real Time Systems Based On an Autonomic Computing Concept
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Fault recovery, Autonomic computing, Software maintenance, Application monitoring, Decision trees
+
+$ABSTRACT:
+A novel approach to application fault recovery based on autonomic computing works by accurately monitoring and diagnosing application faults, mapping diagnoses to proper solutions, and continuously updating diagnoses and solutions that manage new faults effectively. The high cost of traditional computer system fault-recovery methods demands IT automation; we believe an automated system will have a high probability of success only if it uses formal methods. This research proposes an application-level fault recovery method for distributed real-time systems using novel techniques; this method aids in monitoring, diagnosing, and solving application-level faults in computer systems. We present a detailed pattern recognition analysis using actual application fault data collected from an industrial environment and demonstrate valuable patterns that lay the foundation to our approach. Three major ideas--real-time system language parsing, a database decision-tree-based dynamic diagnosis system, and an adaptive-learning fault recovery system, all of which center on a relational database system--work together to deliver successful application fault recovery. The proposed approach can be directly applied to high-priority systems in E-commerce, manufacturing, and telecommunications, among others, to attempt to reduce downtime and personnel costs for the enterprise.

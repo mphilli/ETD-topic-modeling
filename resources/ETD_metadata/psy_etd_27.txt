@@ -1,0 +1,11 @@
+$TITLE:
+Caffeine, expectancy and attention
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Vigilance, Caffeine, Expectancy, Attention
+
+$ABSTRACT:
+Investigations of the effects of caffeine on task performance constitute a major portion of the literature on the effects of caffeine on human behavior. There is a large body of evidence indicating that caffeine has a beneficial effect on vigilance (also referred to as sustained attention) performance, and this effect is attributed to the pharmacological action of caffeine. Relatively little attention has been devoted to the examination of nonpharmacological variables such as expectancies that might influence the relationship between caffeine and vigilance. The few available experimental studies of expectancies and the effects of caffeine on task performance have yielded very inconsistent results. This is likely due to the choice of tasks that are inconsistently affected by caffeine. Therefore, the present study examined the role of expectancies in caffeine effects on a task that has been quite consistent in demonstrating caffeine effects, that is, a vigilance task. This study was the first to examine the independent and combined effects of expecting caffeine and receiving caffeine on vigilance performance using a balanced placebo design. A tapping rate task was used as a control task. Syracuse University students ( N  = 139) were recruited from the Department of Psychology Research Subject Pool. The performance of the participants on the vigilance and tapping tasks was assessed before and after the administration of caffeinated or decaffeinated iced tea. A caffeine dose of 5 mg caffeine/kg of body weight was used. There was a significant effect of receiving caffeine on vigilance performance and on tapping rate; both tasks showed an improvement in performance. Neither vigilance nor tapping rate task showed an effect of expecting caffeine or an interaction effect of receiving and expecting caffeine. These results suggest that expectancies may not be important in understanding the effects of caffeine on the tasks included in this study. The implications of these findings and avenues for future research are discussed.

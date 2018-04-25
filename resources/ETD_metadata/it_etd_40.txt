@@ -1,0 +1,11 @@
+$TITLE:
+Magnitude Estimation And The Measurement Of Relevance
+
+$DEPARTMENT:
+Information Science and Technology
+
+$KEYWORDS:
+Information Systems
+
+$ABSTRACT:
+A study was designed to investigate the use of the scaling technique of magnitude estimation for the measurement of relevance judgments. Relevance is fundamental to the information process and to the purpose, design, and use of information systems. The relevance judgment is a focal point in system evaluation and research. The method of magnitude estimation, an open-ended scaling technique, was developed in the field of psychophysics for the direct measurement of human response to various sensory stimuli. Magnitude estimation has been successfully applied to a wide range of situations requiring human judgments, often resulting in the development of new viewpoints and understandings.Questions were raised regarding (1) the use of scaling procedures, (2) the distribution of scaled responses, (3) biases in scaling, and (4) whether relevance could be viewed within a stimulus-response framework. Four experiments were designed to test magnitude estimation under different conditions and in comparison to a standard 7-point category rating procedure.The major results indicate that magnitude judgments can be used for the measurement of relevance. Furthermore, relevance judgments seem to behave as do other quantitative continua. When category rating judgments are plotted against magnitude estimation judgments of relevance, a predictable, concave downward pattern is observed.

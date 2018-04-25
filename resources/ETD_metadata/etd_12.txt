@@ -1,0 +1,11 @@
+$TITLE:
+Development of Pd Catalyzed Amidations & Applications to the Synthesis of Heterocycles
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Heterocycles, Imidazo[4, 5-b]pyridine, Imidazopyridine, Palladium, Pentosidine
+
+$ABSTRACT:
+Chapter 1A brief overview of C-N amide bond formation: past methods and current catalytic approaches.Chapter 2A facile synthesis of imidazo[4,5-b]pyridines and -pyrazines is described using a Pd-catalyzed amide coupling reaction. This reaction provides quick access to products with substitution at N1 and C2. A model system relevant to the natural product pentosidine has been demonstrated, as well as the total synthesis of the mutagen 1-Me-5-PhIP.This reaction was then further explored to utilize more readily available catalytic components and to increase the substrate and amide scope.Chapter 3The C2 amination of imidazo[4,5-b]pyridines was accomplished through C2 halogenation followed by substitution (SNAr) with functionalized primary and secondary amines. This regioselective sequence is operationally simple and provides an easy access to derivatives of protected imidazo[4,5-b]pyridines.Chapter 4Pentosidine, a biologically important advanced glycation endproduct, has been accessed in a rapid, high-yielding manner. The synthesis was accomplished via a six-step sequence starting with 3-amino-2-chloropyridine and features a palladium-catalyzed tandem cross-coupling/cyclization to construct the imidazo[4,5-b]pyridine core.Chapter 5A copper catalyzed amidation of Boc protected 4-chloro-3-aminopyridine was accomplished to produce a number of aryl and heteroaryl 4-chloro-3-aminopyridines. These pyridines were used to synthesize regioselectively substituted imidazo[4,5-c]pyridines using a Pd-catalyzed amide coupling reaction.Chapter 6A regioselective palladium-catalyzed amidation of polychlorinated aminopyridines was accomplished to provide chlorinated imidazo[4,5-b]pyridines. A preliminary optimization of these reaction conditions is described herein.

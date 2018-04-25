@@ -1,0 +1,11 @@
+$TITLE:
+Control of plastic mechanism in corner reinforced concrete beam-column joints using headed reinforcement bars
+
+$DEPARTMENT:
+Civil and Environmental Engineering
+
+$KEYWORDS:
+Reinforced concrete, Beam-column joints, Headed reinforcement bars, Plastic hinge
+
+$ABSTRACT:
+This research experimentally studied the use of headed reinforcement bars, as a practical solution, for relocating beam plastic hinges. Strong column-weak beam philosophy, generally used in the design of reinforced concrete structures in seismic zone, forces plastic hinges to develop in the beam regions adjacent to the columns. Formation of a plastic hinge at the face of the column results in yielding of beam reinforcing bars at the face of the column and in the beam-column joint, as well. Yielding of the reinforcing bars in the joint core results in bond deterioration between the reinforcing bars and the surrounding concrete. This causes the deterioration of the stiffness and strength of the joint. To avoid this problem, beam plastic hinges should be slightly shifted away from the column face.Four large-scale beam-column subassemblages, with and without headed bars, were tested under cyclic quasi-static lateral loads/displacement. All specimens had transverse stub beams representing the three-dimensional effect in a corner beam-column joint. All specimens were detailed according to the current ACI 318-99 code. The main objectives of this research were two fold. The first was to experimentally determine the suitable amount of headed bars for successfully shifting beam plastic hinges. The latter was to develop a practical design guideline for the use of headed reinforcement bars for moving beam plastic hinge region.Based on the test results, it can be concluded that the use of headed reinforcement bars can successfully shift beam plastic hinge away from the column face to an exact predetermined location. The amount of headed reinforcement required to ensure shifting beam plastic hinge region can be easily obtained from the proposed design guidelines. For the section properties investigated in this research, the required amount of headed bars was found to be equal to about 2.4 times area of the main longitudinal beam bars.

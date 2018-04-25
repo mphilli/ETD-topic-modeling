@@ -1,0 +1,11 @@
+$TITLE:
+A Longitudinal Follow-Up Study of the Dynamic Indicators of Basic Early Literacy Skills (Dibels) As a Predictor of Third Grade Reading Comprehension
+
+$DEPARTMENT:
+Reading and Language Arts
+
+$KEYWORDS:
+Early literacy, Reading comprehension, Oral reading
+
+$ABSTRACT:
+This study examined the predictive and concurrent validity of the Dynamic Indicators of Basic Early Literacy Skills  (DIBELS) with measures of third grade reading comprehension, including an individually administered diagnostic test, a group administered test, and the New York State English Language Arts Test.  First grade DIBELS Oral Reading Fluency (ORF) most strongly predicted reading comprehension, and no other DIBELS subtests explained additional variance beyond ORF. Similar findings were obtained using first grade DIBELS to predict a reading comprehension composite constructed from the three measures of comprehension. Third grade DIBELS ORF was also strongly correlated with comprehension. Although first grade DIBELS Word Use Fluency (WUF) was significantly correlated with the  Peabody Picture Vocabulary Test - Third Edition  and comprehension, what WUF measures remains unclear. First grade DIBELS cut scores were also found to be reasonably accurate for classifying "low risk" and "at risk" students but were less accurate for classifying "some risk" students.

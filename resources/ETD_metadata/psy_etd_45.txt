@@ -1,0 +1,11 @@
+$TITLE:
+Assessing students' preferences for positive and negative reinforcement contingent on academic work completion
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Positive reinforcement, Work completion, Negative reinforcement, Academic work
+
+$ABSTRACT:
+In order for most students to adequately progress through the academic curriculum they must frequently engage in the practice of learned academic skills. Unfortunately, some students have difficulty becoming proficient at some academic skills, which may result in a decrease in their motivation to practice these skills. Positive reinforcement has been commonly used in the classroom to motivate students to engage in academic responding. The effectiveness of and students' preferences for negative reinforcement has never been examined. Six fourth and fifth grade males struggling in math participated in the current study. Each participant's preference for six activity-based positive reinforcers and three negative reinforcers was assessed using a pictorial-choice assessment. An assessment of each participant's computational skills was then conducted. A multielement design was used to assess the effects of both positive and negative reinforcement on academic responding. A concurrent-operants design was then used to examine the participants' preference for either type of reinforcement under equal effort and then under one of two increased effort conditions. Results indicate that neither positive nor negative reinforcement increased academic responding as compared to baseline for five of the six participants. Four of the six participants allocated more of their responding to earn negative reinforcement when given a choice. When work was increased to earn their preferred reinforcer, five of the six participant's response allocation switched to their less preferred reinforcer. Implications of the above findings and suggestions for future research are provided.

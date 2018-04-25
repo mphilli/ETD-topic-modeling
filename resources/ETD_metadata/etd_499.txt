@@ -1,0 +1,11 @@
+$TITLE:
+Characterizing the Relationship Between Related and Unrelated Items in Recognition Memory
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Recognition memory, Semantic similarity, Signal Detection Theory
+
+$ABSTRACT:
+Previous work has shown that semantic similarity results in a memory bias in which related words are more likely than unrelated words to be labeled as studied in recognition memory. I explored the relationship between semantic similarity memory bias and memory for unrelated words. I varied the strength of the related word memory bias by manipulating the proportion of related to unrelated words, and the type of related word used. I showed that as the bias for related words increases, the unrelated false alarm rate decreases. To further characterize the relationship between related and unrelated words, I examined how the related and unrelated words affect memory decisions when they are experienced separately at test. This manipulation diminished the related word memory bias, but the decrease in unrelated word false alarms remained. These findings suggest a compelling relationship between semantic similarity and unrelated items that warrants further investigation.

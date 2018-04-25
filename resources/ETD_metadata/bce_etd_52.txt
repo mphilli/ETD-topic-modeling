@@ -1,0 +1,11 @@
+$TITLE:
+The Homogeneous Kinetics of Aliphatic Hydrocarbon Chlorinations
+
+$DEPARTMENT:
+Biomedical and Chemical Engineering
+
+$KEYWORDS:
+Kinetics, hydrocarbons, chemical engineering
+
+$ABSTRACT:
+The first objective of this work is the construction of a mathematical model which describes the homogeneous kinetics of aliphatic hydrocarbon chlorination. The second objective is the comparison of results from the mathematical model, using predetermined values for the rate constants, with observed data.

@@ -1,0 +1,11 @@
+$TITLE:
+Mutational Analysis of HIV-1 Nucleocapsid Protein and Methods Development for Aptamer Discovery
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+HIV-1, Nucleocapsid protein, Aptamer, Nucleic acids, NCp7, Mutants
+
+$ABSTRACT:
+This dissertation focuses on structural and functional studies related  to the interaction between proteins and nucleic acids and their  applications. The work reported here includes two projects. The first  part of the thesis is on the mutational and combinatorial analysis of  HIV-1 nucleocapsid protein (NCp7). Sixteen mutants of NCp7 were  constructed and over-expressed in   E. coli  . The dissociation constants (K d  ) between the mutant proteins and the major packaging signal in HIV-1,  SL3 RNA, were measured using tryptophan fluorescence titration assay  and/or isothermal titration calorimetry (ITC) assay. Most mutants show  tolerance of the mutation but some mutants, including F16A, I24A and  K14E-E21K, suffered moderate to significant loss of affinity for SL3  RNA, indicating the roles of the affected residues in the interaction  between NCp7 and SL3. The second part focuses on the development of  methods for aptamer discovery. Two prototype platforms were set up to  imitate the two main-stream next-generation sequencing (NGS)  technologies, bridge amplification based and emulsion PCR based NGS  technologies. Proof-of-principle experiments were carried out and  optimized to evaluate the practicality of these platforms in  high-throughput and multiplexed aptamer discovery.

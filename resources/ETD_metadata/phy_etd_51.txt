@@ -1,0 +1,11 @@
+$TITLE:
+Dynamics of causal sets
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Causal sets, Quantum gravity, Random graph theory
+
+$ABSTRACT:
+The Causal Set approach to quantum gravity asserts that spacetime, at its smallest length scale, has a discrete structure. This discrete structure takes the form of a locally finite order relation, where the order, corresponding with the macroscopic notion of spacetime causality, is taken to be a fundamental aspect of nature.After an introduction to the Causal Set approach, this thesis considers a simple toy dynamics for causal sets. Numerical simulations of the model provide evidence for the existence of a continuum limit. While studying this toy dynamics, a picture arises of how the dynamics can be generalized in such a way that the theory could hope to produce more physically realistic causal sets. By thinking in terms of a stochastic growth process, and positing some fundamental principles, we are led almost uniquely to a family of dynamical laws (stochastic processes) parameterized by a countable sequence of coupling constants. This result is quite promising in that we now know how to speak of dynamics for a theory with discrete time. In addition, these dynamics can be expressed in terms of state models of Ising spins living on the relations of the causal set, which indicates how non-gravitational matter may arise from the theory without having to be built in at the fundamental level.These results are encouraging in that there exists a natural way to transform this classical theory, which is expressed in terms of a probability measure, to a quantum theory, expressed in terms of a quantum measure. A sketch as to how one might proceed in doing this is provided. Thus there is good reason to expect that Causal Sets are close to providing a background independent theory of quantum gravity.

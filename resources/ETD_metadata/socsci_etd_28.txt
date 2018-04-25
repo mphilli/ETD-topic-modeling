@@ -1,0 +1,11 @@
+$TITLE:
+Understanding attrition in New York State public education
+
+$DEPARTMENT:
+Social Sciences
+
+$KEYWORDS:
+Attrition, New York, Public education
+
+$ABSTRACT:
+This paper investigates the attrition of New York State teachers. The analysis is done through duration analysis using different units of study. In the first analysis, the focus is from the state's perspective, where teacher retention is the goal. The study finds that teachers value both pecuniary and non pecuniary values of teaching, in deciding whether to stay or exit teaching. Teacher salary is a significant factor in the choice whether to stay or exit teaching. Unemployment in the county, average county income, district experience, and having moved before; seem to lower the likelihood of exiting teaching.In the second analysis, the unit of study is the school. The study differentiates exit out of school according to whether they moved to another school or left teaching altogether. It differentiates the impact of school, teacher and area characteristics on the decision to exit school. The model finds that the characteristics associated with moving to another school or leaving teaching differs in both sign and magnitude. In both sets of analyses, unobserved heterogeneity and duration dependence was controlled for.

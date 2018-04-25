@@ -1,0 +1,11 @@
+$TITLE:
+Techniques to improve algorithm efficiency, from the perspective of memory hierarchies
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Algorithm efficiency, Memory hierarchies
+
+$ABSTRACT:
+Processors have become faster at a much quicker rate than memory access time, creating wide gap between processor and memory speeds that is sometimes called the Von Neumann bottleneck. This gap has led to the design of computers with deep memory hierarchies. Effective utilization of these memory hierarchies plays a very important role in the performance of applications on such architectures. Maintaining locality of data reference is necessary to achieve good processor performance. In this thesis we develop models as well as methods for obtaining high performance on architectures with multiple levels of hierarchy. We introduce a simplified memory model (SMM), which is shown to provide a good measure of an algorithm's performance. This model divides the total cost of an algorithm into two parts, the Computation Cost and the Memory Access Cost . The former reflects the computational aspects of the algorithm and corresponds to the normal RAM analysis, while the latter reflects the memory hierarchy access cost. We investigate several high-level techniques such as data reorganization, divide-and-conquer, approximation and focusing to improve locality of access and performance. These techniques have been shown to be useful for a variety of applications such as iterative solvers, particle-in-a-cell simulation, sorting, depth measures, and the Tukey median. Extensive experimental results are presented to validate the performance improvements.

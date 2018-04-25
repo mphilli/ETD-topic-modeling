@@ -1,0 +1,11 @@
+$TITLE:
+Numerical Methods For The Solution Of Stiff Delay Differential Equations
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Computer science
+
+$ABSTRACT:
+Many physical systems are characterized by a set of first order ordinary differential equations (ODEs) or by a set of first order delay differential equations (DDEs) with proper initial conditions. These systems are called stiff if the solution contains both rapidly and slowly varying components. In this work we study linear multistep (LMS) methods or Lagrange-method/LMS-method pairs, suitable for the solution of stiff initial value problems for ODEs and DDEs. For the former, we introduce LMS methods either with better stability characteristics--A((alpha))-stable with increased (alpha)--or with smaller truncation error coefficients than backward differentiation formulae (BDF). For DDEs, P{(alpha),(beta)}-stability, which is defined with respect to the archetype equation y'(t) = py(t) + qy(t-(tau)), is the property which is used to compare the stability of Lagrange-method/LMS-method pairs. It is shown that the stability of Lagrange-method/BDF pairs can be improved not only by replacing BDF with a more stable LMS method--increasing (alpha)--but also by using a set of Lagrange interpolators, rather than a single one, to interpolate the solution at the several delayed time points of the LMS method--reducing (beta).Since the performance of the LMS methods discussed herein depends on the problem being solved and the time span in which the integration is taking place, we have used a set of methods in the code. The code automatically changes the method, together with the order.

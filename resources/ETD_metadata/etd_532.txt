@@ -1,0 +1,11 @@
+$TITLE:
+Seeing Right from Wrong: A Defense of A Posteriori Ethical Intuitionism
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+epistemology, moral epistemology, moral perception, moral psychology, moral realism, non-naturalism
+
+$ABSTRACT:
+This dissertation develops and defends the claim that our epistemic access tomoral properties is grounded in a posteriori perceptual experiences. It is divided intotwo parts. In part I, I present the epistemic access problem for realist moralepistemology, and then argue against several a priori attempts to resolve the problem. Ibegin by defending an understanding of evolutionary debunking arguments accordingto which the problem is grounded in a lack of epistemic access to sui generis, non-causalmoral facts. Next, I argue that even the most sophisticated versions of reflectiveequilibrium fall victim to the “garbage in, garbage out” objection which besetscoherentist theories more generally. I then survey the most influential other a prioriapproaches to epistemic access. I conclude that each of them is victim to some variationof the same dilemma: Either they fail to ensure epistemic access, or they succeed byproviding epistemic access to the wrong properties—viz. not the robustly normativeones.In part II, I defend a wholly a posteriori moral epistemology according to whichour epistemic access to the moral properties is via perceptual experience. I begin with apositive argument that moral properties figure in the contents of perceptual experience,making use of the “method of contrast” found in the philosophy of perceptionliterature. Next, I defend the foundationalist credentials of the perceptualist view inlight of the objection that moral experiences will be epistemically dependent on priorbackground (moral) beliefs. I claim that the epistemic dependence of these moralexperiences depends on the nature of influence the prior beliefs have and that theinfluence is not of the problematic sort. I then discuss the role of emotions in generatingmoral perceptions. I argue that emotions play an essential role in moral perceptualexperiences, but that this is compatible with foundationalism and perceptualism.Finally, I return to the issue of epistemic access, arguing that the perceptual viewprovides an explanation of our epistemic access to the moral properties.

@@ -1,0 +1,11 @@
+$TITLE:
+Collective Phenomena in Active Systems
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Active Matter, Cell Mechanics, Collective Phenomena, Nonequilibrium, Pattern Formation, Self-propelled particle
+
+$ABSTRACT:
+This dissertation investigates collective phenomena in active systems of biological relavance across length scales, ranging from intracellular actin systems to bird flocks. The study has been conducted via theoretical modeling and computer simulations using tools from soft condensed matter physics and non-equilibrium statistical mechanics. The work has been organized into two parts through five chapters. In part one (chapter 2 to 3), continuum theories have been utilized to study pattern formation in bacteria suspensions, actomyosin systems and bird flocks, whose dynamics is described generically within the framework of polar active fluids. The continuum field equations have been written down phenomenogically and derived rigorously through explicit coarse-graining of corresponding microscopic equations of motion. We have investigated the effects of alignment interaction, active motility, non-conserved density, and rotational inertia on pattern formation in active systems. In part two (chapter 4 to 5), computer simulations have been performed to study the self-organization and mechanical properties of dense active systems. A minimal self-propelled particle (SPP) model has been utilized to understand the aggregation and segregation of active systems under confinement (Chapter 4), where an active pressure has been defined for the first time to characterize the mechanical state of the active system. The same model is utilized in Chapter 5 to understand the self-assembly of passive particles in an active bath.

@@ -1,0 +1,11 @@
+$TITLE:
+The initiation of information systems innovation by users: A learning perspective
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+Creativity, System development, Innovation, Information systems
+
+$ABSTRACT:
+Creativity and innovation have assumed prime importance in information technology (IT) management. Initiation of information systems (IS) innovation can be viewed as a knowledge creation process, and users can play a significant role in this, especially when it involves the integration of IT with core business technology. This dissertation focuses on the ability of users to innovate in the domain of IS; this construct is conceptualized in terms of three dependent variables: technology awareness, ability to explore a new technology, and intent to explore a new technology.The study identifies and evaluates several mechanisms organizations can deploy to facilitate and promote the role of users in the initiation of IS innovation. Theories in organizational learning and innovation form the foundation for the research model. The research synthesizes and significantly extends two emergent themes in innovation and IS literatures, 'the organizational learning perspective of technology diffusion' and 'users as a source of IS innovation'.A Delphi exercise involving a set of Chief Information Officers (CIOs) was conducted to classify the organizational mechanisms based on a knowledge type/activity framework. Hypotheses that relate the various organizational mechanisms with the three dependent variables were generated from this classification and tested using a survey based methodology. The results support the general proposition that organizational mechanisms vary in their effect on the three dimensions of the ability of users to innovate in IS, and indicate the need to mix and match mechanisms. Moderate to strong support is found for the hypotheses linking specific mechanisms with the three dependent variables.Suggestions for future research include expanding the list of organizational mechanisms by drawing from related areas (for example, new product development) and investigating the relationship between the ability of users to innovate in IS and the level of IT use in a firm.

@@ -1,0 +1,11 @@
+$TITLE:
+Label Free Analysis of Native Planktonic P. aeruginosa cells and Growth Media by Near Infrared (NIR) Binary Spectronephelometry (BSN)
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Bacteria culture, Binary Spectronephelometry, Extracellular matrix, Nutrient uptake, P. aeruginosa, Raman Spectroscopy
+
+$ABSTRACT:
+Current noninvasive methods are unable to continuously and simultaneously monitor the concentration of cells and chemical components that define the state of native bacterial cultures because of the changing turbidity. We seek to solve this problem without subjecting the growing culture to the risk of contamination afforded by physical sampling. The Binary Spectronephelometry (BSN) algorithm uses laser induced emission to probe mildly turbid media. A training set spanning the linear range of elastic emission (EE) i.e. physical scattering and inelastic emission (IE) i.e. fluorescence and Raman emission was produced with varying concentrations of bacteria and standard media using a modified commercial Raman spectrometer. The training set results confirmed the linear dependence of the EE and IE signals on the concentration of bacteria cells as determined by the known dilutions and the optical density at 600nm (OD600) thus confirming the basic assumptions of the algorithm and simultaneously calibrating the algorithm. Pseudomonas aeruginosa (PA) is a bacterium capable of forming biofilms that allow survival in various conditions and transmittance from surfaces to person causing infection. PA cultures were monitored for several hours producing quantitative growth/decay curves for the bacteria concentration and the medium concentration. This was considered a challenging application of the algorithm because of the increase in viscosity and schlieren effects characteristic of PA with increasing culture time. Simultaneously obtained Raman spectra quantitatively demonstrate the conversion of feedstock i.e. glucose into product i.e. biomass in the form of bacterial membrane phospholipids, information concerning the chemical state of the medium and the organisms. We discuss these results in the context of various applications and future research and development.

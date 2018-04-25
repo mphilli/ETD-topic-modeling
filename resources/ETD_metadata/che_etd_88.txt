@@ -1,0 +1,11 @@
+$TITLE:
+Structure and function in bacteriorhodopsin and the short-wavelength cone opsins
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Bacteriorhodopsin, Cone opsins, Rhodopsin, Pigments
+
+$ABSTRACT:
+The nature of the chromophore-binding site of bacteriorhodopsin (bR) has been analyzed by using MNDO-PSDCI molecular orbital theory, and the nature of the calcium binding sites have been studied using difference vibrational spectroscopy coupled with site-directed mutagenesis (FTIR-SDM). In the absence of divalent metal cations in close interaction with Asp-85 and Asp-212, a positively charged amino acid must be present in the same vicinity to stabilize the chromophore binding site. The FTIR-SDM results demonstrate that that cations do not bind near the chromophore. Theoretical models in which Arg-82 is pointed upwards into the chromophore-binding site, and directly stabilizes Asp-85 and Asp-212, successfully rationalize the observed one-photon and two-photon properties of bacteriorhodopsin. The vibrational structure of cation-regenerated bR and two mutants, Glu-194-Gln and Glu-204-Gln, were analyzed and the results implicate the involvement of Glu-194 and Glu-204 as probable cation-binding sites.The Xenopus violet cone opsin is a member of the short-wavelength cone opsins, and absorbs maximally at 425 nm. The photobleaching pathway of the violet cone opsin purified in delipidated form has been determined. The formation of the intermediates was observed via cryogenic electronic spectroscopy. The protonation state of the chromophore of the short-wavelength cones has been a subject of debate. Vibrational spectroscopy of the violet cone opsin indicates that the chromophore is protonated in the dark. Furthermore, theoretical analysis of the vibrational modes of the protonated and unprotonated 11-cis-retinal support the experimental results obtained and the assignment of a protonated Schiff base linkage in the dark.

@@ -1,0 +1,11 @@
+$TITLE:
+Nitro- and oxazoline-derivatized antennas: Structural and photophysical characterization of their lanthanide complexes
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Antennas, Lanthanide, Oxazoline, Nitrobenzoates
+
+$ABSTRACT:
+Trivalent lanthanide ions are being increasingly used for the development of various kinds of luminescent materials, with Eu(III) and Tb(III) being the most popular. Eu(III) compounds show intense red luminescence with characteristic emission in the 615-625 nm region, while the Tb(III) compounds show intense green luminescence with characteristic emission in the 540-550 nm region. Because of the large size of lanthanide ions and of the numerous possible non-radiative de-excitation pathways available in their complexes, the design of efficient ligands for sensitization of Ln(III) emission is very challenging.One of the main objectives of our research is the development of Eu(III) and Tb(III)-based luminescent complexes that are covalently linked to a polymer backbone for use in polymer light-emitting diodes. Towards this aim, we are interested in the design of new ligands that can efficiently sensitize lanthanide ions. At the same time, we are also keen on investigating the electronic and structural effects encountered in the lanthanide complexes when a polymerizable moiety is introduced in the ligand.Two classes of ligands have been developed and are discussed extensively in this work: nitro-derivatized and oxazoline-derivatized compounds, with thiophene being chosen as the polymerizable moiety. The nitro-derivatized ligands further fall into two categories of widely different compounds, benzoic acid and 2,2'-bipyridine. The rationale behind the choice of these ligands along with extensive characterization in solid-state and in solution of their lanthanide complexes are presented in this work. In addition, through this work a new class of highly efficient sensitizers, based on the oxazoline compounds, has been revealed.

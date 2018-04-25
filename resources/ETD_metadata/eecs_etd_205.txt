@@ -1,0 +1,11 @@
+$TITLE:
+Design of optical pattern matcher for very large full-text information retrieval system
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Information retrieval
+
+$ABSTRACT:
+Processing of very large unformatted databases or information retrieval requires very large secondary storage, very high I/O bandwidth, and massive parallelism. However, the processing of such large unformatted databases in conventional electronic computers becomes I/O as well as compute bounded. In this research, optics which is known to have inherent parallelism, very high bandwidth, and the noninterfering propagation property is examined as a possible solution to the problem.This research is divided into three parts. The first part is devoted to identifying the problems and studying optical factors related to information retrieval such as optical storage and optical digital data processing. In the second part, the role and impact of optics on information retrieval are studied, and various optical techniques are examined and applied in order to improve the performance of information retrieval systems. Finally the last part consists of a design and evaluation of an optoelectronic hybrid full-text information retrieval system that handles the data in optical form from storage to processing. The design called Optoelectronic Full Text Retrieval System (OPTORETRIEV) includes a two-dimensional optical pattern matcher containing an optical disk based photorefractive joint transform correlator. The design is an optoelectronic hybrid type in order to take advantage of the inherent parallelism and very high bandwidth of optics as well as the advantage of proven reliability and complexity of electronic systems.Detailed design and development of algorithms for various full-text search operations, and performance evaluation of OPTORETRIEV are given. It is estimated that the system can perform pattern matching at a rate which is two or more orders of magnitude faster than current electronic systems, depending on the type of search operation. These preliminary results indicate that significant improvement in performance can be achieved by incorporating optical techniques in information retrieval provided that suitable optical hardware were available.

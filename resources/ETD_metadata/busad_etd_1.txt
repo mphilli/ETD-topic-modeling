@@ -1,0 +1,11 @@
+$TITLE:
+Evidence on the role of accounting conservatism in corporate governance
+
+$DEPARTMENT:
+Management
+
+$KEYWORDS:
+Accounting conservatism, Corporate governance, Conservatism
+
+$ABSTRACT:
+Conservatism is potentially useful in corporate governance for at least three reasons. First, conservatism reduces the likelihood of over-compensation of management by constraining possible overstatements of assets and earnings. Second, conservatism allows directors to more readily identify negative NPV projects and take corrective actions to limit losses. Third, conservatism reduces managers ex ante incentives to engage in negative NPV projects. Using three different measures of conservatism, I document that (i) the percentage of inside directors is negatively related to conservatism, and (ii) the percentage of outside directors' shareholdings is positively related to conservatism. Results hold after controlling for industry, firm size, leverage, growth opportunities, institutional ownership, inside director ownership, and unobservable firm characteristics that are stable over time. After documenting the relation between conservatism and corporate governance, I test whether conservative firms receive the benefits of conservatism in governance as predicted by Ball (2001) and Watts (2003a). The evidence strongly supports the notions that conservatism (i)  ex ante prevents managers from investing in negative net present value projects, and (ii) conservatism helps abrogate negative net present value projects in a timelier manner. The evidence is weakly consistent with conservatism preventing managerial overcompensation.

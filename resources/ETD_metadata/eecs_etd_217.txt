@@ -1,0 +1,11 @@
+$TITLE:
+Dynamically reconfigurable FPGA-based multiprocessing and fault tolerance
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+microprocessors, processor architecture
+
+$ABSTRACT:
+Processor replication is a straightforward yet general method for contending with a range of failure modes in computing systems. Architectural support is required if faults in the processors or their software are to be tolerated efficiently in the field. Until now, hardware-intensive solutions have not been seriously considered because dedicating resources solely to fault tolerance lowers utilization--especially at times when fault tolerance is not required. Alternately, software-intensive solutions, although flexible, require coping with slower speeds. Together these factors culminate in designs that are less than optimum. Our objective in this research is to eliminate these problems and limitations by adding a multiprocessing capability so that the redundant hardware is used selectively. We propose a novel architecture we refer to as Dynamic Reconfigurability Assisting Fault Tolerance (DRAFT) that has multiprocessing (MP) and fault-tolerant (FT) modes. Our architecture is flexible in that processors do not have to be tightly synchronized, and it permits unconstrained combinations of FT and MP applications to execute concurrently for efficient processor utilization. We capitalize on dynamically reconfigurable Field-Programmable Gate Array (FPGA) technology, where portions of the logic can be changed without disturbing the rest of the array. We demonstrate our tools and techniques for reconfiguring the FPGA, even while it operates, to create a virtual FPGA is that is much larger than the physical FPGA. By embedding FT and MP support functions in the virtual FPGA, we avoid a significant reliability penalty and simultaneously accelerate application throughput. We have analyzed the proposed architecture and evaluated it with respect to performance, cost, scalability, reliability, and configurability. Based on all of these criteria, we have shown that our approach is superior to comparable designs. Compared to a dedicated processor, DRAFT roughly doubles application throughput while halving the failure rate.

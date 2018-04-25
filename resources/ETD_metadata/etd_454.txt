@@ -1,0 +1,11 @@
+$TITLE:
+Three Essays on the Impacts of Air Pollution and Environmental Policy
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Air Pollution, Environmental Economics, Environmental Policy
+
+$ABSTRACT:
+This dissertation analyzes the effects of United States environmental policy - specifically that which regards air pollution - on health, labor market, and environmental outcomes.  The first chapter examines the potential long-term effects of childhood exposure to atmospheric lead.  The outcome of interest is crime, and the policy analyzed is the leaded gasoline phaseout.  The second chapter seeks to investigate the effects of environmental regulation on labor markets.  Nonattainment status designation creates variation in regulatory levels across counties based on a county’s air quality for a given pollutant, in this case ozone.  The third chapter provides analysis of the design ramifications of the Acid Rain Program’s tradable permit market for sulfur dioxide established by Title IV of the Clean Air Act Amendments of 1990.  The study examines how the two-phase approach as well as the initial permit allocation rule affected emissions.  These studies all show evidence of the wide range of effects environmental policy can have.

@@ -1,0 +1,11 @@
+$TITLE:
+Problems in the Theory of Convergence Spaces
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Convergence Space, Differential Calculus, Discrete Structure, Finite Space, Mereology, Reflexive Digraph
+
+$ABSTRACT:
+We investigate several problems in the theory of convergence spaces: generalization of Kolmogorov separation from topological spaces to convergence spaces, representation of reflexive digraphs as convergence spaces, construction of differential calculi on convergence spaces, mereology on convergence spaces, and construction of a universal homogeneous pretopological space. First, we generalize Kolmogorov separation from topological spaces to convergence spaces; we then study properties of Kolmogorov spaces. Second, we develop a theory of reflexive digraphs as convergence spaces, which we then specialize to Cayley graphs. Third, we conservatively extend the concept of differential from the spaces of classical analysis to arbitrary convergence spaces; we then use this extension to obtain differential calculi for finite convergence spaces, finite Kolmogorov spaces, finite groups, Boolean hypercubes, labeled graphs, the Cantor tree, and real and binary sequences. Fourth, we show that a standard axiomatization of mereology is equivalent to the condition that a topological space is discrete, and consequently, any model of general extensional mereology is indistinguishable from a model of set theory; we then generalize these results to the cartesian closed category of convergence spaces. Finally, we show that every convergence space can be embedded into a homogeneous convergence space; we then use this result to construct a universal homogeneous pretopological space.

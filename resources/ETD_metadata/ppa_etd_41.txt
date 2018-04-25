@@ -1,0 +1,11 @@
+$TITLE:
+The influence of state and local governments on elderly migration
+
+$DEPARTMENT:
+Public Administration
+
+$KEYWORDS:
+Elderly, Migration, State government, Local governments
+
+$ABSTRACT:
+The size and proportion of the elderly population in the United States is large and growing larger. At the same time, many state and local governments are searching for new ways to pay for increased responsibilities. One source of additional resources is believed by some to be found in the elderly population; particularly the recent retiree. This research examines the question of whether state and local governments can influence the location decisions of elderly persons through tax and expenditure policies. This analysis is conducted first by estimates and then simulations. Estimates of the effects of location attributes, including government factors, suggest that on average, all else equal, the elderly are generally attracted by lower taxes and higher expenditure levels. The simulations show that these effects are very small and that tax incentives designed to induce elderly migration are unlikely to pass a simple benefit cost test, particularly for rural geographies with harsher climates.

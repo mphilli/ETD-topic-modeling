@@ -1,0 +1,11 @@
+$TITLE:
+Reduction Of Anisoplanatic Errors
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Electrical engineering
+
+$ABSTRACT:
+The potential of reducing anisoplanatic errors in adaptive optical systems through the use of estimation theory is studied. Currently, anisoplanatic errors place a fundamental limit on the performance of adaptive optical systems.Due to the ill-behaved nature of the random processes involved, the estimation procedure is formulated in terms of the structure and hyperstructure functions. These functions are widely used in the literature dealing with turbulence and optical propagation through turbulence. A particular turbulence profile is chosen to evaluate the performance of the estimation procedure. A reasonable reduction in the anisoplanatic error is obtained through use of the estimation procedure. Only signals which are currently available in adaptive optical systems are required to implement the estimation procedure, no a priori knowledge is required.

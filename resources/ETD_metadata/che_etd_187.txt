@@ -1,0 +1,11 @@
+$TITLE:
+Investigating the Interaction between Cubilin and Holo-Intrinsic Factor in the Small Intestine
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Biochemistry, Molecular biology
+
+$ABSTRACT:
+Oral delivery of peptides and proteins such as erythropoietin, insulin, and hPYY(3-36) have been successfully achieved by conjugation of these peptides and proteins to vitamin B12 (B12), thereby utilizing the dietary uptake pathway for the vitamin. Intrinsic factor (IF) is a glycoprotein that carries and protects B12 during gastrointestinal passage. Although this protein serves a critical function in the B12 uptake pathway, up until now, its use as a potential delivery agent has in and of itself not been explored. The aim of this project is to gain a better understanding of the IF-B12 interaction with its cubilin receptor through site-directed mutagenesis of the CUB6-binding region of IF and cell screening that will aid in the future use of this protein as a possible drug delivery vehicle for ileal transport of antigens.Herein, we first describe the cloning and expression of recombinant hIF and hIF mutants (K159D, Q201A, and K159D/Q201A) in Pichia pastoris designed to interfere with the calcium-dependent CUB6 holo-IF binding domain of cubilin. Using the recombinant hIF and hIF mutant proteins, we then investigated the CUB6 holo-IF binding domain by using (1) surface plasmon resonance and (2) fluorescence confocal microscopy uptake studies in BN16 (Brown Norway rat yolk) mammalian cells, which have been stably transfected with the cubilin receptor. Additionally, we were able to use a fluorescently-tagged IF construct to show evidence of the first example of a true small intestinal mammalian cell model for cubilin-mediated transport that is devoid of megalin.

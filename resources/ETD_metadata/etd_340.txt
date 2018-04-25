@@ -1,0 +1,11 @@
+$TITLE:
+Recommendations, Rhetoric, and Reporting: State and NGO Behavior in the Universal Periodic Review of Human Rights
+
+$DEPARTMENT:
+Political Science
+
+$KEYWORDS:
+civil society, Human rights, NGO, non-governmental organization, United Nations, Universal Periodic Review
+
+$ABSTRACT:
+This dissertation takes a detailed look at the role of non-state "stakeholders," overwhelmingly civil society non-governmental organizations (CSOs or NGOs), in human rights promotion within the process of the United Nations Human Rights Council's Universal Periodic Review of Human Rights. Utilizing a mixed-method, text-heavy approach, I conduct analyses of both state behavior and NGO activity within the first cycle of the Universal Periodic Review of Human Rights and examine the monitoring and follow-up practices between review rounds through paired cases in the second round of reviews. In these analyses, first I show that NGO activity, after controlling for the amount of state activity, human rights record, region, and issue area, is related to higher rates of states rejecting recommended changes and thus the exhibition of resistance to international pressure. Second, state rejection of recommendations increases with the level of demands in the recommendation, worsening human rights records, and when the recommendation covers specific international obligations or political rights such as basic freedoms and the rule of law. Moreover, recommendations covering women's rights or the rights of the child are more likely to be accepted. Third, I establish that states express their resistance to international human rights norms in one of two fashions: with culturally-, religiously-, or nationally-particularistic claims or with appeals to state sovereignty. Finally, I highlight the centrality of NGOs in the monitoring process between cycles of the UPR process, tying NGO engagement and participation over the duration to reporting on compliance with recommended changes from the preceding cycle of review.

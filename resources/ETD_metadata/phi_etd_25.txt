@@ -1,0 +1,11 @@
+$TITLE:
+Kant and virtue ethics
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Virtue ethics, Immanuel Kant, Kant, Immanuel, Moral worth
+
+$ABSTRACT:
+In Kant and Virtue Ethics I argue that while Kant himself does not have a virtue ethics, a virtue ethics that is recognizably Kantian is a genuine possibility. In Chapter One I criticize Martha Nussbaum's and Gary Watson's accounts of virtue ethics, and offer my own, according to which an ethical theory is a virtue ethics just in case it takes virtue to be more basic than rightness and at least as basic as goodness. I next consider and reject the arguments of three contemporary philosophers who claim that Kant has a virtue ethics. In Chapter Two I argue that neither the textual evidence Onora O'Neill adduces nor her account of maxims as life-rules supports her virtue-ethical reading of Kant. In Chapter Three I show that Nelson Potter's central argument suffers from an equivocation on its key term. In Chapter Four I argue that Christine Korsgaard is mistaken to hold that Kant offers a "motivational analysis" of rightness. In Chapter Five I argue that Kant cannot have a virtue ethics, because he believes that normative standards must be external, while virtue ethical standards are not external, and because his theory of virtue as strength of will in fulfilling one's duty fails to make virtue more basic than rightness. In Chapter Six I develop a Kantian virtue ethics grounded in autonomy. I rely on Christine Swanton's value-centered theory of virtue (which I defend against Philip Pettit's objections), according to which virtues are traits that enable their possessors to promote, express, honor and appreciate value. I argue for the value-centeredness of Kant's ethics and suggest that my Kantian virtue ethics helps us appreciate this aspect of Kant's ethics, which has been recently emphasized by Barbara Herman and Allen Wood.

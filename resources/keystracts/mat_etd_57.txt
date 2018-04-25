@@ -1,0 +1,1 @@
+mathematics recursive function theory the material presented in this paper lies in the realm of recursive function theory major emphasis is upon various reducibilities and the degrees associated with them the paper is not entirely self contained and a background in basic recursive function is required for full comprehension

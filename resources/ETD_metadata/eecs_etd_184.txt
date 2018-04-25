@@ -1,0 +1,11 @@
+$TITLE:
+A parallel data assimilation system and its implications on a metacomputing environment
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+parallel computing, decomposition, climate forecasting, Computer science, Atmosphere
+
+$ABSTRACT:
+This thesis contributes to the area of data analysis as used in atmospheric science and provides a metacomputing environment for grand challenge problems.In order to achieve a valid climate forecast, an accurate initial condition is needed to apply the governing equations describing the model. Data analysis techniques are able to derive this initial state from irregular distributed observations. This thesis provides a parallel algorithm for the data analysis. Algorithms using static and dynamic decomposition are introduced and their performance is analyzed. A decomposition with linear speedup is presented.During the parallelization many different computers and programming paradigms have been utilized. In order to simplify the access for the user and developer a metacomputing environment has been developed. The meta-computing environment allows one to generate message passing parallel programs from a visual representation of a task graph. Besides the creation of stand-alone parallel programs, the task graph can be transferred into separate jobs executed on different supercomputers. Messages between the jobs are exchanged with the help of files. The underlying concept for this metacomputing environment is a dynamical dataflow model allowing multi-paradigm programming. A dynamical task scheduling algorithm determines on which component of the metacomputer a task is scheduled and which algorithm performs the task. The execution of the program is visually animated.

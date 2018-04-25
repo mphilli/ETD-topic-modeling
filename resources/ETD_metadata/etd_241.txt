@@ -1,0 +1,11 @@
+$TITLE:
+Predictions and Constraints of Cosmological Correlators
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+CMB Anomalies, Cosmic Microwave Background, Dark Matter, Inflation, Large-Scale Structure, Slavnov Taylor Identities
+
+$ABSTRACT:
+In this dissertation, we study the role of correlation functions in Cosmology. The study is bidirectional: We explore the constraints that correlation functions gathered from data impose on different theories; we also analyze the constraints that get imposed on correlation functions given symmetries of theories. For the former analysis, we use structure formation data like the CMB and matter power spectrum to set limits on the temperature of cold dark matter particles, basically only assuming that the particles were nonrelativistic when they decoupled and have interacted negligibly since. In another study, we use the same data to constrain how much Sommerfeld enhancement of dark matter annihilation could have occurred, with the analysis being insensitive to the details of the annihilation. Finally, we propose a new method to detect the so-called CMB anomalies in a more general manner than is usually considered. For the latter type of analysis, we consider the role of gauge symmetry in constraining relations between $n$- and $(n+1)$-point correlation functions for gravity coupled to a scalar field. Using certain assumptions, we show how novel consistency relations between fields can be derived, that arise only out of the symmetry of the action, and are independent of its particular form.

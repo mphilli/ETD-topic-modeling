@@ -1,0 +1,11 @@
+$TITLE:
+Bilinski diagrams and geodesics in 1-ended planar maps
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Graph theory, Unimodality, Bilinski diagrams, Geodesics, Planar maps
+
+$ABSTRACT:
+A Bilinski diagram is a labeling of a planar map with respect to a central vertex and the regional distance of other vertices of the map from that vertex. The class G a,b [Special characters omitted.] consists of all 1-ended, 3-connected planar graphs with the property that every valence is finite and at least a and every covalence is finite and at least b . A map in the class G a,b+[Special characters omitted.] contains no adjacent b-covalent faces, and dually a map in the class G a+,b[Special characters omitted.] contains no adjacent a-valent vertices. It is shown that Bilinski diagrams of maps in G6,3 , G4,4 , G3,6, G5,3+ and G3+,5[Special characters omitted.] are uniformly concentric, i.e., the set of vertices at regional distance k from the central vertex induce a circuit for each k ≥ 1. Using this property, an algorithm is developed for constructing geodetic double rays (or geodesics) containing any given edge of a map in G6,3, G4,4, or G5,3+[Special characters omitted.] . A slightly modified algorithm accomplishes the same for maps in G3,6[Special characters omitted.] . It follows that all Petrie walks in maps in G3,6[Special characters omitted.] are geodesics. These results contribute to the known classes of maps satisfying a conjecture of Bonnington, Imrich, and Seifter, without the assumption of vertex-transitivity. In addition, any path in a map in G6,3 ,G4,4 or G3,6[Special characters omitted.] that contains at most [1/2 (p*(h) - 2) ] edges incident with any face or superface (a union of two faces, at least one of which is 3-covalent, with their common incident edge removed) and at most one edge incident with any 3-covalent face is shown to be the unique geodetic path joining its end-vertices. Bilinski diagrams are further utilized to show that the distance sequence of any map in G6,3 , G4,4 or G5,3+[Special characters omitted.] is unimodal.

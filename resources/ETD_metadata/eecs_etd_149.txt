@@ -1,0 +1,11 @@
+$TITLE:
+Design and development of FMS software control systems
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Flexible manufacturing, Petri net, Control systems
+
+$ABSTRACT:
+Flexible manufacturing systems (FMSs) have been widely accepted by the modern manufacturing industries. However, in comparison with the capabilities of FMS hardware systems, the sophistication of software systems is still far away from the goal that we expected in order to realize optimum FMS control. The fact is that the rate of acceptance of FMSs actually far exceeds the rate of implementation of these expensive manufacturing systems. Therefore, the primary goal of this research is to advance software control capabilities of FMSs. To this end, the research has presented a new methodology as the framework for the development of FMS software control systems. First, to reduce the complexity of software development, the hierarchical control architecture exclusively used for FMS software control systems is designed and presented. Secondly, in order to systematically, precisely, and concisely represent the dynamic behaviors of FMS control, the research has introduced the Colored Petri Net (CPN) as the modeling tool and further developed a number of CPN models. In particular, the CPN models are developed for three FMS control levels: System, Workstation, and Device. Thirdly, an object-oriented design and development architecture, called FMS hierarchical foundation classes library (FMS/FCL), has been defined and further developed, which can significantly increase the reliability and reusability of FMS system control software. Finally, a graphic software verification prototype, called DDE Verifier, has also been developed in the research. It is believed that all these research efforts will make important contributions on the methodology of design and development of FMS software control systems.

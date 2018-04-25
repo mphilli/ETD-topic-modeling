@@ -1,0 +1,11 @@
+$TITLE:
+A study of angular instability due to radiation pressure in LIGO gravitational wave detector
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Radiation pressure, Gravitational wave detector, Angular instability
+
+$ABSTRACT:
+We observed the effect of radiation pressure on the angular sensing and control system of the Laser Interferometer Gravitational-Wave Observatory (LIGO) interferometer's core optics at LIGO Hanford Observatory. This is the first measurement of this effect in a complete gravitational wave interferometer. Only one of the two angular modes survives with feedback control, since the other mode is suppressed when the control gain is sufficiently large. We developed a mathematical model to understand the physics of the system. The model indicates that the current system has substantial margin for higher laser power; angular instability due to radiation pressure won't occur until laser power reaches about eight times the power used in the initial LIGO configuration. This analysis was based on the degrees of freedom associated with differential motion between the mirrors in the interferometer's two arms. A more complete analysis including the common mode degrees of freedom will be left for future work.

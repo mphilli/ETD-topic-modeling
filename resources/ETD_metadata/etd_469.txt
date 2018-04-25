@@ -1,0 +1,11 @@
+$TITLE:
+A Low-Computation-Complexity, Energy-Efficient, and High-Performance Linear Program Solver Using Memristor Crossbars
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Linear Programming, Memristor
+
+$ABSTRACT:
+Linear  programming  is  required  in  a  wide  variety of    application    including    routing,    scheduling,    and    various optimization  problems. The  primal-dual  interior  point  (PDIP) method  is state-of-the-art  algorithm for  solving linear  programs, and   can   be   decomposed   to   matrix-vector   multiplication   and solving   systems   of   linear   equations,   both   of   which   can   be conducted by the emerging memristor crossbar technique in O(1) time  complexity  in  the  analog  domain.  This  work  is  the first  to apply  memristor  crossbar  for  linear  program  solving  based  on the  PDIP  method,  which  has  been  reformulated  for  memristor crossbars  to compute  in the  analog  domain.  The  proposed linear program solver can overcome limitations of memristor crossbars such  as  supporting  only  non-negative  coefficients,  and  has  been extended  for  higher  scalability.  The  proposed  solver  is  iterative and  achieves  O(N)  computation  complexity  in  each  iteration. Experimental results demonstrate that reliable performance  with high accuracy can be achieved under process variations.

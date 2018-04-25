@@ -1,0 +1,11 @@
+$TITLE:
+Supervision and clinical competency evaluations: The influence of the supervisor's gender
+
+$DEPARTMENT:
+Marriage and Family Therapy
+
+$KEYWORDS:
+Clinical competency, Supervisor, Gender, Family therapy
+
+$ABSTRACT:
+The practice of clinical supervision has become, a progressively central component in Marriage and Family Therapy (MFT) training. Historically, one responsibility of a supervisor has been to evaluate the beginning therapist's development of clinical competencies. In recent years, there have been an increasing number of articles on the topic of supervision within the professional literature, and yet there exists relatively little explicit research on the supervisor's evaluative process in supervision. One variable that may have an influencing effect on evaluations is that of the supervisor's gender. The purpose of this study was to determine if there are differences in evaluations of clinical competency between male and female supervisors. Clinical supervisors completed an evaluation of trainees during the period of time that the beginning therapist was completing the internship requirement for a masters degree in marriage and family therapy. Out of 162 evaluations collected, male supervisors completed 97, while female supervisors completed 65. Similar constructs for each group were contrasted using multivariate analysis of variance (MANOVA) while controlling for years clinical experience, years of experience as a supervisor, supervisory status, and highest degree of education. The aim was to learn if there are significant differences in evaluation of clinical competency between male and female supervisors.

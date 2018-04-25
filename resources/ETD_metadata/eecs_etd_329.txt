@@ -1,0 +1,11 @@
+$TITLE:
+VLSI Timing and Power Analysis at Transistor-Level
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+CMOS gate modeling, leakage current, multiple-input switching, short circuit energy, timing analysis, waveform evaluation
+
+$ABSTRACT:
+In this research, we investigated techniques to accurately model CMOS logic gates. In order to achieve high accuracy, Sakurai-Newton's alpha law MOSFET current model which includes the velocity saturation effects of carriers is used for modeling today's short-channel devices. Both p-MOS current and n-MOS current are taken into account in calculating the short-circuit current and energy. Input-output coupling and internal parasitic capacitance are carefully treated. The operation in sub-threshold region is also considered since sub-threshold leakage current now plays a meaningful role in determining the gates' starting point of conduction. In case of single-input switching, closed-form expressions for output waveforms and short-circuit energy consumption are derived for ramped input. We also developed a multiple-input switching model that captures interconnect effects, cross-capacitance and nonlinear capacitance for high level of accuracy. We then proposed a new transistor-level circuit simulator based on our multiple-input switching model. The runtime of the simulator is in proportion to the circuit scale while satisfactory accuracy is maintained. All the proposed techniques are validated by comparison with SPICE simulation on various CMOS circuits.

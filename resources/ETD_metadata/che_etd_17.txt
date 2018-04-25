@@ -1,0 +1,11 @@
+$TITLE:
+Structural direction of hybrid organic-inorganic materials: Synthesis of vanadium oxyfluoride, copper vanadate, and copper molybdate solid state materials through solvuthermal and solution methods
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Metal oxides, Vanadium oxyfluoride, Copper vanadate, Molybdates
+
+$ABSTRACT:
+The vast structural complexity of inorganic oxides with structure directing organocations, nitrogen containing ligands and organophosphonate ligands was explored. The hydrothermal reaction conditions utilized herein include the variables of temperature, pH, fill volume and stoichiometry. The systems studied included: (1) the complex materials rendered from reactions of organoamine cations on the structure of vanadium oxides, oxyfluorides and fluorides. As with other systems, the influence of the mineralizer HF was not limited to pH as fluorine incorporation was not uncommon. In specific cases this coincided with reduction of vanadium sites. (2) The copper-organonitrogen ligand/vanadium oxide/aromatic phosphonate system has been studied. The rigid aromatic di- and triphosphonate tethers have provided a series of materials which are structurally distinct from the previously investigated aliphatic series. The inclusion of copper-coordinated nitrogen bi- and tri- dentate ligands also provided structural diversity. Product composition was highly influenced by the HF/V ratio. A similar study was conducted with the ligand 1,4-carboxy-phenylphosphonic acid. (3) The preparation of a series of bimetallic organic-inorganic hybrid materials of the M(II)/V x  O y  /organonitrogen ligand class was further evidence of the utility of thermodynamically driven hydrothermal synthesis. (4) While decomposition of the spherical Keplerate molybdenum clusters is encountered under hydrothermal conditions, this highly soluble form of molybdate was investigated for the development of hybrid organic-inorganic room temperature solution synthesis.

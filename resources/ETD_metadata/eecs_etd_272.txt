@@ -1,0 +1,11 @@
+$TITLE:
+Two methods for near field to near/far field transformation with arbitrary near field geometry
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+near/far field transformation, near field geometry, antenna
+
+$ABSTRACT:
+'Presented here are two simple and accurate methods for computing far field patterns of an antenna from its near field measurements taken over an arbitrary geometry. These methods utilize near field data to determine an equivalent magnetic current source in one method and an equivalent electric current source for the second method over a fictitious surface which encompasses the antenna. These magnetic or electric currents, once determined, can be used to ascertain the far field. These methods demonstrate the concept of analytic continuity, i.e., once the value of the electromagnetic field is known for one region in space, its value for any other region can be extrapolated. It is shown that the equivalent magnetic or electric currents produce the correct far fields in all regions in front of the antenna regardless of the geometry over which the near field measurements are made. Two separate electric field integral equations are developed to relate the near field to the equivalent magnetic or electric currents. A moment method procedure is employed to solve each integral equation by transforming it into a matrix equation. A Least Squares Solution via Singular Value Decomposition is used to solve the two matrix equations. Computations with both synthetic and experimental data, where the near field of several antenna configurations are measured over various geometrical surfaces, illustrate the accuracy of these methods.

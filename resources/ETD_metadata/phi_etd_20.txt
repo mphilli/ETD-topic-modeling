@@ -1,0 +1,11 @@
+$TITLE:
+Reconsidering the Nazi data debate: The moral aspects of deciding whether the data should be used
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Medical experiments, Survivors, Dignity, Nazi, Debate, Moral
+
+$ABSTRACT:
+My work concerns the issue of whether the survivors of the Nazi medical experiments (and, by extension, survivors of all unethical experiments) should be given control of the obtained data. First, I explore the argument that using the data harms the survivors, because using it violates their dignity. The conception of dignity to which I appeal is similar to that referred to by the Hebrew word "mekhubad" (which variously translates "self-esteem," "worth," or "honor"). My account of dignity (or mekhubad) requires (1) control in the sense of self-determination, (2) societal acknowledgment of value, (3) living a life worthy of pursuit (that is, engaging in worthy life projects), and (4) acting morally responsibly. Using this notion of dignity, I show how it connects with trauma and recovery from trauma, and apply this insight to the question of control. Specifically, I argue that the Nazi survivors' recovery requires controlling the use of the data. I next explore this idea in the context of T. M. Scanlon's contractarian moral theory, with the purpose of determining whether we should give survivors control of the Nazi data, given that (1) they are being harmed by our presently using the data and (2) their having control can help them heal. I finish by exploring whether there might be reasons, drawn from analogies with tort law, to give survivors control of the data, even if, contra my earlier arguments, they are not being harmed by our presently using the data.

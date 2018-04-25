@@ -1,0 +1,11 @@
+$TITLE:
+The pursuit of managerial entrepreneurship in the public, private, and nonprofit sector: Does organization matter?
+
+$DEPARTMENT:
+Public Administration
+
+$KEYWORDS:
+Public sector, Private sector, Entrepreneurship, Managerial, Nonprofit, Organization
+
+$ABSTRACT:
+While there are extensive interdisciplinary studies on entrepreneurship and continuous attempts to introduce entrepreneurship in the public sector, we are still lacking rigorous empirical studies that contribute to making theoretical linkages with previous biographical and normative studies. This study attempts to fill a gap in the literature by examining the effects on organizational factors on managerial entrepreneurship in the public, nonprofit, and private sector. This study first defines two different dimensions of managerial entrepreneurship: (1) procedural entrepreneurship (the level of absence of red tape) and (2) behavioral entrepreneurship (risk-taking propensities of top managers and ordinary members). Then we posit an organization theory of managerial entrepreneurship that incorporates structural, cultural, environmental, and sectoral factors of organizations. This study also conducts an exploratory study to examine the effects of managerial entrepreneurship (procedural and behavioral entrepreneurship) as well as organizational capacity (decisional consensus and performance motivation) on organizational outcomes (customer satisfaction, technological innovativeness, and market activity).Using the data collected by the National Administrative Studies Project (NASP), we conducted an empirical test of the organizational theory of managerial entrepreneurship. Various statistical techniques are applied to conduct empirical tests, including ANOVA and multiple regression analysis. Additionally, Substantively Weighted Least Squares (SWLS) is also applied as an exploratory manner.

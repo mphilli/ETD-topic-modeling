@@ -1,0 +1,11 @@
+$TITLE:
+Selection procedures for lognormal populations
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Lognormal, Trimmed sums, Censored data, Log-location-scale
+
+$ABSTRACT:
+For the selection of the best from k  lognormal (μ   i   , [Special characters omitted.] ) populations, statistical selection procedures are introduced considering the applicability of lognormal models in lifetime and quality control analysis. The major focus is given to selection based on any linear combination of μ   i   and [Special characters omitted.] . The starting point of the present monograph is the case of the complete samples, without the restrictions imposed in previous literature. Some existing selection rules are generalized so that a certain probability requirement is satisfied under the much more general conditions. The parametric selection based on the α-quantiles is also discussed and is compared to an existing nonparametric procedure using simulation.Since censored data commonly appears in lifetime and quality control experiments, selection procedures are needed for those situations. For doubly type-II censored data, the case of lognormal populations with known [Special characters omitted.] can be generalized to log-location scale distributions with known scale parameters, satisfying certain conditions. The [Special characters omitted.] limit of trimmed sums of order statistics is developed and asymptotic procedures are proposed based on this result. The special cases of a few specific log-location-scale distributions, that are commonly used in lifetime data, are illustrated.For the case of type-II censored lognormal samples with unknown [Special characters omitted.] , two-stage procedures are proposed; one for the equal case and the other for the unequal case. A modified procedure for the equal case, when there is no censoring, is compared to an existing procedure.

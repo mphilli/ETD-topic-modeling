@@ -1,0 +1,11 @@
+$TITLE:
+A FRET based bistable oligonucleotide switch, AlloSwitch, designed for specific recognition of HIV-1 NCp7 and use in High Throughput Screening
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Molecular beacons, High-throughput screening, HIV, Aptamers, Detector, Oligonucleotide switch
+
+$ABSTRACT:
+A unimolecular oligonucletide switch referred to here as an Alloswitch, alternately as an OrthoSwitch, binds selectively to mature HIV-1 nucleocapsid protein, NCp7. This switch is covalently labeled with a fluorescent probe and a quencher molecule to allow Fluorescence Resonance Energy Transfer (FRET). The switch has two thermodynamically stable conformations, H and O, which are distinguishable by the fluorescence reporter. Transformation between the two conformations is kinetically labile under physiological and lab conditions allowing for rapid monitoring of the switch's current conformation. Results show that that the O form has a 170-fold greater affinity for NC than does the H form. It is also demonstrated that a known competitor, HIV-1 psi regions Stem Loop 2 (SL2), is able to displace the AlloSwitch from the NC binding site resulting in a change in fluorescence reported by the switch. The AlloSwitch has also proven to be amenable to a High Throughput Screening (HTS) Assay for screening small molecule competitors for NC which may prove to be possible drug leads. The HTS has advantages of being in a 96 well plate format (suitable for 384 well plate format) requiring simple mix-and-read steps which can be easily automated, and does not require any long equilibration periods or wash steps. This makes the HTS desirable for screening libraries of hundreds of thousands or even millions of compounds. This Alloswitch demonstrated that these types of molecules can be rationally designed and thermodynamically tuned to desired specifications by researchers; some guidelines for this process are included in this thesis. AlloSwitches can also be of importance for their use as diagnostic indicators for the presence of the target molecule, such as biological toxins or organisms.

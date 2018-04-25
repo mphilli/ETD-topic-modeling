@@ -1,0 +1,11 @@
+$TITLE:
+Lumbar musculature and exercise
+
+$DEPARTMENT:
+Science Teaching
+
+$KEYWORDS:
+Lumbar, Musculature, Exercise, Resistance training, Low back pain, Chiropractic
+
+$ABSTRACT:
+Since there are severe limitations associated with the current lumbar muscle assessment tools, there is not a comprehensive understanding of lumbar muscle function during exercise. The purpose of this project was to develop and apply new innovations for the evaluation of lumbar muscle function during exercise. An additional purpose was to investigate the patterns of use and perceptions of educational quality regarding exercise therapy for the care of low back pain among chiropractors. In the first part of this project, a low cost and portable machine was designed to quantify lumbar extension strength. Measures of lumbar extension strength on this device were found to be reliable and highly correlated to strength values obtained from a criterion measure. In the second and third parts of this project, muscle functional magnetic resonance imaging (mfMRI) was developed for use with the lumbar musculature and was found to be extremely effective in characterizing the specific activation levels and recruitment patterns of the small intrinsic lumbar muscles during trunk extension exercise over a wide range of exercise intensities and during a variety of common occupational lifts. These novel uses of mfMRI have not been applied previously. Furthermore, these studies were the first to report the existence of a non-linear relationship between lumbar muscle activity and exercise intensity, as well as the deactivation of the contralateral lumbar muscles during asymmetric lifts. In Part 4, chiropractors' perceptions of their educational quality related to exercise therapy were found to be largely unfavorable. The innovative devices and techniques developed in this project will greatly help future researchers and clinicians expand the knowledge base of lumbar muscle function and health professional education related to exercise.

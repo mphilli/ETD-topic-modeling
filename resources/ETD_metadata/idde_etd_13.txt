@@ -1,0 +1,11 @@
+$TITLE:
+Assessing organizational learning style using The Organizational Character Index and Myers-Briggs Type Theory
+
+$DEPARTMENT:
+Instructional Design, Development and Evaluation
+
+$KEYWORDS:
+Learning style, Organizational Character Index, Myers-Briggs Type Indicator
+
+$ABSTRACT:
+This study examined whether an organization has a preferred learning style and, if so, whether that learning style is different than a composite of the individuals learning styles of its members. It also examined whether the Organizational Character Index (OCI) questionnaire and Myers-Briggs Type Theory, on which the questionnaire is based, can be used to ascertain that preferred learning style. The study was exploratory in nature, as it examined a subject area in which little prior research has been done.The individuals involved in the study were members of two separate divisions/departments in two different organizations. One of the organizations was a for-profit business organization, while the other was an educational institution. Data collection procedures included completion of two questionnaires--the Myers-Briggs Type Indicator (MBTI) and The Organization Character Index (OCI)--by all of the subjects, and interviews with a random sample of the subjects. The interviews were used to identify common themes with which to validate the results of the questionnaires.The results of the study indicated that the Myers-Briggs Type Indicator is not a valid instrument for assessing organizational type preferences and subsequent organizational learning style. The Organizational Character Index was shown to be a somewhat more effective instrument for assessing organizational type preferences and related learning style preferences, although its accuracy is limited with small groups. Interviews conducted by multiple interviewers were shown to be a more accurate assessment method than either of the two questionnaires.

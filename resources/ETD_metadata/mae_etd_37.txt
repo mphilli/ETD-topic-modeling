@@ -1,0 +1,11 @@
+$TITLE:
+Unsteady wake structure behind a solid disk
+
+$DEPARTMENT:
+Mechanical and Aerospace Engineering
+
+$KEYWORDS:
+Wake structure, Solid disk, Disk wake, Bluff body
+
+$ABSTRACT:
+The wake structure behind a solid disk was studied both experimentally and numerically. This study was aimed at better understanding the formation and evolution of the wake structure behind the axisymmetric bluff body. The wake behind a solid disk was observed experimentally in water, with flow visualization techniques, including fluorescent dye, particles and hydrogen bubbles. Both qualitative and quantitative information was obtained by post-processing the video images. A Particle Image Velocimetry software was used to extract quantitative characteristics of the disk wake. Fluid structure interactions were also measured in water in the form of drag force acting on the model. Computational results using an axisymmetric vortex method were compared with the experimental results. The growth of the vortex ring behind the disk was found to depend strongly on the disk acceleration mode. Two cases of acceleration from rest were studied, impulsive start and uniform acceleration. The main wake characteristics that were compared were the size of the recirculation region and location with respect to the disk, the velocity and vorticity fields, the vortex circulation and the force acting on the disk. While the wake behind the disk was initially axisymmetric, instability set in and the structure became three-dimensional in a complex manner. The transition from axisymmetric to three-dimensional wake was monitored experimentally in terms of wake structure, vorticity field, circulation growth. Issues such as apparent mass during the acceleration, vortex instability frequencies, circulation calculation and similarity parameters were also addressed. The wake behind the disk was compared to that behind a two-dimensional flat plate.

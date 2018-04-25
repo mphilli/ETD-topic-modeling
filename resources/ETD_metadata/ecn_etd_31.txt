@@ -1,0 +1,11 @@
+$TITLE:
+Three essays on immigration
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Immigration, Family structure, Compensating wage differentials, Marriage, Crime
+
+$ABSTRACT:
+This dissertation is a collection of three essays on immigration. The empirical analyses use different sources of data and econometric techniques to examine the impact of immigration on the wage and family structure of the host country.The first essay is a literature review on the impact of immigration on the wage and family structure of the host country. Despite the large number of studies, there is not a consensus as to the size of immigration's impact on wages. Examining the impact of immigration on the family structure of the host country, it is found that changes in immigration laws affect the sex ratio which in turn affects U.S. marriage rates.The second essay estimates compensating wage differentials. Between April and September 1980 approximately 125,000 Cuban immigrants entered the United States. Shortly after the arrival of the Cuban refugees, Miami's violent crime rate rose from 18.8 to 34.2 per 1000 individuals. Using samples from the Current Population Survey and exploiting this exogenous increase in the crime rate, I compare changes in the labor-market outcomes of high-crime-risk workers in Miami and three comparison cities. The empirical analysis suggests that high-crime-risk workers in Miami earned between 3 and 26 percent more relative to high-crime-risk workers in the comparison cities in 1980.The third essay examines the influence of immigration laws on U.S. marriage rates by using exogenous variation in marriage returns to test empirically the predictions of Becker's marriage model. Using time-series variation and variation in the size of immigrant populations within counties, I analyze the marriage propensity of residents in large, medium, and small immigrant-population counties before and during immigration law changes in 1997 and 2001. The national results indicate a 20.9 and 12.5 percent increase in marriage rates for the 1997 and 2001 immigration law change respectively. Using monthly county level data for five immigrant States from 1990 to 2002, the relative percent change in actual marriages or marriage applications for the 1997 and 2001 immigration law changes ranged from 13.7 to 201.9 and 12.3 to 308.0 respectively.

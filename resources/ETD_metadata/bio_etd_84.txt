@@ -1,0 +1,11 @@
+$TITLE:
+Characterization of Genetic Elements of Arabidopsis Thaliana Involved In Defense Responses against Bacterial Pathogen Pseudomonas Syringae
+
+$DEPARTMENT:
+Biology
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+Plants in the field are involved in a constant struggle with various environmental factors to sustain survival. In this research work, I am reporting characterization of three genes of Arabidopsis thaliana, namely DAP1 (atypical aspartyl protease), WDA1 (AAA ATPase) and Aox1d (alternative oxidase), involved in modulating plant defense responses to bacterial pathogens. Our current knowledge about plant aspartic proteases is limited and this work emphasizes the role of these proteins in immune responses. DAP1, DEFENSE- ASSOCIATED ASPARTIC PROTEASE1, encodes an apoplastic protease and has plant growth- and development-associated functions. Plants overexpressing DAP1 display compromised immunity and suggesting that DAP1 negatively regulates plant defense. Deleterious effects of DAP1 overexpression during pathogen infection may be related to its apoplastic localization and biochemical activity. WDA1, WALKER-TYPE DEFENSE ASSOCIATED AAA ATPase, shows a novel expression profile in response to pathogen infection and plays a role in positively regulating plant basal defense responses. Characterization of WDA1 also emphasizes the fact that plants have evolved to recognize different types of pathogens and orchestrate defense responses accordingly in order to maximize energy conservation during defense. Finally, I am presenting the characterization of Aox1d. This gene is induced in response to a myriad of biotic and abiotic stresses. Alternative oxidases are well described for their roles to help plants endure abiotic stresses. They have been shown to be responsive to pathogen infection; however, this is the first report showing a critical role of an alternative oxidase in plant immunity. Here I show that Aox1d positively regulates plant defense, probably by ameliorating damage caused by oxidative stress during such biotic interactions.

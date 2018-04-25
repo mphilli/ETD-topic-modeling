@@ -1,0 +1,11 @@
+$TITLE:
+Electromagnetic wave propagation and radiation in gyrotropic medium
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Electromagnetic, Wave propagation, Radiation, Gyrotropic
+
+$ABSTRACT:
+In this dissertation, wave propagation, dispersion characteristics and radiation in a gyrotropic medium are analyzed. The study of far field radiation from a two-layered uniaxially anisotropic medium is also included.First, the dispersion relations for gyrotropic medium are derived in a new form, from which the wave numbers for two types of waves are obtained. Then, the resonance and cut off conditions are solved for the principal waves in an electrically gyrotropic or gyroelectric medium such as cold plasma. A Clemmow-Mually-Allis (CMA) diagram is then constructed based on the resonance and cut off conditions to provide the regions in which the wave can propagate.A complete set of the dyadic Green's functions (DGFs) for a gyroelectric medium is derived using the new formulation technique, which consists of a matrix method with dyadic decomposition in the k-domain. The DGF is expressed in terms of the wave matrix and is converted into a dyadic form consisting of two characteristic field vectors. The DGFs for a gyromagnetic medium are obtained using the principle of duality between gyroelectric and gyromagnetic media.Using these DGFs, the far field radiation from an arbitrarily oriented Hertzian dipole in an unbounded gyroelectric medium is derived with the method of steepest descent. The far field calculation for the selected regions of the type I and type II waves is presented utilizing the CMA diagram. The analytical and numerical results are then compared with the existing results and perfect agreement has been observed.Finally, the far field radiation from an arbitrarily oriented Hertzian dipole is calculated when the dipole is placed over, or embedded in, a uniaxially anisotropic medium, which is bounded above and below by isotropic medium, using the symmetrical property of the DGFs. The effects of anisotropy, layer thickness and dipole location on radiation patterns are analyzed and discussed.

@@ -1,0 +1,11 @@
+$TITLE:
+A gendered pipeline? The advancement of state legislators to Congress in five states
+
+$DEPARTMENT:
+Political Science
+
+$KEYWORDS:
+Gendered, State legislators, Congress, Connecticut, New York, Texas, Wisconsin, Washington
+
+$ABSTRACT:
+The pipeline theory of women's representation suggests that increases in female representation at the state level will result in future increases in women's representation in Congress. This paper examines the opportunity structures in five state legislatures over a ten year period to assess whether female and male state legislators are similarly situated relative to a number of individual, cultural, and structural factors associated with congressional advancement. My analysis indicates that female state legislators are less likely than their male colleagues to advance to Congress. I conclude that there are a number of key differences between men and women in state legislatures that are relevant to the likelihood that male and female state legislators seek and win congressional office; in comparison with men, women state legislators are significantly older and are less likely to have an occupational background in the fields of business or law. These findings suggest that aggregate levels of female representation at the state legislative level are likely to be an unreliable indicator of future levels of female representation in Congress.

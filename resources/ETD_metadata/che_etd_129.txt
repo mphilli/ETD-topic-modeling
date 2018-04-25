@@ -1,0 +1,11 @@
+$TITLE:
+Mechanistic Investigation Into The Nature Of The Thermal Bond Relocations of cis-Bicyclo(6.1.0)Nona-2,4,6-Trienes
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Organic chemistry
+
+$ABSTRACT:
+Begins with comments on thermal valence isomerization, and the wide variety of observed transformations, and the multitude of mechanistic pathways to be considered for these rearrangements. Also refers to orbital symmetry.--Introduction.

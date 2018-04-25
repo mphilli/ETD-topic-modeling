@@ -1,0 +1,11 @@
+$TITLE:
+Accessible passively stored highly spin-polarized deuterium in solid hydrogen deuterium, with application to inertially confined fusion
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+fusion, hydrogen, deuterium
+
+$ABSTRACT:
+Highly spin-polarized D in solid HD was produced in a dilution refrigerator-magnet system under conditions whereby the polarization remains high upon removal of the sample to a 1K, modest field ($\sim$0.1 T) environment. This retained polarization remains for many hours to days, sufficient to allow the polarized material to be transported to distant locations and utilized there. The first intended application of this system is for inertially confined fusion (ICF) experiments with spin-polarized D fuel.The actual (vector) polarization attained thus far is P$\sp{\rm D}$ = 38%. The maximum D polarization obtainable with our present refrigerator and magnet (8 mK and 13 T) is 61%. The difference is due to our reluctance to wait the full time constants in these demonstration experiments and due to the inability to attain full efficiency in radio-frequency dynamic polarization transfer between D and H, the maximum polarizability of the latter in our system equaling about 85%. In addition to implementation of the polarization method, it was also necessary to develop methods for cold (4 K) sample transfer with engagement and disengagement provisions for the dilution-refrigerator apparatus, a storage-transport cryostat, various sample-preparation and diagnostic apparatuses, and an interface to an experimental destination facility, in the present case, the OMEGA fusion chamber at the University of Rochester's Laboratory for Laser Energetics. The nature of the fusion experiments required designing and constructing a complex mating system with interchange of cold shrouds to ascertain the sample was always shielded from room temperature black body radiation, and still provide means for positioning the target to within a few microns of the intersection of the high power laser beams. Means of filling plastic target shells to high pressure (at room temperature) with our special isotopic composition of HD with H$\sb2$ and D$\sb2$ impurities, and condensing them at cryogenic temperatures, were also perfected.

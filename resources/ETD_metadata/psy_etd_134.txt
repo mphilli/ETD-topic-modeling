@@ -1,0 +1,11 @@
+$TITLE:
+School-based intervention teams: An assessment of variables predictive of successful interventions
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+School-based intervention teams, successful interventions
+
+$ABSTRACT:
+The impact of a team consultative approach to prereferral intervention on observed outcome, teacher reported outcome and special education referral rates was examined. Through the incorporation of both observational and attitudinal data and the collection of information from multiple sources, a number of variables were examined. These included type of referral problem, integrity of the consultation process, type of intervention, teacher satisfaction, pre- and post-intervention acceptability, treatment fidelity, and observed and reported outcome. Results indicated that teachers were generally satisfied with their interactions with the School-Based Intervention Team (SBIT), judged the interventions as acceptable and reported beneficial student outcomes. In addition, students referred to SBITs demonstrated significant gains in reading fluency and/or time on-task and special education referral rates from the four SBIT pilot schools decreased considerably in comparison to four matched control schools. The relative influence of the variables on positive outcomes was also investigated. Results of hierarchical multiple regression analyses indicated that those variables related to treatment (i.e., type of intervention, intervention acceptability and treatment integrity) exerted the most influence on reported outcome, with the single strongest predictor being post-intervention acceptability.

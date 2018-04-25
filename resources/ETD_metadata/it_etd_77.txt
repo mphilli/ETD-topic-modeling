@@ -1,0 +1,11 @@
+$TITLE:
+A Theory of ICT User Types: Exploring Domestication and Meaning of ICTS through Comparative Case Studies
+
+$DEPARTMENT:
+Information Science and Technology
+
+$KEYWORDS:
+domestication theory, gerontechnology, ICTs, older adults, seniors, technology
+
+$ABSTRACT:
+The population in the United States is aging, with a predicted 147% increase in the number of older adults (those over age 65) from 2000- 2050 (U.S. Census Bureau, 2008). At the same time, Information and Communication Technologies (ICTs) are increasingly being used in work, leisure, and government. Despite these two trends towards an aging population and greater ICT use, very little is known about if and how older adults are using ICTs in their everyday lives (Birkland & Kaarst-Brown, 2011). Despite many calls for researchers to take a wider perspective (Bouwhuis, 2006; van Bronswijk, et al., 2009), most studies have concentrated on assistive devices or examining the care of older adults with health issues. In order to understand how older adults were using ICTs in their daily lives this study used a comparative case methodology of 17 cases, with each case consisting of an older adult and several members of their social network. Using domestication theory (Silverstone, 1994) and an interpretive interactionism approach (Denzin, 2001), this series of comparative case studies discovered five distinct domestication patterns. These domestication patterns, or user types, differ in how these users were introduced to, use, display, and the meaning they attribute to ICTs in their everyday lives.

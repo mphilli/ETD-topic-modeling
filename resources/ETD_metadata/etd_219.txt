@@ -1,0 +1,11 @@
+$TITLE:
+Essays on International Trade and Development
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Firm Boundaries, Global Sourcing, Offshoring, Wage Inequality
+
+$ABSTRACT:
+This dissertation consists of three essays. Using firm-level data from Korea, the first and second chapter examine Korean firms' offshoring strategies and the impact of these offshoring activities on firm-level employment in Korea. In the third chapter, the recent pattern of wage inequality is decomposed using an individual-level Korean labor income survey. This dissertation finds the role of industry capital intensity and firm productivity in the differential choices of global sourcing such as vertical FDI and foreign outsourcing. Also, this dissertation finds that input substitutability and firm exports can affect the impact of offshoring on firms' domestic labor demand. Finally, this dissertation finds various workers' characteristics that have affected wage inequality across various quartiles.

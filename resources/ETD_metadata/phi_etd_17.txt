@@ -1,0 +1,11 @@
+$TITLE:
+Eluding exclusion: Making room for the special sciences
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Exclusion, Special sciences, Philosophy of mind, Metaphysics, Mental causation, Overdetermination
+
+$ABSTRACT:
+The causal efficacy of special science properties is put in doubt, given that all of macro-reality supervenes on microphysics and microphysics is causally closed. If special science properties, like mental properties, are causally efficacious, then they appear to be causally redundant. I consider this causal overdetermination worry for psychology in particular.Such causal overdetermination has been widely acknowledged as uniformly problematic. However, I distinguish among three types of causal overdetermination and argue that they are problematic for distinct reasons. The overdetermination worry for the special sciences is different from the paradigmatic overdetermination worries frequently cited.The special science overdetermination worry is a serious metaphysical problem. A solution to this problem would take one of two forms. First, the special science causes could be identified with microphysical causes. Or second, the special sciences and microphysics could be shown to have distinct effects.After arguing that property instances, or tropes, are the causal relata , I consider the possibility of a mental-physical trope identification. While distinct property types can share an instance (trope) when related as determinable to determinate, I argue that mental properties are not related to any physical properties as such. On the trope individuation conditions I offer, mental causes are not identical to physical causes.Still, the second approach could succeed and save the special sciences from causal exclusion. Indeed, I argue that just as mental causes are distinct from physical causes, their effects are distinct as well. The trope theory I advocate provides a metaphysical justification for the non-reductionist's stratified picture of the sciences.

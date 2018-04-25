@@ -1,0 +1,11 @@
+$TITLE:
+Representation Theory of Orders over Cohen-Macaulay Rings
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Commutative Algebra, Representation Theory
+
+$ABSTRACT:
+Orders are a certain class of noncommutative algebras over commutative rings. Originallydefined by Auslander and Bridger, an R-order is an R-algebra which is a maximal CohenMacaulayR-module. In this thesis we consider orders, Λ, over Cohen-Macaulay local ringsR possessing a canonical module, ωR. In this case a great deal of structure is imposed on Λ.In Chapter 3 we focus on the use of orders as noncommutative resolutions of commutativelocal rings. This idea was introduced by Van den Bergh [45] for R Gorenstein and weinvestigate the generalization to the case where R is Cohen-Macaulay. We show that ifan order is totally reflexive over R and has finite global dimension, then R was alreadyGorenstein. Further, we investigate Gorenstein orders and give a necessary and sufficientcondition for the endomorphism ring EndR(R ⊕ ω) to be a Gorenstein order.The rest of the thesis focuses on various aspects of the representation theory of orders.We investigate orders which have finite global dimension on the punctured spectrum, butare not necessarily isolated singularities. In this case we are able to prove a generalizationof Auslander’s theorem about finite CM type [3]. We prove that if an order which satisfiesprojdimΛop ωΛ 6 n possesses only finitely many indecomposable nth syzygies of MCM Λ-modules, then in fact gldim Λp 6 n + dim Rp for all non-maximal primes p. We are thenable to translate this to a condition on R by considering path algebras, since these maintainfiniteness of global dimension.Finally, we consider orders which are true isolated singularities and Iyama’s higherAuslander-Reiten theory [27]. We consider the action of τn on n-orthogonal subcategoriesof CM Λ and on n-cluster tilting subcategories. For the former we are able to characterizethe projective dimension of duals of modules. For the latter, we provide an obstruction to amodule being τn-periodic, a question of great interest for the representation theory of ordersof finite global dimension.

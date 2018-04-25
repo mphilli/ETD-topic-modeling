@@ -1,0 +1,11 @@
+$TITLE:
+The broadband multifilar helical antenna
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Broadband, Multifilar, Helical, Antenna
+
+$ABSTRACT:
+The multifilar helical antenna (MHA) has become increasingly popular in satellite based communication systems because of its ability to produce high gain and excellent circular polarization over wide beam angles. In this work, the current density on an infinite tape MHA is found and used to analyze a MHA for its complete k  -β diagrams. We show that an  N  -filar helix has N  sequence modes, and N  distinct k  -β diagrams. Each sequence mode is associated with a particular excitation. Due to the popularity of the quadrifilar helical antenna (QHA), we present the complete k  -β diagrams for it. Of the four QHA sequence modes, we focus on the two sequence modes that yield circularly polarized radiated waves. Two basic radiation mechanisms are exposed: a scanning mode and a fixed forward end-fire mode. These modes are similar to the unifilar modes that are described by Paul Klock in his dissertation. The effects of tape width, pitch angle, radius and frequency are studied in detail. A model based on antenna array theory is developed and is used to investigate radiation properties as well as operating bandwidth for a finite length QHA. Some of our calculated results are compared with those found in the literature.

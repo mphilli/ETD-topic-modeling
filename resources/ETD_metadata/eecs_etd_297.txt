@@ -1,0 +1,11 @@
+$TITLE:
+Protection Models for Web Applications
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Access control, Computer security, Web security
+
+$ABSTRACT:
+Early web applications were a set of static web pages connected to one another. In contrast, modern applications are full-featured programs that are nearly equivalent to desktop applications in functionality. However, web servers and web browsers, which were initially designed for static web pages, have not updated their protection models to deal with the security consequences of these full-featured programs. This mismatch has been the source of several security problems in web applications.This dissertation proposes new protection models for web applications. The design and implementation of prototypes of these protection models in a web server and a web browser are also described. Experiments are used to demonstrate the improvements in security and performance from using these protection models. Finally, this dissertation also describes systematic design methods to support the security of web applications.

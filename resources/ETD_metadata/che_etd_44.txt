@@ -1,0 +1,11 @@
+$TITLE:
+Influence of organic building blocks on the structures of bimetallic organic/inorganic hybrid frameworks
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Bimetallic, Organic/inorganic hybrid
+
+$ABSTRACT:
+The search for new inorganic materials reflects an urgent need to address today's industrial necessity for materials that can store hydrogen in high quantities at ambient temperatures that act as catalysts and that allow more data storage in hard discs. So far the synthesis of important inorganic materials has been done according to the traditional methods; the same mix and wait strategy will be applied for their synthesis in the following decades until synthesis of inorganic materials by design is achieved. But this goal has proven to be elusive. To address this problem, I focused on [{Cu(II)/L} n 2n+ /V x O y z- /(O 3 PRPO 3 ) i 4i- ], system and synthesized numerous compounds by introducing different organic structural units and changing reaction conditions to produce a library of this class of compounds for future mechanistic studies. Initially, I surveyed the effect of temperature on the structures of this system. In addition to this, I introduced different organoimine {L) and organophosphonate {H 2 O 3 PRPO 3 H 2 ) building blocks to observe their influence on the final structures of the system. As it is expected, bridging organoimine ligands like tetrapyridylporphyrine and 4,4'-bipyridine produced mainly three dimensional structures. On the other hand chelating ligands like terpyridine and 2,2'-bipyridine produced one or two dimensional structures. The same trend was observed upon the introduction of different organophosphonate units to the system. Mono and sterically hindered phosphonic acids produced mainly one dimensional compounds, whereas bridging diphosphonic acids produced structures in higher dimensions. The reactions were conducted under hydrothermal conditions. The products of the reactions were characterized by single crystal and powder x-ray spectroscopy and thermogravimetric analysis along with magnetic studies of selected compounds

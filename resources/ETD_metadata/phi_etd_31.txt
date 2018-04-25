@@ -1,0 +1,11 @@
+$TITLE:
+Hedonic value
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Pleasure, Unpleasure, Hedonic value
+
+$ABSTRACT:
+In this essay I support, develop and apply a theory of hedonic value. These tasks are interwoven, but principally, I support the theory in chapters 1-4, develop it in chapters 5 and 6, and apply it to a challenging cluster of problems in chapter 7.Sentient experience, I suggest in chapter 1, provides key evidence for founding ethics: a severely painful experience gives its subject evidence that it's bad in some way. Moreover, similar considerations, as well as analogies, support thinking that all unpleasures (unpleasant experiences) are bad in some way and all pleasures (pleasant experiences) are good in some way. But what type of value and disvalue do they have (if indeed this evidence is not outweighed)?Experiences that are pleasant or unpleasant are intrinsically so (I argue in chapter 2). so, their normative import doesn't derive from extrinsic motivational or affective conditions that their pleasantness or unpleasantless might be thought to consist in. In chapter 3 I extend my argument in chapter 1 to the conclusion that pleasures and unpleasures have agent-neutral moral significance. Hence, I have just as much basic reason to promote your hedonic well-being as mine. And even the pleasure of potential persons matters, I argue in chapter 4; the fact that a person would feel pleasure is a reason to create her.In chapter 5 I argue that being hedonically better than is not a transitive relation. With this result in hand, I offer several snippets of advice and a host of principles in chapter 6 for assessing the hedonic value of states of affairs. Along the way I argue against a higher/lower distinction for pleasures and for the thesis that pleasures have value when undeserved or taken in bad objects. Finally. in chapter 7 I show that the theory of hedonic value I've developed entails a viable set of solutions to the problems Derek Parfit poses for moral theory in Reasons and Persons.Pleasures, I conclude, are intrinsically good and unpleasures are intrinsically bad.

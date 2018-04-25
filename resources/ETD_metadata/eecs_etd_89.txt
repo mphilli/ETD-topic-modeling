@@ -1,0 +1,11 @@
+$TITLE:
+Exploiting early time scattering response using fractional Fourier transform
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Damped sinusoids, Signal-to-noise ratio, Fourier transform, Early time scattering
+
+$ABSTRACT:
+A new technique is presented for extracting the parameters of the damped sinusoids and the early time impulse-like responses from the time domain transient response data. Most of the previous techniques use late time signals only but in this study both early time impulse-like components and late time damped sinusoids are treated together. Early time responses have impulse-like components and this makes it hard to analyze the complete signal. In this study, Gaussian pulses have been used to describe the early time portion of the transient data and damped sinusoids are used for late time part.A Fractional Fourier Transform, specifically the Half Fourier Transform, is used to separate pulse like components from damped exponentials. Initial guesses for the complex exponentials are calculated using the Matrix Pencil method. It is shown that the Half Fourier Transform is very effective when the transient response from a target has impulse-like components, because the contribution of the shifted impulse and that of a damped sinusoid are very similar in the Half Fourier Transform domain. Thus, it is better to discriminate both components in the Half Fourier Transform domain than in the ordinary Fourier Transform domain. The Fractional Fourier Transforms of causal signals are derived and used to represent the signals that are encountered in real life. A nonlinear curve-fitting scheme in the least-squares sense is adopted to search for the optimum parameters. The algorithm is a subspace trust region method and is based on the interior-eflective Newton method. Several examples are tested to verify the proposed technique. Results show that extracted poles coincide well with analytic results even for a noise contaminated scattered field. Thus if we have moderately high signal to noise ratio (for example, signal to noise ratio (SNR) is greater than 30 dB), it is possible to obtain several dominant complex resonant frequencies for a real target.

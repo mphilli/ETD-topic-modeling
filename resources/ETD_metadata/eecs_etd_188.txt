@@ -1,0 +1,11 @@
+$TITLE:
+Analysis and measurements of arbitrarily shaped open microstrip structures
+
+$DEPARTMENT:
+English
+
+$KEYWORDS:
+microstrip
+
+$ABSTRACT:
+This dissertation presents a dynamic approach for detailed analysis of arbitrarily shaped, open microstrip structures. The surface current distribution on the top conductor of the microstrip is found by using grounded dielectric slab Green's functions (known as the Sommerfield integrals). Microstrip patches of arbitrary shape are treated by the method of moments in conjunction with triangular basis functions. A match-terminating condition modifies the method of moment matrix and provides a numerical simulation of a matched load at any port of a device under test. The Matrix Pencil method is used to decompose currents along the feed and terminating lines into forward and backward traveling waves, yielding scattering parameters of the device.  This approach is tested on various examples and its results are compared to both previously published data and measurements performed in the Microwave Laboratory of the Department of Electrical and Computer Engineering at Syracuse University. We also introduce all accurate de-embedding technique for elimination of test-cable to microstrip connector contribution in network analyzer measurements.

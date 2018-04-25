@@ -1,0 +1,11 @@
+$TITLE:
+Studies towards the total synthesis of rapamycin
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Rapamycin, Wittig rearrangement-[2, 3]
+
+$ABSTRACT:
+This dissertation describes a stereoselective synthesis of two major fragments of rapamycin. Isolated from Easter Island soil sample in 1975, rapamycin was found to be a potent immunosuppressent and is currently in the phase III of clinical trials as an immunosuppressive therapy.Previous synthetic efforts including the four total syntheses and degradation studies of rapamycin are presented first.Considerable effort has focused on the construction of the C1-C21 and C22-C42 sub-units of rapamycin. The synthetic approach to the C1-C21 fragment begins with D -glucose. A [2,3]-Wittig rearrangement of the sugar derivative installs the C11 methyl-bearing center. Subsequent Emmons-Homer olefination introduces the tri-substituted C17-C18. Finally, an aldol addition followed by a Dess-Martin oxidation provides the whole fragment. The C24-C42 fragment of rapamycin is rapidly assembled by serial [2,3]-Wittig and [3,3]-Claisen rearrangements of carbohydrate-derived allylic ethers. An iodolactonization is employed to establish the stereochemistry at C34. Different protecting groups of C28 alcohol are examined. In an alternative synthesis of the C22-C42 fragment, the C23 methyl-bearing center is successfully introduced via an Evans alkylation. Possible routes to the completion of the fragment are also proposed.

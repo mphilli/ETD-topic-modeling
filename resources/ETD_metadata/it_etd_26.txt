@@ -1,0 +1,11 @@
+$TITLE:
+Translation events in cross-language information retrieval: Lexical ambiguity, lexical holes, vocabulary mismatch, and correct translations
+
+$DEPARTMENT:
+Information Science and Technology
+
+$KEYWORDS:
+Translation, Cross-language information retrieval, Lexical ambiguity, Vocabulary mismatch
+
+$ABSTRACT:
+Cross-Language Information Retrieval (CLIR) systems enable users to formulate queries in their native language to retrieve documents in foreign languages. Because queries and documents in CLIR do not necessarily share the same language, translation is needed before matching can take place. This translation step tends to cause a reduction in the retrieval performance of CLIR as compared to monolingual information retrieval.The prevailing CLIR approach and the focus of this study is query translation. The translation of queries is inherently difficult due to the lack of a one-to-one mapping of a lexical item and its meaning, which creates lexical ambiguity. This, and other translation problems, result in translation errors which impact CLIR performance.To understand the events occurring in cross-language retrieval query translation and the relation of these events to retrieval performance, the study explored the following research questions: (1)  What kinds of translation events affect cross-language retrieval? (2)  In what way does the presence of certain translation events in query translation affect retrieval performance?The study followed a two-phase multi-method approach. In phase one, a taxonomy of translation events was created through content analysis of queries and their translations in combination with an examination of the literature. In the second and final phase, a subset of the test queries was coded using the taxonomy resulting from phase one. These queries were then used in information retrieval experimentation to assess the impact of the translation events on retrieval performance.

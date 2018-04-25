@@ -1,0 +1,11 @@
+$TITLE:
+The Path to an Orally Administered Protein Therapeutic for the Treatment of Diabetes Mellitus
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Glucagon-like peptide-1, Insulin, Oral delivery, Vitamin B12
+
+$ABSTRACT:
+Protein therapeutics like insulin and glucagon-like peptide-1 analogues are currently used as injectable medications for the treatment of diabetes mellitus. An orally administered protein therapeutic is predicted to increase patient adherence to medication and bring a patient closer to metabolic norms through direct effects on hepatic glucose production. The major problem facing oral delivery of protein therapeutics is gastrointestinal tract hydrolysis/proteolysis and the inability to passage the enterocyte. Herein we report the potential use of vitamin B12 for the oral delivery of protein therapeutics.We first investigated the ability of insulin to accommodate the attachment of  B12 at the B1 vs. B29 amino acid position. The insulinotropic profile of both conjugates was evaluated in streptozotocin induced diabetic rats. Oral administration of the conjugates produced significant drops in blood glucose levels, compared to an orally administered insulin control, but no significant difference was observed between conjugates. We also report, for the first time, a dose dependent response of a B12-insulin conjugate. We then explored the implications of  B12 conjugation on the biological activity of the potent peptide glucagon-like peptide-1 (7-36) amide, with a K34R amino acid substitution. Various in vitro bioassays utilizing human embryonic kidney cells and human pancreatic islets were conducted and indicated  B12 has a minimally negative effect on GLP-1 biological activity. Finally we modified the structure of  B12 for future conjugation work. The modification of the 5'hydroxyl group of the ribose unit of  B12 to a carboxylic acid is predicted to benefit the field of B12 conjugation significantly with the ability to produce higher yielding and more stable  B12 conjugates.

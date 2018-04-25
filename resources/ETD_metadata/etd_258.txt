@@ -1,0 +1,11 @@
+$TITLE:
+The Effects of Local Government GAAP Regulation on Audit Market Concentration, Auditor Specialization, and Audit Fees
+
+$DEPARTMENT:
+Accounting
+
+$KEYWORDS:
+audit fees, auditor concentration, auditor specialization, reporting regulation
+
+$ABSTRACT:
+This study examines the effects of financial statement disclosure regulation on auditor market concentration and audit fees. I compare auditor industry concentration rates between municipalities reporting under the Single Audit Act in the state of Michigan, which requires all local governments to follow GAAP reporting, with concentration rates in Pennsylvania, which has unregulated reporting. Using both an interstate comparison as well as examining a policy change in the unregulated environment, I find evidence suggesting that auditor concentration is related to disclosure mandates. Through survey data, I then explore the impact of reporting regulation on audit fees. My findings suggest GAAP mandated disclosure is associated with an overall lower audit fee, evidence suggestive of economies of scale; however, specialist firms in the GAAP setting are able to differentiate themselves and earn a fee premium. The state with unregulated disclosure does not benefit from the same audit economies having a market containing higher overall audit fees as well as specialist auditors who may discount engagement fees where specialist pricing in both markets appears to depend on audit firm characteristics and market share. Collectively, my results provide evidence that disclosure regulation is associated with overall lower fees, but also results in greater concentration and specialist fee premiums.

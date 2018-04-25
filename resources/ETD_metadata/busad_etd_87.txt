@@ -1,0 +1,11 @@
+$TITLE:
+The Role of Board/Audit Committee Interlocks in Diffusion of Earnings Equality
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+Accounting choices, Audit committee interlock, Board interlock, Contagion, Earnings quality, Social network
+
+$ABSTRACT:
+In this paper, I show that board interlocked firms' accounting practices  are significantly correlated and more so for audit committee  interlocked firms, a finding that is robust using various settings and  designs. Associations arise one year after creation of new interlocks  and disappear one year after dissolution of old interlocks, inconsistent  with the ex-ante firm-director matching explanation. Associations  remain similar using the 2SLS model, consistent with the contagious  explanation, i.e., that information about accounting practices transfers  between interlocked firms. I find evidence that bad accounting choices  are more contagious than good accounting choices, supporting the idea  that "the bad drives out the good". Overall, I document preliminary  evidence about the importance of the social context for accounting  choices and recommend that future researchers consider social context  factors to better understand firms' accounting choices.

@@ -1,0 +1,11 @@
+$TITLE:
+Not just Grignards: New developments in the organometallic chemistry of the heavy alkali and alkaline earth metals
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Grignard reagents, Organometallic, Earth metals, Potassium, Rubidium, Cesium
+
+$ABSTRACT:
+Despite considerable efforts being given to organometallic complexes of lithium and magnesium (Grignard reagents), the amount of information available for the heavier alkali congeners potassium, rubidium and cesium and the alkaline earth metals calcium, strontium and barium are much more poorly understood. Even as the heavy organoalkali organometallics have become a standard in synthesis as a result of "superbase" chemistry, understanding of bonding and solid-state structure and behavior of these compounds remains murky.Similarly, the chemistry of the alkaline earth metals, particularly σ-bonded organometallic species, remains poorly developed, and structural information on such compounds was nonexistent until very recently. Especially considering the surprising tendency for heavy alkaline earth metal compounds to display unexpected geometries that defy standard VSEPR models, it is critical to create as large a library as possible for these compounds to assist in further investigations.In this work, an array of contact and charge separated heavy alkali and alkaline earth organometallics are presented. In addition, two powerful new synthetic routes--hydrocarbon elimination and desilylation--are made available as new entries into these compounds. Synthetic aspects and structural details are discussed and theoretical studies are conducted in an attempt to elucidate some of the interesting questions encountered in this field.

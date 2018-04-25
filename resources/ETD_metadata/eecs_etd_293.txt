@@ -1,0 +1,11 @@
+$TITLE:
+A Generic Privacy Quantification Framework for Privacy-Preserving Data Publishing
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Privacy preservation, Maximum entropy, Data publishing
+
+$ABSTRACT:
+In recent years, the concerns about the privacy for the electronic data collected by government agencies, organizations, and industries are increasing. They include individual privacy and knowledge privacy. Privacy-preserving data publishing is a research branch that preserves the privacy while, at the same time, withholding useful information in the released data for data mining. A number of privacy models and algorithms have been designed for privacy-preserving data publishing. The thesis studies the challenges faced by the existing privacy models, and presents a unified framework to address the privacy quantification when various additional knowledge is taken into consideration. The framework is applied to many scenarios, including association rules, decision tree classifiers, data republishing, and background knowledge. The thesis also identifies a threat in association rule hiding, and proposes a privacy metric for association rule hiding methods. A novel framework is presented to achieve a better knowledge privacy.

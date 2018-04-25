@@ -1,0 +1,11 @@
+$TITLE:
+Spectrum analysis from nonuniformly sampled data for applications in multiple PRI radar system
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Spectrum analysis, Nonuniformly sampled data, Radar, Pulse repetition frequency
+
+$ABSTRACT:
+This dissertation addresses the problem of the spectrum analysis from nonuniformly sampled data for applications in multiple PRF radar system. The benefits of using a direct spectrum analysis using nonuniformly spaced data instead of using a FFT based CR (Chinese Remainder) theorem have been presented. Using a spectrum analysis based on nonuniformly spaced data, the blind bursts that the target frequency is folded into the clutter band could be overcome easily. This method can also be efficient when there exist multiple interferences with the same magnitude as the target.The objective of this research is to find a suitable and efficient method for spectrum analysis and for application to the multiple PRF system. To obtain the spectrum from nonuniformly sampled data, seven methods have been investigated and compared with each other. A single example was shown at the end of each approach to test the applicability.The numerical examples have been divided into three parts with respect to the sampling frequency since all the methods operate by different characteristics. To test robustness to the noise, AWGN has been added to the signal and simulated for different cases.

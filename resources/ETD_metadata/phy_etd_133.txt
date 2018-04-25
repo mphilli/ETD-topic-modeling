@@ -1,0 +1,11 @@
+$TITLE:
+Molecular Sensing with Protein and Solid-State Nanopores
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+In the past 15 years nanopore sensing has proven to be a successful method for probing a variety of molecules of biological interest, such as DNA, RNA and proteins. Of particular appeal is this technique's ability to probe these molecules without the need for chemical modification or labeling, to do so at physiological conditions, and to probe single molecules at a time, allowing the possibility for results masked in bulk measurements to come to light. In this thesis these advantageous properties will be used in work on both a synthetic (solid-state) nanopore system and an engineered biological nanopore. I will describe the techniques for producing solid-state nanopores in thin membranes of silicon nitride and how these nanopores can be integrated into a fully functioning nanopore sensor system. I will then explore two applications of this system. First, a study of adsorption of bovine serum albumin (BSA), a protein found in blood serum, to the inorganic surface of nitride at the single molecule level. A simple physical model describing the behavior of this protein in the nanopore will be shown. Second, a study of the binding of the nucleocapsid protein of HIV-1 (NCp7) to three aptamers of different affinity, specifically three sequence 20mer mimics of the stem-loop 3 (SL3) RNA--the packaging domain of genomic RNA. Additionally, N-ethylmaleimide, which is known to inhibit the binding of NCp7 to a high-affinity SL3 RNA aptamer, will be used to demonstrate that the inhibition of the binding can be monitored in real time.Following these applications of the solid-state nanopore system, I will explore the geometry of a newly engineered biological nanopore, FhuA [Delta]C/[Delta]4L, by using inert polymers to probe the nanopore interior

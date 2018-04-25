@@ -1,0 +1,11 @@
+$TITLE:
+Distributed open asynchronous information access environment
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Open-asynchronous information access, Information access, Distributed computing, Distance learning, Web objects
+
+$ABSTRACT:
+Recent technological improvements have been adopted by both professionals and non-professionals in many fields. Information access and its management in the collective work of distributed objects have become quite critical in many areas such as in distance learning. This thesis discusses the major issues in designing a multi-tier software architecture for a distributed, open, and asynchronous information access environment and in building and analyzing our experience both in implementing and in using its prototype, which we called a Virtual Classroom Manager.The Virtual Classroom Manager exploits recent multi-tier architecture approaches. User-level services using open interfaces on Web browsers are connected to services at the middle-tier, which further communicates with another service tier, i.e., object providers from legacy storage devices, or from other distributed services.We present a scientific and architectural view of asynchronous support in distance education. For this research, we studied technological manipulations of Learning objects based on a developing taxonomy of Learning objects rather than by examining fields outside the computer science such as instructional design theory. This work is pioneering in the sense that it fills the gap between the high-level concepts of Learning systems and the small-scale technology applications of distance education. Our novel interpretation of Learning technology applications is derived from Web objects and is a rather generic approach that is applicable to other fields.

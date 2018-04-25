@@ -1,0 +1,11 @@
+$TITLE:
+The Extended Preferred Ordering Theorem for Radar Tracking Using the Extended Kalman Filter
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+alman Filtering, Nonlinear Estimation, Preferred Ordering, Radar Tracking
+
+$ABSTRACT:
+A certain problem in nonlinear estimation exists in radar tracking. Usually radar detections provide instantaneous position measurements in radar (polar) coordinates at discrete times, while tracks (estimated positions and motions over continuous time) are determined in rectangular coordinates; and the linear Kalman filter (LKF) is used as the estimator. Less common, the LKF is used to determine the tracks in radar coordinates, which are then converted into rectangular coordinates. Rarely is the extended Kalman filter (EKF) used, where the tracks are directly determined in rectangular coordinates from the radar detections via a local linearization. And so most radar tracks tend to be biased - and their Kalman covariance matrices are inconsistent with the true ones. Of course, some techniques have been proposed for "debiasing" them and making their mean squared errors "consistent" with the covariance matrices determined by the tracking filter. It is shown here, however, that the leading one for debiasing the LKF can make the biases worse; and a remedy for that is provided. But the focus is upon the EKF. In an earlier work by this author - dubbed the Preferred Ordering Theorem (POT) - it was shown that the linearization errors in range of the EKF can be virtually eliminated by using the measurement components of a detection recursively in a certain order: azimuth first and range last. But that has a fundamental limitation, namely, that "preferred" order. And so here a new version is provided, dubbed the Extended-POT (EPOT). Not only can the EPOT be more efficient than the POT in certain settings, but under it the measurements may be used in any order with virtually the same results.

@@ -1,0 +1,11 @@
+$TITLE:
+Education Finance Reform, School Choice, and Residential Sorting
+
+$DEPARTMENT:
+Public Administration
+
+$KEYWORDS:
+Property tax, School choice
+
+$ABSTRACT:
+Tiebout hypothesis, proposed by Tiebout and expanded by Oates, has been the touchstones in the area of local public finance. A growing body of research has explored the capitalization of the public service quality into housing prices, built on the Tiebout model. The existence of capitalization through residential mobility suggests that the education reforms can have the unintended consequences. Since households decide jointly where to live and where to send their children to school, people can respond to any educational reforms affecting the property tax rates and quality of schools by moving to another school district or placing their children to private schools. In turn, this residential sorting can affect the property tax base of school districts and the student composition of schools, which can substantially undermine or reinforce the intended impacts of reforms. These issues frame the overarching research question addressed in my dissertation: how important is the impact of residential sorting on the equity objectives of education reforms. Using "consensus bid-function" framework which integrates the local housing markets and local public services, my dissertation examines the impact of policy reforms on residential sorting: education finance reform in Maryland and inter-and intra-district choice reform in Korea, respectively.

@@ -1,0 +1,11 @@
+$TITLE:
+Searching for Gravitational Waves from Compact Binary Coalescence Using LIGO and Virgo Data
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Compact Binary Coalescence, Gravitational waves, LIGO, Virgo
+
+$ABSTRACT:
+This thesis describes current efforts to search for gravitational waves from compact binary coalescences (CBCs) by the LIGO Scientific Collaboration (LSC) and the Virgo Collaboration. We briefly review the physics of gravitational-wave emission and detection, describing how gravitational waves are emitted from "inspiraling" compact stellar mass objects and how the LSC and Virgo try to detect them using interferometers. Next we review the data-analysis principles used to search for potential signals in the detectors' noise. These principles are employed by ``ihope," which is the data-analysis pipeline used to search for CBCs. We describe each step in this pipeline and discuss how interferometer data is stored and examined. Next we present the results from a six-month long search which occurred in early 2007, during LIGO's fifth science run. This is followed by details of tuning studies carried out on LIGO's sixth-, and Virgo's second- and third-, science runs (S6, VSR2, and VSR3), which ran from July 2009 to October 2010. No gravitational waves were detected in these searches. A "blind injection" was performed during S6/VSR3 and detected by our pipeline, however. We detail studies into assigning a statistical significance to this injection. Next we use these studies to show that we can expect to detect gravitational waves with high significance using two detectors in the advanced detector era. Finally, we review some future developments for the CBC pipeline currently being undertaken.

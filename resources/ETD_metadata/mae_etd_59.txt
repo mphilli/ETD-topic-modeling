@@ -1,0 +1,11 @@
+$TITLE:
+Mode I Delamination Fracture Characterization of Polymeric Composites under Elevated Temperature
+
+$DEPARTMENT:
+Mechanical and Aerospace Engineering
+
+$KEYWORDS:
+Delamination
+
+$ABSTRACT:
+Delamination is one of the major failure modes seen in the  laminated polymeric matrix composite (PMC). Accurate prediction of delamination  initiation and propagation is important for the design and analysis of robust  composite structures. Existing experimental methodologies that are based on  linear elastic fracture mechanics are inadequate to characterize delamination  fracture properties under elevated temperature when PMC properties become time-,  loading-history, and rate-dependent. A new experimental methodology based on  linear viscoelastic fracture theory is developed and verified through finite  element analysis and experiments. This new technique determines crack growth  curves, such as stress intensity factor vs. crack growth speed and fracture  initiation energy vs. crack initiation time, through the experimentally  determined J-integral, Js, for a linear viscoelastic double cantilever beam  (DCB) specimen. Special test setup is designed and validated for determining  accurate Js using just the applied load and the load end rotation angles. This  new methodology is then applied to measure the mode I fracture properties of a  highly toughened graphite/epoxy composite under various environmental conditions.

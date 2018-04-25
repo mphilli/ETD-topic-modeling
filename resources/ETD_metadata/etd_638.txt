@@ -1,0 +1,11 @@
+$TITLE:
+Local Investment and the Relationship Between Prices and Earnings
+
+$DEPARTMENT:
+Accounting
+
+$KEYWORDS:
+Local Bias, Prices and Earnings
+
+$ABSTRACT:
+This paper examines how local stock ownership influences the relationship between stock prices and future earnings. Prior finance literature has found that local investment leads to superior returns and has suggested that these returns are a result of an informational edge for those who invest locally. However, the literature has yet to examine which types of information local investors have access to and how that impacts the informativeness of stock prices. This paper shows that local investors have access to earnings-relevant information which results in stock prices which better lead future earnings for companies with larger local ownership bases. This phenomenon is more pronounced for companies headquartered away from institutional investors, where local investors are better able to drive the stock price. In addition, I find local investors have been more influential in pricing future earnings in local stocks in recent years as online and individual stock trading has allowed more local information to get priced. Overall, these results indicate that due to their physical closeness local investors are better able to anticipate future earnings than the investing public and can lead to more informative stock prices.

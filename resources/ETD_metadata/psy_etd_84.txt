@@ -1,0 +1,11 @@
+$TITLE:
+The relation of alcohol use to sexual HIV-risk behavior in adults with severe and persistent mental illness
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Sexual behavior, Immune deficiency, Alcohol use, HIV, Mental illness
+
+$ABSTRACT:
+Studies examining the relationship between global measures of alcohol use and sexual HIV-risk behavior have found strong associations indicating that people who drink more also tend to engage in more sexual risk behavior. This study tested one explanation for such global associations: alcohol use prior to sex is related to decreased condom use. The participants were 159 adult psychiatric outpatients with severe and persistent mental illness (SPMI), a population with elevated risk for HIV infection and substance use disorders. The Comprehensive Timeline Followback interview was used to assess all sexual and drug-use behavior over a 3-month period. Analysis of 3,026 sexual behaviors reported by 123 sexually active participants indicated that, at the global level, participants who drank more heavily were more likely to have engaged in sexual HIV-risk behavior, however, alcohol use was not related to condom use during vaginal or anal intercourse (VAI) at the event level (i.e., participants who used condoms when sober tended to use them to the same extent when drinking). In exploratory analysis, a risk-index variable associated with each VAI event was constructed, and results indicated that women were more likely to have had high-risk sex (i.e., unprotected VAI with a new or casual partner who had at least one risk factor for HIV infection) when drinking than when sober. This study provides little evidence for an event-level association between alcohol use and condom use, except that sex with riskier partners may be more likely when drinking. Explanations for findings and suggestions for future research are discussed.

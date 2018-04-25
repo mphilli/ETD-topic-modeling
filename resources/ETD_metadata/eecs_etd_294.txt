@@ -1,0 +1,11 @@
+$TITLE:
+Designing a visual programming environment: A practical approach
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Visual programming, Programming languages, Software engineering
+
+$ABSTRACT:
+Visual Programming Languages (VPLs) and development environments based on these languages have been around for decades. Despite the benefits of visual/graphical languages over traditional textual languages claimed by the researchers and the partial success of VPLs in some domain-specific applications, VPLs have failed to gain acceptance from the mainstream programmers as a viable or superior means for general-purpose programming. We analyzed the advantages and shortcomings of existing programming languages and environments, textual or visual, in terms of their adopted paradigms, expressive capability, notation style and effectiveness, editing efficiency, scalability, completeness, consistency, targeted problem domains and intended users. Based on the analysis, we identify a set of factors that hinder the visual programming approach from practical success. We try to tackle this issue by designing Exevision, a graphical integrated-development-environment (IDE). Exevision uses a graphical language based on the semantics of C# and is for real world general-purpose programming. In this writing, we will detail the design methodologies and implementation techniques of the major parts of this IDE, most importantly including the object model for representing a program and the graphical editor. For each of these parts, we analyze the challenges we encounter, the design choices available and how we make the decisions to achieve our objectives. On one hand, this system proves the effectiveness of solutions we conceived to solve the problems of visual programming. On the other hand, it serves as a general guide for developing a visual programming environment for practical use.

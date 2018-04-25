@@ -1,0 +1,11 @@
+$TITLE:
+Issue obtrusiveness in the agenda-setting process of national network television news
+
+$DEPARTMENT:
+Mass Communications
+
+$KEYWORDS:
+Network TV news, Issue obtrusiveness, Mass media, Personal experiences, Linear mixed model, Network news
+
+$ABSTRACT:
+This project seeks to achieve a better understanding of agenda-setting contingencies. It focuses on the role of one prominent contingency, issue obtrusiveness, in the public agenda-setting process of mass media. In the established theoretical literature, two rival perspectives have emerged: the obtrusive contingency hypothesis and the cognitive priming hypothesis. The former holds that issue obtrusiveness inhibits the public agenda-setting process of mass media, while the latter contends that issue obtrusiveness enhances the public agenda-setting process of mass media. Empirical evidence generated from the two perspectives is inconclusive. This project argues that conflicting evidence is largely accounted for by conceptual and operational confusion in the concept of issue obtrusiveness. It proposes a more rigorous design to test the two competing hypotheses, which includes using linear mixed effects models. This design not only takes into account correlations and nonconstant variances among data, it also efficiently puts the variable of interest, issue obtrusiveness, under direct significance tests. Based on analyses of national network television news coverage of 24 issues across 16 years and corresponding public salience data, this project demonstrates that issue obtrusiveness does modify the agenda-setting process of mass media. It does not, however, lend direct empirical support to either the obtrusive contingency hypothesis or the cognitive priming hypothesis. Instead, it reveals that the impact of issue obtrusiveness on the agenda-setting effects of national network television news is not linear: the agenda-setting effects of national network television news are stronger for somewhat obtrusive issues than for unobtrusive or highly obtrusive issues. This project has also produced evidence validating the utility and viability of the concept of media salience in the public agenda-setting process, as well as suggestive evidence corroborating the relevance condition of need for orientation.

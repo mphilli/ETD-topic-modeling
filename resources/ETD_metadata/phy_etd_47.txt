@@ -1,0 +1,11 @@
+$TITLE:
+Lepton energy moments, operator product expansion and the CKM parameter matrix element, V(cb)
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Cabibbo-Kobayashi-Maskawa matrix, Lepton, Energy moments, Operator product expansion
+
+$ABSTRACT:
+We have determined [Special characters omitted.] and [Special characters omitted.] from truncated moments of the lepton energy spectra for both e ± and μ ± . Combining both lepton species, we measured two lepton energy moments: [Special characters omitted.] = 0.6187 ± 0.0014 ± 0.0016 and [Special characters omitted.] = 1.7810 ± 0.0007 ± 0.0009. The extracted values for [Special characters omitted.] and [Special characters omitted.] through order 1/[Special characters omitted.] in the non-perturbative expansion and [Special characters omitted.] in the perturbative one in the MS scheme, are: [Special characters omitted.] = -0.25 ± 0.02 ± 0.05 ± 0.14 and [Special characters omitted.] = 0.39 ± 0.03 ± 0.06 ± 0.12, where the uncertainties are statistical, systematic and theoretical respectively. The theoretical expression needed to extract | V cb | from the measured semileptonic width is evaluated using these HQE parameters. Using the world average for the semileptonic width, we find: [Special characters omitted.] . Finally, the short range mass of the b-quark [Special characters omitted.] is evaluated and found to be 4.82 ± 0.07| exp ± 0.11| th .

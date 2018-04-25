@@ -1,0 +1,11 @@
+$TITLE:
+Pagkababae at Pagkalalake (Femininity and Masculinity): Developing a Filipino Gender Trait Inventory and predicting self-esteem and sexism
+
+$DEPARTMENT:
+Child and Family Studies
+
+$KEYWORDS:
+Filipino, Gender, Self-esteem, Sexism
+
+$ABSTRACT:
+This study focused on the construction of a gender trait inventory from a Filipino perspective, guided by social constructionist, symbolic interactionist, and feminist theories. Traits that were identified as being typical of Filipino men and women were grouped into positive (i.e., socially desirable) and negative (i.e., socially undesirable) subscales. Development and validity testing were conducted using data from 296 Filipino university students. Confirmatory Factor Analysis (CFA) was used to develop the subscales of the instrument. The Filipino femininity subscale included positive traits such as being caring and supportive and negative traits such as being timid or keeping things to one's self. The Filipino masculinity subscale included positive traits such as being principled and having affinity with others and negative traits such as being boastful and impetuous. Criterion validity was assessed by using structural equation modelling (SEM), which indicated that while the Filipino inventory had similarities with an established measure of gender, there were distinct differences in how they operationalized and measured masculinity and femininity. Predictive validity was assessed by using SEM to test separate models for self-esteem and sexism. Model testing indicated that Filipino femininity and masculinity predicted self-esteem, but only predicted a specific type of sexism. The discussion focused on the implications of using an emic approach to understanding gender and future directions of research.

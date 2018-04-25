@@ -1,0 +1,11 @@
+$TITLE:
+Numerical studies of electron transport in disordered quantum dot arrays
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Electron transport, Quantum dot, Critical voltage, Capacitance disorder
+
+$ABSTRACT:
+Using analytical and numerical methods; we investigate transport of electrons, in a model of quantum clot arrays in the presence of impurities at zero temperature. The presence of disorder results in a critical voltage ( V T   ) that must be exceeded before the array can conduct. We investigate the behavior of these arrays in three voltage regimes: below the critical voltage, at the critical voltage and above. Using a transfer-matrix style algorithm we compute the "first path" at V T   and study both the structural properties and the current density profiles of this first path. Although just the first path can be studied using this approach, it helps understand the important energy and length scales. We find that the properties of the first conducting path are essentially unchanged in the presence of capacitative or tunneling resistance disorder to those in the presence of only a background charge disorder. We investigate the effects of capacitative disorder and tunneling resistance disorder in such arrays along with the random background potential. We find that the presence of a random background potential also dominates the qualitative behaviour above threshold; rather than capacitative or tunneling disorder. We use finite size scaling analysis and other statistical physics techniques to explore the nonlinear scaling of I-V about V T   . We find that below  V T   , the presence of capacitative disorder introduces some changes. In spite of differences in the underlying microscopic details, we find that the dynamic I-V characteristics of arrays in the presence and absence of capacitance disorder are qualitatively similar.

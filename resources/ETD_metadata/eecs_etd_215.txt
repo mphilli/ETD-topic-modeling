@@ -1,0 +1,11 @@
+$TITLE:
+Elimination of the effects of mutual coupling in adaptive thin wire antennas
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+adaptive antennas, antennas, electrical engineering
+
+$ABSTRACT:
+Adaptive array techniques promise to be the best means to suppress severe, dynamic, interference in radar and communication systems. Traditional adaptive algorithms depend on estimating the covariance matrix of the interference. However, there are some serious concerns associated with such an approach. The work presented here is an alternative direct data domain approach that uses data only from the range cell of interest without estimating a covariance matrix.All the adaptive algorithms that have been researched ignore the physical antenna array. They also ignore the physical environment in which the array operates. However, the receiving array and the environment have their electromagnetic characteristics that cause mutual coupling between the elements of the array and between the array and near field scatterers. This work demonstrates that previously proposed adaptive algorithms fail when mutual coupling is taken into account.Two adaptive algorithms are presented. The first extends an algorithm proposed earlier to include the effects of mutual coupling between the elements of the array. The second method accounts for the effects of mutual coupling between the elements of the adaptive array and due to any objects in the presence of the array. For the second algorithm, both one dimensional and two dimensional interference suppression is investigated.

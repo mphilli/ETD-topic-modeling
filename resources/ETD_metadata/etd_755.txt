@@ -1,0 +1,11 @@
+$TITLE:
+EXTRACTION AND LOCALIZATION OF NOISE-RELATED FLOW STRUCTURES IN HIGH SPEED JETS
+
+$DEPARTMENT:
+Mechanical and Aerospace Engineering
+
+$KEYWORDS:
+Algorithm construction, Event detection, Fluid dynamics, Jet noise, Signal processing, Wavelet analysis
+
+$ABSTRACT:
+The jet noise problem, or the noise radiation from high-speed flow interactions, still remains unresolved after over sixty years of research. With the growing aviation industry, more communities are exposed to noise pollution from aircrafts; and better control strategies are needed to meet the more stringent noise regulations.This thesis analyzes two sets of high-speed jet flow data and aims at better understanding the flow dynamics and noise radiation mechanism. The first set of data consists of subsonic / transonic axisymmetric jets and the second dataset is of a more advanced configuration: a two-stream supersonic rectangular jet with a flat plate extending from the nozzle exit. For both flow configurations, the analysis consists of two parts. Firstly, the flow and acoustic features will be analyzed using statistical and continuous wavelet techniques. With the subsonic case, several diagnostic signals are constructed and the flow regions related to noise radiation are identified. With the supersonic case, the near-field flow structures are categorized and their frequency-specific propagation pathways and interaction patterns are depicted. The second part of the analysis involves devising algorithms to extract noise-related events, analyzing the event features and looking for event-related flow structures. The algorithms combine multi-correlations, continuous wavelet and pattern recognitions and are able to identify noise-related events with fewer than 10% false matches. The algorithms are tested rigorously using several approaches and the extracted events exhibit features consistent with existing theories on noise sources.

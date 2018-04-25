@@ -1,0 +1,11 @@
+$TITLE:
+Associations of Alcohol-Facilitating and Stressful Environments with Alcohol Behaviors in Black College Students: Moderation by ADH1B*3 and Religiosity
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+ADH1B*3, alcohol, alcohol offers, Black college students, peer norms, racial discrimination
+
+$ABSTRACT:
+Alcohol behaviors among Black college students may be explained by the interactive role of multiple risk and protective factors. Emerging evidence shows that the association of risky environments and drinking behaviors differs as a function of alcohol-metabolizing genotypes. However, studies have yet to examine the protective role of ADH1B*3, an alcohol-metabolizing gene found almost exclusively among Black individuals. In addition to genetic protective factors, religiosity has been identified as a protective psychosocial factor against alcohol use, despite exposure to risky environments.  The current study examined the potential protective effects of the ADH1B*3 allele and religiosity on the relationship between risky environments and alcohol behaviors among Black college students. Specifically, this study sought to investigate the extent to which those genetic and psychosocial factors attenuate the association of alcohol-facilitating (i.e., alcohol offers and perceived peer norms) and stressful (i.e., racial discrimination and negative life events) environmental factors with alcohol behaviors. Participants were 241 Black college students (mean age = 20 years; 66% female) who reported consuming alcohol at least once in the past 30 days.  Results demonstrated that the presence of an ADH1B*3 allele protects against alcohol use frequency when exposed to low alcohol offers and racial discrimination (incidence rate ratio [IRR] = 1.14, 1.24, respectively), and negative drinking consequences when exposed to low alcohol offers and perceived peer drinking norms (IRR = 1.21, 1.41, respectively). Religiosity was shown to protect against alcohol use frequency in the presence of low racial discrimination (IRR = 1.10). These novel findings add to the scarce literature of risky and protective determinants of alcohol behaviors among Black college students.

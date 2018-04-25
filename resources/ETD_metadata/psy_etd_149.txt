@@ -1,0 +1,11 @@
+$TITLE:
+Family functioning and treatment adherence in children and adolescents with cystic fibrosis
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Cystic fibrosis, Adherence, Family, Child, Adolescent, Family functioning, Treatment adherence
+
+$ABSTRACT:
+Cystic fibrosis (CF) is a genetically transmitted disease that affects 1 in 3,000 children born in the United States every year. CF is one of the most challenging pediatric illnesses for families to manage due to the rigorous demands of CF treatments and nutritional requirements. This study examined treatment adherence in 19 families with a child or adolescent between the ages of 8 and 19 years with CF. Specifically, this study assessed family functioning, child age, child autonomy, self-care independence, and child anxiety as important factors in CF treatment adherence. Families were recruited through a pulmonary clinic at a medical center in a mid-size city. Researchers visited families' homes to collect data from questionnaires and to conduct mealtime observations of family functioning. Findings revealed that overall, better family functioning was associated with better adherence to certain aspects of the CF treatment regimen (e.g., airway clearance, antibiotics). Child autonomy emerged as an important correlate of adherence, such that better treatment adherence was found among children with less autonomy. Child autonomy was found to moderate the association between family functioning and enzyme adherence, such that high levels of autonomy and poor family functioning were associated with less treatment adherence. Finally, social anxiety symptoms were significantly associated with less adherence to airway clearance. Findings from this study suggest the need for future research to confirm these results in larger and more diverse samples of children and adolescents with CF. Results highlight the importance of adopting a family systems perspective in future research, as family-based interventions may be effective in improving treatment adherence in children and adolescents with CF.

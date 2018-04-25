@@ -1,0 +1,11 @@
+$TITLE:
+Supertubes, black strings and D-brane systems
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Supertubes, Black strings, D-brane, String theory
+
+$ABSTRACT:
+In this dissertation, we focus on aspects of String Theory and General Relativity. The study of objects of various spatial dimensions, or branes, have become an intrinsic part of modern String Theory. Here, we focus on three concrete topics concerning the physics of branes: supertubes, quantum D-brane polarization, and the stability of black branes. We devote the final part of this work to the study of fast travel in 3+1 dimensional spherically symmetric configurations.

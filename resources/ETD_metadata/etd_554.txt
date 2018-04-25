@@ -1,0 +1,11 @@
+$TITLE:
+Kinetics of ketone hydrogenation over supported Ru catalysts
+
+$DEPARTMENT:
+Biomedical and Chemical Engineering
+
+$KEYWORDS:
+Heterogeneous catalysis, Ketone hydrogenation, Levulinic acid, microkinetic modelling, Ruthenium, solvent effects
+
+$ABSTRACT:
+A kinetic investigation of the production of y-valerolactone (GVL) via the aqueous phase hydrogenation of levulinic acid (LA) over supported Ru catalysts was carried out, in order to understand how to better design a hydrogenation catalyst for such biomass catalytic strategies. At temperatures representative of biomass processing, the reaction proceeds first through the reduction of the LA ketone group to its corresponding alcohol, 4-hydroxypentanoic acid (HPA), which subsequently produces GVL via intramolecular esterification in solution. The governing kinetics of LA hydrogenation were found to be insensitive to the identity of the support material on which Ru catalysts were prepared. Conversely the stability of supported Ru catalysts in the aqueous phase were strongly dependent on the choice of support, exhibiting severe sintering of Ru nanoparticles, the extent of which appears to be dictated by the bulk electronegative properties of the support material.The presence of a secondary functional group in LA (i.e., a carboxyl group) does not appear to perturb the activity of Ru sites in water, where LA and its mono-functional ketone analog (2-pentanone) hydrogenate at identical rates. LA hydrogenation thus appears kinetically equivalent to that of 2-pentanone. Given the similarity, C3-C5 ketone hydrogenation over Ru/SiO2 in the vapor-phase was examined, alleviating the need to consider solution phase complexities. A single universal microkinetic model for the hydrogenation of ketones over supported Ru catalysts was developed, based on a modified Horiuti-Polanyi-type mechanism involving two distinct surface sites. Through the application of surface lateral interactions to the developed ketone microkinetic model, solvent effects commonly reported for hydrogenations over Ru catalysts are rationalized on the basis of the stabilization of a kinetically relevant transition state.

@@ -1,0 +1,11 @@
+$TITLE:
+Three essays on the behavioral impacts of public policy on health
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Public policy, Insurance, Earned Income Tax Credit, Fertility, Alcohol control, Traffic accidents
+
+$ABSTRACT:
+The first essay explores whether or not recent expansions in the Earned Income Tax Credit (EITC) have enhanced private health insurance coverage for low-income workers. Theoretically, through both a (tax) price and income effect, the credit would be expected to raise private coverage. My results suggest that large EITC expansions between 1994 and 1996--which provide exogenous variation in benefits--lead to increases in employer-based health insurance coverage, but not in privately purchased non-group coverage. From these estimates I calculate that approximately 370,000 individuals gained employer-based coverage as a result of an expanded EITC between 1992 and 1998.The second essay is a study of the relationship between expansions in public health insurance programs and fertility patterns in the United States. Large expansions of Medicaid and the implementation of state Child Health Insurance Programs during the 1990s increased the availability of publicly subsidized health insurance for pregnancy-related services and child health care. Expanded coverage lowered the costs associated with bearing and raising children, and consequently had the potential to affect fertility behavior. I test this hypothesis using variation birthrates and in Medicaid/CHIP policies across states between 1989 and 1998 and find a 3 percent increase in the national birthrate in response to more generous public health insurance coverage.The third essay examines whether or not policies that restrict the sales of alcoholic beverages affect motor vehicle accident rates. For the analysis, we use a unique and detailed panel of data with annual observations on 254 Texas counties, each with their own alcohol control policies, over the period 1976 to 1996. After controlling for both county and year fixed effects, we find evidence that: (i) the sale of alcohol for on-premises consumption is associated with a sizeable increase in alcohol-related motor vehicle accidents while sale for off-premises consumption may actually decrease accidents; and (ii) the sale of higher alcohol-content liquor presents greater risk to highway safety.

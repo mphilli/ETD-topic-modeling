@@ -1,0 +1,11 @@
+$TITLE:
+Development of new Raman optical activity techniques
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Nonresonant approximation, Stereochemistry
+
+$ABSTRACT:
+Raman optical activity (ROA) has been developed over the past two decades as a technique to acquire stereochemical information. This dissertation represents improvements in experimental ROA measurements, previous formulations of ROA intensity theory, and measurement artifact theory. Among the conventional and newly developed ROA techniques presented in this dissertation, backward in-phase dual circular polarization (DCP$\sb{\rm I})$ is identified as the most favorable ROA measurement to study biological molecules in the nonresonant cases. The validity of the nonresonant approximation is investigated by comparing the ROA spectra of right-angle depolarized incident and scattered circular polarization (ICP and SCP), and backward DCP$\sb{\rm I}$ and unpolarized ICP measurements. An experimental scheme for the complete isolation of ROA tensor invariants in the nonresonant limit is presented and is implemented for the isolation of anisotropic ROA invariants of trans-pinane and $\alpha$-pinene.

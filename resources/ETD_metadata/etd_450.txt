@@ -1,0 +1,11 @@
+$TITLE:
+Marronage Unbound: Colonial Governance and Maroon Resistance to Enslavement in the French Caribbean
+
+$DEPARTMENT:
+Geography
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+This dissertation examines the relationship between practices of marronage—escape from enslavement and revolt against colonial power—and European governance strategies. It focuses primarily on France’s colonial territories in the Caribbean at the turn of the 19th century, a tumultuous period that witnessed the advent of both the French Revolution and the Haitian Revolution. My overarching argument in this dissertation is that marronage figured more centrally in the construction of colonial space during this period than scholars typically assume. To make this argument, I draw on materials gathered from archives in Louisiana and France, including correspondence between colonial administrators, court documents, military reports, and militia memoranda. I study these archival materials and use GIS techniques to map and explain how practitioners of marronage, or “maroons,” impacted French attempts at securing territorial control in the Americas during the late 1700s and early 1800s. I also explain how maroons created new spaces of freedom and independence in the French Caribbean, focusing on four primary sites: Louisiana, Guadeloupe, French Guiana, and Saint-Domingue / Haiti. At each location, I show how maroon resistance was ubiquitous in colonial landscapes and intimately tied to popular rebellions against European authority. This framing of marronage is crucial, I contend, for intervening in historical debates which tend to underestimate its role in shaping the trajectory of French colonialism at the turn of the 19th century. It is also crucial for understanding how historical struggles between maroons and European officials matter today and continue to inform strategies of flight and rebellion that still have the potential to create liberated spaces throughout the Caribbean and across the Americas more generally.

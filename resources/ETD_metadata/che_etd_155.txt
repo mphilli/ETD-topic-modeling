@@ -1,0 +1,11 @@
+$TITLE:
+The Reaction of Para-Xylene and Maleic-Anhydride In The Presence Of Aluminum-Chloride
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Cis–trans isomerism
+
+$ABSTRACT:
+In 1948, the preparation of the cis and trans forms of B-2, B-dimethylbenzoylacrylic acid was reported by Miss Handler (1). She stated that a mixture of maleic anhydride, p-xylene and aluminum chloride would produce either compound depending on the temperature at which they were reacted. However, since Miss Handler did not furnish conclusive proof of the identity of these two products, the original object os this work was to show that they were really cis and trans isomers. Later it became apparent that this could not be done and the problem changed to discovering and proving the true structure of the so-called "trans" isomer. Once this had been accomplished, several derivatives of this compound were prepared.

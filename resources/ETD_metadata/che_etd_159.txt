@@ -1,0 +1,11 @@
+$TITLE:
+The reaction of triphenylphosphine dihalides with alcohols
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+organic chemistry, triphenylphosphine dihalides
+
+$ABSTRACT:
+Alkyl and aryl halides are important building blocks in organic synthesis.  they are useful in alkylation reactions--Grignard and Friedel-Crafts reactions, in coupling processes - Wurtz and Wurtz-Fittig reactions, in condensations - Reformatsky reactions, as well as in the preparation of esters and mixed ether...

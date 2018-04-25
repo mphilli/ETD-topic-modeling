@@ -1,0 +1,11 @@
+$TITLE:
+Feeling in Character: Towards an Ethics of Emotion
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Action Theory, Emotion, Moral Psychology, Virtue Ethics
+
+$ABSTRACT:
+This dissertation contends that emotions are subject to ethical assessment, not simply as motives or overt expressions, but in their own right. Emotions, I argue, are subject to assessment because they are aspects of a person's character. Specifically, emotions involve voluntary acts of attention, which are due to habituation. These acts show character by manifesting certain stable, deeply-held desires called 'concerns.' This view, dubbed 'Attentional Voluntarism,' is opposed to the prevalent view, dubbed 'Rationalism,' that emotions are subject to assessment because of their propositional content. Rationalism is unable to account for certain kinds of irrational emotion, where one forms an unwarranted emotion to avoid anxiety and secure pleasure. It exaggerates how mature and adaptive these emotions are. Attentional Voluntarism, by contrast, accounts for the childish and even infantile character behind such emotions, because the relevant habits of attention may simply be the residue from previous developmental stages.

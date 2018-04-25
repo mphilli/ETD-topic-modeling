@@ -1,0 +1,11 @@
+$TITLE:
+Scalable service oriented architecture for audio/video conferencing
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Service-oriented architecture, Audio/video conferencing, Video conferencing, Publish-subscribe
+
+$ABSTRACT:
+Audio/Video conferencing over Internet is increasing rapidly with the increase on the available network bandwidth and computing power. Even the cell phones will have the capacity to participate in videoconferencing sessions in the near future. This requires scalable and universally accessible videoconferencing systems. Increasingly diverse set of endpoints with various capabilities from cell phones to room based systems should be supported in such videoconferencing sessions. However, developing videoconferencing systems over Internet is a challenging task, since audio and video communications require high bandwidth and low latency. In addition, the processing of audio and video streams is computing intensive. Therefore, it is particularly difficult to develop scalable systems that support high number of users with various capabilities. Current videoconferencing systems can not fully address the problem of scalability and universal accessibility. Therefore, in this thesis we investigate scalable service oriented architecture for audio/video conferencing.We propose using a publish subscribe event broker network for the distribution of real-time audio/video streams in videoconferencing sessions and investigate the issues pertaining to scalability, performance, data representation and routing. We identify the requirements for the delivery of real-time audio/video traffic and incorporate necessary changes to the event delivery middleware. We present the results of extensive performance tests for the delivery of audio/video streams for both large and small size meetings in single and multiple broker settings. In addition, we propose a scalable and flexible architecture for meeting management and media processing, that can grow dynamically to provide services to higher number of users.

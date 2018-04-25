@@ -1,0 +1,11 @@
+$TITLE:
+Two essays: School district responses to state building aid and determinants of pay-as-you-go financing of state capital projects
+
+$DEPARTMENT:
+Public Administration
+
+$KEYWORDS:
+School district, Building aid, Pay-as-you-go, Financing, Capital projects, State financing
+
+$ABSTRACT:
+The two essays in this dissertation examine school district responses to state building aid programs and the determinants of pay-as-you-go financing of state capital projects. The objective of the first essay is to investigate the design of state building aid programs and their impact on school district capital investment using New York State as an example. A model of public school capital investment is presented in the essay. The analysis suggests that adjusting state grants for fiscal capacity to reflect the ability to finance debt is clearly justified, but so is adjustment for input costs and student needs. The simulation results show that a significant increase in aid ratio for large cities and other high need districts in New York State are required to stimulate extensive capital construction in these districts.The second essay examines what determines a state's decision to use pay-as-you-go financing for their capital projects and aims at contributing to improving our understanding of capital financing practices. This study develops a model of pay-go financing that considers the preferences of voters and political representatives when they make capital financing decisions in a given institutional setting. The empirical results provide evidence that the relative use of pay-go financing is largely determined by income levels, states' economic conditions over the business cycle, as well as political and budgetary institutions. Political and budgetary institutions produce different impacts on pay-go financing. A better understanding of these impacts by state policy makers could potentially improve states' practices of capital financing.

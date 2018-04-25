@@ -1,0 +1,11 @@
+$TITLE:
+Moral conflicts and moral psychology
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Moral conflict, Values, Ethics
+
+$ABSTRACT:
+I examine several claims about the nature of values that have been made with respect to moral conflict, i.e., that the existence of moral conflict shows that (i) values are incomparable; (ii) values are incommensurable but comparable; (iii) there are plural values.Strong moral conflicts involve an agent in a choice between two or more impermissible alternatives. They have been thought to pose serious problems for ethical theories, in particular for consequentialist theories. According to consequentialist ethical theories, every situation of choice has at least one permissible option. For an option to be permissible it must be at least as good as every other option.I explore and reject an attempt to make room for strong moral conflicts within a consequentialist framework. I also consider the claim that the principles of deontic logic are inconsistent with the possibility of strong moral conflicts. I conclude that the price of accepting strong moral conflicts is too high, given the possibility of plausible alternative explanations.I examine and reject the suggestion that strong moral conflicts are grounded in incomparability between values. I also examine the question of whether values might be incommensurable, but not incomparable.There are situations in which an agent has to choose between options, all undesirable, but at least one of which is morally preferable to or equal with any other. In some of these cases it is rational or appropriate for the agent to experience such emotions as regret or guilt, whichever option she chooses. Let us call such situations 'moral conflicts'. I examine and reject the claim that thesis of plural values is needed to explain the rationality of the regret.It is claimed that consequentialist theories cannot account for the rationality of regret at doing the best thing. I argue that this claim rests on two assumptions: (i) they are maximizing theories, (ii) they are concerned only with the question of which action ought to be performed in situations of choice. I gave a consequentialist account of the rationality of regret of moral conflicts based on a form of consequentialism which denies both (i) and (ii). (Abstract shortened with permission of author.)

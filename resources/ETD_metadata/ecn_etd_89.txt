@@ -1,0 +1,11 @@
+$TITLE:
+Essays on the Impact of Trade on Labor Markets and Productivity in Korea
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Trade, Labor markets, Productivity, Korea
+
+$ABSTRACT:
+This dissertation consists of three essays. Using firm-level data from  Korea, the first chapter studies the impact of trade openness on the  share of wages in output. The second chapter examines the impact of  trade on firm-level labor-demand elasticities in Korea. The third  chapter investigates the impact of exports on firm-level productivity.  This dissertation finds some evidence from Korea in support of new  channels through which international trade can put pressure on labor  markets. However, the dissertation also finds fairly strong evidence  that exports lead to an increase in productivity.

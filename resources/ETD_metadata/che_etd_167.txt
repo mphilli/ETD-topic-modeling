@@ -1,0 +1,11 @@
+$TITLE:
+Studies toward the total synthesis of herbimycin A, B, C, and geldanamycin
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Herbimycin, Geldanamycin, Wittig rearrangements, Ansamycin, Natural products
+
+$ABSTRACT:
+Geldanamycin is one of the benzoquinoid ansamycin antibiotics, which exhibits powerful broad spectrum inhibition of cell growth and viability via binding with the protein chaperone Hsp 90. Isolated from Streptomyces Hygroscopicus  in 1970, geldanamycin shows in vivo  and in vitro antitumor activities against 60 of the tumor cell-lines in the NCI screen. Structurally similar herbimycins have herbicidal and antiprotozoal activities as well as in vivo  antineoplastic activity.The first convergent approach of making herbimycin A, B, C, and geldanamycin was to construct the C 1 to C 12 fragment of those molecules by coupling a lactol (Fragment 176 ), which was derived from D-glucose and bears stereogenic centers at C 6 and C 7 , with Evans' phosphonate (Fragment 175 ) via Still's modified Emmons-Horner olefination. The chirality of C 10 , C 11 and the trans double bond of C 8 -C 9 would be generated via [2,3] Wittig rearrangement of the oxazoline tertiary allylic ether.The second generation of synthesis of herbimycin A, B, C, and geldanamycin was redesigned as coupling a carbohydrate derivative (Fragment 217 ) with the aromatic moiety containing the C 9 to C 15 backbone of the ansamycins. The stereochemistry of the trans double bond C 8 -C 9 and the chirality at C 10 were installed by Still type [2,3] Wittig rearrangement. The stereogenic centers at C 14 and C 11 were built up individually from Evans alkylation and Sharpless asymmetric epoxidation, and the latter was then modified by alkylation to the model aldehyde with the aid of the chiral catalyst (R)-BINOL.Significant results involving stereoelectronic control overriding asymmetric transfer for the [2,3] Wittig rearrangement were achieved via model study. Further work to complete herbimycin A, B, C, and geldanamycin is proposed herein.

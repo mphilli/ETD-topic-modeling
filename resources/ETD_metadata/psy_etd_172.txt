@@ -1,0 +1,11 @@
+$TITLE:
+Exploring Distinct Aspects of Shame and Guilt: Can Startle Reflex Modification Differentiate Shame from Guilt?
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Guilt, Shame, Startle Reflex
+
+$ABSTRACT:
+Despite the similarities between shame and guilt, there is a growing body of evidence that shame and guilt are distinct emotional constructs. Guilt, despite its negative valence, is frequently associated with approach motivation, whereas shame is associated with withdrawal motivation. Research shows that engagement of the approach motivational system yields attenuation of the defensive startle reflex, but that activation of the withdrawal motivation system augments the startle reflex. Thus, approach-related guilt and withdrawal-related shame should attenuate and augment the startle magnitude, respectively. To test this prediction, 68 participants imagined scripts of four different affective conditions (i.e., shame, guilt, neutral, positive). Startle response, heart rate (HR) activity, skin conductance (SC), and self-report affective data were collected. Both shame and guilt scripts were rated as unpleasant and arousing but the shame script was rated as more unpleasant than the guilt script. Contrary to prediction, no significant difference in startle response magnitude between shame and guilt emerged. Startle response magnitude of shame and guilt was significantly larger than neutral and positive. These findings are discussed in the context of the startle response and the need for additional research that could more directly address the question of approach versus avoidance motivation.

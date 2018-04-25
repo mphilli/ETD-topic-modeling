@@ -1,0 +1,11 @@
+$TITLE:
+Information technology adoption in United States county governments: The interaction of environmental changes and managerial strategies on technology adoption
+
+$DEPARTMENT:
+Public Administration
+
+$KEYWORDS:
+Information technology, County governments, Environmental changes, Managerial, Technology
+
+$ABSTRACT:
+This dissertation addresses technology adoption in county governments in the United States. The central purpose of this dissertation research is to focus on strategic motives associated with technology adoption among public sector agencies, and on the interaction of those motives with changes in an agency's operating environment. Competing theories suggest alternative motives for organizational innovation in the public sector. In this research, a model of organizational motivations under differing environmental conditions is developed and tested, using other organizational and environmental factors to control for differences in these areas. Data for this study were obtained from a national mail survey of county managers. A series of models are tested using regression. Results show that strategic motives are set in the context of other organizational, environmental, and institutional forces. In the absence of environmental constraints, agencies that are motivated to gain better tools to control the level of work internally tend to have higher levels of technology adoption. A key finding is that strategic motives are shaped and conditioned by environmental changes, particularly when those changes are acute. When environmental conditions are changing, agency strategies to improve departmental image, reducing costs or promote service are associated with lower levels of technology adoption.

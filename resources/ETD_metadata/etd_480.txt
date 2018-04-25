@@ -1,0 +1,11 @@
+$TITLE:
+The Effect of Stress on Undergraduate College Students in Relation to Eating Out Behaviors and Weight Status
+
+$DEPARTMENT:
+Nutrition Science and Dietetics
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+Objective: The aims of the current descriptive study were to determine if greater levels of perceived stress in college students relates to the frequency in which this population participates in eating out or ordering food for delivery and how this potential association influences weight status.Methods: Secondary analysis was conducted using an existing data set obtained from the Young Adults Eating and Active for Health study. Demographic questions, The Cohen 14-item Perceived Stress Scale, anthropometrics, the NCI Fruit and Vegetable Screener, and the Food Delivery Questionnaire were used to measure the main variables under examination. Non-parametric statistics, Chi-square T-tests, and ANOVA were used to analyze data. Data was analyzed using SPSS software and tested for a P value < 0.05 as statistically significant.Participants: The participants consisted of 973 students from 13 college campuses across the U.S. who had participated in the 15-month YEAH study. Of the sample population, 287 participants were male and 685 were female.Results: Female college students were shown to exhibit greater levels of perceived stress than males (23.96±7.75 versus 21.74±7.54; t (932) = -4.02, p =0.00). Male participants demonstrated more frequent ordering of food delivery behavior than females (U = 76213.0, p = 0.005) but no association was found between levels of stress compared to eating out frequency, the rate of food delivered to a participant’s residence, or to BMI status.  Females showed an association for using websites such as campusfood.com more frequently when very high levels of stress were experienced (χ2 (12) = 22.2, p = 0.035).Conclusion: The study did not present conclusive results but trends suggest at high levels of stress certain health related consumption behaviors may be influenced in a negative manner. The study provides a foundation for future research on stress and its potential influence on unhealthy eating out behaviors within the collegiate population.

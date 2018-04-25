@@ -1,0 +1,11 @@
+$TITLE:
+A Time-Harmonic Electromagnetic Analysis Of Shielded Microstrip Circuits
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Method Of Moments, Galerkin, Electrical engineering
+
+$ABSTRACT:
+The precise analysis of microstrip circuits at microwave and millimeter wave frequencies has become critically important in the design of monolithic microwave GaAs integrated circuits. This is because the usual post-fabrication 'tweaking' of circuit response is rarely feasible and the resulting lengthy repeated design modifications drive design costs to unacceptable levels.This dissertation will describe a Galerkin method of moments analysis for microstrip circuits of arbitrary planar geometry enclosed in a rectangular conducting box. The technique entails a time-harmonic electromagnetic analysis evaluating all fields and surface currents. This analysis is suitable for the accurate verification of designs prior to fabrication.A computer program has been written in Pascal on an IBM-PC implementing the analysis. Several microstrip circuits were built and measured. The resulting agreement with calculations verifies the accuracy of the analysis.

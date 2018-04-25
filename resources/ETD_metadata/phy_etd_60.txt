@@ -1,0 +1,11 @@
+$TITLE:
+Transport in disordered silicon materials
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Crystalline silicon, Amorphous silicon, Hole mobility, Silicon
+
+$ABSTRACT:
+We report photocarrier time-of-flight measurements for two different kinds of silicon samples, derived from crystalline and amorphous silicon respectively. The first set of samples viz. the porous silicon samples show very low mobilities (<10 -4 cm 2 /Vs) for both electrons and holes. For both carriers, the mobilities are dispersive (ie. dependent upon the length scale of the measurement), and exhibit only weak temperature dependence (less than a factor 10) between 100 and 400 K. These results suggest a geometry-limited mobility in porous silicon, and essentially rule out carrier trapping as an important influence on carrier transport. We compare these results with nanocrystal aggregate and classical fractal transport models; neither model accounts wen for the measurements.The second series of samples are hydrogenated amorphous silicon made with novel deposition techniques. One set of samples was made using plasma deposition from silane gas strongly diluted with hydrogen; this set exhibits a significant (roughly fourfold) enhancement of the hole mobility. The second series was prepared at Electrotechnical Laboratory in Japan, and have been previously reported to have a hundredfold enhancement of hole mobility compared to conventional plasma-deposited materials. We confirm these prior measurements, suggesting a reduction of structural disorder in the material. We find that the hole drift mobility enhancements in both classes of material can be attributed to narrowing of the exponential valence bandtail width.

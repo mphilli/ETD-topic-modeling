@@ -1,0 +1,11 @@
+$TITLE:
+Mapping time: An analysis of the cartographic problem of representing spatiotemporal information
+
+$DEPARTMENT:
+Geography
+
+$KEYWORDS:
+Geographical data, cartography, spatiotemporal, maps, geography
+
+$ABSTRACT:
+Geographic data include locations of places and events, and spatial changes of phenomena. Time is an essential element in tracking changes and in analyzing them to establish patterns, to predict future events, or to explain occurrences. Time, however, comes in different forms when geographic data are collected. It may be a simple time stamp: the date when a city was incorporated. It may be an expression of duration: how long the forest fires burned. Geographic data may be collected at regular intervals, e.g., the decennial census in the USA. Or they may be recorded only when a change occurs, e.g. a hillside is cut away for development and the change is recorded on the topographic map. Time may be used as a distance measure, and space may be used as a delineator of time. Because of these variations in the uses of time, the different types of time must be understood and this understanding must be incorporated into the methods of producing maps that then show this information in a clear, efficient manner.This research categorizes time as it is used by geographers and as it appears in different forms on maps. These categories are Dates, Duration, Standard Time, Time as Distance, and Space as Clock. Each of these categories defines time and provides the basic symbology that is used to represent the spatiotemporal information on the map, according to the spatial dimensions (point, line, or area) typically available to cartographers.The framework for the symbolization of temporal information on maps presented in this research establishes two things: the different types of time found in geography; and the spatial dimensions and symbology available to the cartographer for representing spatiotemporal information on maps.

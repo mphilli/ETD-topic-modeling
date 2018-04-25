@@ -1,0 +1,11 @@
+$TITLE:
+Electromagnetic scattering from chiral materials using the finite difference frequency domain method
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Electromagnetic, Scattering, Chiral, Finite-difference frequency-domain
+
+$ABSTRACT:
+The analysis of chiral materials has been an important topic in computational electromagnetics. Numerical analysis of chiral materials has been carried out using a variety of numerical methods, such as the method of moments (MoM), the finite-difference time-domain (FDTD) method, boundary value solutions (BVS) and so forth. In this dissertation, the finite difference frequency domain (FDFD) formulation has been developed for chiral materials analysis, and the validity of the formulation has been proved by comparing the numerical results to exact and other available solutions whenever possible. The development of the formulation starts with the scattering of plane electromagnetic waves by three-dimensional objects. Simplification of the three-dimensional formulation to two and one dimensional problem formulations is carried out in subsequent sections. The influences of the chirality on the scattered field components are investigated. Numerical results for bistatic radar cross section (RCS) and bistatic echo widths are presented and compared to reference solutions and it is found that the proposed FDFD method shows good agreement. It is realized that the presented method is relatively easy to program and can be applied to a wide variety of problems of complex and composite structures efficiently.

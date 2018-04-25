@@ -1,0 +1,11 @@
+$TITLE:
+Effects of noncontingent reinforcement on academic performance: An investigation of the roles of extinction and satiation
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Noncontingent reinforcement, Academic performance, Extinction, Satiation
+
+$ABSTRACT:
+Noncontingent reinforcement (NCR) has been found to be an effective treatment for reducing target behavior when the reinforcer responsible for maintaining that behavior is delivered noncontingently. Satiation and extinction have been proposed as two explanations for the reductive effects of NCR. Researchers have explained satiation as elimination of the behavior's establishing operation and extinction as termination of the response-reinforcer contingency. The purpose of the present study was to evaluate the effects of NCR on students' completion of mathematics problems by manipulating the delivery of rewards and controlling within-session response patterns of the participants. An ABCBCB reversal design was used to compare the effects of a fixed-ratio schedule of contingent reward and three variations of NCR on academic performance relative to baseline. A multielement design was embedded within each NCR phase to compare the effects of delivering tokens, delivering actual items, and controlling within-session response patterns. Results showed that contingent reinforcement increased responding when compared to baseline for 4 of 6 participants. Responding decreased to zero levels for all 6 participants when rewards were delivered noncontingently. Contrary to the stated hypothesis, neither the rate nor level of suppression differed across the three NCR conditions. Implications of these results for use of reinforcement-based programs in the schools are discussed.

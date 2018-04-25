@@ -1,0 +1,11 @@
+$TITLE:
+Paleoproterozoic of central Colorado: Island arcs or rifted older crust?
+
+$DEPARTMENT:
+Earth Sciences
+
+$KEYWORDS:
+Paleoproterozoic, Colorado, Island arcs, Continental crust, Rifting, Laurentia
+
+$ABSTRACT:
+Paleoproterozoic bimodal volcanic rocks and associated plutons in the Gunnison-Salida region of central Colorado have been attributed to formation in outboard island arcs that were accreted to the southern margin of Laurentia from 1770-1650 Ma. The bimodality of the volcanic assemblages and the lack of sutures or other features associated with arc accretion cast doubt on this interpretation. Previously reported SHRIMP zircon data showed that inherited zircon components derived from ca. 1870-1840 and ca. 2500 Ma sources are present in 1770-1700 Ma felsic rocks, suggesting derivation from unseen older continental crust, probably Trans-Hudson/Penokean orogenic rocks and associated Neoarchean enclaves. Sm-Nd isotopic data and geochemical modeling presented here indicate mantle derivation for basalts, but provide additional evidence for the presence of pre-existing continental crust in the source of most of the felsic rocks and as a contaminant for some of the basalts. Geochemical modeling precludes origin of the felsites and all but one pluton by fractional crystallization of basalt, but shows that the felsites and plutons could be derived by partial melting of a continental source, such as an average granodiorite from the Trans-Hudson Orogen. Trans-Hudson/Penokean orogenic crustal rocks, with likely enclaves of ca. 2500 Ma Neoarchean rocks, therefore, may have extended farther south and west than previously thought, adding new crust to Laurentia by accretion, and that the 1770-1700 Ma bimodal volcanic assemblage and the related plutons were formed during extensional melting of this pre-existing continental crust. Thus, whereas new mantle-derived basalt was added during this period, most of the felsic rocks represent recycling of pre-existing continental crustal rocks.

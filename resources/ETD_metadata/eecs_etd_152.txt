@@ -1,0 +1,11 @@
+$TITLE:
+Arabic text recognition using genetic algorithm
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Arabic, Genetic algorithm, Text recognition
+
+$ABSTRACT:
+Text recognition is a challenging task when text contains overlapping and cursive characters. This dissertation addresses the task of recognizing Arabic text using genetic algorithms. We introduced new size independent structural features that approximate Arabic character shapes. Features are extracted with the aid of our new comer detection algorithm tailored for Arabic cursive script. We then apply a genetic algorithm to match features from the input string with pre-stored features in the database. No segmentation is required for our approach; global features are examined for whole word recognition. Very high recognition rates, exceeding 99.9%, were obtained using a new 'interlocking' algorithm (Tashabuk) and modularizing the character shape database as well. The reported recognition rates were applied for scaled size Arabic Text. Our system has proven portability for different Arabic text fonts, with minor calibration.

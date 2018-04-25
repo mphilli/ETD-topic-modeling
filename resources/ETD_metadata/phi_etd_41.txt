@@ -1,0 +1,11 @@
+$TITLE:
+Leibniz on causality and time: An essay in reductive metaphysics
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Metaphysics, Philosophy, Science history
+
+$ABSTRACT:
+How are causality and time related? Of the two broadly "reductive" answers (that some or all facts about one reduce to facts about the other), causal theories of time remain the least attractive to contemporary philosophers. While favored analyses of causality in (partly) spatiotemporal terms boast deep and well-articulated motivations in empiricism, no similarly deep and unifying theme emerges from the scattered statements of causal theories of time.As a first step toward arguing that received wisdom has been too hasty in its judgments against causal theories of time, I reconstruct a Leibnizian account of the relation between causality and time. The reductive elements of this account--motivated by neither scientific, semantic, nor epistemological concerns--emerge from a careful look at the Leibnizian project as a distinctively metaphysical one: there is no time strictly speaking, according to Leibniz; there are truths expressing temporal relations between events, and these supervene on causal relations. With eliminative and supervenience reductions in hand, critics of a causal theory of time are invited to reassess its chances for success when regarded as a metaphysical theory. (Abstract shortened with permission of author.)

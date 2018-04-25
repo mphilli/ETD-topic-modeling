@@ -1,0 +1,11 @@
+$TITLE:
+Organic structural influences on metal oxide systems: Vanadium phosphates, vanadium phosphonates, and molybdenum phosphonates
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Metal oxide, Phosphates, Vanadium phosphonates, Molybdenum phosphonates, Inorganic oxides
+
+$ABSTRACT:
+Rational design synthesis in inorganic/organic hybrid materials has thus far proven elusive. While hydrothermal techniques afford easily characterized single crystalline products, the multitude of reaction variables as well as the inability to view the reaction at maximum temperature, offers little information to mechanistic understanding. With so many variables, attempts to map the entire reaction parameter surface would only be possible combinatorially. As seen in section 2.3 subtle changes in reaction conditions can lead to vastly different structures.Considering the vastness of the oxide regime, it is important to focus on a few related reaction systems, in this case, vanadium phosphates, vanadium phosphonates, and molybdenum phosphonates. By utilizing subtle changes in starting materials I was able to synthesize numerous compounds with similar building blocks. Perhaps the best example of a recurring building block is seen in section 4 with the Mo 5 O 15 cluster appearing in four separate structures.All compounds were synthesized hydrothermally and characterized by single-crystal x-ray diffraction. The structures discussed within range from the rather simplistic one-dimensional chain [Zn(bpy)VO 2 PO 4 ] to the much more complex three-dimensional [{Cu(phen)} 2 (V 3 O 5 )(O 3 PCH 2 PO 3 ) 2 (H 2 O)]. Singularly, each structure merely represents a novel compound, together they start to reveal knowledge about the structural preferences, resilient building blocks, and coordination tendencies that are imperative if one expects to someday gain mechanistic control over this regime.

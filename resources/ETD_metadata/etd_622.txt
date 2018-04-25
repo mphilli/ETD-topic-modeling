@@ -1,0 +1,11 @@
+$TITLE:
+Binge-Watching Rate as a Predictor of Viewer Transportation Mechanisms
+
+$DEPARTMENT:
+Media Studies
+
+$KEYWORDS:
+audience, binge-watching, Netflix, streaming, television, transportation
+
+$ABSTRACT:
+Binge-watching has yet to be adequately analyzed and researched to determine its effects upon viewers, despite the fact that nine in ten Americans engage in the activity (Crupi, 2015).  While some studies have attempted to discover causes or effects of the activity, most research fails to capture the viewing aspects of binge-watching that make the experience unique. This thesis attempted to more specifically define binge-watching, as well as measure its association with viewer transportation – viewer immersion – into the visual narrative. A survey design facilitated the exploration of any linkages between the amount of a viewer’s binge-watching and his or her immersion in the content. Regression analysis found that increases in both total viewing sessions and hours per session predicted an increase in transportation and the subcomponents therein. However, the interaction of the binge-watching variables predicted a decrease in transportation, implying that too much viewing had adverse effects. Further, viewing on tablets and game consoles predicted higher levels of transportation than viewing on Mac or PC. Results and implications for theory and industry are discussed.

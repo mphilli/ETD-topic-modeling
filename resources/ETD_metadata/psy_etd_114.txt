@@ -1,0 +1,11 @@
+$TITLE:
+The Visual Event-Related Potential Correlates Of Signal Detection And Signal Recognition
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Sonar, Psychobiology
+
+$ABSTRACT:
+Visual signal detection and signal recognition were investigated using a simulated sonar task. Eight highly trained sonar operators viewed computer controlled displays flashed for 50 msec. Half the trials contained only noise, and half contained one of four possible targets. During each presentation, event-related potentials (ERP's) were recorded from four electrode sites: Fz, Cz, Pz and Oz over a 1750 msec recording epoch. At least 2800 artifact-free trials were recorded for each subject over 20 sessions. Both the behavioral and the ERP results support the hypothesis that detection and recognition are concurrent overlapping processes. Several ERP components, including the N100, N200, P300 and LPC, were significantly related to some aspect of detection and/or recognition. The ERP's significantly categorized single trial recognition data into right and wrong categories, indicating that the ERP associated with the signal detection process contains information which predicts recognition. The behavioral detection data greatly overpredicted recognition performance using a previously published mathematical model, and the confidence rating scale for recognition provided a significant advantage over the detection scale only for the highest criterion level. The best predictor of overall recognition performance was sensitivity (d').

@@ -1,0 +1,11 @@
+$TITLE:
+Extension Properties of Pluricomplex Green Functions
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+convex functions, extension of pluricomplex Green functions, pluricomplex Green functions, plurisubharmonic functions, polyradial functions, Reinhardt domains
+
+$ABSTRACT:
+In 1985, Klimek introduced an extremal plurisubharmonic function on bounded domains in Cn that generalizes the Green's function of one variable. This function is called the pluricomplex Green function of Ω with logarithmic pole at a and is denoted by gΩ(.,a). The aim of this thesis was to investigate the extension properties of gΩ(.,a).     Let Ω0 be a bounded domain of Cn and E be a compact subset of Ω0 such that Ω : = Ω0 E is connected. In general, gΩ(.,a) cannot be extended as a pluricomplex Green function to any subdomain of Ω0 that is strictly larger that Ω. In this thesis it was proved that if Ω0 is a pseudoconvex, bounded complete Reinhardt domain in Cn and E is a strictly logarithmically convex, Reinhardt compact subset of Ω0 that does not contain 0 and does not intersect the coordinate axes, there exists a subdomain &Ωtilde; of Ω0 strictly larger that Ω such that gΩ (z,0) = g&Ωtilde; (z,0) for any z in Ω. It was also shown that in C2, one can omit the condition that E does not intersect the coordinate axes.     The methods required to prove the results heavily use the relation between the plurisubharmonicity of poyradial functions on Reinhardt domains and convexity of related functions. Special classes of convex functions were introduced and discussed for this purpose. These methods were also used to discuss the extension properties of the pluricomplex Green functions when Ω0 is equal to unit the bidisk in C2 and in that case a complete solution of the problem was given

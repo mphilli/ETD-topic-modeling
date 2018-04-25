@@ -1,0 +1,11 @@
+$TITLE:
+Justification for bid-ask spread disparity between NASDAQ and the NYSE before and after market reform
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+New York Stock Exchange, Bid-ask spread, NASDAQ, Market reform
+
+$ABSTRACT:
+The recent landmark reforms of NASDAQ have significantly decreased bid-ask spreads without much affecting volatility and market depth. Questions remain, however, whether bid-ask spreads differ significantly between NASDAQ and the NYSE after the reforms, and whether the spread disparity can be justified by information asymmetry and other market making costs. This study explores and explains the spread disparity between the two markets before and after the reforms, and delves into the spread change over time. It estimates the information content of trades, which is then linked to bid-ask spreads. The results show that there is no significant difference in asymmetric information between NASDAQ and the NYSE when sample features are held fixed. The quoted bid-ask spreads are significantly larger on NASDAQ than on the NYSE both before and after the market reforms. For most stocks, the cross-market difference in the quoted spreads can be ascribed to the joint effects of asymmetric information and inventory control. Moreover, the spreads net of the information or the information and inventory effects are similar across markets after controlling sample features. However, for the most actively bided stocks, the spread disparity cannot be ascribed to the differences in market making costs.

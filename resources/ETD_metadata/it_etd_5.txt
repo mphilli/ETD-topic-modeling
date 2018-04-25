@@ -1,0 +1,11 @@
+$TITLE:
+Sensitive information: An inquiry into the interpretation of information in the workplace from an individual's perspective using qualitative methods
+
+$DEPARTMENT:
+Library and Information Science
+
+$KEYWORDS:
+Sensitive information, Secrets, Confidential information, Proprietary information, Information security, Information assurance
+
+$ABSTRACT:
+The basis upon which human judgments about the sensitivity of information has not been well understood. This understanding is needed before information can be properly classified for use in automated information systems. This study was designed to gain an initial understanding of the bases for judgments about sensitive information from workers in five different industries. The study was conducted at the level of analysis of the individual. The unit of analysis was a judgment about sensitive information. The primary data collection method was face-to-face interviews, and the data was analyzed using content analysis of the interview transcripts. Two primary factors were identified. They are (1) the projected interpretation of the information by others and (2) the consequence that would result if another person were to receive the information. Other endogenous factors were (1) utility, (2) validity, (3) provenance, (4) temporality, (5) form and (6) specificity. Exogenous factors, such as the rules and norms that the worker experienced in the workplace, were also described. This study identified consequence and specificity as factors that helped determine the degree of sensitivity. In addition, the concept of "importance" appeared to be related to sensitivity when individuals were thinking about the dimensioning of sensitive information. A general model of a sensitivity judgment is provided to illustrate the main findings. The model is presented in flowchart form and represents a composite judgment process gleaned from all the interviews. This study provides a basis for further exploration of this phenomenon and numerous directions for future research and theory.

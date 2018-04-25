@@ -1,0 +1,11 @@
+$TITLE:
+User-controllable input and output for parallel computers
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+logical disk
+
+$ABSTRACT:
+The control of I/O by traditional file systems and virtual memory systems can result in substantial performance degradation in the parallel computing environments of many scientific applications. This is because the access patterns are substantially different from those of a sequential computing environment. We believe that programmers are better able than systems to reduce I/O time through explicit I/O management for such environments. Thus, to achieve high performance, file systems or I/O mechanisms for parallel machines should be user-controllable in the sense that programmers should be able by considering the access patterns to determine the file structure, control the distribution of data blocks on physical disks, and easily present a variety of access patterns with a minimum number of I/O requests. However, the majority of current file systems for parallel computers are based on a linear file model and do not support user-controllable features.In this dissertation we have designed a software, UPIO (User-controllable software for Parallel Input and Output), that is intended to efficiently support user controllability and also maximize I/O performance for scientific applications on MIMD multicomputers. An important part of UPIO is "logical disk," which can be defined by programmers based on data domain. The logical disk extends the abstraction of a linear file model into an n-dimensional file model and removes the limitations of the linear file model. Programmers have total control over the logical disk, making it possible to control the layout of data blocks across disks and aggregating disk bandwidth through UPIO's interfaces. These interfaces are based on a logical disk, which allows programmers to present a variety of access patterns with a minimum number of I/O operations.UPIO is extensively evaluated with some synthetic access patterns and also with some scientific computations, for which we have also designed new external algorithms. The new algorithms are based on a logical disk and demonstrate that programmers can use UPIO to produce high-performance external algorithms with relative ease.

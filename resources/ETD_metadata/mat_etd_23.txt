@@ -1,0 +1,11 @@
+$TITLE:
+Continuity of plurisubharmonic envelopes
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Continuity, Plurisubharmonic envelopes, Jensen measures
+
+$ABSTRACT:
+Let D be a domain in [Special characters omitted.] . The plurisubharmonic envelope of a function [varphi] [is an element of] C(D¯) is the supremum of all plurisubharmonic functions which are not greater than [varphi] on D . A bounded domain D is called c-regular if the envelope of every function [varphi] [is an element of] C(D¯) is continuous on D and extends continuously to D¯ . The purpose of this thesis is to give a complete characterization of c -regular domains in terms of Jensen measures . We show using Gauthier's Fusion Lemma that a domain is locally c -regular if and only if it is c -regular.

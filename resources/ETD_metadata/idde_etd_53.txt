@@ -1,0 +1,11 @@
+$TITLE:
+The Educational Needs of Newly Diagnosed Stroke Patients
+
+$DEPARTMENT:
+Instructional Design, Development and Evaluation
+
+$KEYWORDS:
+Patient education, Perceptions, Stroke, Satisfaction
+
+$ABSTRACT:
+Research problem  : There is limited research related to perceived educational needs among the newly diagnosed first-time stroke population.  Purpose  : This descriptive correlational study was conducted to determine the  extent of stroke education, the perceived degree of satisfaction with  stroke education and the importance placed on it, the demographic  characteristics of stroke patients, and the sources of the information  taught.  Methods  : 71 newly diagnosed stroke patients from two  local hospitals received a self-report Likert-type questionnaire  consisting of eight domains related to different aspects of stroke  education. The questionnaire was distributed 24 to 72 hours after  admission to the hospital, upon discharge, and two weeks postdischarge.   Analysis  : The data were analyzed using descriptive statistics, Pearson's r, and repeated measures analysis of variance.  Results  : Medical knowledge and medication treatment were rated the most  important to learn. Treatment of stroke with herbal or alternative  medicine and dietary habits were the least important of the eight  domains. Patients were not satisfied with stroke education.

@@ -1,0 +1,11 @@
+$TITLE:
+Construction of (v,k,[lambda])-configurations using a Nonenumerative Search Technique
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Computer science, combinatorial configurations, symmetrical balanced incomplete block design, heuristic searching, backtrack searching, hill-climbing searching
+
+$ABSTRACT:
+The existence of certain classes of combinatorial configurations has been in doubt for decades. With the advent of the modern computer, a small number of these configurations have been constructed using exhaustive search techniques. Even with the major advances in computer technology, only a new more cases could be solved using traditional methods. In this paper, a new approach to the construction of these configurations using nonenumerative search techniques is introduced.

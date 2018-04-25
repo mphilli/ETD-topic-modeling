@@ -1,0 +1,11 @@
+$TITLE:
+Evaluation of a Web-based Intervention for College Marijuana Use
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+cannabis, college, computer, intervention, marijuana, university
+
+$ABSTRACT:
+Young adults in college have high rates of marijuana use, abuse, and dependence. Web-based interventions have been growing in popularity, but their dissemination currently exceeds empirical support. One especially popular (but understudied) program is The Marijuana eCHECKUP TO GO (e-TOKE) for Universities & Colleges (San Diego State University Research Foundation, 2009). The aim of the present study was to evaluate whether this program is effective in changing marijuana involvement and perceived norms in undergraduates. Participants were 317 undergraduates (52% female, 78% White) who reported marijuana use within the month preceding baseline. Conditions were the e-TOKE program or assessment only, crossed with brief vs. extensive baseline assessment (to assess assessment reactivity), producing four experimental conditions to which participants were randomly assigned. Thus, 161 (51%) received eTOKE (77 with extended baseline, 84 with brief baseline), and 156 (49%) received assessment-only control (85 with extended baseline, 71 with brief baseline). One month later, all participants reported on marijuana use, problems, abuse and dependence symptoms, and descriptive norms. Assessment reactivity analyses yielded no significant differences by assessment condition. Individuals completing the e-TOKE program reported less extreme descriptive norms (ps < 0.01) but no decrease in marijuana use frequency, problems, abuse, or dependence symptoms (ps > 0.10). Analyses controlling for baseline yielded similar results. The program thus seems effective for changing perceptions of others' use, but there is not yet evidence for its utility in changing personal use and problem indicators. More research with longer follow-ups is indicated, especially given the possibility that descriptive norms could play a mediating role in change.

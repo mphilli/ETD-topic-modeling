@@ -1,0 +1,11 @@
+$TITLE:
+Parallelizing legacy applications using message passing programming model and the example of MOPAC
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Legacy applications, Message passing, MOPAC, Parallel processing
+
+$ABSTRACT:
+The main purpose of parallel processing technology is to reduce the long execution time problem of big jobs. Many "legacy" programs used today were developed for running on traditional single processor machines only. In addition to parallel programming skill, parallelizing a legacy application requires knowledge in the filed of the application, which is usually difficult to get for computer scientists. The complexity and size make the totally rewriting of these legacy programs a very painful job. Moreover, large amount of code change in a legacy application may in-validate the legacy application. The parallelization should focus on improving the performance while keeping the amount of code change minimized.We will propose a process to parallelize a legacy application from computer scientist's perspective. This process includes a series of analyses on the legacy application to estimate the performance improvement for different types and sizes of inputs and optimize the parallelized code for maximum performance. The process improve the performance of a legacy application with minimum domain expertise and keep the legacy application certified.MOPAC is a general purpose semi-empirical molecular orbital package for the study of chemical structures and reactions developed more than thirty years ago. It runs days for molecules consist merely several tens of atoms. We will use MOPAC as the example to express how the process we propose improves the performance of a real legacy application while keeping it validated.

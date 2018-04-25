@@ -1,0 +1,11 @@
+$TITLE:
+Essays on long-term care of the elderly in the United States
+
+$DEPARTMENT:
+Public Administration
+
+$KEYWORDS:
+Long-term care, Elderly
+
+$ABSTRACT:
+This dissertation consists of three independent essays on long-term care of the elderly in the United States. Long-term care encompasses a wide array of increasingly important and rapidly changing issues. These issues can be divided into six broad categories: (1) use, cost, and financing; (2) special populations; (3) data development and methodology; (4) access and quality of care; (5) organization and delivery of care; and (6) consumer and caregiver behavior. The essays in this dissertation fall into the first three of these categories.The first essay uses a continuous-time hazard model to analyze the importance of state Medicaid policies in determining the risk of nursing home use among the elderly. We find that these state policies do not significantly affect the risk of older persons' nursing home use, controlling for a variety of demographic, socioeconomic, and health-related factors. Data for this analysis come from the first two waves of the Assets and Health Dynamics of the Oldest Old (AHEAD) survey.The second essay uses a multinomial logistic regression model to examine how the use of nursing home and home health care services vary for older persons with and without children. Results indicate that older women's (but not men's) use of nursing home care (but not home health care) is significantly increased for those who are childless. This essay also uses data from the first two waves of the AHEAD survey.The third essay analyzes some design issues in the Second Supplement on Aging (SOA-II) to the 1994 National Health Interview Survey (NHIS) and their implications for the use of this survey by itself or in conjunction with the Supplement on Aging conducted ten years earlier. We find that especially one of the design issues, the time-lag between the 1994 NHIS and the SOA-II, could lead to biases in analyses using the SOA-II. We address the design issues by correcting for sample selection in the SOA-II and by developing a re-weighting scheme.

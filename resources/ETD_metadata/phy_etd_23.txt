@@ -1,0 +1,11 @@
+$TITLE:
+Symmetries in noncommutative physics
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Noncommutative spaces, Symmetries, Twisted symmetries
+
+$ABSTRACT:
+Quantum field theories on noncommutative spaces are an important area of research in high energy physics because of their importance as a tool to capture aspects of Planck scale physics, where one expects the spacetime to show noncommutative behavior, their emergence in string theory and also as a tool to regularize quantum field theories. An important issue in the study of noncommutative quantum field theories (NCQFT's) is that of symmetries. Introduction of noncommutativity explicitly breaks Lorentz invariance. However, the classical actions of noncommutative field theories are invariant under a twisted action of the Poincaré group. In this thesis we study the consequences of such twisted symmetries at the quantum level. We give complete construction of quantum field theories covariant under the twisted Poincaré action including the explicit form of the twisted Poincaré generators. We find some striking results such as twisting of Bose and Fermi statistics and removal of UV-IR mixing in the non-gauge theories. We also apply the idea of twisting to gauge symmetries and construct gauge theories covariant under twisted action of gauge and Poincaré groups. Any gauge group can be treated using our formulation, unlike the ordinary noncommutative gauge theories where only U  ( N  ) groups admit direct treatment. We derive the Feynman rules for this theory and find interesting results such as violation of Pauli principle and violation of Lorentz invariance due to failure of a generalized form of locality. We also treat the twisted form of supersymmetry. Finally we study the formulation of supersymmetry on fuzzy sphere and construct fuzzy supersymmetric instanton. We find the zero modes in the instanton sector and study their index theory.

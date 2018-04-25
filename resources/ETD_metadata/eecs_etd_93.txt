@@ -1,0 +1,11 @@
+$TITLE:
+A scalable resource management framework for QoS-enabled multidomain networks
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Scalable, Resource management, Multidomain networks, Quality of service, Diffserv
+
+$ABSTRACT:
+With the rapid growth of the Internet into a global communication and commercial infrastructure, it has become evident that Internet service providers (ISPs) need to implement the quality of services (QoS) to support diverse applications' requirements (e.g., packet delay, packet loss ratio) and use their limited network resources efficiently. Current QoS architectures have either a scalability problem (e.g., Intserv/RSVP) or lack the ability to provide end-to-end QoS guarantees (e.g., Diffserv). This dissertation introduces a scalable and efficient resource management framework for end-to-end quantitative QoS guarantees over multi-domain Bandwidth Broker (BB) supported Differentiated Services (Diffserv) networks. In general, the model consists of two main components, intra-domain and inter-domain resource management. For intra-domain resource management, we develop and implement a centralized intra-domain resource manager (IDRM) that maintains node- and pipe-level network state information and performs pre-established pipe-based admission control. The IDRM provides quantitative QoS (both deterministic and statistical) guarantees across its domain by configuring routers with class-specific QoS parameters (i.e., worst-case packet delay and loss-ratio bounds) and using a utilization-based explicit admission control paradigm. It also significantly reduces communication and storage overhead for network state maintenance as compared to previous work. For inter-domain resource reservation and provisioning, we develop an inter-BB signaling protocol, of which the key advantages are signaling and state scalability. By aggregating all the reservations that have the same destination region and service types, our protocol significantly improves the state scalability both BBs and border routers. The typical n 2 problem is reduced to n. To damp inter-BB signaling frequency, we use aggregated demand-based resource reservation and provisioning instead of per-request reservation. Our implementation and simulation results prove the correctness and healthy operation of the model.

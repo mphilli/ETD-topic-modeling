@@ -1,0 +1,11 @@
+$TITLE:
+Military vs. Civilian: Does experience with violence make people more aggressive after playing violent video games?
+
+$DEPARTMENT:
+Media Studies
+
+$KEYWORDS:
+aggression, military, psychophysiology, video game, violence
+
+$ABSTRACT:
+This thesis investigates whether differences in personal experience with violence can affect people’s engagement with violent video games and feelings of aggression after the game. This 2 x 3 experimental study recruits participants (n = 46) depending on their experience with violence. A group consists of people who are or who have been involved with the military and the other group consists of civilians. Participants play three types of video games—those showing realistic violence, fantasy violence, and non-violence. To investigate within- and between-subject differences, the study measures presence, self-reported arousal, psychophysiological response (heartrate and skin conductance), and aggression. Results show that participants in the military group feel less presence, more arousal, and more aggression while playing video games depicting realistic violence, suggesting a possible explanation for complicated relationship between concepts.

@@ -1,0 +1,11 @@
+$TITLE:
+A measurement of the strange quark content of the proton
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Strange quark, Proton, Parity-violating, Weak neutral current
+
+$ABSTRACT:
+We have measured the parity-violating electroweak asymmetry in the elastic scattering of polarized electrons from the proton. The kinematic point [[left angle bracket][straight theta] lab [right angle bracket] = 0.48( GeV / c ) 2 ] is chosen to provide sensitivity, at a level that is of theoretical interest, to the strange electric form factor [Special characters omitted.] The result, A = -14.5 ± 2.2 ppm, is consistent with the electroweak standard model and no additional contributions from strange quarks. In particular, the measurement implies [Special characters omitted.] + 0.39[Special characters omitted.] = 0.023 ± 0.034(stat) ± 0.026([Special characters omitted.] ), where the last uncertainty arises from the estimated uncertainty in the neutron electric form factor.

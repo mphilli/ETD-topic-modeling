@@ -1,0 +1,11 @@
+$TITLE:
+Selected artificial intelligence techniques in information retrieval systems research.
+
+$DEPARTMENT:
+Information Science and Technology
+
+$KEYWORDS:
+Information systems, information retrieval, artificial intelligence
+
+$ABSTRACT:
+The fields of artificial intelligence and  information retrieval share a common interest in developing more capable computer systems. This study supports the results of research which has explored possible contributions of artificial intelligence (AI) to the design of information retrieval (IR) systems.

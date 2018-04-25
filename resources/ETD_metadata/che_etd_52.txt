@@ -1,0 +1,11 @@
+$TITLE:
+Design, synthesis and characterization of rhenium complexes for the development of diagnostic and therapeutic agents in nuclear medicine
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Rhenium, Diagnostic, Therapeutic, Nuclear medicine, Technetium, Radiopharmaceuticals
+
+$ABSTRACT:
+We have explored the coordination chemistry of rhenium in the attempt to develop radiopharmaceuticals as diagnostics and therapeutics in nuclear medicine. Since rhenium and technetium are Group VII congeners, the periodic similarity has allowed for the study of the non-radioactive metal rhenium instead of technetium, which exists only as radioactive isotopes.We investigated the three components of the conjugate (pendant) design: (1) arylpiperazine and nucleosides as biologically active molecules (BAMs); (2) single amino acid chelates (SAAC) as bifunctional chelates (BFCAs) for conjugation of small peptides; (3) {Re I (CO) 3 } + , {Re III Cl 3 } and {Re V O} 3+ as metal cores.First, we successfully developed a family of BFCAs constructed from pyridine, imidazole, aliphatic amine and carboxylate derivatived single amino acid to provide a tridentate donor set for coordination to the {M I (CO) 3 } + (M = Tc, Re) core and a linker for attachement to small peptides. We also examined the coordination chemistry of the same SAAC ligands with the {Re III Cl 3 } core. Second, we combined the tridentate chelating moiety with arylpiperazine derivatives with potential applications as brain imaging agents. Third, we coupled the SAAC ligands with nucleoside analogues to provide potential inhibitors for nucleoside kinases. Finally, we demonstrated the unusual and complex redox reactivity of the {Re V O} 3+ core with the "simple" ligand N-methyl diaminobenzene, an observation which raises serious caveats in the design of radiopharmaceuticals.

@@ -1,0 +1,11 @@
+$TITLE:
+Molecular Characterization of Genetic Components of Pathogen Defense in Arabidopsis
+
+$DEPARTMENT:
+Biology
+
+$KEYWORDS:
+Arabidopsis, Histone demethylation, Plant defense, Pseudomonas syringae, Reactive oxygen species, Salicylic acid
+
+$ABSTRACT:
+Plant defense against pathogens involve complex interplay of  several defense-associated factors. This work characterizes three Arabidopsis  thaliana genes that play critical roles in regulating defense responses against  the bacterial pathogen, Pseudomonas syringae. We have previously described  phenotypic characterization of the hrl1 mutant of Arabidopsis; a lesion-mimic  mutant that is small in size compared to the wild type, spontaneously develops  necrotic lesions mimicking the hypersensitive response, constitutively expresses  several defense-related genes and has enhanced resistance against a variety of  pathogens. In this work I cloned the HRL1 gene by a map-based cloning approach.  HRL1 codes for a 4-hydroxybenzoate polyprenyl diphosphate transferase, which  catalyzes a rate limiting step in ubiquinone biosynthesis. My studies suggest  that mitochondrial metabolic reactive oxygen species are key regulators of  Arabidopsis basal resistance against P. syringae. I further identified and  characterized a suppressor of the hrl1 mutant; JMJ27 (ARABIDOPSIS JUMONJI 27)  gene of Arabidopsis. JMJ27 codes for a JmjC domain-containing H3K9 histone  demethylase and is required for defense against P. syringae. Additionally,  another novel component of plant defense, SMALL DEFENSE-ASSOCIATED PROTEIN 1  (SDA1) gene of Arabidopsis, was characterized. SDA1 was identified as a gene  that is constitutively expressed to high levels in the hrl1 mutant. SDA1 defines  a novel class of small pathogen defense proteins required for defense against P.  syringae.

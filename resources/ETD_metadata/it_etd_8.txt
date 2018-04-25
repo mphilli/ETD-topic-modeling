@@ -1,0 +1,11 @@
+$TITLE:
+Toward e-commerce website evaluation and use: A balanced view
+
+$DEPARTMENT:
+Information Management and Technology
+
+$KEYWORDS:
+Perception of positive affective quality (PPAQ), E-commerce website use,  Perception of negative affective quality (PNAQ), Affective cues, Behavioral intention, E-commerce
+
+$ABSTRACT:
+The impacts of user cognitive assessments on e-commerce website usage have been studied extensively. However, people do not always choose a website to use based on careful calculation, especially when facing multiple websites that offer similar products and/or services. Indeed, one may not even try a website if he/she doesn't like it at first sight. It is important to understand how users' immediate affective reactions toward websites influence their use decisions. Rooted in psychological theories, this dissertation proposes two concepts named perception of positive affective quality (PPAQ) and perception of negative affective quality (PNAQ) to capture a user's immediate affective reactions to e-commerce websites. A research model is proposed to reveal how PPAQ and PNAQ are induced by website design features (named affective cues), and how PPAQ and PNAQ impact user attitude toward using a website and intention to use it. Empirically, website affective cues that induce PPAQ and PNAQ are identified in interviews. Instruments to measure PPAQ and PNAQ are developed and validated following classical instrument development procedures. The proposed model is tested in an online survey.Theoretically, this study offers a novel angle to understand customer decisions on e-commerce website use and fills the gap in the literature. Methodologically, it provides new instruments to evaluate e-commerce websites from an affective perspective. Practically, it may help e-commerce practitioners pay special attention to specific design features. In addition, this study may serve as a base to understand information system evaluation, acceptance and usage in other contexts.

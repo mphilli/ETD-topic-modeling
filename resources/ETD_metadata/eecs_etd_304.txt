@@ -1,0 +1,11 @@
+$TITLE:
+Methods for improving finite-difference time-domain (FDTD) simulations of electromagnetic problems
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Finite-difference, Time-domain, Cpml, Fdtd, Mesh refinement, Subgridding scheme
+
+$ABSTRACT:
+In this dissertation,  two methods for improving Finite-Difference Time-Domain (FDTD)  simulations of electromagnetic problems are presented. It is divided  into two main parts: one is stable subgridding schemes, and the other is  the convolutional perfectly matched layers (CPML) derived by piecewise  linear recursive convolution (PLRC) technique.First,  the basic background of a subgridding scheme is discussed by  introducing several existing prominent subgridding schemes. Based on the  in-depth investigation into the essential factors composing a  subgridding scheme, a standard uniform subgridding scheme with  E  -coupling is implemented assuring stability by symmetric coupling.  Next, a novel graded sub-grid mesh is proposed to increase the stability  margin. The graded sub-grid mesh combined with   H  -field coupling is verified to have a superior stability margin.For  four different realistic electromagnetic problems, accuracy and  efficiency estimations are carried out with respect to three implemented  subgridding schemes. The numerical experiments prove that the proposed  subgridding scheme yields improved simulation accuracy and efficiency.  Moreover, the accuracy performance is enhanced further by using optimal  interpolation methods without computational efficiency trade-off.For  the second part of this dissertation, the CPML is reformulated using  the PLRC method to improve absorption performance. The numerical  reflection of the new piecewise-linear (PL) CPML is verified through a  couple of experiments. The PL-CPML is shown to provide better reflection  performance in both time-domain and frequency-domain evaluations than  existing CPML in all of the numerical experiments. It is concluded that  the improved accuracy compensates more than the slightly increased  computational cost.

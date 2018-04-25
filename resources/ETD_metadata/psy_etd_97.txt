@@ -1,0 +1,11 @@
+$TITLE:
+Teacher assessment of students' writing skills
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Teacher assessment, Writing assessment
+
+$ABSTRACT:
+The purpose of this study was to examine an alternative approach to the assessment and monitoring of students' writing skills using teachers' expert opinions and ratings. A sample of 107 teachers rated three separate student essays from a database. The students were equivalent in age, grade level, IQ, and gender (male). One student was designated as learning disabled in writing. The other two students were achieving within low average and average expectations, respectively. Teachers rated all three student essays using the Writing Rating Index for Teacher Evaluation (W scRITE), a ten-item Likert-type scale based on current theory and research findings. Teachers also indicated if the student authors should be designated as learning disabled in writing, and selected appropriate intervention strategies for all three students. Results suggested that teachers' ratings were internally consistent but not stable over time. Although teachers rated certain mechanistic aspects of an essay (such as handwriting quality, punctuation and capitalization rules, use of grammatical and syntactical rules) with a certain degree of reliability, they were less reliable in their ratings of the more spontaneous aspects of writing (theme development, creativity, and text cohesion). Additional results suggested that teachers were able to accurately identify the essay author already designated with a Learning Disability in writing and differentiated him from his average and low achieving peers. Teachers were also able to identify a variety of W scRITE items as writing components in need of remediation from the essay authored by the learning disabled student. Furthermore, teachers selected several interventions aimed at improving the writing skills of all three students. The implications due to the limited test-retest reliability of teachers' ratings and the use of the W scRITE as an assessment and monitoring instrument are considered.

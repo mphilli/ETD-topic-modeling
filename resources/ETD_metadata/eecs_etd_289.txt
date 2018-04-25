@@ -1,0 +1,11 @@
+$TITLE:
+Community detection in complex networks as equilibria
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Community detection, Social networks, Game theory
+
+$ABSTRACT:
+The edges of a complex network  represent the non-trivial interactions between real-world entities (nodes). Recent mathematical analyses have revealed a great deal about the nature and structure of networks, such as the small-world, scale-free and community structure phenomena. A community structure is a partition of a network into communities based on the network's topology, specifically the set of connections within a community is denser than the set of connections in the entire network. Community structure has been shown to identify functional and logical units of a network's underlying real-world entities. Traditional research in community detection has focused on top-down optimization of global metrics that evaluate the strength of a community structure over an entire network. In contrast, this thesis presents a bottom-up approach based on balancing conflicting local node-metrics, thus achieving an equilibrium. We show through three separate strands of research, that this bottom-up approach can be used to discover important community structures. First we use a force-directed algorithm to cluster nodes in a 2-dimensional plane. Next we use a node association function in conjunction with a team formation algorithm. Our last strand uses solution concepts  from game theory to find and analyze stable community structures. We demonstrate the efficacy of our three bottom-up approaches on real-world and benchmark networks. In particular, our game theoretic approach outperforms traditional methods by more than 20% in difficult cases.

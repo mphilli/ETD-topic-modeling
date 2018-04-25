@@ -1,0 +1,11 @@
+$TITLE:
+Measuring state and local government fiscal capacity: A new, comprehensive approach
+
+$DEPARTMENT:
+Public Administration
+
+$KEYWORDS:
+State government
+
+$ABSTRACT:
+This dissertation develops a comprehensive measure of fiscal capacity for state and local governments in the United States that considers the relationship between revenue-raising capacity and expenditure requirements. This fiscal capacity measure differs from other measures in its consideration of the dynamism between tax rates and tax bases, the linkages between federal tax policies and fiscal capacity, the prior claims presented against a jurisdiction's resource base, and the needs and costs of providing a standard level of government goods and services.

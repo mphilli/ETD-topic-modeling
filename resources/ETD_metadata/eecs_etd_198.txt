@@ -1,0 +1,11 @@
+$TITLE:
+Adaptive polarimetric processors for multiband and multiscan radar
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+radar clutter
+
+$ABSTRACT:
+Adaptive signal processing techniques are proposed for polarization and frequency diverse multiscan radar systems. The problem to be addressed concerns detection of slowly moving, tangentially moving, or ambiguous velocity targets which exhibit little or no contrast against radar clutter in the Doppler frequency domain. Such targets may nevertheless possess a polarization component which is distinct from the clutter background, forming the basis for detection improvement. Multiband and multiscan generalized likelihood ratio tests are developed as a means of adapting to unknown clutter statistics for the polarization and frequency diverse system. A study of multiband versus single-band detection characteristics is performed under realistic system constraints to show the advantage of frequency diversity in adaptive polarization processors. The use of frequency diversity serves to reduce the number of adjacent range cells required for estimation of the clutter polarization covariance matrix. Another adaptive algorithm is presented which uses scan to scan diversity to enhance detection of small radar cross-section targets. Secondary data acquired over multiple radar scans provides for both vector mean and covariance estimation of the polarization statistics of background clutter and interference. This processor extends the concept of the coherent clutter map to include suppression of clutter fluctuations as well as the mean component. Optimum and adaptive performance of both single channel and dual polarized systems are analyzed and compared. A detection performance improvement of 10dB in required target to clutter ratio can be attributed to polarization-adaptive techniques.

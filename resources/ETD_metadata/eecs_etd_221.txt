@@ -1,0 +1,11 @@
+$TITLE:
+Tracking algorithms for maneuvering and non-maneuvering targets
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Manuevering targets, Target tracking
+
+$ABSTRACT:
+In this dissertation, some important aspects of target tracking are considered. For a target moving at a constant velocity in a straight-line trajectory a measurement preprocessing scheme is employed prior to the conventional Kalman filter. Measurement preprocessing involves the maximum likelihood estimation of the initial position and velocity of the target. This information is used to reduce the covariance of the measurement error so that the performance of the Kalman filter that follows is enhanced. In addition to the tracking of a single target in a clean environment, we apply the measurement preprocessing algorithm to the tracking of a single target and multiple targets in clutter environment. In the clutter case, a weighted average of the received measurements is computed which is then used by the preprocessing algorithm followed by the Kalman filter. In many practical applications, the measurements are available in polar coordinates rather than in Cartesian coordinates. With the polar coordinate measurements, the problem becomes nonlinear. Therefore, linearization and approximation procedures are employed prior to measurement processing to handle this important case. Simulation results show the superiority of the preprocessing algorithm.Tracking of maneuvering targets is an important and challenging problem. A new algorithm for detecting maneuvers quickly is presented. It is based on the innovation sequence of the Kalman filter and uses a sliding window. Optimum window length so as to minimize the average delay in detecting a maneuver is obtained. In this maneuver target tracking problem, the value of maneuver magnitude is needed. A recursive procedure for the estimation of maneuver magnitude is also presented. Simulation examples show that our tracking procedure for maneuvering target performs quite well.

@@ -1,0 +1,11 @@
+$TITLE:
+Real-time interactive client-server terrain rendering
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Virtual reality, Internet, Wavelet, Terrain rendering
+
+$ABSTRACT:
+The rapid expansion of the Internet allows computer users to have instant access to a large quantity of information. Some of this information, such as weather data, population density, etc, is correlated by its geographic relationship. Our goal is to provide methods for visualizing geographically related information and images using three dimensional rendering of terrain models. We have developed two different systems, image-based and VRML-based. The image-based system harnesses the computational power of a parallel computer for rendering and delivers the result as a sequence of images. Our research investigates the issues related to parallel rendering, such as data distribution, load balancing and communication, as well as client/server networking issues. Experience of computer graphics techniques for rendering terrain acquired from the implementation of the image-based system is applied to develop the VRML-based alternative, which uses a Web standard (Virtual Reality Modeling Language) to deliver the information. The VRML-based system stores the terrain data in a commercial database, so that the user can dynamically select the region of interest and the data is real-time encoded in VRML before delivery to the client. Because of the limited rendering capability on a typical web client, a real-time wavelet terrain model optimization algorithm is developed and implemented. This optimization algorithm reduces the complexity of the terrain model, while retaining the distinguish terrain features. As a result, a high quality presentation can be maintained even on less capable clients. We have done a thorough analysis of the properties of version 1.0 and 2.0 of the VRML standard that can be used to create 3D terrain models for interactive real-time display, and possible extensions to VRML to improve support for terrain rendering are suggested. A comparison of the two systems is made and a hybrid system that contains the best features of both systems is proposed.

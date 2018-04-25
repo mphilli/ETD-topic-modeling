@@ -1,0 +1,11 @@
+$TITLE:
+Electricity Generation Location and Benefits to Human Health: What health benefits can be attributed to RGGI in New Jersey, New York, and Pennsylvania?
+
+$DEPARTMENT:
+Social Sciences
+
+$KEYWORDS:
+cap and trade, CO2, global warming, RGGI
+
+$ABSTRACT:
+This paper estimates the benefits, primarily from human health gains, from the longest running U.S. CO2 control program.  Further, it examines the patterns of electric generation to evaluate changes at regional and state levels, to better understand the potential of CO2 leakage, which is CO2 being emitted from generation that has moved from a regulated to a non-regulated state, and thus weakening the effects of the regulation.This examination is achieved using a unique dataset of observed generation levels at fossil fuel plants from the year 2000 to 2013, in New Jersey, New York, and Pennsylvania.  It is estimated that the Regional Greenhouse Gas Initiative (RGGI) has reduced CO2 emissions in New York State and New Jersey by approximately 4.9 million short tons yearly on average, and has produced approximately $130 million worth of ancillary benefits from reduced SO2, NOX, PM2.5, and PM10, emissions yearly, while New Jersey participated.  Just in New York, which has participated every year since the program inception in 2009, RGGI has produced approximately 3.5 million short tons and over $69 million worth of ancillary benefits yearly on average.  Further, the study finds weak evidence that RGGI has altered generation between New York and Pennsylvania during the study period.  However, it finds stronger evidence that there may have been leakage from Maryland and Delaware to Pennsylvania.  There are indications that RGGI has contributed to significant changes in generation regionally in New Jersey and New York.

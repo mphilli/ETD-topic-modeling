@@ -1,0 +1,11 @@
+$TITLE:
+Distributed flow control protocols for ATM networks
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+bandwidth allocation, routing, ATM networks
+
+$ABSTRACT:
+Optimal flow control protocols that satisfy Grade Of Service (GOS) requirements and fairness criteria are developed for ATM networks in this dissertation. We use network power as the network-wide performance measure and determine link throughputs for each Group of Virtual Circuits (GVC) that maximize it. A novel node-oriented approach consisting of a forward propagation phase and a backward propagation phase is proposed. The forward propagation phase updates and propagates data from the source nodes of a GVC to the destination node to determine the optimal throughput for the destination node. Then, this optimal throughput is partitioned optimally among each link of the GVC during the backward propagation phase. In this approach, bandwidth allocation and enforcement are carried out for groups of users multiplexed at nodes. This is in contrast with the user-oriented approaches in previous designs where flow control is enforced/implemented for each individual user. Higher efficiency and ease of implementation are among the key features of this approach. We also introduce a Dynamic Bandwidth Sharing Scheme which dynamically partitions the optimal bandwidth among all the ATM service categories. Our methodology can handle all the services in ATM networks namely CBR, VBR, ABR and UBR services.An integrated approach to routing and flow control is proposed. Traditionally, routing and flow control are carried out relatively independently of each other. However, in our approach, they are integrated and are strongly coupled in the sense that routing is done according to information obtained by the optimal flow control protocol. Thus, network performance is expected to be better due to the integration of these two techniques.

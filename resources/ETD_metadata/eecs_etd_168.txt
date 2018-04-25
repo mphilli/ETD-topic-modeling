@@ -1,0 +1,11 @@
+$TITLE:
+Jammer pre-suppression in cascade with sum and difference channel space-time adaptive processing
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Jammer, Sum and difference channel, Space-time adaptive processing, Clutter noise
+
+$ABSTRACT:
+This dissertation addresses the problem of improving the detection of target signals in the presence of clutter, jamming, and noise. This will focus upon an airborne surveillance type of radar. The cancellation of interference in a clutter and jamming environment can be accomplished in two ways, either simultaneously or one after the other in a two-stage cascaded system. The work concentrates on a cascaded system which first cancels jamming energy using an auxiliary antenna and then clutter. The specific processing technique is called sum and difference channel space-time adaptive processing with spatial adaptive pre-suppression. This is a study of the phenomena associated with this type of radar signal processing.The main focus is on how jammer power residue from the first stage effects the overall processor performance. It also addresses the impact of clutter entering the main channels through the auxiliary antenna. Two primary causes of jammer power residue are addressed. The first is caused by a reduction in the depth of the jammer pre-suppression nulls and the second is a shift in the angle of these nulls. It is shown that under certain circumstances these causes can have significantly different results on the overall performance of the processor. Scenarios with one and two jammers are studied in detail. This work shows that the interactions between the two stages can be quite complex and can generate unexpected results.

@@ -1,0 +1,11 @@
+$TITLE:
+Velocity measurements in the breathing zone of a moving thermal manikin within the indoor environment
+
+$DEPARTMENT:
+Mechanical and Aerospace Engineering
+
+$KEYWORDS:
+Velocity, Breathing zone, Indoor environment
+
+$ABSTRACT:
+The mean and turbulent velocity field associated with the human thermal plume around a heated body is examined herein. This investigation is focused on the effect of motion and unsteady breathing on the velocity field associated with the human thermal plume. To this end, the mean and turbulent flow field around a heated sitting manikin is examined using Particle Image Velocimetry (PIV) measurements. The effect of rotational motion, like a subject turning on a chair, and the impact of the unsteady breathing on the flow around the manikin is analyzed. Measurements were acquired at three spatial PIV windows including the inlet of our chamber, in the breathing zone of our thermal manikin and above the head in a cubicle-sized room. These results show that the annihilation of the human thermal plume caused by rotational motion decreases the driving force of some low speed ventilation designs. This research is to be used, in part, as a means for validation of simulations in the indoor environment. Thus, important Reynolds averaged turbulence quantities like kinetic energy, anisotropy levels and dissipation rates are presented for use in Computational Fluid Dynamics (CFD) validation and to improve the fundamental understanding of this flow.

@@ -1,0 +1,11 @@
+$TITLE:
+Essays on Foreign Direct Investment, Agglomeration and Productivity
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Agglomeration Economies, China, Foreign Direct Investment, Productivity
+
+$ABSTRACT:
+This dissertation investigates the role of foreign direct  investment and agglomeration economies in the process of industrial development,  with a focus on the productivity of manufacturing firms. The first chapter  analyzes the importance of the source of foreign direct investment on the  performance of domestic Chinese firms. The second chapter studies the  interaction between foreign and domestic manufacturing firms operating in the  same industry and located within the same Chinese city. The third chapter  examines the response of multinational companies to changes in domestic  institutions. My findings highlight the importance of the source of foreign  direct investment, proximity to economic activity, and strong institutional  incentives in enhancing firm performance in developing economies.

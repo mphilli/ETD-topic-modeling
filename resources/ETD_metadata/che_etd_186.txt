@@ -1,0 +1,11 @@
+$TITLE:
+Oral Delivery of the Appetite Suppressing Neuropeptide PYY(3-36) through the Vitamin B12 Dietary Uptake Pathway
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Biochemistry, Molecular biology, Chemistry
+
+$ABSTRACT:
+Injections of hPYY(3-36) have shown positive effects on appetite regulation. With nearly 400 million adults worldwide considered obese, these positive effects have sparked an increased interest in hPYY(3-36) research, including release profiles, receptor targets, and medicinal applications. A major area of interest is oral delivery of hPYY(3-36) that can display clinically relevant weight-loss outcomes in what would be a highly patient compliant route. The vitamin B12 (B12) pathway has already been successfully used for oral delivery of other peptides including erythropoietin and insulin, but the quantity delivered has been below clinically relevant levels. Herein, we present synthesis, purification, characterization, and clinically relevant in vivo oral delivery of B12-hPYY(3-36) conjugates.The hPYY(3-36) sequence was modified at the N terminus with an octahistidine tag and factor Xa protease sequence along with the small ubiquitin-like modifier (SUMO) tag and expressed in Escherichia coli. The fusion protein was purified with a yield of 30 ± 7 mg/L. The SUMO-tagged hPYY(3-36) was digested with two different proteases to return either His-tagged hPYY(3-36) or unmodified hPYY(3-36) that were subsequently purified and characterized.

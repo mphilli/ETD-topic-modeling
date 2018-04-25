@@ -1,0 +1,11 @@
+$TITLE:
+The Struggle for Power and Pay: Implications of Board of Directors' Power on Monitoring Effectiveness and Pay for Performance Sensitivity
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+Board of Directors, CEO, Corporate Governance, Executive Compensation, Monitoring, Power
+
+$ABSTRACT:
+Boards of directors monitor and incentivize CEOs to make decisions that maximize shareholder value; however, research has been inconsistent in identifying the relationship between board composition and monitoring effectiveness (Daily, Johnson, Ellstrand, & Dalton, 1998). Integrating an economic perspective (agency theory) with a socio-psychological perspective (upper echelon theory), this paper examines how outsiders' and insiders' power bases relate to pay-for-performance by proposing and empirically examining a multi-dimensional model of board power bases: ownership, prestige, and structural. I argue that board structural and composition characteristics can be used as proxy indicators of board power. Using data from 37, 066 directors of 950 firms resulting in 3,581 firm-year observations between 2000-2006, I find the ratio of the average outsider's prestige power to insiders' associates positively with total compensation and pay-for-performance sensitivity in partial support of my hypothesis. Although contrary to my expectations, I find the ratios of the average outsiders' ownership and structural power bases to insiders' are insignificantly associated with pay-for-performance, supplemental analysis reveals that these relationships become significant as context changes. Thus, I extend my theoretical framework to the role of context in the board power and monitoring effectiveness relationship; specifically, I conceptualize context in terms of environmental (e.g., government regulation, world events, institutional pressures), firm (e.g., size and performance), board (e.g., size, level of board independence), and CEO (e.g., ownership and tenure) characteristics. Overall, this study contributes to research by illustrating that board power is relevant to monitoring effectiveness; however, this relationship is contextual.

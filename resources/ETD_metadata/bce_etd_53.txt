@@ -1,0 +1,11 @@
+$TITLE:
+An Analytical Study of Simultaneous Heat and Binary Mass Transfer with Thermodynamic Coupling in Laminar Boundary-Layer Flows
+
+$DEPARTMENT:
+Biomedical and Chemical Engineering
+
+$KEYWORDS:
+chemical engineering, heat transfer, transport equations, thermodynamic coupling
+
+$ABSTRACT:
+This study investigates a multi component dimension to the mass transfer of heat, and a number of effects to be considered in detail are discussed, including property variation with concentration, thermodynamic coupling, and the effects of body forces acting on non-uniform density distributions caused by both temperature and concentration fields. The present study was initiated to investigate these effects for a number of binary gaseous systems, with air being the ambient gas in each case.

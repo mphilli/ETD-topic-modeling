@@ -1,0 +1,11 @@
+$TITLE:
+The Philosophy of R. G. Collingwood
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Metaphysics, Philosophy of History, Ethical Phiosophy, Social Philosophy
+
+$ABSTRACT:
+This dissertation is a study in the history of philosophy: it is, essentially, a critical exposition and partial evaluation of the main principals of R. G. Collingwood's philosophy.

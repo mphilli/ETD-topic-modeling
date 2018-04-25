@@ -1,0 +1,11 @@
+$TITLE:
+Detector Characterization for Advanced LIGO
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+The first observing run of Advanced LIGO spanned 4 months, from September12, 2015 to January 19, 2016, during which gravitational waves were directly detectedfrom two binary black hole systems, namely GW150914 and GW151226. Confidentdetection of gravitational waves requires an understanding of instrumental noise transientsand artifacts that can reduce the sensitivity of a search for gravitational waves.Studies of the quality of the detector data yield insights into the cause of instrumentalartifacts and data quality vetoes specific to a search are produced to mitigate theeffects of problematic data.This dissertation provides an overview of the methods used to characterize noisein the LIGO interferometers and provides examples of successful removal of transientnoise. The data set used in the first observing run is validated. Further, the systematicremoval of noisy data from analysis time is shown to improve the sensitivity of searchesfor compact binary coalescences. The output of the PyCBC pipeline is used as ametric for improvement.The first direct detection of gravitational waves, GW150914, was a loud enoughsignal that removing data with excess noise did not improve its significance. However,the removal of data with excess noise decreased the false alarm rate of GW151226 bya factor of 567, from 1 in 320 years (3.9 σ) to 1 in 183000 years (> 5.3 σ).

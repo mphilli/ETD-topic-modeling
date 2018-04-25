@@ -1,0 +1,11 @@
+$TITLE:
+A non-physicalist ontology of art objects
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Philosophy, Fine Arts, universalism, sophisticated universalism
+
+$ABSTRACT:
+I develop and defend the claim that all works of art are abstract entities, universals which may have multiple instances. In defending this claim I attempt to use aesthetic values in determining what will be an adequate theory. Two problems face universalism. The transitivity problem and the claim that it is inconsistent with our aesthetic experience and our resulting value of works of art. The basis of the naive universalist position, that if two art works look exactly alike then they are the same work, is dropped in favor of sophisticated universalism.I argue for three main points. First, not all of the value we place on art is aesthetic value. To value a work of art qua art work is to value it for its aesthetic properties. Sometimes a work may also be valued as an historic object.Second, I accept the principle underlying Goodman's claim that universalism fails to capture what we appreciate in a work of art. The principle is that to fully appreciate a work we must appreciate it as a member of a compliance class. I reject Goodman's claim that some works are singular; that is there could only possibly be one object which was that work.Finally, I argue that the tools of sophisticated universalism are more open than has been previously recognized. Sophisticated universalism is able to avoid the transitivity problem. More importantly, it provides the grounds for an enriched aesthetic experience by focusing on insight into the compliance class of the art object understood as the universal.I then examine different definitions of art to determine how well my ontology fits with each. I develop and defend a virtue theory of art works. I argue that for independent reasons it is superior.

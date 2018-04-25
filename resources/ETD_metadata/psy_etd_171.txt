@@ -1,0 +1,11 @@
+$TITLE:
+HIV-Related Stigmatization in Treatment Settings: Effects on Patient Comfort, Risk Disclosure, and Treatment Decisions
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Disclosure, Experiment, HIV, Provider, Stigma
+
+$ABSTRACT:
+The major focus for the present study was to examine the effects of provider stigmatization on the medical care of HIV+ patients, by using an experimental paradigm and examining a conceptual framework to clarify the relationship between provider stigmatization and negative treatment outcomes. Initial qualitative findings from focus groups (n = 18) indicated that several key elements of stigmatizing treatment experiences included judgmental and condescending language, patient avoidance, increased physical distance between patient and provider during conversations and procedures, and use of extra, unnecessary precautions (e.g. use of extra gloves, masks). These provider behaviors were experimentally manipulated and incorporated into computerized vignettes containing audio and visual stimuli depicting "typical" medical appointments. In the experimental phase, participants (n = 90) were randomly assigned to view either a highly stigmatizing or a non-stigmatizing treatment vignette and then subsequently rate their willingness to engage in HIV care. Findings indicated that patients assigned to the highly stigmatizing condition were the most unwilling to engage in HIV care as demonstrated in lower intentions to remain in care, disclose sexual and substance use risk behaviors, and discuss medication adherence difficulties. As hypothesized, the effect of the experimental stigma condition on patients' willingness to engage in care was mediated by patients' feelings of comfort and their perceptions of stigma within the patient-provider interaction. Findings from the present study may help to inform the development of interventions to assist healthcare providers in creating more positive treatment experiences for their HIV+ patients to improve implementation of self care and reduction of risk behaviors.

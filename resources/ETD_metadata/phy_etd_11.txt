@@ -1,0 +1,11 @@
+$TITLE:
+Search for light Higgs in radiative decays of Upsilon(1 S)
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Higgs boson, NMSSM, Upsilon, Energy
+
+$ABSTRACT:
+We have searched for non-SM-like CP-odd Higgs-boson ([Special characters omitted.] ) with [Special characters omitted.] < 2 m b   in radiative decays of the Υ(1  S  ), using 21.5M Υ(1 S  ) mesons directly produced in e  +  e  -  annihilation. We investigate [Special characters omitted.] [arrow right] τ +  τ -  and [Special characters omitted.] [arrow right] μ +  μ -  decay channels. No significant signal is found. We obtain upper limits on the product of [Special characters omitted.] (Υ(1 S  ) [arrow right] γ[Special characters omitted.] ) and [Special characters omitted.] ([Special characters omitted.] [arrow right] τ +  τ -  ) or [Special characters omitted.] ([Special characters omitted.] [arrow right] μ +  μ -  ). Our τ  +  τ -  results are almost two orders of magnitude more stringent than previous upper limits. Our data provides no evidence for a Higgs state decaying to μ +  μ -  , with a mass of 214 MeV. Existence of such state was previously proposed as an explanation for 3 Σ +  [arrow right] p  μ +  μ  -  events, with μ +  μ -  mass just above the kinematic threshold, claimed by the HyperCP experiment. Our results constrain NMSSM mode.

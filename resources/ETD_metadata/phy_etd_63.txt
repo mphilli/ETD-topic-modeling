@@ -1,0 +1,11 @@
+$TITLE:
+Search for cellular retinol and retinal binding proteins in Chlamydomonas reinhardtii
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Cellular retinol, Retinal binding proteins, Chlamydomonas reinhardtii
+
+$ABSTRACT:
+Chlamydomonas is a unicellular phototactic green alga. Its vision pigment rhodopsin is in the plasma membrane. Retinal, which forms with opsin the pigment, is synthesized in the "yellow" (outer chloroplast) membrane by β-carotene dioxygenase. There is aqueous cytoplasm between these two membranes, and retinoids are not water-soluble. Therefore to transfer retinoids between these membranes, it is expected that cellular retinoid-binding proteins will act as carriers. Such carriers, CRBP (MW 1460 ∼ 16600 D, pI 4.8 ∼ 4.9, fluorescence maximum at 485 nm, K L for all-trans-retinol 1.6 × 10 -8 M) and CRALBP (MW 33000 D, pI 5.0 ∼ 5.1, fluorescence maximum at 495 nm, K d for 11- cis -retinal 2.1 × 10 -8 M) are known in animals. Usually there is an evolutionary conservation between groups. The goal of this thesis is to search for cellular retinol-binding proteins (CRBP) and/or cellular retinaldehyde-binding proteins (CRALBP) in Chlamydomonas . Retinol binding is considered because retinol is the storage form of retinoids in Chlamydomonas .  Retinol binds tightly to CRBP and CRALBP, and thus the fluorescence of retinol is used to find these proteins. Gel filtration and ion exchange are used for purification, and retinol binding is used to identify a binding pattern. In Chlamydomonas , the ratio of total protein to cellular retinol-binding protein is estimated to be 90000:1, and the ratio of total protein to cellular retinal-binding protein is 41000:1 based on an estimate of 30000 retinol and retinal molecules/cell [3]. Retinol binding protein (RBP) in human urine was used as an internal standard to trace protein losses, and chromatography was tested with RBP alone and RBP added in Chlamydomonas .  A CRBP candidate was found with a molecular weight (12,300 ∼ 15,500 D) and fluorescence (peak at 490 nm) consistent with animal CRBP. The quantity is also consistent with the retinol concentration found in Chlamydomonas . Unfortunately the experiment was only done once and insufficient product was obtained for a reliable determination of the retinol-binding dependence.

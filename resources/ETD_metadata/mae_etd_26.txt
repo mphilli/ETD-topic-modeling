@@ -1,0 +1,11 @@
+$TITLE:
+Through-flow model for fan/flow-resistance configurations
+
+$DEPARTMENT:
+Mechanical and Aerospace Engineering
+
+$KEYWORDS:
+Through-flow, Fans, Flow resistance
+
+$ABSTRACT:
+A fluid-dynamic numerical model based on a through-flow approximation for the analysis and design of a fan in interaction with a flow-resistance is presented. The model is capable of predicting many of the important interaction mechanisms that control the performance of both the fan and the flow-resistance. The interaction mechanisms the model is capable of capturing include the radial streamline shifting through both the fan and flow-resistance and the tip clearance effects that are especially important at near unity fan/flow-resistance diameter ratios.The model is used to investigate the performance modifications of fans in interaction with flow-resistances for different types of flow-resistance geometries, namely axi-symmetric (circular) flow-resistances as well as asymmetric (square and rectangular) flow-resistances. Full 3D simulations using the Fluent CFD software and also previous experimental work are used to evaluate the model. The comparisons indicate that the through-flow model is capable of capturing the fan and flow-resistance performance modifications as a result of their interactions. The model predictions are qualitatively in good agreement with the full 3D simulations performed using the Fluent CFD software and the previous experimental work for both axi-symmetric and asymmetric flow-resistances. Detailed accounts of the model findings, which agree with the full 3D simulations and experimental work, and their implications on the fan and flow-resistance performances are presented.The model is also used to design fan blades in interaction with the flow-resistance using an inverse design procedure. Designing the fan blades while in interaction with flow-resistances is in fact a new approach in fan blade design in this fan/flow-resistance configuration. The fan blade design model generates new and unconventional blade geometries not used before in the HVAC industry. The new blade geometries have the potential of improving the fan and flow-resistance performances.

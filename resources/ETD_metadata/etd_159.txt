@@ -1,0 +1,11 @@
+$TITLE:
+Do Social Control Motives Combine with Perceptions of Social Support to Predict Relationships between Interpersonal Stress and Blood Pressure in the Normal Environment?
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+agonistic motives, ambulatory blood pressure, ecological momentary assessment, interpersonal stress, multilevel modeling, perceived social support
+
+$ABSTRACT:
+Social support is related to lower risk for cardiovascular disease development. Yet, research has failed to yield consistent evidence for psychological mechanisms of relationships between social support and health outcomes. Explanations for these failures include limitations of research design and statistical analysis, inadequate theory-building, and a failure to investigate implicit psychological processes that operate during normal everyday social interactions. The present study utilized a promising theoretical framework (i.e., social action theory) to evaluate implicit mechanisms within a naturalistic observation study design using multilevel modeling. The primary aims of this study were to evaluate the role of between-person differences in agonistic motives and perceived social support in predicting within-person processes of interpersonal stress and cardiovascular responding. Results indicated that interpersonal stress was associated with higher ambulatory SBP. The dissipated group had the highest DBP, and was also more obese compared to the other groups. Results indicated that perceived social support attenuated the effect of interpersonal stress on SBP. Results did not support the notion that motives moderate the relationships between perceived social support, interpersonal stress, and ambulatory blood pressure. These results suggest a potential new disease pathway for cardiovascular disease risk, and provide support for the role of perceived social support as an implicit regulatory mechanism which lowers cardiovascular activity in interpersonally stressful contexts.

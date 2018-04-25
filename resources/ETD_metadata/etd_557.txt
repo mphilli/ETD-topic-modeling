@@ -1,0 +1,11 @@
+$TITLE:
+Three Empirical Essays on International Trade and Public Economics
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Economic diplomacy, International trade, Manufacturing employment, Migration economics, Syrian refugees, Turkey
+
+$ABSTRACT:
+This dissertation consists of three empirical essays on the economic impacts of various policy issues on Turkish labor market and international trade. Chapter 1 examines the employment and wage effects of the refugee influx from Syria on Turkish native labor. Results indicate statistically significant negative employment and wage effects on the low-skilled and less-experienced individuals especially in the border regions. The second chapter investigates the impact of the presence of foreign missions on trade. This study uses Turkey’s aggressive expansion in its foreign mission network as the source of variation and finds significant positive effect on both the exports and imports.  The final chapter, coauthored with Devashish Mitra, analyzes the impact of the imports from China on employment shares and wages across the various Turkish manufacturing industries for the period 2004-2015. The results imply a relative positive impact on employment share in skilled labor intensive sectors and more precise larger negative impact on wages in all sectors.

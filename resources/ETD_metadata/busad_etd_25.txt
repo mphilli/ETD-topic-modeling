@@ -1,0 +1,11 @@
+$TITLE:
+Immunization of interest rate risk and pricing of default risk of bond portfolios
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+Immunization, Interest rate risk, Pricing, Default risk, Bond portfolios
+
+$ABSTRACT:
+In the first part of my study, I examine the interactive effect of default and interest rate risk on the duration of defaultable bonds under the paradigm of the additive, the Vasicek (1977) and the Cox-Ingersoll-Ross (1985) term structure framework. I demonstrate that duration for a defaultable bond could be longer or shorter than a default-free bond depending upon the relationship between interest rates and default intensity. Empirical evidence shows that duration for a defaultable bond is shorter than a default-free bond due to a negative relationship between interest rates and default intensity. Results suggest that the duration measure must be adjusted for the effects of default risk and interest rate uncertainty in order to achieve an effective bond portfolio immunization.In the second part of my study I examine the ability of the reduced-form model to price corporate bond indexes. I apply a three-factor term structure model incorporating default correlation induced by spot rates to model the default process of corporate bond indexes. The residuals from the Kalman filter estimation are highly cross-correlated, and principal components analysis indicates that they are driven by common factors. I find that several macroeconomic and market variables can explain a good portion of the residuals. Among these variables the monthly return on S&P; 500 index is the most significant factor to account for the residuals across different rating and maturity bonds. Results provide the evidence to support the argument that economy-wide variables induce default correlation. Therefore, the pricing model of corporate bonds should account for the effect of correlated default driven by macroeconomic variables.

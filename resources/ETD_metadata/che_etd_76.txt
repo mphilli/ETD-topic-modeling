@@ -1,0 +1,11 @@
+$TITLE:
+Coordination chemistry of rhenium: Design of radiopharmaceuticals for diagnostics and therapeutics in nuclear medicine
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Rhenium, Radiopharmaceuticals, Diagnostics, Therapeutics, Nuclear medicine
+
+$ABSTRACT:
+A number of rhenium compounds were synthesized and characterized in an attempt to investigate and expand the coordination chemistry of the widely used medicinal imaging radioisotope technetium-99m. Technetium and rhenium are Group VII cogeners with similar hydrazine and oxo-thiolate chemistries. These periodic similarities have allowed for the study of the non-radioactive metal rhenium instead of the synthetically created technetium, which only exists as radioactive isotopes.In Chapters 1-4 and 6 we address the "3+1" concept of ligand addition to a Group VII metal-oxo species using tridentate ligands carrying the SSS, SOS, ONS, SN(R)S donor atom set (R = various alkyl or aryl substituted pendant groups) and a monodentate thiol. However. Chapter 5 reveals that in the absence of thiolate donors, the {ReO} 3+ core may expand its coordination sphere to accommodate five additional donor groups, an observation suggesting that "3+2" complexes will provide an alternate strategy for the systematic synthesis of materials exploiting the modification of the tridentate and bidentate ligands.Chapter 7 explores hydrazines as potential tethers, forming two classes of compounds, namely [MCl 3 (η 1 -NNC 5 H 4 NH)(η 2 -HNNC 5 H 4 N)] and [MCl 3 (η 1 -NNC 4 H 3 N 2 H)(η 2 -HNNC 4 H 3 N 2 )] (M = Re or Mo). The study continued with the exploration of the chlorine substitution with potentially useful thiol and alcohol coligands.Finally. Chapter 8 uses the "3+1" approach in designing long-chain fatty acids for imaging blood perfusion to the heart muscle (myocardium).

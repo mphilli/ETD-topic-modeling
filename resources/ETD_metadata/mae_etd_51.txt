@@ -1,0 +1,11 @@
+$TITLE:
+Elasticity solution for the profiles of rolls in four-high mills to achieve uniform contact load distribution
+
+$DEPARTMENT:
+Mechanical and Aerospace Engineering
+
+$KEYWORDS:
+ELASTICITY SOLUTION, four-high mills, contact load distribution, mechanics
+
+$ABSTRACT:
+Most of the work in theory of rolling has been devoted, and probably justifiably so, to the study of the plastic deformation of the metal between the work rolls.  Relativly little has been done to analyze the problem of elastic contact between the work roll and back-up roll in the four-high rolling mill, which has become the mainstay of the billion dollar industry of flat rolling...The elastic contact problem occurring in the four-high rolling mill is considered in this dissertation.  It differs from the classical problems of cylinders in contact becasue of the accompanying bending deformations of the rolls...

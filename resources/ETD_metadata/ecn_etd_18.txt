@@ -1,0 +1,11 @@
+$TITLE:
+Essays in international trade
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+International trade, Technology transfer, Manufacturing, Colombia
+
+$ABSTRACT:
+This dissertation contains three essays. The empirical analysis is based on a panel of Colombian manufacturing plants.The first essay deals with knowledge exchange through trade. It is argued that exporting increases plant-level productivity by exposing producers to new technologies or through product quality upgrading. However, if learning occurs through the acquisition of new knowledge, exporting to less developed markets should not generate as much productivity growth as exporting to advanced countries. I demonstrate that exporting to advanced countries generates the highest productivity premium and that the ability to benefit from exporting in general and exporting to advanced markets in particular increases monotonically as one moves along the conditional productivity distribution.The second essay (with Jim Markusen, University of Colorado) considers foreign experts as a channel of knowledge transmission. We develop a model in which foreign experts may train domestic workers who work with them. Hypotheses are generated under the assumptions that workers learn from experts (the effect of using an expert is not strictly temporary) and that this learning is embodied in the workers rather than in the firm. We use fixed effects and nearest neighbor matching estimators on a panel of plant-level data for Colombia that identifies the use of foreign experts, to show that these experts have substantial and persistent positive effects (though not always immediate) on the wages of domestic workers and on the value added per worker.Having shown positive impact of exporting on the plant productivity in Chapter 1, in the third essay, I turn my attention to the instruments of trade promotion and study of the effectiveness of export subsidies in improving plants' exporting performance. Controlling for persistence in exporting behavior, plant heterogeneity and potential dependence of export subsidies on the present and past export performance, I find subsidies to be ineffective in increasing export volumes. The impact is estimated at 0.076 in the GMM specification on the sub-sample of exporters but is not significant at the conventional significance levels.

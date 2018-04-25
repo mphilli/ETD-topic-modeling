@@ -1,0 +1,11 @@
+$TITLE:
+The Effect of Phoneme Awareness Instruction on Students in Small Group and Whole Class Settings
+
+$DEPARTMENT:
+Reading and Language Arts
+
+$KEYWORDS:
+Early literacy, Group size, Kindergarten, Phoneme awareness, Small group, Whole class
+
+$ABSTRACT:
+Phoneme awareness instruction plays a crucial role in reading  acquisition for young children. While this early literacy topic has been studied  for over 30 years, and cited by the National Reading Panel Report (2000) as an  important area for further research, no reports to date explore the influence of  instructional group size on phoneme awareness learning outcomes in children.  Therefore, the purpose of the present study was to determine the impact of Small  Group Instruction (SGI) compared to Whole Class Instruction (WCI) on phoneme  awareness outcomes from phoneme awareness with letter sound instruction provided  to 66 kindergarten children from a low-income, urban district in upstate New  York. ANOVA and ANCOVA results from this pretest posttest quasi-experimental  study revealed significant learning across 10-weeks for both group sizes.  However, no significant advantage was evident for SGI over WCI in phoneme  awareness, letter knowledge, reading, or spelling. The implications of these  findings are discussed in the context of providing whole class phoneme awareness  instruction as an alternative to traditional small group or one-to-one phoneme  awareness instruction.

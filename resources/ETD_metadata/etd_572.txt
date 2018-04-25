@@ -1,0 +1,11 @@
+$TITLE:
+Development of multicomponent coupled-cluster theory and its application to nanoclusters and molecular systems
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+Many theoretical and computational methods are based upon the Born-Oppenheimer approximation. This approximation greatly simplifies the search for a wave function that describes all electrons and nuclei in a chemical system. This is accomplished by assuming that the motion of nuclei and electrons are vastly different; the motion of the two particle types is decoupled. While the BO approximation is ubiquitous in computational and theoretical studies, it is not always justifiable. There are two main cases where this approximation is not valid. The first is when nuclear and electronic motion cannot be decoupled. Decoupling the motion leads to incorrect observations and conclusions drawn. The second case is when a chemical system has more than one type of particle to be treated without the Born-Oppenheimer approximation. For these types of systems, a different and more general interpretation of the Born-Oppenheimer approximation must be made where multiple particle types can be investigated whose motion is not decoupled from one another. In order to investigate systems that are classified in this more inclusive interpretation, new computational theories and methods are needed. To accomplish this task, the multicomponent coupled-cluster method has been developed. In its present form, this new computational method is capable of treating two types of particles without de- coupling their motion. The fundamental theories and methods for multicomponent coupled-cluster theory are discussed before the derivation and resulting multicomponent coupled-cluster equations are discussed. This method was then used to study excited electronic states in molecular systems and semiconductor quantum dots via the electron-hole representation. It was also used to calculated ground state energy of the positronium hydride system. These projects sparked further interest in the con- sequences of the Born-Oppenheimer approximation’s application to chemical systems and how it compares to a non Born-Oppenheimer treatment.

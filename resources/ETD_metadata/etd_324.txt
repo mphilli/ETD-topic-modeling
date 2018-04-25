@@ -1,0 +1,11 @@
+$TITLE:
+Capturing the Impairment Profile of College Students with Sluggish Cognitive Tempo Symptoms
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+ADHD, College Students, Impairment, Sluggish Cognitive Tempo
+
+$ABSTRACT:
+Over the past 15 years, researchers have shown increasing interest in Sluggish Cognitive Tempo (SCT) symptoms.  Though SCT symptoms were once considered symptoms of Attention Deficit Hyperactivity Disorder (ADHD) inattentive type, controversy now exists regarding the role of the SCT symptom set in mental health. Several questions remain regarding whether SCT symptoms are separate from related symptom sets (i.e., ADHD, anxiety, depression) and whether SCT symptoms have any negative impact on a person's day-to-day functioning.  This exploratory study examined a large, general sample of college students to determine (a) whether SCT symptoms form a separate factor from ADHD, anxiety, and depression in a college sample and (b) what negative outcomes, if any, were associated with SCT symptoms. Factor analyses indicated that SCT symptoms formed a statistically separate factor from symptoms of ADHD, anxiety, and depression. Students with high levels of SCT symptoms report significantly more impairment compared to students with low levels of SCT symptoms. However, regression analyses suggest that SCT symptoms do not account for significant amounts of unique impairment after controlling for related symptoms (i.e., ADHD, anxiety, depression) and variables (i.e., sleep, health, substance use). The lack of impairment associated with SCT symptoms suggests that it may serve as an underlying construct of many mental health and lifestyle variables, rather than standing independently as a mental health construct.

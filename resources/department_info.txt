@@ -1,0 +1,60 @@
+Electrical Engineering and Computer Science	396
+Teaching and Leadership	267
+Chemistry	245
+Psychology	214
+Social Sciences	196
+Physics	168
+Political Science	130
+Economics	128
+Biomedical and Chemical Engineering	114
+Anthropology	112
+History	110
+Public Administration	107
+Mass Communications	103
+Biology	99
+Mechanical and Aerospace Engineering	99
+Business Administration	95
+Geography	95
+Philosophy	94
+Religion	94
+Child and Family Studies	89
+Sociology	88
+Cultural Foundations of Education	73
+Instructional Design, Development and Evaluation	72
+English	71
+Mathematics	70
+Higher Education	61
+Counseling and Human Services	60
+Civil and Environmental Engineering	54
+Information Science and Technology	54
+Marriage and Family Therapy	50
+Writing Program	48
+Earth Sciences	44
+Reading and Language Arts	39
+Languages, Literatures, and Linguistics	35
+Science Teaching	32
+Information Transfer	19
+School of Information Studies	17
+Communication Sciences and Disorders	16
+Finance	16
+Information Management and Technology	16
+Communication and Rhetorical Studies	15
+Management	13
+Media Studies	12
+Accounting	11
+African American Studies	9
+Exercise Science	9
+International Relations	8
+Art	7
+Marketing	7
+Public Relations	7
+Entrepreneurship and Emerging Enterprises	5
+Nutrition Science and Dietetics	5
+Art and Music Histories	4
+Library and Information Science	3
+Music	3
+Supply Chain Management	2
+Advertising	1
+Communications Management	1
+Design	1
+(blank)	20

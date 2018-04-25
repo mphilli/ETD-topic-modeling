@@ -1,0 +1,11 @@
+$TITLE:
+Metric Space Invariants between the Topological and Hausdorff Dimensions
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+bi-Lipschitz map, Cantor set, dimension, fractal, metric space, quasisymmetric map
+
+$ABSTRACT:
+We investigate a quasisymmetrically invariant counterpart of the topological Hausdorff dimension of a metric space.  This invariant, called the topological conformal dimension, gives a lower bound on the topological Hausdorff dimension of quasisymmetric images of the space.  We obtain results concerning the behavior of this quantity under products and unions, and compute it for some classical fractals.  The range of possible values of the topological conformal dimension is also considered, and we show that this quantity can be fractional.  The main theorem gives a lower bound on topological conformal dimension provided that the space contains a diffuse family of surfaces.  This is parallel to a classical result of Pansu that establishes a lower bound on conformal dimension given the existence of a diffuse family of curves.This thesis also exposes a relationship between Poincare inequalities and the topological Hausdorff dimension.  We give a lower bound on the dimension of Ahlfors regular spaces satisfying a (1,p)-Poincare inequality.  Finally, an iterative construction involving Cantor sets shows that there exist Jordan arcs of arbitrary conformal dimension.The methods used to obtain these results come from general topology, geometric measure theory, real analysis, and analysis on metric spaces.

@@ -1,0 +1,11 @@
+$TITLE:
+Long-term biofilm tests with silver contained electrospun polymer mats
+
+$DEPARTMENT:
+Biomedical and Chemical Engineering
+
+$KEYWORDS:
+biofilm, quantum dots, wound dressing
+
+$ABSTRACT:
+It has been reported that wounds heal faster and better in a moist, enclosed environment. Wound dressings are designed to fulfill such demands. In addition, wound dressings protect wounds from subsequent physical harm and bacterial infection. Among various types of wound dressings, electrospun wound dressings are widely marketed due to desired properties. For instance, electrospun polymers are highly porous. Water and oxygen that are necessary for cells are permeable through the porous structure. Moreover, electrospun polymers have high surface area to volume ratio. This property allows polymers to absorb extra exudate from wounds efficiently.  In this study, several silver-releasing electrospun polymers were evaluated with respect to their inhibiting activities against bacterial biofilms. Additionally, cadmium sulfide quantum dots were used as fluorescence probes to measure the silver release of several silver-containing polymers.

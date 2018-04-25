@@ -1,0 +1,11 @@
+$TITLE:
+Toward optimal scheduling of jobs on parallel multiprocessor systems
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Electrical engineering, Computer science, scheduling models
+
+$ABSTRACT:
+This dissertation is concerned with developing optimal strategies for the scheduling of stochastic jobs on selected parallel processors models. It is also intended to contribute to a more generalized approach and understanding of scheduling models for parallel and distributed computing systems in the presence of uncertainties.A subclass of scheduling problems is considered, namely the scheduling of stochastic independent jobs to parallel processors, where each job requires processing once, and there is no preemption. Six specific models are formulated and analyzed, and for each of these a threshold-type scheduling policy is specified and shown to be optimal under a completion time criterion. The models have either two or an arbitrary number of processors which differ in their speeds, have one or more priority classes of jobs, and assume processing time distributions that are either exponential or of increasing completion rate.To set the stage for the development and analysis of these models, a framework is presented for describing issues that must be considered for a comprehensive definition of a computing system scheduling problem. Critical issues related to stochastic scheduling are also summarized, along with an extensive literature review on single and multiple processors stochastic scheduling algorithms. Concluding remarks and potentially promising directions for future research are identified.

@@ -1,0 +1,11 @@
+$TITLE:
+Working memory and reading disabilities: The use of the Syracuse Order Tasks to predict academic achievement
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Working memory, Reading disabilities, Syracuse Order Tasks, Academic achievement, Memory
+
+$ABSTRACT:
+Working memory is an information processing theory of memory proposed by Baddeley (1986). Several working memory tasks have been developed to differentially predict the performance of learning disabled and typical students' achievement. However, many of these tasks require complex academic skills that would appear to penalize learning disabled students by assessing them in the area of their disability. The purpose of this study was to examine two working memory tasks that could predict academic achievement and membership in either a typical-achieving or reading-disabled group. These tasks involve number and letter ordering and, as such, depend on academic skills that are developed relatively early on in a child's school career. These tasks, as a result, are less a measure of academic skill (like reading comprehension), and more a measure of working memory. In this study, thirty-four typical and eighteen reading disabled children were presented with the letter and number order tasks, the reading span task, and the digit span (forwards and backwards). The Syracuse Order Tasks correlated moderately with reading span and digit span backwards across the reading disabled and typical groups, suggesting that they are measuring similar processes. In addition, the number and letter order tasks correlated significantly with academic achievement as measured by standardized tests. Finally, performance on the letter and number order tasks powerfully discriminated between the typical and reading disabled groups ($\beta$ = 0.92 and 0.99 for the Syracuse Order Task - Letters and Syracuse Order Task - Numbers, respectively). This suggests that working memory is an important component of learning and academic achievement and that these working memory tasks are useful measures in identifying students who might also demonstrate academic difficulties.

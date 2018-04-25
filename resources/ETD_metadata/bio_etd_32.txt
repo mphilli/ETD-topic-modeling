@@ -1,0 +1,11 @@
+$TITLE:
+A molecular and genetic analysis of the SNR1 subunit of the Brahma chromatin remodeling complex
+
+$DEPARTMENT:
+Biology
+
+$KEYWORDS:
+SNR1, Brahma, Chromatin, Brm
+
+$ABSTRACT:
+The Drosophila melanogaster  Brahma (Brm) complex, a counterpart of the Saccharomyces cerevisiae  SWI/SNF ATP-dependent chromatin remodeling complex, is a multi-protein complex important for proper development by maintaining specific gene expression patterns. The  snr1  gene of Drosophila melanogaster  encodes a conserved component of Brm complex. Loss-of-function and null mutations in the  snr1  gene reveal its essential role in Drosophila  development, while specific mutations in Ini1  , the human  snr1  homolog, are associated with aggressive cancers, underscoring the importance of this particular subunit in development. This thesis focuses on a genetic and molecular analysis of the SNR1 subunit during Drosophila  development, centering around the characterization and analysis of a temperature-sensitive allele of the snr1  gene,  snr1 E1   . Genetic analyses of snr1 E1   reveal that it functions as an antimorph and that  snr1  has critical roles in tissue patterning and growth control. Importantly, during wing vein formation in Drosophila  , the SNR1 subunit appears to constrain the ATPase activities of the BRM subunit in maintaining or activating the expression of particular genes critical for proper vein formation to occur. Analysis of the SNR1 E1  protein in the context of Drosophila  vein formation has therefore revealed an important regulatory function of SNR1 to activate or repress gene expression through specific associations with other members of the Brm complex.

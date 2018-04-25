@@ -1,0 +1,11 @@
+$TITLE:
+Solid-Liquid Suspension Flow in Horizontal Pipes
+
+$DEPARTMENT:
+Biomedical and Chemical Engineering
+
+$KEYWORDS:
+Hydraulic transport, Slurry pipelines
+
+$ABSTRACT:
+Hydraulic transport of solid particles in a pipe is reported to have been used as early as 1850 in California, where gold-bearing sand was lifted 30 to 50 feet, and flushed down inclined sluices (N-1). Extensive development and application of slurry pipelines started at the beginning of the twentieth century; since then it has received wide attention from various fields of engineering. Applications include dredging of rivers, hydraulic mining of phosphates, borax and gilsonite, pumping fiber suspensions in the pulp industry, transfer of process slurries in chemical plants, transportation of coal, clay, sand and rock salt over long distances, and the treatment and disposal of sewage.Despite its long history, and the widespread concern with its development, the subject of solid-liquid slurry flow is still quite inadequately developed. Because of the heterogeneous nature of the mixture, the vast number of variables, and the complex phenomena involved, current knowledge in this area is mainly empirical.

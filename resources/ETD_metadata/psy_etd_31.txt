@@ -1,0 +1,11 @@
+$TITLE:
+Self-regulation, alcohol consumption and consequences in college student heavy drinkers: A latent growth analysis
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Self-regulation, Alcohol, College student, Heavy drinkers
+
+$ABSTRACT:
+Understanding risk factors related to the progression of alcohol use and alcohol-related consequences may assist with screening at-risk individuals for targeted intervention. One risk factor related to increased rates of alcohol-related consequences is lower levels of self-regulation. Self-regulation refers to the effortful ability to plan and achieve delayed adaptive outcomes through goal-directed behavior. This study used simultaneous process latent growth modeling to investigate the role of self-regulation on the development of aggregate weekly alcohol consumption (both typical and peak) and alcohol consequences in a sample of 170 college student drinkers over a period of 12 months. The study aims were to (a) investigate the factor structure of the short self-regulation questionnaire (SSRQ), (b) investigate the feasibility of the use of simultaneous of growth modeling in college student drinkers, and (c) test predictions from self-regulation theory about the relationship between alcohol use and alcohol-related consequences. The previously reported one and two factor structures of the SSRQ were not replicated using confirmatory factor analysis. Exploratory analyses supported the one factor solution. The SSRQ was internally consistent and demonstrated good test-retest reliability. Results supported the use of simultaneous LGC modeling for alcohol use and alcohol-related consequences. In addition, self-regulation predicted the amount of initial alcohol-related consequences, the rate of change for alcoholrelated consequences, and the rate of change for typical and peak week alcohol consumption. However, self-regulation was not related to the initial level of alcohol use, potentially because alcohol use is normative in college students. Collectively, these results suggest that low self-regulation functions as a risk factor for increased rates of alcohol consequences and decreased ability to reduce alcohol use and consequences over time in this sample of college student heavier drinkers.

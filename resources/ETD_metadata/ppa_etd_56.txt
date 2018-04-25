@@ -1,0 +1,11 @@
+$TITLE:
+Education vouchers: The experience in Chile
+
+$DEPARTMENT:
+Public Administration
+
+$KEYWORDS:
+school finance, oublic administration
+
+$ABSTRACT:
+The education voucher debate had been long on theoretical insights and short on empirical analysis on which to base policy decisions. This work aims to fill the gap in empirical research on education vouchers by analyzing the public and private school response to the education voucher system in Chile. A review of the arguments both for and against the use of education vouchers leads to the following research questions: (1) Do private schools provide higher quality education than public schools under the terms of a voucher system? (2) Does competition promote higher quality education? (3) Does a competitive voucher system promote: (a) greater use of selection of students, and if so, how? (b) the use of opportunistic behavior on the part of schools, and are parents fooled by this? (c) greater innovation in terms of teaching methodologies and educational programs? (4) What school policies appear to be important in determining the level of student achievement?The method of analysis employs both multiple regression using a nation-wide data set on schools in Chile, and a description of the policies and school environment based on detailed data from a survey of fifty schools in the Santiago region. While some of these outcomes may be relevant to the situation in Chile only, others are applicable to a broader context. The general conclusion from this work is that an education voucher system is not a cure for the ills of public education. Little or no evidence was found showing a private sector advantage in either achievement test scores or educational leadership and innovation. In addition, only very weak evidence was found that competition promotes higher achievement scores. Furthermore, the evidence shows that some schools do behave opportunistically in the sense that they can provide low investment in educational resources with little negative consequences--they are not necessarily driven out of business. Finally, schools do have incentive to become selective under a voucher system and the result is an education system which is highly segregated according to student ability

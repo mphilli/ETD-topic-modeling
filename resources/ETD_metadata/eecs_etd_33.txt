@@ -1,0 +1,11 @@
+$TITLE:
+Empirical selection of NLP-driven document representations for text categorization
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Document representations, Text categorization, Natural language processing, Classification
+
+$ABSTRACT:
+Text Categorization is the task of assigning predefined labels to textual documents. Current research in this field has been focused on using word based document representations called bag-of-words (BOW) with strong statistical learners. Few studies have explored the use of more complex Natural Language Processing (NLP) driven representations based on phrases, proper names and word senses. None of these had definitive results on these features' benefits for text categorization problems.This dissertation extensively studies the use of NLP-driven document representations captured at many different levels of language processing for text categorization, and shows that NLP-driven document representations improve text categorization. A methodology, called "Empirical Selection Methodology for NLP-driven document representations", was developed to select document representations for each category in the categorization problem. A highly configurable software system was developed to create document representations and carry out experiments. The methodology has been tested on two widely used text categorization evaluation datasets, and showed that statistical learners generalize better with the help of NLP-driven document representations.

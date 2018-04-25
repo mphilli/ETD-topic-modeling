@@ -1,0 +1,11 @@
+$TITLE:
+Problems In Null-Plane Quantum Electrodynamics
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Particle physics
+
+$ABSTRACT:
+2. Null plane electrodynamics -- 3. Equivalence of null plane and conventional quantum electrodynamics -- 4. Equivalence in lowest order perturbation expansion -- 5. Scattering from an external potential.--From table of contents.

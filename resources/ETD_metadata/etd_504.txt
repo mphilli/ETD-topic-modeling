@@ -1,0 +1,11 @@
+$TITLE:
+Effects of vlogger race on perceived credibility, self-efficacy and behavioral intentions towards weight loss
+
+$DEPARTMENT:
+Media Studies
+
+$KEYWORDS:
+Interactive media, Spokesperson effect
+
+$ABSTRACT:
+Spokesperson race and expertise have exhibited an impact on audiences. This study examines the effect of race congruency between vlogger and audience in regards to weight loss. Using social psychology and communication theories, including Elaboration Likelihood Model, spokesperson effects, the Theory of Planned Behavior, social cognitive theory, and self-efficacy theory, the current study features independently produced vlogs (video blogs) discussing weight loss strategies. The race and expertise of the vloggers in the videos were manipulated to test the effects on perceived message and source credibility, self-efficacy towards exercising and dieting, and behavioral intentions towards exercising and dieting.Results reveal that, although race congruency demonstrates limited effect on the outcome variables, it interacts with participant race, ethnic identity, and vlogger expertise to predict perceived message credibility, self-efficacy towards exercising and dieting, and behavioral intentions towards exercising and dieting. Asian American participants report greater perceived message credibility and behavioral intentions towards exercising and dieting after watching an Asian American vlogger compared to a White American vlogger. Asian American participants with low ethnic identity report greater self-efficacy towards exercising and dieting after watching an Asian American vlogger compared to a White American vlogger, while White American participants with low ethnic identity report greater self-efficacy towards exercising after watching an Asian American vlogger compared to a White American vlogger. Furthermore, perceived message credibility mediates the effect of the interaction of race congruency and participant race on participant’s behavioral intentions towards exercising and dieting. This study provides insights for understanding spokesperson effect and designing health campaigns in the interactive media environment.

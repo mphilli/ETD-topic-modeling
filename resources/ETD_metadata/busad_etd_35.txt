@@ -1,0 +1,11 @@
+$TITLE:
+The role of pricing in supply chain profits
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+Marketing, Pricing policies, Supply chains, Profits, Studies
+
+$ABSTRACT:
+Many researchers assert that "everyday low pricing" (EDLP) generally outperforms "hi-low pricing" (HLP) in many supply chains because EDLP reduces demand distortion and improves supply chain profits. While EDLP strategies may be appropriate for products or services with constant underlying demand patterns, some items, such as clothes, toys, and bicycles, have attributes that produce seasonal or fluctuating demand patterns. When underlying demand is seasonal, EDLP strategies do little to stabilize demand. If demand is price sensitive, however, HLP may help attenuate and stabilize the naturally occurring seasonal demand swings. When the amplitude of the demand changes is dampened, suppliers may need to make fewer, or less extreme, capacity changes, thereby reducing production costs. In this study, we search for the operating conditions, such as demand pattern, demand amplitude, customer price sensitivity, production change cost structure, and promotional cost structure, that favor a HLP pricing strategy.

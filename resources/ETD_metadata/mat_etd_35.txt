@@ -1,0 +1,11 @@
+$TITLE:
+Numerical methods for smooth, detectable image perturbations
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Image perturbations, Watermarking, Variational calculus
+
+$ABSTRACT:
+The area of digital watermarking, although relatively new, is well established in the field of image processing and computer engineering. It has developed rapidly over the past decade and many different watermarking algorithms, as well as sophisticated methods of testing their reliability, have been proposed.An original watermarking method in the image domain formulated mathematically is introduced as a variational minimization problem with randomly generated boundary constraints. The properties of this method regarding detection and invariance are proved using results from calculus of variations, PDEs, as well as modern image analysis.The method is implemented numerically using the Finite Element Method on a uniform triangulation of the unit square. Computational details are provided for the case of non-homogeneous boundary conditions. Results regarding the smoothness of the solution for convex domains and the convergence order of the method are proven.Two classes of experiments are designed and implemented in MATLAB ® . The class supports the original claims of unobtrusiveness, detectability, and invariance of the perturbation introduced through our method. The second class compares several features of our method to those of the wavelet-projection method proposed in [16]. These features are: detection of the watermarks in both image and wavelet domain, invariance and robustness of the watermarks to blurring and resizing. Pertinent images and graphs are included, as well as the original MATLAB ® code.

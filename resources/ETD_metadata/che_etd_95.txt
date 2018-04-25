@@ -1,0 +1,11 @@
+$TITLE:
+Modification of the extended solid structure of cuprous cyanide using polyimines
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Cuprous cyanide, Polyimines, Cyanide, Composites
+
+$ABSTRACT:
+Design of extended solid-state materials and their subsequent preparation has been an empirical process due to the complexity of parameter space. Further complicating the design of desired materials is the variation in not only elemental composition, but also structural composition of chemical building blocks from which extended solids can be derived.The exploration of parameter space of the set of systems Cu-CN-LL-LL ' (LL and LL ' = polyimines) was initiated to provide markers for a structural informatics data base. Compounds of the general formulas {Cu x (CN) x (LL) y } and {Cu x (CN) y (LL ' )(LL)} were prepared in hydrothermal media. They were structurally characterized via single crystal x-ray diffraction experiments and FTIR-microscopy.The polyimines employed functioned in one of three general modes in the composite materials: (i) truncation of the propagation of the cuprous cyanide substructure, (ii) linking of the cuprous cyanide substructure in a linear fashion, and (iii) tethering of the cuprous cyanide substructure in a non-linear fashion. The additional property of templation was associated to varying degrees with each of the three general modes.All copper species were formally assigned a unipositive oxidation state in agreement with charge balance requirements and observed metal center coordination geometries. The presence of close contacts between cuprous centers was estimated to be dominantly determined by the structure directing properties, or lack thereof, of the polyimines employed.

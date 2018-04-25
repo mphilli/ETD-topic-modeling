@@ -1,0 +1,11 @@
+$TITLE:
+Surviving malicious code attacks
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Malicious code attacks, Intrusion detection, Intrusion mitigation, Address space randomization, Waypoint, Operating system security, Loadable kernel modules
+
+$ABSTRACT:
+The goal of the research presented in this dissertation is to prevent, detect, and mitigate malicious code attacks that modify the legitimate program control flow at run time. This dissertation tries to answer the question "What can a computer system do to counter intrusions?" assuming that run-time errors are unavoidable and attackers may use any available intrusion techniques or create new exploit techniques.This dissertation presents three new system techniques to support intrusion detection and mitigation: (1) an access monitoring technique for tightly-coupled binary programs, (2) a context-sensitive intrusion detection technique, and (3) an address space randomization technique. The dissertation describes how to monitor the boundary of a module in a tightly-coupled software environment using code instrumentation and an access specification. As an example, the technique is applied to monitor possibly vulnerable loadable kernel modules. After that, the dissertation shows how a computer system supports intrusion detection with reliable program context information. The technique can retrieve trustworthy program call flow proactively. The dissertation also presents a new address space randomization technique that randomizes relative distance between functions dynamically and maximally. This technique can best be applied to protect dedicated multi-threaded servers, which demand both strong protection and high availability.The techniques presented in this dissertation are designed to detect and mitigate shellcode-based attacks, return-into-lib(c) attacks, and any other attacks that modify the program control flow or use unauthorized data or code. Such attacks are often a latter stage of a buffer overflow or format string exploit, the dominant exploit in the real world. Our techniques increase the difficulty for early-stage exploits to subvert a system.

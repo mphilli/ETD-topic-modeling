@@ -1,0 +1,11 @@
+$TITLE:
+Extracting Expectations in Affine Term Structure Models
+
+$DEPARTMENT:
+Finance
+
+$KEYWORDS:
+Business cycle, Recovery, Term structure, Yield curve
+
+$ABSTRACT:
+In this paper, we study the problem of implementation of Ross (2013) Recovery Theorem to disentangle the pricing kernel and physical probabilities from observed bond yields within discrete time affine term structure models. As a remedy to the problem of obtaining Arrow-Debreu prices of state transitions, we propose Markov chain approximation to autoregressive processes. Our work suggests that affine setting offers rich structure that enables us to obtain necessary inputs in empirical applications. In the second part, we estimate a canonical discrete time Gaussian three factor term structure model with the U.S. Treasury bond yields. We decompose bond yields into expectation and risk components without specifying risk adjustment inside the model. The results indicate that expectations component can be used in predicting economic activity.

@@ -1,0 +1,11 @@
+$TITLE:
+Identification and Characterization of Pathogen Defense Genes of Arabidopsis thaliana
+
+$DEPARTMENT:
+Biology
+
+$KEYWORDS:
+Arabidopsis thaliana, chromatin remodeling, microRNA, pathogen defense, Pseudomonas syringae
+
+$ABSTRACT:
+Plants are constantly under attack from microbes and therefore employ complex and multilayered defense mechanisms to prevent infection. This work reports characterization of defense regulatory genes of Arabidopsis thaliana, including a microRNA, a family of histone demethylases, and a gene of unknown function. The microRNA miR167 was previously found to regulate flower development by controlling patterns of expression of the AUXIN RESPONSE FACTOR genes ARF6 and ARF8. I found that miR167 is differentially expressed in response to treatment with the bacterial pathogen Pseudomonas syringae, and that overexpression of miR167 confers very high levels of resistance to the pathogen. The high resistance of miR167 overexpression plants appears to be due to shifts in the balance of hormones to favor those that strengthen defense, and to their tendency to maintain stomata in a closed state, thus preventing entry of bacterial cells into the leaf interior where they can cause disease. This work highlights a new role for a microRNA previously known only for its role in development. I also began characterization of several members of the JumonjiC domain-containing family of histone demethylases. We have previously shown that one member of this family, JMJ27, is required for defense against P. syringae. I identified several other family members that are differentially expressed upon pathogen treatment and two that are critical for defense. Finally, I characterized the TolB-RELATED DEFENSE PROTEIN 1 gene of Arabidopsis. This gene is strongly induced by a variety of pathogens and abiotic stresses and encodes a protein of unknown function. tdp1 knockout mutants did not have altered resistance to P. syringae or oxidative stress, but the high induction of this gene under so many conditions suggests that it plays an important, if not critical, role in stress management.

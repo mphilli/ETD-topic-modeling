@@ -1,0 +1,11 @@
+$TITLE:
+Graphical simulation and automatic verification of NC milling programs
+
+$DEPARTMENT:
+Mechanical and Aerospace Engineering
+
+$KEYWORDS:
+automatic verification of NC (numerical controlled) machining programs
+
+$ABSTRACT:
+Development of a 3-D graphic simulator for automatic verification of NC (numerical controlled) machining programs is one of the important research topics in today's computer-aided design and manufacturing engineering. Application of the simulators can help engineers to reduce the design period as well as the manufacturing costs. However, most of the simulators used in today's industry can only perform simple simulation tasks. Therefore, the need exists to develop efficient simulators with high verification accuracy. The objective of this dissertation is to study and outline the methodology for the development of a 3-D solid model based graphic simulation and automatic verification system for NC milling programs. In this dissertation, the current development in automatic verification of NC programs is studied. On the basis of the study, a special solid geometric model (called extended octree with surface boundaries) suitable for graphical NC machining simulation and verification is proposed and special data structures are developed to implement the modeling approach. A prototype system is developed to show NC machining process with 3-D shaded animation and to perform automatic verification based on the modeling technology. Some important algorithms for solid model conversions, model reconstruction, tool swept volume generation, model verification, 3-D animation and system implementation in object-oriented programming environment are also discussed.

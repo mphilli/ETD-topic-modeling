@@ -1,0 +1,11 @@
+$TITLE:
+Strategic task switching: Searching for evidence of extrinsic adaptivity in a time-critical task switching environment
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Task switching, Multitasking, Time management, Strategies
+
+$ABSTRACT:
+The degree to which individuals learn the base rate of success of a given strategy is sometimes referred to as extrinsic adaptivity.  Although this concept has been examined using a variety of complex multitasking scenarios, it has not yet been explored in a task switching procedure where the competing strategies involve deciding whether to switch or repeat a currently activated task. Therefore, the present study searched for potential evidence of extrinsic adaptivity in an endogenously driven multitasking environment where participants had to engage in task switching during a series of brief time blocks of varying durations. Several factors were manipulated across three experiments: (1) the opportunity to select between two fixed-run-length  strategies prior to the start of each time block, (2) the effect of advance foreknowledge of each time interval within a  voluntary task switching  protocol, and (3) in the absence of explicit foreknowledge, the role of time monitoring for establishing effective task switching performance. In each experiment, extrinsic adaptivity was assessed by examining two unique performance variables: switch rates  and task pairs.  Results from the first two experiments indicated that, when participants were provided with advance foreknowledge regarding the length of each time block, they established significantly higher  switch rates  during shorter versus longer time intervals (i.e., regardless of whether they followed an alternating-runs  or  voluntary task switching  protocol). However, these strategic adjustments were not significant when foreknowledge of the time intervals was absent. A third experiment failed to indicate an effect of time monitoring on  switch rates,  even though estimating the duration of each time block led to the completion of more task pairs in general. Findings are discussed with respect to their potential implications for multitasking in daily life, and the challenges associated with developing effective strategies for organizing competing tasks during time-limited situations.

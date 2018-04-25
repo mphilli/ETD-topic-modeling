@@ -1,0 +1,11 @@
+$TITLE:
+Sex differences in personal space: A meta-analytic review of the sex effect literature
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Developmental psychology, Social psychology, personal space, gender differences
+
+$ABSTRACT:
+The present meta-analysis examined sex differences in personal space preferences. Much of the research conducted since the 1960's indicated that males preferred more personal space from others, especially males, while many studies reported females preferred as much personal space as did males and in some studies females preferred more personal space than males. Researchers have examined the relationship of moderator variables, such as age, culture, and appearance, to personal space preference, but have not been able to account for much of the variance in the data. Also, researchers have had difficulty establishing validity for various methods developed to measure personal space. To resolve these issues, I conducted a meta-analysis of the relevant literature.The meta-analysis included a total of one hundred-eleven effect sizes derived from statistical outcomes of primary studies. The studies were coded for theoretically relevant moderator variables as well as variables specifically relevant to this meta-analytic review. Results of the meta-analysis indicated the sex difference in personal space preferences was very small and in the male direction. Because the mean overall effect size was not representative of the study effect sizes, tests for moderator variables were conducted. The statistical design of the primary studies, methodology, culture, and decade emerged as variables significantly contributing to the sex effect on personal space. In summary, both theoretical and practical issues were addressed.

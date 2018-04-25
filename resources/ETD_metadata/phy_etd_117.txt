@@ -1,0 +1,11 @@
+$TITLE:
+The Design and Construction of a Green Laser and Fabry-Perot Cavity System for Jefferson Lab's Hall A Compton Polarimeter
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Fabry-Perot Cavity System, Green laser
+
+$ABSTRACT:
+A high finesse Fabry-Perot cavity with a frequency doubled green  laser (CW, 532 nm) have been built and installed in Hall A of Jefferson Lab for  high precision Compton polarimetry project in spring of 2010. It provides a high  intensity circularly polarized photon target for measuring the polarization of  electron beam with energies from 1.0 GeV to 11.0 GeV in a nondestructive manner.  The IR beam (CW, 1064 nm) from a Ytterbium doped fiber laser amplifier seeded by  a Nd:YAG narrow linewidth NPRO laser is frequency doubled in by a single-pass  Periodically Poled Lithium Niobate (PPMgLN) crystal. The maximum achieved green  power at 5 W IR pump power was 1.74 W with a total conversion efficiency of  34.8%. The frequency locking of this green light to the cavity resonance  frequency is achieved by giving a feedback to Nd:YAG crystal via laser  piezoelectric (PZT) actuator by Pound-Drever-Hall (PDH) technique. The data  shows the maximum amplification gain of our cavity is about 4,000 with a  corresponding maximum intra-cavity power of 3.7 kW. The polarization transfer  function has been measured in order to determine the intra-cavity laser  polarization within the measurement uncertainty of 0.7%. The PREx experiment at  JLab, used this system for the first time and achieved 1.0% precision in  electron beam polarization measurement at 1.0 GeV.

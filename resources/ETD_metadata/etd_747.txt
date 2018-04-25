@@ -1,0 +1,11 @@
+$TITLE:
+Voluntary Adoption of Internal Audit by NASDAQ Firms and its Impact on Financial Reporting
+
+$DEPARTMENT:
+Accounting
+
+$KEYWORDS:
+Discretionary Accruals, Governance, Internal Audit, Material Weakness, Nasdaq, Value
+
+$ABSTRACT:
+While regulators recognize internal audit as an important governance function, the recent rejection by managers of NASDAQ firms of a proposal that would require NASDAQ listed firms to have an internal audit function indicates that management may not have the same regard for internal audit and may be unclear regarding internal audit’s value. Using hand-collected data for a sample of firms that have and have not voluntarily adopted an internal audit function, I run regressions to identify the impact of internal audit adoption on financial reporting and audit fees. I also identify the factors that drive the adoption decision. I find that internal audit satisfies demand for an objective monitoring function by reducing management opportunism and highlighting issues that may have otherwise gone unreported. Firms with internal audit have lower discretionary accruals and are more likely to report a material weakness. Firms also implement an internal audit function over time and as they become financially healthier and feel more external monitoring pressure (e.g., from debtholders). The findings suggests that notwithstanding the lack of a regulatory internal audit mandate, internal audit currently fulfills a natural demand for monitoring within NASDAQ firms and that a systematic internal audit adoption decision making process may already exist.

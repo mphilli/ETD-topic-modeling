@@ -1,0 +1,11 @@
+$TITLE:
+Experimental investigations towards production of hyperpolarized xenon-129 through the condensed state
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Hyperpolarized, Condensed state, Xenon-129, condensation
+
+$ABSTRACT:
+Nuclear spin relaxation of 129 Xe in solid xenon was investigated over a wide range of oxygen content, in the temperature range between 1.4 and 160K and in magnetic fields between 2.5 and 10 kOe. From the nuclear spin lattice relaxation measurements between 1.4 and 4.2K, the magnetic energy structure of the O 2 impurity was determined, notably a crystal field D term of 0.19 meV. An anomalous temperature dependence of the T 1n in that range was explained with a paramagnetic impurity model based on the magnetic structure. Dynamic nuclear polarization of the 129 Xe was observed near 2.0 K and a field of 2.8 kOe when moderate concentrations of the radical TEMPO were introduced into liquid xenon and the mixture frozen quickly. Nuclear spin polarization enhancement factors of up to 300 were obtained for the 129 Xe with several hundred milliwatts microwave pumping at frequencies in the 9 GHz range. The results cannot be explained with the unresolved 'solid effect' model, whereas the spin temperature reservoir theory is a good candidate. A moderately oxygen doped 129 Xe sample was brought from 1.4K to 150K quickly enough for the resulting material to be hyperpolarized with a polarization enhancement of about 80 with respect to the final T and B values.

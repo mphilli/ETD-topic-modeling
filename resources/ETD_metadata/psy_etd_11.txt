@@ -1,0 +1,11 @@
+$TITLE:
+Programming for the generalization of oral reading fluency: A comparison of repeated readings versus repeated readings of multiple exemplars
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Reading fluency, Generalization, Multiple exemplars, General case, Intervention, Oral reading
+
+$ABSTRACT:
+Although a number of interventions have been shown to be effective for improving students' oral reading fluency rates, significantly less research has been conducted to determine which interventions promote generalized reading performance to new texts. General case instruction (also called multiple exemplar instruction), in which teaching examples are carefully selected to sample from the stimulus and response variation, is a generalization programming technique that has been applied to myriad community skills but far fewer academic skills. The current study sought to apply this generalization programming strategy to promote generalized oral reading fluency. The study also sought to compare the efficiency (i.e., the amount of gains made in the amount of intervention time) of multiple exemplar instruction and a more typical listening passage preview/repeated readings intervention package. Participants consisted of 111 first and second grade students from three public schools in a large urban school district. One-way ANOVAs on the gain scores from pre-test to post-test were used to assess the effectiveness of multiple exemplar instruction, listening passage preview/repeated readings, and a time and attention control condition at promoting generalized reading fluency (in words correct per minute). Results showed that students in both the multiple exemplar group and the listening passage preview/repeated readings group outperformed students in the control group. Moreover, multiple exemplar instruction was more efficient. Implications, limitations, and directions for future research are discussed.

@@ -1,0 +1,11 @@
+$TITLE:
+Serial sigmatropic construction of polypropionate-derived acyclic systems: Synthesis of the ansa subunit of streptovaricin D
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+polypropionate-derived acyclic systems, streptovaricin D
+
+$ABSTRACT:
+The construction of polypropionate-derived acyclic systems by the iterative application of (2, 3) -Wittig rearrangements is the subject of this dissertation.A stereocontrolled, linear approach to the synthesis of carbon chains of adjacent secondary hydroxyl and secondary methyl groups based on the use of (2, 3) -Wittig rearrangements of $\alpha$-alkoxy, tertiary allylic oxazoline ethers is described. (2, 3) -Wittig rearrangements establish trisubstituted olefinic templates which are then hydrated to establish key structural and stereochemical elements in target molecules Complementary protocols for the hydration of these olefinic templates are discussed.The utility of the (2, 3) -Wittig approach is demonstrated in the preparation of the C5-C15 portion of streptovaricin D, an ansamycin with activity against both bacterial and viral nucleic acid polymerase systems. Successive (2, 3) -Wittig rearrangements establish the C9-C10 and C5-C6 connections and stereocontrolled hydroborations introduce the C7-C8 and C11-C12 stereocenters of the streptovaricin D ansa subunit.

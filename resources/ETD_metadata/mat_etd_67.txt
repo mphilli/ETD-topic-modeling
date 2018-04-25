@@ -1,0 +1,11 @@
+$TITLE:
+Excess Porteous, Coherent Porteous, and the Hyperelliptic Locus in M3
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Algebra, Geometry
+
+$ABSTRACT:
+In the moduli space of curves of genus 3, the locus of  hyperelliptic curves forms a divisor, that is a closed subscheme of codimension  1. J. Harris and I. Morrison compute an expression for the class of this  divisor, in the Chow ring of the moduli space, using a map of vector bundles and  by applying the Thom-Porteous formula to determine an expression for a certain  degeneracy locus of this map. One would like to extend their idea in order to  compute an expression for the divisor associated to the closure of the  hyperelliptic locus, in the Chow ring of the moduli space of stable curves (of  genus 3.)     Recent work due to S. Diaz allows one to define the degeneracy class of  a map between coherent sheaves, and gives explicit means for computing this  class. Diaz uses his technique to partially extend the above mentioned  computation, but he points out that in order to complete the computation one  must combine his techniques with an Excess Thom-Porteous formula. This thesis  completes this computation by combining the work of Diaz with this Excess  Thom-Porteous formula.

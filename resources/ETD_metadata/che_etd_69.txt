@@ -1,0 +1,11 @@
+$TITLE:
+Design, synthesis, and characterization of photochromic organic compounds: Advances toward optical memory
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Photochromic, Optical memory, Fulgides, Indolylfulgides
+
+$ABSTRACT:
+The design, synthesis, and characterization of over 20 indolylfulgides and indolylfulgide derivatives are detailed herein. Each compound has been fully evaluated for such properties as optical absorption spectra, photostationary states, quantum yields, and photochemical and thermal stability. The parent trifluoromethyl isopropylidene indolylfulgide can undergo nearly 3000 repeated cycles of coloration and bleaching in solution before 20% loss of absorbance. The methoxy-substituted cyclohexylidene indolylfulgide degrades at only 0.006% per cycle, the strongest photochemical fatigue resistance of any fulgide reported to date.Other significant findings include the identification of the thermal decomposition pathway for the Z-form of fluorinated indolylfulgides and the production of hydrolytically stable indolylfulgimides. The UV-vis spectral characteristics of the indolylfulgimides can be predictively tuned by incorporating phenyl groups substituted with electron-withdrawing groups of varying strength.Using the information gathered in the thermal decomposition study, a new class of photochromic organic compounds (aryletheneanhydrides) has been prepared from fluorinated cycloalkylidene indolylfulgides. These compounds maintain outstanding thermal stability with both forms showing little to no loss of absorbance after 3 weeks at 80°C. Furthermore, the methoxy-substituted indolylcyclohexenylanhydride displayed outstanding photochemical stability; no discernable loss of absorbance was observed after 600 photochemical cycles. Finally, the studies have helped to advance the basic understanding of structure activity relationships for photochromic fulgides.

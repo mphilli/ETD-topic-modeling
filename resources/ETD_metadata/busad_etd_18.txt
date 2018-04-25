@@ -1,0 +1,11 @@
+$TITLE:
+The impact of leverage implicit in derivative financial instruments on banks' default risk premium
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+Off-balance sheet leverage, Leverage, Derivative financial instruments, Banks, Default risk premium
+
+$ABSTRACT:
+The inability of market participants to understand derivative financial instruments and differentiate between risk-increasing and risk-reducing derivatives has been a major concern for standard-setters and policymakers. This study investigates whether leverage implicit in bank holding companies' off-balance sheet derivative portfolios is incorporated into the assessment of bank holding companies' default risk. Using the disclosed information required by SFAS No. 119, Disclosure about Derivative Financial Instruments and Fair Value of Financial Instruments , leverage implicit in derivative contracts is calculated for a sample of 111 bank holding companies. This implicit off-balance sheet leverage is calculated separately for trading and hedging derivative portfolios. My findings suggest that higher leverage through trading derivatives is associated with higher spread on bank holding company bonds, while positions taken through hedging derivatives reduce spread on bank holding company bonds. My findings suggest that traditional leverage ratio, measured as the ratio of on-balance sheet assets to equity, is an incomplete measure of overall leverage. These findings also indicate that derivative disclosures mandated by the Financial Accounting Standard Board convey risk-relevant information to creditors, and help more efficient allocation of risk. My results have implications for researchers, accounting standard-setters, derivative-users and policymakers.

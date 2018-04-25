@@ -1,0 +1,11 @@
+$TITLE:
+Genetic and molecular characterization of genes involved in Caenorhabditis elegans germ line development
+
+$DEPARTMENT:
+Biology
+
+$KEYWORDS:
+signal transduction,  @ego
+
+$ABSTRACT:
+Cell-cell interactions control many cell fate choices during the development of multicellular organisms. In Caenorhabditis elegans, the distal tip cell (DTC) regulates the mitosis/meiosis choices of the germ cells. This cell signaling requires a putative signal from the DTC, encoded by the lag-2 gene, a putative receptor in the germline, encoded by the glp-1 gene, and at least one downstream effector encoded by the lag-1 gene. To identify additional genes involved in the glp-1 signaling pathway, genetic suppressors and enhancers of glp-1 mutations have been isolated; they are named sog (suppressor of glp-1) and ego (enhancer of glp-1) mutations.My dissertation studies involve the genetic characterization of a sog-10 mutation and a set of ego mutations, and the molecular cloning of the ego-3 gene. The sog-10 mutation suppresses glp-1 (lf) germline defects and feminizes XX germline, indicating its role in both germline proliferation and sex determination. lag-1 and glp-4 are known genes whose mutations can enhance glp-1(lf). lag-1 mutations affect both germline proliferation and embryogenesis, while glp-4 mutations affect both germline mitosis and oogenesis. Finally, ego-3 mutations have multiple phenotypes indicating its role in multiple aspects of germline development as well as in somatic tissues. The predicted ego-3 gene encodes a novel protein. Its weak similarity with several enzymes suggests EGO-3 may be involved in protein-protein interactions. These studies suggest that these suppressors and enhancers of glp-1 may have functions in multiple aspects of development, as does glp-1 itself.

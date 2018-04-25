@@ -1,0 +1,11 @@
+$TITLE:
+Anomalous hall effect and oscillatory photoconductivity in p-type mercury cadmium-telluride
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Condensation
+
+$ABSTRACT:
+Single crystals of mercury cadmium telluride have been grown by two techniques, solid state recrystallization and slush recrystallization. Each technique has been characterized by Berg-Barrett X-ray topography in order to determine optimum growth parameters. Optimum growth parameters for solid state recrystallized ingots of Hg1-x CdxTe were a quench rate of 50 l/m, a mercury partial pressure of 20 atm and an anneal temperature of 690°C. For slush recrystallization optimum growth of Hg1-x CdxTe crystals was achieved with initial compositions of 7 percent and a temperature gradient of 10°C/cm.  ...

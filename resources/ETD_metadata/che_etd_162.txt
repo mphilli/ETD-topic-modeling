@@ -1,0 +1,11 @@
+$TITLE:
+The Kinetics and Mechanism of Hydrogen Transfer from Models for Reduced Pyridine Nucleotide Coenzymes
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+coenzyme, chemistry
+
+$ABSTRACT:
+Examines coenzymes in chemistry.

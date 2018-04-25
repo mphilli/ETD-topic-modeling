@@ -1,0 +1,11 @@
+$TITLE:
+Context and anti-essentialism: A thoroughgoing approach
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Context, Antiessentialism, Aesthetics, Morris Weitz
+
+$ABSTRACT:
+Since the publication of Morris Weitz's paper "The Role of Theory in Aesthetics" in 1956, anti-essentialism has been an important, although frequently criticized, development in aesthetics. Anti-essentialism is the movement away from essentialist definitions in aesthetic theory, and Weitz proposed that instead of searching for a set of necessary and sufficient conditions to define 'art,' one should instead use Wittgenstein's concept of family resemblances. Although many have considered this suggestion objectionable, I believe the introduction of a more finely tuned notion of context would strengthen Weitz's position greatly, and in turn make anti-essentialism a more viable position. What has truly weakened Weitz's stance is his reliance upon family resemblances, which seem to be just another version of necessary and sufficient conditions. My own brand of anti-essentialism is grounded in the notion that art has no real essence for a number of reasons: the context in which art has been found has changed drastically with more systematized institutions. The 'fine arts' we comfortably discuss now are a rather new conception that did not exist before the eighteenth century and thus treating art as though it has always encompassed the same class of objects fails since the term 'art' has changed and the purpose and function of art has changed as well. Rather than try to unify an activity or set of objects under a class of necessary and sufficient conditions or through a relation of family resemblances, I propose to look at the term 'art' and how it has been used historically and also look at the way the function and purpose of art has changed. In doing this, the institutional, historical and linguistic contexts of art appear in sharper definition, and an anti-essentialist theory can truly emerge.

@@ -1,0 +1,11 @@
+$TITLE:
+Absolute branching fraction measurements for exclusives Ds semileptonic decays
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Branching fraction, Semileptonic decays, Cabibbo, Meson
+
+$ABSTRACT:
+We measure the absolute branching fractions of D s   semileptonic decays where the hadron in the final state is one of [straight phi], η, η', [Special characters omitted.] , K  *0  , and f   0  , using 2.8 × 10 5  e  +   e  -  [arrow right] D s   [Special characters omitted.] decays collected in the CLEO-c detector at a center-of-mass energy close to 4170 MeV. We obtain [Special characters omitted.] ([Special characters omitted.] [arrow right] [straight phi] e  +  ν e   ) = (2.29 ± 0.37 ± 0.11)%, [Special characters omitted.] ([Special characters omitted.] [arrow right] η e  +  ν e   ) = (2.48 ± 0.29 ± 0.13)%, [Special characters omitted.] ([Special characters omitted.] [arrow right] η' e  +  ν e   ) = (0.91 ± 0.33 ± 0.05)%, where the first uncertainties are statistical and the second are systematic. We also obtain [Special characters omitted.] ([Special characters omitted.] [arrow right] K  0  e   +  ν e   ) = (0.37 ± 0.10 ± 0.02)%, and [Special characters omitted.] ([Special characters omitted.] [arrow right] K  *0  e   +  ν e   ) = (0.18 ± 0.07 ± 0.01)%, which are the first measurements of Cabibbo suppressed exclusive  D s   semileptonic decays, and, [Special characters omitted.] ([Special characters omitted.] [arrow right] f  0  e  +   ν e   ) × [Special characters omitted.] ( f  0  [arrow right] π +  π  -  ) = (0.13 ± 0.04 ± 0.01)%. This is the first direct evidence of a semileptonic decay including a scalar meson in the final state.

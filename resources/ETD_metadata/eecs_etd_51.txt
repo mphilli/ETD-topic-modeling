@@ -1,0 +1,11 @@
+$TITLE:
+The design and evaluation of contention-based geographic forwarding for wireless multi-hop networks
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Contention-based geographic forwarding, Wireless networks, Network protocols, Geographic routing, Performance evaluation, Wireless sensor networks
+
+$ABSTRACT:
+In traditional geographic forwarding for wireless multi-hop networks, the beaconing scheme that is used to acquire the geographic information of neighbors incurs unnecessary overhead when there is no data traffic or when the neighborhood information is still fresh. It also results in performance deterioration when the network is highly dynamic. To address these problems, we describe a novel geographic forwarding paradigm, called Contention-based Geographic Forwarding (CGF), to eliminate the use of the beaconing scheme. In contrast to traditional geographic forwarding, CGF accesses the neighborhood information instantly and selects a next-hop node in a distributed fashion. This dissertation studies the CGF paradigm, as well as the design and evaluation of CGF protocols for wireless sensor networks. We first conduct a topology-level study that models the paradigm and develops an analytical framework to evaluate the CGF performance. This framework provides guidelines regarding the selection of the forwarding area for a CGF protocol. It also serves as a general performance evaluation framework for most geographic routing protocols. Next, in the packet-level study, we propose three network protocols based on CGF. The State-free Implicit Forwarding (SIF) protocol is designed for highly dynamic and resource-constrained sensor networks with a moderate node density. It can also be applied to highly mobile ad hoc networks. Address-free Data Forwarding (ADF) is designed for address-free sensor networks. On-demand Geographic Forwarding (OGF) is devised for large-scale and extremely resource-constrained sensor networks with unreliable sensors. Our analytical and simulation results demonstrate their effectiveness and efficiency. These two studies, at different levels of abstraction, show that CGF is capable of becoming a viable communication paradigm for emerging large-scale, highly dynamic, or resource-constrained wireless multi-hop networks.

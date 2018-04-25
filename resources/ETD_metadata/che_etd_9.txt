@@ -1,0 +1,11 @@
+$TITLE:
+From small molecules to large proteins: Delivery through B family vitamin uptake pathways
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Vitamin uptake, Vitamin B12, Folic acid, Methatrexate, Azidodeoxythymidine
+
+$ABSTRACT:
+Delivery of therapeutic molecules using the B family vitamin uptake pathways is presented. First a study examining targeting the folate receptor to deliver AZT was successfully conducted in vitro.  Conjugation of AZT to folic acid resulted in a drug that showed an increase in cytotoxicity of ∼20-fold compared to free AZT, when tested in the A2780/AD drug resistant ovarian cell line. This compound was taken to pilot in vivo  studies. Conjugates of the folic acid analogue methotrexate with nucleoside analogues AZT, IUdR and ddC were subsequently studied. The strategy was to conjugate two drugs that would work synergistically together. The individual conjugates did not show any synergism, but a cocktail of the AZT and IUdR conjugates showed a synergistic relationship with a lower IC 50  over 24 hours compared to cocktails of the free drugs.  In an attempt to create an oral vaccine, conjugates of tetanus toxoid and B12 were explored. It was hypothesized that the B 12 uptake pathway could protect the toxoid in the digestive tract and facilitate crossing of the enterocyte. The pilot B 12 -tetanus toxoid conjugates were synthesized and characterized. Different ratios of B 12 /tetanus toxoid were synthesized. The conjugates were fluorescently tagged and intestinal uptake was modeled using BeWo placental carcinoma cells, followed by confocal microscopy.

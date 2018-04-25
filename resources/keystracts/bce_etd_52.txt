@@ -1,0 +1,1 @@
+kinetics hydrocarbons chemical engineering the first objective of this work is the construction of a mathematical model which describes the homogeneous kinetics of aliphatic hydrocarbon chlorination the second objective is the comparison of results from the mathematical model using predetermined values for the rate constants with observed data

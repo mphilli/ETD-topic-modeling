@@ -1,0 +1,11 @@
+$TITLE:
+Physiological correlates of temporal envelope perception
+
+$DEPARTMENT:
+Biomedical and Chemical Engineering
+
+$KEYWORDS:
+Temporal envelope, Neural coding, Auditory
+
+$ABSTRACT:
+The perception of speech and other behaviorally relevant sounds is strongly influenced by the amplitude-modulated (AM) properties of the signal (i.e., its temporal envelope). To gain a better understanding of the representation of AM stimulus features in the normal auditory system, experiments were carried out in psychophysics, physiology, and computational modeling, using comparable parametric spaces. Existing AM psychophysical data were supplemented with results from new translations of basic audio-frequency psychoacoustic paradigms into the AM-frequency domain to provide a wide range of stimulus conditions to test with the physiology and modeling. A reasonable working hypothesis that has emerged because of the qualitative parallels between AM perception and physiology is that neurons in the inferior colliculus (IC) are physiological implementations of the "effective" signal-processing style modulation filters derived from psychophysics. This testable hypothesis drove much of the experimental design and analysis, and several fundamental findings emerged as a result. To summarize the most basic results, we found that (1) the system appears to use a temporal code for AM at low modulation depths and an averaged or integrated response quantification at high depths, (2) temporal adaptation to AM is weak, as measured both perceptually and physiologically, and (3) some aspects of AM perception are context-dependent, a feature that is not present in either the IC responses or the simulated model responses. These findings have direct implications for models of AM processing and interpretation of proposed neural coding strategies. Other potential applications include the refinement of devices designed to assist the hearing impaired and the development of signal-processing strategies for speech recognition and audio coding systems.

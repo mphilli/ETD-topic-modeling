@@ -1,0 +1,11 @@
+$TITLE:
+The Effect of the HOPE Scholarship Program on Interstate Migration
+
+$DEPARTMENT:
+Social Sciences
+
+$KEYWORDS:
+ArcGIS, College Tuition, HOPE Scholarship, Interstate Migration
+
+$ABSTRACT:
+The HOPE scholarship program, created by the state of Georgia in 1993, is the first large scale, merit-based higher educational scholarship program in the United States. In this research, I use border analysis and difference-in-differences estimates to test the hypothesis that the HOPE scholarship program attracts interstate education migration from Georgia’s neighboring states. My results support my hypothesis. I find that border areas in Georgia attract high school seniors from the adjacent areas in border states that do not have the HOPE scholarship program. In addition, I use the IPUMS dataset to provide further analysis to the effect of the HOPE scholarship program on interstate migration for entire states rather than for border areas. I find that for a family with high school children, Georgia is the most popular destination state in the inter-state migration within the southeastern area in the period of 1995-2000, because the HOPE scholarship reduces tuition in Georgia significantly.

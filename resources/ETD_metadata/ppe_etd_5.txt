@@ -1,0 +1,11 @@
+$TITLE:
+Skeletal Muscle Function, Morphology, and Biochemistry in Ts65Dn Mice: A Model of Down Syndrome
+
+$DEPARTMENT:
+Exercise Science
+
+$KEYWORDS:
+Antioxidants, Down syndrome, Microarray, Muscle Contraction, Muscle Strength, Oxidative Stress
+
+$ABSTRACT:
+A common clinical observation of persons with Down syndrome at  all developmental stages is hypotonia and generalized muscle weakness. The cause  of muscle weakness in Down syndrome is not known and there is an immediate need  to establish an acceptable animal model to explore the muscle dysfunction that  is widely reported in the human population. Using a combination of functional,  histological, and biochemical analyses this dissertation provides the initial  characterization of skeletal muscle from the Ts65Dn mouse, a model of Down  syndrome.           The experiments revealed that Ts65Dn muscle over-expresses SOD1 protein  but this did not lead to oxidative stress. Ts65Dn soleus muscles displayed  normal force generation in the unfatigued state, but exhibited muscle weakness  following fatiguing contractions. We show that a reduction in cytochrome c  oxidase expression may contribute to the impaired muscle performance in Ts65Dn  soleus. These findings support the use of the Ts65Dn mouse model of Down  syndrome to delineate mechanisms of muscle dysfunction in the human  condition.

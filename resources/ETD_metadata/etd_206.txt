@@ -1,0 +1,11 @@
+$TITLE:
+Characterization of three Arabidopsis genes involved in regulating defense and flowering
+
+$DEPARTMENT:
+Biology
+
+$KEYWORDS:
+Abiotic and biotic stress response, Defense response, Flowering time, Gene regulation, miRNA Post-transcriptional gene regulation, Senescence
+
+$ABSTRACT:
+Due to their sessile nature, plants face multiple threats to their existence that include biotic stresses such as attacks from pathogens, herbivores, insects and abiotic stresses like heat, cold, drought, water logging, lack of nutrients, low/high light, ROS and ionizing radiations. To face these challenges, plants have developed an intricate mechanism of gene regulation that is complex and fine tuned to mount different responses to different signals using the same subsets of genetic resources. Many such genes/proteins that are important to the plant are also important to human beings since plants are a primary source of energy and food, among other necessities. Hence understanding the nature and the mode of regulation of these genes is not only important to our basic understanding but also provides an opportunity to manipulate these genes for the benefit of both plants and humans.Here I have tried to characterize three unknown genes from Arabidopsis - one encoding a senescence marker (SAG13), one encoding a putative nonspecific lipid transfer protein (nsLTP) gene designated here as DLP1, and one encoding a microRNA named DmiR. My work sheds light for the first time, on a very commonly used marker of senescence and shows that it regulates multiple processes in the plant including disease resistance, senescence, flowering, sugar responses, seed germination and seedling development.I have also characterized another unknown gene DLP1, belonging to a family of genes that encode for many antimicrobial compounds and are components of most of food allergens.   In my work I have shown its role defense and flowering, and provide evidence that it is regulated by a very interesting but yet novel mechanism. Both these genes have similarity to other genes in higher plants, including many crop species. Taken together, my findings suggest novel ways to manipulate plants for better diseases resistance as well as ways to engineer plants for increased biomass for use as use as livestock feed and biofuels.

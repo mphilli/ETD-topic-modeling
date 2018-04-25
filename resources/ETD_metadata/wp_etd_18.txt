@@ -1,0 +1,11 @@
+$TITLE:
+Paths reconsidered: Designing for use by designing for activity
+
+$DEPARTMENT:
+Writing Program
+
+$KEYWORDS:
+Activity theory, usability testing, CHAT, technical communication, health communication, Food Guide Pyramid, MyPyramid
+
+$ABSTRACT:
+In recent years, a number of researchers in technical communication have identified a critical weakness in the field's research on usability testing. Namely, these researchers argue that current approaches to usability testing are not sufficient to the task of assessing tools that are intended to support complex use situations. This dissertation adds to that body of research by offering cultural-historical activity theory (CHAT) as a framework for informing the usability testing of information products that are designed to support complex activity. As this dissertation demonstrates, CHAT is especially useful for studying complex use situations because it: (1) examines tool-mediated, goal-directed activity; (2) examines use on social, historical, and material levels; and (3) accounts for the role that contradictions (disturbances) play in the quest to achieve an objective. Activity theory, therefore, offers researchers a precise and rigorous model with which they can research goal-directed activity, design tools, and conduct usability testing. To demonstrate the unique benefits of activity theory for usability testing, this dissertation offers a case study of the design and testing of MyPyramid, the United States Department of Agriculture's 2005 revision of the 1992 Food Guide Pyramid. First, the actual design and testing of the pyramids are described. Second, the usability problems associated with the pyramids are discussed. Finally, a counterfactual analysis of the design and testing process of MyPyramid is offered. This counterfactual analysis includes an activity-theoretical usability testing protocol that underscores the differences between traditional usability testing and activity-theoretical usability testing.Keywords: Activity theory, usability testing, CHAT, technical communication, health communication, Food Guide Pyramid, MyPyramid

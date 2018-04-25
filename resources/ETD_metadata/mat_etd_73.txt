@@ -1,0 +1,11 @@
+$TITLE:
+Methods of Nonparametric Multivariate Ranking and Selection
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Depth, Multivariate, Nonparametric, Ranking and Selection
+
+$ABSTRACT:
+In a Ranking and Selection problem, a collection of k populations is given which follow some (partially) unknown probability distributions. The problem is to select the "best" of the k populations where "best" is well defined in terms of some unknown population parameter. In many univariate parametric and nonparamentric settings, solutions to these ranking and selection problems exist. In the multivariate case, only parametric solutions have been developed. We have developed several methods for solving nonparametric multivariate ranking and selection problems. The problems considered allow an experimenter to select the "best" populations based on nonparametric notions of dispersion, location, and distribution. For the first two problems, we use Tukey's Halfspace Depth to define these notions. In the last problem, we make use of a multivariate version of the Kolmogorov-Smirnov Statistic for making selections.

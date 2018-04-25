@@ -1,0 +1,11 @@
+$TITLE:
+Projection method minimization techniques for smooth multistage QMF filter decompositions
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+signal compression, filters
+
+$ABSTRACT:
+Successive multirate filter bank decompositions (especially QMF filters) are used in a variety of applications such as signal and image compression and singularity detection. In many applications, the filters of any stage are chosen to locally minimize/maximize a given cost/performance criteria. In signal and image compression, for example, the minimization is done locally and sequentially; the filter for the first stage is determined, then the second, the third, etc. until all stages are determined. Each successive stage's choice of filter is dependent on the choice of filter of the previous stages' filters, but does not affect it.A better global minimization occurs when the minimization technique modifies all filters of the multi-stage decomposition simultaneously. Previous stages are changed in conjunction with future stages to minimize an overall cost function.In this paper a feedforward neural network is used to address multi-stage minimization via the signal compression problem. The neural network uses back-propagation to update the filter coefficients of all stages simultaneously in each iteration. Back propagation is the vehicle that allows the optimization to proceed in a forward and backward direction, thus achieving a better signal compression than forward only stage by stage compression.The results are extended to the two dimensional QMF filters and applied to the image compression problem. The 2-D minimization chooses filters in the x and y direction which, as a pair, provide optimal compression. When combined with DPCM and Huffman coding, the results are superior to JPEG compression.

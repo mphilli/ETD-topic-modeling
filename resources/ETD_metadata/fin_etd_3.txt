@@ -1,0 +1,11 @@
+$TITLE:
+Three essays on fixed income securities markets
+
+$DEPARTMENT:
+Finance
+
+$KEYWORDS:
+Fixed income securities, Emerging markets, Securities markets, Informed trading
+
+$ABSTRACT:
+My dissertation consists of three essays: "Statistical structure of an informed trading model," "Informed trading in Russian bonds (1996-2000): the 1998 default and the "Chubais effect," and "Tax and collection effects on corporate bond spreads in a structural model".The first essay is devoted to combining Kyle (Kyle, 1985) and Easley, Kiefer, O'Hara and Paperman's (EKHP, 1996) models of informed trading with the purpose of constructing a unified theory which can predict conditional dynamics of the bid-offer spread and volatility. Our modification of the informed trading theory allows it to be compared with time series obtained from real bonds.In my second essay, I use the theoretical framework of the previous paper, as well as existing models of execution cost and inventory maintenance cost (Stoll, 2003), to provide analytical verification of informed trading and two other contributions to the spreads of Russian sovereign bonds in the period from 1996 to 2000. Furthermore, I test the dynamics of differenced bond yield in physical and local time and demonstrate that it agrees with the conclusions of microstructure theory.The subject of the third essay is the effect of taxes and collection uncertainty on the spread of corporate bonds in a structural model. The structural model, developed in 1974 by Merton, provides a useful theoretical framework for study of corporate bonds because, unlike the reduced-form model, it connects the spreads with economic factors in the life of the firm. However, so far, the spreads have been poorly reproduced by the structural models. I show in this essay that inclusion of taxes and uncertain collection of the terminal assets can significantly reduce the discrepancy between theoretical and empirical spreads.

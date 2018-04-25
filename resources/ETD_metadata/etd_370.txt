@@ -1,0 +1,11 @@
+$TITLE:
+Investigation of Core/Shell Nanoparticle Surface Functionalization and Applications
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+Nanoparticles are small objects with sizes between 1-100 nm and can have varying properties depending on size or shape. The focus in this thesis is preparing three different nanomaterials, quantum dots, quantum rods, and metal halide perovskites. First, two different protocols to synthesize CdSe/CdS and CdSe/ZnS core/shell quantum dots, successive ionic layer adsorption and reaction (SILAR) and continuous injection, will be compared. There I will focus on how the protocols affect the optical properties in the hope of forming more stable and brighter quantum dots. Surface chemistry of nanoparticles is also very important. Here, I utilized the surface interactions of quantum rods to site-selectively coat CdSe/CdS quantum rods in a silica shell, which were then further functionalized. Lastly, I prepared metal halide, CsPbX3 X = Br- or I-, perovskite nanoparticles, which are able to undergo anion exchange in solution. However, moisture sensitivity of perovskite nanomaterials has proven to be an issue in the past. To improve moisture stability, I coated the surfaces of perovskite nanomaterials, allowing them to be more stable in moisture than typical uncoated perovskites.

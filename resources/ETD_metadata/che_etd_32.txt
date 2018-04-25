@@ -1,0 +1,11 @@
+$TITLE:
+Application of the [2,3] Wittig rearrangement to synthetic studies toward the total synthesis of (+)-discodermolide
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Wittig rearrangement, Discodermolide, Hydroboration
+
+$ABSTRACT:
+The application of the [2,3] Wittig rearrangement to the total synthesis of (+)-discodermolide is the subject of this dissertation. (+)-Discodermolide is a unique polyketide that was isolated in 1990 and was found to have impressive anti-tumor activities. (+)-Discodermolide is under Phase I clinical trials as a potential antitumor drug.Background information and stereochemical consequences of the [2,3] Wittig rearrangement are discussed. Examples of the application of the [2,3] Wittig rearrangement to the total synthesis of natural products are described, as are previous total syntheses of (+)-discodermolide also presented.Considerable effort has been focused on the construction of fragments A (C1-C8), B (C9-C13), and C (C15-C21) of (+)-discodermolide. The syntheses of each fragment begins with a common intermediate prepared from Z-2-buten-1,4-diol. A [2,3] Wittig rearrangement of the common intermediate, followed by hydroboration, installs the C4, C5, and C7 stereocenters in fragment A. Fragment B is synthesized in a single step. Fragment C is prepared by applying a [2,3] Wittig rearrangement followed by hydroboration. The alkylation of a tertiary allylic alcohol with tributyltin methylene iodide is improved. The selective deprotection of a di-TBS ether is realized. Possible routes for completion of the total synthesis of (+)-discodermolide are proposed.

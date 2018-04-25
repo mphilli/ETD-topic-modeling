@@ -1,0 +1,11 @@
+$TITLE:
+Analysis and design of an FEC-based scalable reliable multicast protocol
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Reliable multicast, FEC-based, Scalable, Multicast protocol
+
+$ABSTRACT:
+Extending IP multicast functionality to facilitate scalable reliable data delivery has been identified as an important challenge for the next generation Internet. Many of the proposed reliable multicast protocols cannot scale well to a large number of receivers because they suffer from state explosion or message implosion (or both). To address those problems, we present an Forward Error Correction (FEC) based scalable reliable multicast transport protocol, that greatly improves the scalability of reliable multicast protocols and also simplifies protocol structure.The distinction of our approach to scalable reliable multicast largely owes to the scheme of using error-correcting erasure codes to achieve reliable Internet communications. A Reed-Solomon codes based erasure coding FEC scheme is proposed, and its software implementation demonstrates that it is practically feasible.To make a case for incorporating FEC into scalable reliable multicast, we show through quantitative analyses and numerical results that, compared with ARQ, the use of FEC in reliable multicast will greatly reduce packet loss probability, which in turn will result in a dramatic improvement in protocol scalability.Finally, an FEC based scalable reliable multicast protocol, FMCAST, is proposed and its design and implementation are presented. FMCAST provides reliable delivery of point-to-multipoint transmissions. To achieve scalable error-control, FMCAST employs erasure codes based FEC scheme and data carouseling. FMCAST meets the design objective of scalable reliability. It also supports receiver heterogeneity and receiver late-join/early-leave. A user-level implementation of FMCAST on IP multicast has been tested and evaluated on Multicast Backbone (MBone).

@@ -1,0 +1,11 @@
+$TITLE:
+An investigation of the role of mentoring as a professional development strategy to enhance technology integration
+
+$DEPARTMENT:
+Teaching and Leadership
+
+$KEYWORDS:
+Mentoring, Professional development, Technology integration
+
+$ABSTRACT:
+Mentoring is recognized as one component of a successful professional development initiative (Joyce & Showers, 2002; May, 2000). During this study, the role that mentors play in educator commitment to, and progress toward, technology integration was studied. Participants in the study were North Dakota public and private school educators enrolled in the North Dakota Teaching with Technology initiative (ND TWTi).The primary question addressed in this study was whether those educators working with mentors who scored higher on a technology integration assessment experienced more success with technology integration than those working with mentors who scored lower on the assessment. Success was defined as high retention within the initiative and more growth on a continuum scale of technology integration.Findings indicated that (a) mentors reported significantly higher technology integration competency levels than educators (p < .01); (b) within the mentor/mentee groups, mentors reporting higher technology integration competency levels had mentees reporting higher technology integration competency levels; (c) mentees assigned to lower skilled mentors reported higher gains in competency from the first phase of professional development to the second phase; and (d) mentees assigned to lower skilled mentors were better retained within the initiative than those mentees assigned to mentors with high technology integration competency ratings. The results of this study add to the information available on the role of mentor support as a professional development strategy for technology integration. A closer examination of mentor support for technology integration where mentor selection is controlled is suggested.

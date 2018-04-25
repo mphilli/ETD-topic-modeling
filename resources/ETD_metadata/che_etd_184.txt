@@ -1,0 +1,11 @@
+$TITLE:
+Terahertz spectroscopy and solid-state modeling of molecular crystals
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Pure sciences, Terahertz, Solid-state, Crystals, Intermolecular interactions
+
+$ABSTRACT:
+Terahertz (THz) spectroscopy can be used to probe intermolecular interactions in molecular crystals. Presented here are investigations of crystalline biological molecules and pharmaceutical compounds by THz spectroscopy and solid-state density functional theory (DFT). The primary objective of this research was the refinement of computational methods for the accurate simulation of crystal structures and experimental THz spectra. Considerable efforts were made in the augmentation of DFT methods with corrections for London-type dispersion forces. It was discovered that many molecular solids require the incorporation of these weak forces in order to achieve proper structural optimizations and frequency calculations. Modifications to the dispersion parameters improved the results of the calculations, and could be tuned for a specific system to further improve performance. The reliability of dispersion-corrected DFT in the structural and spectral reproductions for known crystal structures led to the development of a method for predictions of previously unknown crystal structures. The research presented in this thesis has provided benchmarks for solid-state DFT calculations of biological and pharmaceutical solids by presenting rigorous evaluations of computational performances, and providing insight into the underlying physical origins of lattice vibrations active in the THz spectral region.

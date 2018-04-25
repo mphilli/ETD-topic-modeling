@@ -1,0 +1,11 @@
+$TITLE:
+Design and implementation of a low-power SOI CMOS receiver
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+CMOS, Silicon on insulator, Deep space, Wireless communications
+
+$ABSTRACT:
+There is a strong demand for wireless communications in civilian and military applications, and space explorations. This work attempts to implement a low-power, high-performance fully-integrated receiver for deep space communications using Silicon on Insulator (SOI) CMOS technology. Design and implementation of a UHF low-IF receiver front-end in a 0.35-μm SOI CMOS technology are presented. Problems and challenges in implementing a highly integrated receiver at UHF are identified. Low-IF architecture, suitable for low-power design, has been adopted to mitigate the noise at the baseband. Design issues of the receiver building blocks including single-ended and differential LNA's, passive and active mixers, and variable gain/bandwidth complex filters are discussed. The receiver is designed to have a variable conversion gain of more than 100 dB with a 70 dB image rejection and a power dissipation of 45 mW from a 2.5-V supply. Design and measured performance of the LNA's, and the mixer are presented. Measurement results of RF front-end blocks including a single-ended LNA, a differential LNA, and a double-balanced mixer demonstrate the low power realizability of RF front-end circuits in SOI CMOS technology. We also report on the design and simulation of the image-rejecting complex IF filter and the full receiver circuit. Gain, noise, and linearity performance of the receiver components prove the viability of fully integrated low-power receivers in SOI CMOS technology.

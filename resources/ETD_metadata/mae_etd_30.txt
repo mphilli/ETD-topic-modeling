@@ -1,0 +1,11 @@
+$TITLE:
+Improved algorithm for three-dimensional inverse method
+
+$DEPARTMENT:
+Mechanical and Aerospace Engineering
+
+$KEYWORDS:
+Three-dimensional, Inverse method, Singular value decomposition, Turbomachinery
+
+$ABSTRACT:
+An inverse method, which works for full 3D viscous applications in turbomachinery aerodynamic design, is developed. The method takes pressure loading and thickness distribution as inputs and computes the 3D-blade geometry. The core of the inverse method consists of two closely related steps, which are integrated into a time-marching procedure of a Navier-Stokes solver. First, the pressure loading condition is enforced while flow is allowed to cross the blade surfaces. A permeable blade boundary condition is developed here in order to be consistent with the propagation characteristics of the transient Navier-Stokes equations. In the second step, the blade geometry is adjusted so that the flow-tangency condition is satisfied for the new blade. A Non-Uniform Rational B-Spline (NURBS) model is used to represent the span-wise camber curves. The flow-tangency condition is then transformed into a general linear least squares fitting problem, which is solved by a robust Singular Value Decomposition (SVD) scheme. This blade geometry generation scheme allows the designer to have direct control over the smoothness of the calculated blade, and thus ensures the numerical stability during the iteration process.Numerical experiments show that this method is very accurate, efficient and robust. In target-shooting tests, the program was able to converge to the target blade accurately from a different initial blade. The speed of an inverse run is only about 15% slower than its analysis counterpart, which means a complete 3D viscous inverse design can be done in a matter of hours. The method is also proved to work well with the presence of clearance between the blade and the housing, a key factor to be considered in aerodynamic design.The method is first developed for blades without splitters, and is then extended to provide the capability of analyzing and designing machines with splitters. This gives designers an integrated environment where the aerodynamic design of both full blades and splitters can be treated simultaneously.

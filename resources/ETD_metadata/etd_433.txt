@@ -1,0 +1,11 @@
+$TITLE:
+Adolescent Health Behaviors Related to Reproductive Health: Does Structural Violence Matter?
+
+$DEPARTMENT:
+Sociology
+
+$KEYWORDS:
+Adolescent health, mental health, reproductive health, structural violence, women's health
+
+$ABSTRACT:
+Several studies have shown that race and socio-economic status are strongly linked to reproductive health. Disparities in rates of several measures of reproductive health and illness show the worst outcomes among minority women. Using data from the National Longitudinal Study of Adolescent Health (Add Health), I examine adolescent behaviors related to reproductive health and reproductive health outcomes including STD diagnosis, number of pregnancies, and pregnancy outcomes in a sample of young women from adolescence to young adulthood using a series of regression analyses. Examining these outcomes within a social determinants of health framework, I find evidence to support the role of structural violence as a determinant of reproductive health. Young Black women and those with imprisoned parents experienced worse reproductive health outcomes, while those with more educated parents and closer familial relationships experienced more positive outcomes. Young women with a depression diagnosis also suffered more negative outcomes, demonstrating the importance of social support and access to health care for both physical and mental health.

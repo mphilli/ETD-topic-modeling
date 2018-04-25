@@ -1,0 +1,11 @@
+$TITLE:
+Measurement Of Neutron Radius In Lead By Parity Violating Scattering Flash ADC DAQ
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+This dissertation reports the experiment PREx, a parity violation experiment which is designed to measure the neutron radius in 208Pb. PREx is performed in hall A of Thomas Jefferson National Accelerator Facility from March 19th to June 21st. Longitudionally polarized electrons at energy 1 GeV scattered at and agnle of θlab = 5.8° from the Lead target. Beam corrected pairty violaing counting rate asymmetry is (Acorr = 594 ± 50(stat) ± 9(syst))ppb at Q2 = 0.009068GeV2.This dissertation also presents the details of Flash ADC Data Acquisition(FADC DAQ) system for Moller polarimetry in Hall A of Thomas Jefferson National Accelerator Facility. The Moller polarimeter measures the beam polarization to high precision to meet the specification of the PREx(Lead radius experiment). The FADC DAQ is part of the upgrade of Moller polarimetery to reduce the systematic error for PREx. The hardware setup and the results of the FADC DAQ analysis are presented.

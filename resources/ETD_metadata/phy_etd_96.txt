@@ -1,0 +1,11 @@
+$TITLE:
+Dynamical breaking of string model in 1 + 1 dimension
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+quantum chromodynamics, hadrons
+
+$ABSTRACT:
+It is will known that above certain threshold energy in $e\sp+e\sp-$ collision, a shower of hadrons is produced. The formation of these hadrons is a low energy phenomenon. Perturbative QCD can not give a reliable calculation to predict the distribution of these hadrons. The string model, as a non perturbative solution is investigated. We confront the long unsolved problem of $(1-z)$ behavior of the distribution of the mesons near $z=1.$ A multistage fragmentation picture is developed whereby a string state can fragment several times before producing physically observed mesons. The fragmentation function of the second stage fragmentation provide an excellent fit to the observed data and naturally provide the necessary $(1-z)$ behavior.

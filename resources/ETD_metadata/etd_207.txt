@@ -1,0 +1,11 @@
+$TITLE:
+Topics in Supersymmetry: Implications for Cosmology and Non-Perturbative Studies on a Spacetime Lattice
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Cosmology, Lattice, Supersymmetry
+
+$ABSTRACT:
+Moduli fields, scalar fields which parametrize different vacuum states of a given theory, are commonly predicted to exist within compactifications of UV complete theories, and in particular those theories exhibiting supersymmetry. But if such theories' dynamics are present during the inflationary phase of the universe and thereafter, what are the implications for cosmology and the evolution of the universe? In this thesis a review is presented on generic consequences of the presence of these scalar fields during inflation and the post-inflationary era of the universe. An unexpected consequence arises in the study of dark matter production, where a deviation from the usual thermal production mechanism is shown to be required.In addition to studies in cosmology, the dynamics of a twisted construction of supersymmetric lattice quantum field theory is explored. An analysis of the fermionic sign problem is presented and it is shown to be absent in the studied formulation. A first study of the phase structure of supersymmetric N = 4 supersymmetric gauge theory is also presented.

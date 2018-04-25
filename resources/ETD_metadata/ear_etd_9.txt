@@ -1,0 +1,11 @@
+$TITLE:
+Deglaciation in the Central Andes of Peru
+
+$DEPARTMENT:
+Earth Sciences
+
+$KEYWORDS:
+Deglaciation, Andes, Peru, Climate change
+
+$ABSTRACT:
+This dissertation comprises a three-part investigation of deglaciation in the Central Andes of Pert. (1) Digital terrain modeling reveals a 57 × 10 6 m 3 loss of glacier ice between 1962 and 1999 from three glaciers with different aspects on Nevado Queshque in the Cordillera Blanca (9°52'30"S, 77°15'00"W). The 9.3 Wm -2 required to melt the ice can be accounted for by sensible heat transfer related to a temperature rise of 1°C, combined with a decrease in latent heat transfer related to a 0.14 g kg -1 increase in specific humidity. An analysis of 29 Andean temperature records shows an average rise of 0.26°C decade -1 over the past 40 years. Lack of a significant trend in precipitation and poor spatial correlation with modelled insolation confirm the hypothesized increase in sensible heat transfer as the primary forcing of deglaciation. (2) Stream discharge measurements, climate observations and hydrochemical stream samples gathered monthly in the Yanamarey and Uruashraju glacier-fed watersheds of the Cordillera Blanca during 1998-99 facilitate a quantitative estimate of glacier melt water contribution to stream flow. Maximum glacier melt occurs in the austral spring. Annually, glacier melt contributes about 40% of the average discharge from the glacier tarns. By analogy, the larger Río Santa watershed receives at least 10% of its annual discharge from melting glacier ice. The Río Santa tributary watersheds with larger percentages of glaciated area have less variable runoff and enhanced discharge, showing that glaciers effectively buffer stream discharge seasonally. Conversely, stream flow will be reduced and more variable with continued deglaciation. (3) Moraine chronology is combined with digital topography to model deglaciation of paleoglacier volumes in the Cordillera Vilcanota region (13°45'S, 71°10'W). Fastest rates were calculated for the most recent paleoglaciers, corresponding to the last few centuries. These rates also fall within the range of modern rates of deglaciation measured on the Quelccaya Ice Cap, implying that rates of deglaciation may fluctuate significantly over time, and that high rates of deglaciation may not be exclusive to the late 20th century.

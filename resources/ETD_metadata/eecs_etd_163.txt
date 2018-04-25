@@ -1,0 +1,11 @@
+$TITLE:
+Practical delegation for secure distributed object environments
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Security framework, Delegation, Distributed object
+
+$ABSTRACT:
+In distributed object environments, intermediate objects hide the details of complex system interactions. These intermediate objects receive high level requests from client objects and perform a series of operations on a number of other object services. All requests arriving at the target services appear to be the action of the intermediary rather than the true initiator. The inability to determine the true initiator of a request has a chilling effect on the design of distributed object systems.Delegation is the process whereby a principal in a distributed object environment authorizes another principal to access services and resources on its behalf. Even with the state-of-the-art authentication techniques, delegation is typically implicit and transparent to the remote services, making it difficult for those services to determine whether delegation was authorized by the initiator.We have developed an architectural framework for structuring secure remote method invocations that may involve chains of delegated calls across distributed objects. SDM is a Secure Delegation Model for Java-based distributed object environments. SDM builds upon existing mechanisms, mainly those already established in the Java JDK1.2 security framework, to establish a practical basis for constructing flexible yet secure components and support infrastructure. The framework supports a control API for application developers to specify mechanisms and security policies surrounding simple or cascaded delegation. Delegation may also be disabled and optionally revoked.

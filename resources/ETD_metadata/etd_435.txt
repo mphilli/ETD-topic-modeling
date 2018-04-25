@@ -1,0 +1,11 @@
+$TITLE:
+Crack Growth Mechanisms under Anti-Plane Shear in Composite Laminates
+
+$DEPARTMENT:
+Mechanical and Aerospace Engineering
+
+$KEYWORDS:
+anti-plane shear, delamination, fracture, mode III, polymer matrix composite
+
+$ABSTRACT:
+The research conducted for this dissertation focuses on determining the mechanisms associated with crack growth in polymer matrix composite laminates subjected to anti-plane shear (mode III) loading. For mode III split-beam test methods were proposed, and initial evaluations were conducted. A single test method was selected for further evaluation. Using this test method, it was determined that the apparent mode III delamination toughness, GIIIc, depended on geometry, which indicated a true material property was not being measured. Transverse sectioning and optical microscopy revealed an array of transverse matrix cracks, or echelon cracks, oriented at approximately 45° and intersecting the plane of the delamination. Subsequent investigations found the echelon array formed prior to the onset of planar delamination advance and that growth of the planar delamination is always coupled to echelon array formation in these specimens. The evolution of the fracture surfaces formed by the echelon array and planar delamination were studied, and it was found that the development was similar to crack growth in homogenous materials subjected to mode III or mixed mode I-III loading, although the composite laminate architecture constrained the fracture surface development differently than homogenous materials.  It was also found that, for split-beam specimens such as those used herein, applying an anti-plane shear load results in twisting of the specimen’s uncracked region which gives rise to a mixed-mode I-III load condition. This twisting has been related to the apparent mode III toughness as well as the orientation of the transverse matrix cracks. A finite element model was then developed to study the mechanisms of initial echelon array formation. From this, it is shown that an echelon array will develop, but will become self-limiting prior to the onset of planar delamination growth.

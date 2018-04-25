@@ -1,0 +1,11 @@
+$TITLE:
+Stochastic modelling for reliability and other performance measures of software systems with applications
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+operations research, software systems
+
+$ABSTRACT:
+Continued increase in the complexity and use of computer systems in a wide variety of applications has necessitated a greater emphasis on the development of cost-effective and reliable software ... This has led to the evolutin of a new discipline, called software engineering ...In this dissertation, we are concerned with the development of stochastic models for the software failure process under imperfect debugging or maintenance...

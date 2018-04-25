@@ -1,0 +1,11 @@
+$TITLE:
+Power, Likeability, and Perception: Evaluating Men and Women in High and Low Power Positions
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Gender Differences, Impression Formation, Leadership, Social Power, Women
+
+$ABSTRACT:
+When asked, it is relatively easy to come up with an example of a position of high power (e.g., president) or low power (e.g., intern). One can imagine the types of tasks or behaviors each of those positions entails. The theories of social power detail how power is attained, the behaviors of individuals in power, and the consequences of those behaviors (e.g., French & Raven, 1959; Fiske & Depret, 1996; Keltner, Gruenfeld, & Anderson, 2003). Most of the studies on behaviors of high power individuals have found that no differences exist between the behaviors of high power men and women. One closely related area of research to social power is leadership, which can be thought of as an example of a position of power. Much of the research has focused on two aspects of leadership: leadership style and evaluation of leaders. Although the research has found negligible style differences between men and women, the largest gender differences are found in how leaders are evaluated. Women tend to be evaluated more negatively in leadership positions, as compared with men (Eagly & Karau, 2002). The goal of the present research was to demonstrate that although high power men and women exhibit similar behaviors, women are evaluated more negatively as compared with men. The first study attempted to replicate research that demonstrates high power individuals' propensity toward self-serving behaviors (Chen, Lee-Chai, & Bargh, 2001). Neither gender nor power significantly predicted self-serving behaviors. The second study asked participants to evaluate an ostensible participant from the first study. Here it was predicted that high power women would be evaluated negatively (compared with men) on a series of evaluation items including liking and hostility. Although no gender effects for targets were found, power condition did significantly predict differences on evaluations of high and low power targets. Possible explanations and future directions are discussed.

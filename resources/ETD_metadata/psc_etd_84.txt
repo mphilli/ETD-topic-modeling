@@ -1,0 +1,11 @@
+$TITLE:
+Political control of the bureaucracy in the cycle of shared power
+
+$DEPARTMENT:
+Political Science
+
+$KEYWORDS:
+Political science, Public administration, OSHA, bureaucracies
+
+$ABSTRACT:
+Over the last decade there has been significant growth in the level of scholarly interest in political control over regulatory behavior. The primary factors leading to the surging interest in the issue of political control have been the renewed attention to regulatory reform issues in the political arena and the reemergence of divided national government during the 1980s. Despite the considerable attention, the focus of much of the research on political control has been too narrow.In an attempt to broaden the focus upon the question of political control I utilize a multiple principal-agent model, applied within the context of the cycle of shared power. Examining political control in the context of the cycle, which maps the ever-changing power relationship between Congress and the president, expands the analysis of control beyond its typical boundaries. Instead of simply addressing the presence or absence of control, I am able to isolate the dynamic and fluctuating nature of control during a single presidential term. These two features also enhance my ability to examine the long- and short-term effectiveness of political efforts for control.I utilize ARIMA impact assessment procedures to examine the effectiveness and sustained influence of political efforts to control regulatory behavior at the Occupational Safety and Health Administration during the tenure of the Reagan and Bush administrations. My empirical findings display significant evidence of short-term and conflicting political control at the cooperation and conflict stages of the cycle. The findings support my contention that the cyclical power sharing relationship between Congress and the president limits the long-run effectiveness of political efforts to control regulatory outputs, and promotes the issuance of vacillating directives to the agency.

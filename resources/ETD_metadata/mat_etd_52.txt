@@ -1,0 +1,11 @@
+$TITLE:
+Functions Of Generalized Bounded Variation And Summability Of Fourier Series
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Mathematics
+
+$ABSTRACT:
+This dissertation is devoted to the study of functions of generalized bounded variation.A definition is given for a Banach space of regulated functions in a manner analogous to that for functions of ordered (LAMDA)-bounded variation, but using intervals of equal length and requiring that the functions satisfy a generalized continuity condition.A summability method is given which is effective on Fourier series of function in this Banach space but not on Fourier series of functions in larger such spaces. This method is defined as the convolution of a function with a kernel obtained by multiplying the Dirichlet kernel with a certain simple function, where this simple function is 2(pi)-periodic, even, and decreasing on O,(pi) . Two methods equivalent to this method are also discussed and analogues of the Dini test and the localization principles are proven.Finally, we give necessary and sufficient conditions for everywhere convergence and for uniform convergence of the summability method under every change of variable.

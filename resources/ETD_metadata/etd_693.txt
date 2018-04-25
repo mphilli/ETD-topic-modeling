@@ -1,0 +1,11 @@
+$TITLE:
+Using Affirmation Theory to Further Understand the Distinction between the Individual Self and the Collective Self
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Bias, Group-Affirmation, Self-Affirmation
+
+$ABSTRACT:
+Research in social psychology points to a discontinuity between the individual self and the collective self such that operating at the collective level of identity leads one to be more biased, defensive, and hostile than when operating at the individual level of identity. One area of research where this distinction is particularly apparent is that of identity threat and affirmation theory. Although affirming the self has been shown to reduce individual-level biases in the face of threat, affirming the group in response to a collective-level threat has been shown to accentuate biased tendencies. This may be a result of the inherent inflexibility of the collective self. Unlike self-affirmation, group-affirmation may induce a focus on a specific social identity and activate the psychological attributes (e.g., attitudes, stereotypes, and norms) pertinent to that identity which then guide subsequent thoughts, judgments, motivations, and behaviors. This raises the question, if the collective self is construed in this manner, are there certain contexts in which affirming the group can in fact lead to a reduction in bias and defensiveness in the face of threat? Two potential contexts are addressed in this research: (a) if the threat is to one’s individual-level identity (Study 1) and (b) if having unbiased attitudes are a component of the affirmed group’s psychological identity (Study 2). Affirming the group did not affect participants’ attributional tendencies following a self-threatening task performance. Group-affirmation did, however, increase positive attitudes towards certain out-groups for low-identifying group members. Also, unlike affirming the self, affirming the group did not protect participants’ self-esteem from either an individual-level threat or a collective-level threat, providing further support for the notion that self- and group-affirmation are distinct processes. The theoretical and practical implications of these findings are discussed.

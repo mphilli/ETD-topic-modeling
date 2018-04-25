@@ -1,0 +1,11 @@
+$TITLE:
+Measurement of the production ratio of charged and neutral B mesons at the upsilon(4S) resonance
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+B mesons, Upsilon(4S) resonance, Charged mesons, Neutral mesons, Production ratio
+
+$ABSTRACT:
+We analyze 9.7 × 10 6 BB¯ pairs recorded with the CLEO detector to determine the production ratio of charged to neutral B mesons produced at the [Special characters omitted.] (4S) resonance. We measure the exclusive rates for B 0 [arrow right] J /[Special characters omitted.] K ([low *])0 and B + [arrow right] J /[Special characters omitted.] K ([low *])+ decays and employ the world-average B -meson lifetime ratio to extract the relative width [Special characters omitted.] With the assumption that f +- + f 00 = 1, we obtain [Special characters omitted.] This production ratio and its uncertainty apply to all exclusive B branching fractions measured at the upsilon(4S) resonance peak.

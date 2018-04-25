@@ -1,0 +1,11 @@
+$TITLE:
+The economics of the family from a dynamic perspective
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Economics, Family, Neighborhood quality, Homeowners, Labor supply, Divorce
+
+$ABSTRACT:
+My dissertation considers, within a dynamic framework, how actual or predicted changes in individuals' family circumstances influence their behavior and economic well-being. First, I examine the impact that changes in neighborhood quality have on the probability of moving after 1970 for younger and older homeowners in the United States. I use multiperiod data from the Panel Study of Income Dynamics (PSID) linked to neighborhood level variables from Census data and find that a decrease in neighborhood quality increases the probability of moving for younger homeowners, but has no significant impact on the probability of moving for older homeowners.Second, I compare and contrast the short-term and long-term economic consequences of marital separation on men and women in the United States and Germany. For these analyses I use both the PSID and the German Socio-Economic Panel (GSOEP). The findings suggest that women in both the United States and Germany sustain large declines in their household-size adjusted income after divorce, while men in these countries experience only small declines or even increases in their household-size adjusted income. However, group averages mask the great diversity in economic well-being changes after divorce. The short- and long-term economic consequences of divorce vary by education, employment, number of children, income level, remarriage, and cohabitation for both men and women.Third, I consider the extent to which married women in the United States and Germany anticipate divorce and increase their labor supply in response. I use longitudinal data from the PSID and the GSOEP and find, as do other researchers, that the probability of divorce had a significant and positive impact on labor supply decisions for U.S. married women in the 1970s. However, I find this is no longer the case for U.S. married women in the 1980s. I do find that the probability of divorce positively and significantly influences labor force participation decisions for German married women in the 1980s; however, the results suggest that it does not influence hours decisions.

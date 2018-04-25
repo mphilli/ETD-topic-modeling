@@ -1,0 +1,11 @@
+$TITLE:
+The time costs of consumption: An empirical investigation
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+shopping, monetary, transaction cost
+
+$ABSTRACT:
+In the standard economic model, a representative utility maximizer chooses quantities of consumption, asset holdings and labor force participation without regard to transaction costs. Such an assumption implies that the purchase of goods and services requires only one real resource, money. This research relaxes the assumption of zero transaction costs in consumption such that time resources, in addition to money, are used up when individuals transact in the goods markets.An intertemporal model of household choice is developed and estimated to measure the responsiveness of transaction costs to changes in consumption and money holdings. Estimates using a two and three year panel from the Surveys of Consumer Finances (1983-1989) suggest that increases in money holdings reduce transaction time. In addition, the existence of economies of scale in consumption may influence transaction cost. The model generates labor and leisure supply elasticities which suggest that households are highly responsive to wage changes in the presence of consumption transaction costs.The model is also estimated with U.S. time series data over the 1959 to 1994 period. Time series estimates of the recovered transaction technology parameters suggest that time costs are highly responsive to changes in M1 money, yet less responsive to changes in aggregate consumption.The main contribution to the monetary literature is the estimation of parameters which capture the concavity and degree of homogeneity of the transaction technology. Estimates from the household data suggest that the technology is most likely a member of the constant returns to scale functional family. Estimates from U.S. aggregate time series lack a definitive position on the scale of the transactions technology. The degree of homogeneity of the transaction technology is systematic to the specification of the co-integrating specification.

@@ -1,0 +1,11 @@
+$TITLE:
+Associations between Pain Intensity and Urge to Smoke: Testing the Role of Negative Affect and Pain Catastrophizing
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+negative affect, nicotine, pain, pain catastrophizing, smoking urge, tobacco
+
+$ABSTRACT:
+Urge to smoke tobacco is a critical aspect of tobacco dependence, and there is evidence of covariation between pain intensity and self-reported urge to smoke. However, direct tests of this association have relied almost exclusively on clinical pain samples or experimental paradigms. The goal of the current study was to test the hypothesis that current pain intensity would be positively associated with self-reported urge to smoke, among a sample of daily cigarette smokers who were recruited from the local community and excluded if they endorsed current chronic pain. We also sought to examine the role of negative affect and conduct the first test of pain catastrophizing in relations between pain intensity and urge to smoke tobacco. Participants (N = 229, 42.4% Female, 38.9% black/African American, Mcpd = 21.9) were recruited for a laboratory study of pain and smoking, and these data were collected at the baseline session. Consistent with expectation, current pain intensity was positively associated with total urge to smoke (ps < .05), and urge to smoke for the relief of negative affect (ps < .05). We further observed an indirect association via state negative affect, such that pain intensity was positively associated with negative affect, which in turn was associated with greater urge to smoke scores (ps < .05). Pain catastrophizing was found to be a significant moderator, such that positive associations between pain intensity and urge to smoke were only evident among smokers who endorsed low levels of catastrophizing (ps < .05). These findings contribute to an emerging literature indicating that pain and related constructs are relevant to the maintenance of tobacco smoking. Future research should examine how pain-relevant cognitive-affective factors may influence associations between the experience of pain and motivation to smoke tobacco cigarettes.

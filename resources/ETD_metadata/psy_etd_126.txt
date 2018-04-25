@@ -1,0 +1,11 @@
+$TITLE:
+Development and Application of a Multivariate Logistic Latent Trait Model
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Modern test theory, Rasch Model
+
+$ABSTRACT:
+During the last twenty years, what Bock and Wood (1971) have called "modern test theory" has slowly developed from the work of Lord (1952) on the normal ogive model, Lazarsfeld (1959) on latent trait analysis, and Birnbaum (1958) and Rasch (1960) on logistic models of test behavior. Each of these models is based on a hypothesized relationship between test responses and some hypothetical latent measure of ability, as opposed to the traditional theory as presented by Gulliksen (1950), which assumes observed scores are a linear combination of true and error components.

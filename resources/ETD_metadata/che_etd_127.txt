@@ -1,0 +1,11 @@
+$TITLE:
+Holographic studies of liquid crystalline photopolymers
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+photopolymers
+
+$ABSTRACT:
+This dissertation describes the investigation of three liquid crystalline monomers as holographic recording materials. A new method of achieving modulation of the diffraction intensity was demonstrated to work well. This modulation was also observed through a polarizing microscope, with a CCD camera connected to the microscope.The holographic techniques employed in the research were phase insensitive holography (PIH) and phase modulated holography (PMH). The two holography techniques were complementary in assessing the photopolymerizations. PIH provided directly a measure of diffraction efficiency. PMH had the advantage of separating the phase and absorption components in the diffraction efficiency.In our research, a new approach was proposed to obtain the modulation of the diffraction by exploiting the intrinsic optical birefringence and the ability of alignment with electric field of liquid crystals. PIH was used in studying the modulation of the diffraction. Different conditions for liquid crystal sample diacrylate 1 were tried. The evidence of the switchability of the holographic grating was observed using both PIH and polarizing microscope, and the optimal conditions for switching ability were studied.The importance of liquid crystal recording media and future work on the liquid crystal materials are also discussed.

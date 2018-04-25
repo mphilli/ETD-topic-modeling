@@ -1,0 +1,11 @@
+$TITLE:
+Three essays on R&D; investment and economic development
+
+$DEPARTMENT:
+Public Administration
+
+$KEYWORDS:
+Economic development, R&D; investment, Tax credit, Government subsidy, Innovation
+
+$ABSTRACT:
+This three-essay dissertation offers three empirical studies based on a unified framework combining innovation-based economic development and policy-induced R&D; investment. The first two essays are cross-national studies. The empirical results show that national governments can promote economic growth through encouraging domestic business R&D; investment by policy actions. I found that direct government subsidies work better than tax incentives in stimulating self-financed business R&D; spending. The enforcement and duration of patent right also matter to business R&D; investment. While domestic R&D; has positive impact on national productivity across countries, the effect of foreign R&D; spillovers is context-dependent--positive for some countries but negative for others.The third essay explores the effect of state research and development (R&D;) tax credits on private R&D; expenditure in the states. I found that the establishment of state R&D; credit programs is effective in stimulating more industrial R&D; spending in the states. State services in higher education and some cooperative technology programs also matter in private decision of R&D; investment. Given the great importance of industrial R&D; to economic development, this study contributes to public finance literature on economic development by paving the way to a full assessment of state tax incentives for R&D; in promoting economic development.The combination of innovation-based economic development and policy-induced R&D; investment offers better opportunity to explore economic effects of government R&D; policies. My dissertation has made important progress, and will lead to a new academic field--innovation finance--in state and local government finance.

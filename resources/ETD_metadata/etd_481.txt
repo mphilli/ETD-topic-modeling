@@ -1,0 +1,11 @@
+$TITLE:
+Assessing the contribution of geography and host use to genetic structure in New York populations of the parasitoid wasp, Aphidius ervi
+
+$DEPARTMENT:
+Biology
+
+$KEYWORDS:
+Aphidius ervi, biocontrol, HAD, microsatellites
+
+$ABSTRACT:
+Host-associated differentiation (HAD) has been shown to be important in generating genetic differentiation within herbivorous insects, but the applicability of HAD to other parasitic taxonomic groups remains unclear. For example, parasitoid wasps that attack herbivorous insects share many similar life habits with their hosts, suggesting that HAD may also be a prevalent and important mechanism in this group. I tested for the genetic signature of HAD in the parasitoid wasp, Aphidius ervi, that attacks aphids. Aphidius ervi is a biocontrol agent that uses many species of pest aphids including the clover and alfalfa host-races of the pea aphid (Acyrthospihon pisum). The pea aphid host races differ in their defenses and resource quality as hosts for A. ervi. I assessed allelic variation from six microsatellite loci across sixteen A. ervi populations along a 200 km transect in New York State to examine genetic structure in relation to pea aphid host race use. Results from AMOVA and pairwise FST analyses indicated that there is no genetic structure in A. ervi due to HAD, and there was no genetic structure across the sampled range. These findings suggest that A. ervi populations are connected by high levels of gene flow that likely swamp out selection for specialization on the pea aphid host races of A. ervi. At least for A. ervi, the spatiotemporal distribution of hosts as well as the high dispersal rate suggest that HAD is unlikely to be a mechanism of genetic differentiation among populations.

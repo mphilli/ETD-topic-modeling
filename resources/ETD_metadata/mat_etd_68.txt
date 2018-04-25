@@ -1,0 +1,11 @@
+$TITLE:
+The Eventual Vanishing of Self-Extensions
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Auslander-Reiten condition, Finitistic extension degree
+
+$ABSTRACT:
+In this thesis we examine modules that have eventually vanishing self-extensions with a view towards better understanding the Auslander-Reiten Condition.In the first part, we focus on modules over symmetric algebras using techniques from the representation theory of Artin algebras. More specifically, we examine how the shape of a component in the Auslander-Reiten quiver of a symmetric algebra is related to the vanishing of self-extensions of the modules it contains. We obtain several restrictions on the possible shape of such a component containing a module with eventually vanishing self-extensions. For many algebras we are able to describe completely which components may contain a module with eventually vanishing self-extensions. We determine the degree in which these extensions must begin to vanish for every module in such a component. In particular, we identify new conditions which guarantee that a symmetric algebra satisfies a generalized version of the Auslander-Reiten Condition.In the second part, we consider all Noetherian rings. Motivated by the results in the first part of the thesis, we introduce the finitistic extension degree of a ring. We show that rings for which this invariant is finite satisfy the generalized version of the Auslander-Reiten Condition. These results extend recent results for rings satisfying another cohomological condition known as Auslander's Condition. We also investigate the relationship between the finiteness of the finitistic extension degree and Auslander's Condition.

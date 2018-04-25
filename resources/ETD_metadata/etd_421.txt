@@ -1,0 +1,11 @@
+$TITLE:
+Lipschitz Geometry of Banach and Metric Spaces
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Banach space, Bilipschitz, Duality, Hilbert space, Metric space, Tight span
+
+$ABSTRACT:
+We will investigate Lipschitz and Hölder continuous maps between a Banach space X and its dual space X^*, the space of continuous linear functionals. The existence of these maps is related to the smoothness of the norm of the space and isomorphic invariants called type and cotype will play a central role as well. The main result will be answering a question asked by W.B. Johnson about the isomorphic classification of Hilbert spaces.Next we will find bounds on the distortion of subsets of infinite dimensional Hilbert space. This concept compares the extrinsic straight line distance inherited from the underlying space to the path metric of a subset. We will then use this concept to glean insight into the surjectivity of Bilipschitz maps.The tight span of a finite metric space is a polyhedral complex embedded in a normed space. We will show that  the position and lengths of the vertices and edges that arise in this construction are Lipschitz continuous with respect to the underlying space X.We will study symmetric products, where it is an open problem whether the symmetric product of a space X inherits the property of being an absolute Lipschitz retract. We will propose an approach that utilizes tight spans toward answering this question.

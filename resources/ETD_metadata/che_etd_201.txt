@@ -1,0 +1,11 @@
+$TITLE:
+Tuning Quantum Dot Interfaces for Biofunctionalization with expressed Haptocorrin and Fluorescent Proteins: Applications in Targeted Delivery, Cellular Imaging, Self-Assembly, and Energy Transfer
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+BRET, FRET, Haptocorrin, Phase Transfer, Quantum Dots
+
+$ABSTRACT:
+Semiconductive quantum dots (qdots) have emerged as a valuable material for energy transfer and cellular imaging due to its unique optical properties such as tunable emission, broad absorption, and long fluorescent lifetimes. In order to take advantage of these properties, the surface chemistry of the qdots must first be changed in order to facilitate transfer out of organic solvents and into aqueous buffers. In my dissertation research, I developed a qdot phase transfer method using the amino acid histidine that quickly render qdots soluble in aqueous buffers, retains quantum yield (QY), allows for subsequent ligand exchange to tailor qdot surface chemistry, and is easily functionalized by biomaterials. A polymer wrapping method using poly(styrene-co-maleic anhydride) (PSMA) functionalized with Nα'Nα-Bis(carboxymethyl)-L-lysine (NTA) has also been developed. I also expressed and purified a red fluorescent protein (tagRFP) with a N-terminal hexa-histidine tag. TagRPF was utilized for initial fluorescence resonance energy transfer studies (FRET) with both histidine and polymer wrapped qdots as well as sequential bioluminescence resonance energy transfer (BRET)-FRET using firefly luciferase as an energy donor, qdots or qrods as an intermediate acceptor/donor, and tagRFP as the final energy acceptor.The second focus of my dissertation research was the development of an expression system for human haptocorrin (HC). This process is an important part of the complex vitamin B12 (B12) uptake pathway, specifically as it provides protection for B12 from the mouth through the stomach, and into the intestine where is degraded. At the beginning of this work, there was no recombinant expression system for HC and its study was limited to purification from saliva and serum. I have cloned, expressed, and purified HC in the methylotropic yeast P. pastoris, and Human Embryonic Kidney Cells, as well as using it to target the asialoglycoprotein receptor for cellular imaging studies.

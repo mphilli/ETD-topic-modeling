@@ -1,0 +1,11 @@
+$TITLE:
+Coordination Chemistry in Biology and Medicine
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+PART I.  Synthesis and Characterization of Novel Metal-Citrate Complexes and the Investigation of Metal-Citrate Transporters in Gram-Positive BacteriaAbstract.Syntheses of new barium, cadmium, calcium, cobalt, iron, lead, magnesium, manganese, nickel, and strontium citrate complexes have been attempted using different methods such as room temperature slow evaporation and hydrothermal reactions to create new metal-citrate complexes.  Crystallizations were conducted under conditions varying metal and ligand concentrations, solution pH, temperature, solvents, and the presence of coligands.  All structures of crystals obtained were characterized by X-ray crystallography.  A novel lead-citrate complex was synthesized with a formula of (Na)[Pb5(C6H5O7)3(C6H6O7)(H2O)] 8H2O.  The structure is two-dimensional with five unique lead sites and four unique citrate ligands.  Three of the citrates exhibit three deprotonated carboxylates and one of them exhibit only two deprotonated carboxylates.  To study the metal-citrate uptake in Escherichia coli and Lactococcus lactis, radioflux assays were performed using citrate that was radiolabeled with 14C.PART II.  Synthesis and Characterization of Novel Bifunctional Single Amino Acid Chelates (SAAC) for Nuclear ImagingAbstract.99mTc(I) and Re(I) complexes can be used to visualize various diseases by linking the radioactive metal cation to biologically active molecules.  One type of bifunctional chelator is the single amino acid chelates (SAACs), which can be effectively coordinated to the {Re(CO)3}+ core through the chelating terminus.  The other terminus can be used to fuse the SAAC into a variety of different peptides or biomolecules.  Based on these strategies, syntheses of various SAAC ligands were investigated.  All structures of crystals obtained were characterized by X-ray crystallography.  A novel SAACQ-Zn complex was synthesized using an optimized direct reductive alkylation method.  Additionally, fluorescence and UV-Vis studies were done on Re(I)-SAAC compounds sent from collaborators.

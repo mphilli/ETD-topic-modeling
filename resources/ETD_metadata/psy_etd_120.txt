@@ -1,0 +1,11 @@
+$TITLE:
+The effects of schema-related information on attributions of leadership
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Initiating Structure, Consideration
+
+$ABSTRACT:
+This study focuses on the influence of specific continua in leadership schemata on perceptions of leadership. Continua examined in this study were the dimensions of "Initiating Structure" (i.e., the extent to which the leader initiates activity in the group, organizes the work, and defines how it should be done) and "Consideration" (i.e., the extent to which the leader exhibits consideration for group members' feelings and concern for their welfare and esteem) (Stogdill, 1963). The participant's schematicity for Consideration and Initiating Structure and the leader's behaviors with respect to Consideration and Initiating Structure were predicted to interactively influence retrieval of schema-related information, evaluations of leadership effectiveness, ratings of charisma, and attributions of responsibility for a successful group outcome. Contrary to predictions, participants did not remember schema-related behaviors describing a target leader more than schema-unrelated behaviors. However, participants judged a leader who emphasized Consideration behavior to be more effective, more charismatic, and more responsible for an alleged group success in proportion to the degree to which the leader's behavior matched the participant's schema of an effective leader. Results also indicated that a leader who emphasized Initiating Structure behavior was attributed responsibility for an alleged group success in proportion to the degree to which the participant was schematic for Initiating Structure. Thus, support was found for the idea that leadership perceptions are a function for the observer's leadership schemata. Implications for further research on leadership schemata are discussed.

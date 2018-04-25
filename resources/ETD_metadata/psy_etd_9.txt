@@ -1,0 +1,11 @@
+$TITLE:
+Using 'common-sense' to understand complementary and alternative medicine use and HAART adherence in HIV+ people
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+HIV, Complementary medicine, Common Sense Model, HAART, Treatment representations, Complementary and alternative medicine
+
+$ABSTRACT:
+Many HIV+ patients use complementary and alternative medicine (CAM) to treat HIV symptoms and HAART side effects and, for some, CAM use may interfere with HAART adherence. Using the Common Sense Model (CSM) of self-regulation as a conceptual framework, this study describes CAM use, identifies determinants of CAM use, and examines the relationship between CAM use and HAART adherence. Cross-sectional interviews with 150 HIV+ adults were completed using a computerized assessment of self-reported CAM use, HIV-related illness experiences, treatment representations, and HAART adherence. One or more CAM modalities were used by 50% of participants to treat or manage HIV-related health concerns in the past month and 81% had used CAM since their diagnosis. Neither CAM use nor CAM intensity varied by participant demographic, biomedical, or HIV treatment characteristics. In multivariate analyses, HIV-related illness experiences and CAM representations emerged as significant determinants of CAM use and CAM intensity, whereas HAART representations did not. Contrary to our hypotheses, CAM users endorsed fewer  domains of intentional nonadherence to HIV treatment as compared with non-users. CAM intensity was also related to intentional nonadherence, such that patients who had higher intensity scores also reported fewer occurrences of intentional nonadherence in the past month. Consistent with the CSM, findings suggest that HIV+ patients use CAM as an adjunct to HAART and that CAM use does not undermine other adaptive health behaviors, such as HAART adherence. Needed now is longitudinal research to determine how a proactive, holistic approach to HIV care interacts with conventional HIV treatment over time and whether CAM use impacts long-term quality of life and health outcomes.

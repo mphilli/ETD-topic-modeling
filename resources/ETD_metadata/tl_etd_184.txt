@@ -1,0 +1,11 @@
+$TITLE:
+A Comparison Of Student Achievement In Experimental Classrooms With Visual Display Of Verbal Stimuli And An Electronic Or Mechanical Student Response System
+
+$DEPARTMENT:
+Teaching and Leadership
+
+$KEYWORDS:
+Education, instructional media, electronic technology, student participation, testing
+
+$ABSTRACT:
+This study investigates the effect on student achievement from a visual-verbal mode of instruction, combined with the use of two student response systems, in an undergraduate course.

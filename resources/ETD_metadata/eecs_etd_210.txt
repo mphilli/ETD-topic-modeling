@@ -1,0 +1,11 @@
+$TITLE:
+The band-pass matrix pencil method for parameter estimation of exponentially damped/undamped sinusoidal signals in noise
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Sinusoidal signals
+
+$ABSTRACT:
+The estimation of sinusoidal parameters from noisy data arises in many practical problems, such as time series analysis, system identification, speech processing and antennae array processing, etc. The matrix pencil method has been proven to be an efficient estimation technique. This dissertation investigates the utilization of filtering techniques to improve the estimation performance of the matrix pencil method. The prefiltering process is carefully designed so as to mitigate the influence of noise without violating the fundamental property of the matrix pencil method. The backward process is used for the IIR filtering, the crux is to form a filtering matrix by using a finite impulse response of the filter. Then the filtering process is performed by premultiplying the data matrices with the filtering matrix. The frequency estimates can be obtained from the filtered data matrices by using the matrix pencil method. The FIR filtering is more efficient for short exponentially damped or undamped sinusoidal signals. The impulse response of the FIR filter can be built based on the periodogram analysis of the data or directly from the data. Simulation results have been presented which confirm the expected performance of the proposed filtering techniques. To compute more efficiently, a modified method based on the state-space method is also introduced. This method is applied to the problem of multi-input multi-output system identification under the common-pole constraint. The advantage of the common-pole approach is that the identification of the system is generally more reliable than those obtained on the basis of individual output analysis when the outputs of the system arise from a common source. Finally, the proposed method is implemented on a digital signal processor and tested. The relative errors for the estimated parameters and the computational times show that the implementation to be feasible for real-time applications.

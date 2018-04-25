@@ -1,0 +1,11 @@
+$TITLE:
+The effects of extended time on the mathematics performance of students with and without attention deficit hyperactivity disorder
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+ADHD, Extended time, Mathematics, Test accommodations
+
+$ABSTRACT:
+This study examined the effects of extended testing time on the performance of children with and without attention deficit hyperactivity disorder (ADHD) on a Mathematics Calculation Test (MCT) in an effort to test the Maximum Potential Thesis (MPT), which states that individuals with disabilities will benefit from extended testing time whereas those without disabilities will not benefit from the same testing accommodation. Group differences were examined with regard to processing speed, mathematics fluency, executive functions, and academic achievement. These and other variables were regressed on MCT to determine predictors of speeded performance. Results indicated that the ADHD group demonstrated lower processing speed, math fluency, and achievement, and had more ADHD symptoms and executive function problems. The results did not support the MPT in that both groups benefited from extended testing time. Predictors of MCT performance under standard time conditions included processing speed and mathematics fluency, whereas the best predictor of MCT performance at extended time was MCT performance at standard time. Processing speed, mathematics fluency, and group predicted performance at extended time when performance at standard time was not part of the regression analysis. With extended time the ADHD group was able to perform as well as the control group at standard time. The findings suggest that students with ADHD tend to perform more slowly and less accurately than controls under standard time constraints, and show no "differential boost" or gain under extended time conditions. The results raise questions about the fairness, appropriateness, and validity of extended time accommodations.

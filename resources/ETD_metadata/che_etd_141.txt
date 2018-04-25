@@ -1,0 +1,11 @@
+$TITLE:
+Molecular Reorganizations and Cycloadditions
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Thermal rearrangements, Photochemical rearrangements, Cycloadditions, Woodward-Hoffman orbital symmetry rules
+
+$ABSTRACT:
+Interest in thermal and photochemical rearrangements and cycloadditions has been quite intense over the years, but not until the recent advent of Woodward-Hoffman orbital symmetry rules have such processes been understood mechanistically. Nonetheless, proper application of these rules to bond-relocations within large polyunsaturates is for the most part a formidable task because of the many reaction paths and non-planar conformations available to the systems.This situation is well exemplified in the thermal and photochemical behavior of the C10H10 and C16H16 systems which have been studied extensively and which will be detailed here in order to place the present work in proper perspective.

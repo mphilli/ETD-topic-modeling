@@ -1,0 +1,11 @@
+$TITLE:
+Models for identifying lapsed buyers in a non-contractual setting
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+Customer base analysis, Active, Noncontractual, Pareto/NBD, Lapsed, BD/NBD
+
+$ABSTRACT:
+Despite efforts to impose switching costs, B2B buyers either tend to change providers from time to time or to withdraw from the market entirely. Identifying lapsed buyers in a non-contractual setting has a great impact on implementing marketing decisions, such as customer retention management and periodic marketing campaigns conducted by marketers to stimulate sales. While existing integrated customer purchase timing models like the Pareto/NBD model are designed to identify such customers from their purchase histories, model estimation remains challenging. An alternative model, the BG/NBD model, differs in how the dropout rates are modeled. Because purchasing hierarchies, production or accounting cycles, and catalog mailings influence purchase timing for B2B buyers, transaction patterns may deviate from the Poisson process that is assumed by the NBD purchase timing model.In this study, the author proposes an easy-to-estimate Beta-Geometric customer lifetime model to identify lapsed B2B buyers in non-contractual environments. Unlike earlier approaches that address dropout censoring by jointly estimating the lifetime and purchase timing model parameters, this study use the simple method of moments to calculate the probability of active and lapsed buyers, a strategy that simplifies estimation and provides greater flexibility in the choice of purchase timing models. An empirical study with more than 60,000 B2B buyers revealed that the proposed method, implemented with a gamma purchase timing model, yields significantly greater classification accuracy for both lapsed and active buyers than a scoring model, a heuristic algorithm approaches, or the Pareto/NBD and the BG/NBD models, when they are implemented with an exponential purchase timing model.

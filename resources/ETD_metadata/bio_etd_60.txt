@@ -1,0 +1,11 @@
+$TITLE:
+Synthesis Of 1-Fluoro-3-Hydroxyacetone Phosphate And Its Effects On Glycerol-3-Phosphate Dehydrogenase
+
+$DEPARTMENT:
+Biology
+
+$KEYWORDS:
+Biochemistry
+
+$ABSTRACT:
+Discusses methods, toxicity, antitumor studies, etc.

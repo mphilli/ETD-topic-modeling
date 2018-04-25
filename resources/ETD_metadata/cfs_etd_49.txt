@@ -1,0 +1,11 @@
+$TITLE:
+Documenting the experiences of academically successful college-aged African-American females
+
+$DEPARTMENT:
+Child and Family Studies
+
+$KEYWORDS:
+women students, African American females
+
+$ABSTRACT:
+There is a bias in the American education system which puts African American females at a disadvantage in relation to academic achievement. The first step in meeting the educational needs of African American females is to gain a better understanding of what contributes to academic success among this group. This paper is a qualitative study of the experiences of academically successful African American females. The conceptual frameworks which guided the research were feminist theory and grounded theory. In-depth interviews were conducted with nine academically successful college aged African American females. Coding techniques were used to analyze the data. HYPERQUAL, a computer program designed to facilitate analysis of qualitative data, was used. Common experience among the participants fell into four broad categories, characteristics, personal attributes, academic tracking, and school experiences.

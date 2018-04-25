@@ -1,0 +1,11 @@
+$TITLE:
+Social Comparison Theory in the Context of Chronic Illness: Predictors and Consequences of Target Selection among Individuals with Type 2 Diabetes
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Chronic Illness, Diabetes, Health Behavior, Motivation, Self-Care, Social Comparison
+
+$ABSTRACT:
+Individuals often compare themselves to others (i.e., social comparisons) in order to determine their status in a given domain. Social comparisons may be particularly important for patients with chronic illness; patients often experience uncertainty and anxiety about their health, which increase the likelihood and utility of social comparisons. Among patients, social comparisons can have both positive and negative health-related consequences (for affect, motivation to improve one's health care behaviors, etc.), depending upon several contextual features. Various steps in the social comparison process have been proposed, but not tested directly. The present study is an examination of the social comparison process among patients with Type 2 Diabetes Mellitus (T2DM) - a condition that is a growing public health concern for which psychosocial interventions can be beneficial. Patient participants used a web-mediated program to self-report individual difference characteristics prior to selecting from four comparison targets (descriptions of other patients with T2DM). Patients then rated their motivations for selection, read a description of their chosen patient, and reported on their response (e.g., current affect, motivation to improve self-care). Patients who endorsed greater symptom severity were more likely to choose sicker comparison targets, but choice was unrelated to personality characteristics. A model that incorporated several individual difference factors thought to be related to social comparison had moderate predictive value for comparison choice. The extent to which patients focused on differences and similarities between themselves and their chosen targets moderated affective and motivational response (respectively). These findings may contribute to the improvement of psychosocial interventions for patients with T2DM and other illnesses (e.g., components of cognitive intervention, educational materials that include patient testimonials, the composition of support groups).

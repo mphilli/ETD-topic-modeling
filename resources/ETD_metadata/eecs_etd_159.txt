@@ -1,0 +1,11 @@
+$TITLE:
+A comparative study of space-time processing airborne radar
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+adaptive array, signal processing, jamming interference
+
+$ABSTRACT:
+Adaptive array signal processing techniques are often proposed for application to airborne wide area surveillance and track radars, to suppress clutter returns and jamming, while enhancing the detection of airborne targets. To improve performance over classical adaptive algorithms under severly nonhomogeneous interference conditions, canceller based signal processors are often implemented. One highly successful canceller based technique, selected for comparative analysis in this dissertation, is referred to as Displaced Phase Center Aperture. Alternatively, transform domain localized adaptive algorithms also provide for improved performance over classical adaptive algorithms in a nonhomogeneous interference environment. This is due, in part, to the decoupling effect of the transform, effectively separating the degrees of freedom of the processor from the measurement data sample size. The Joint Domain localized-Generalized likelihood Ratio (JDL-GLR) test is the two dimensional transform domain localized adaptive space-time processing technique selected for analysis in this dissertation.In this research, an adaptive array radar employing the JDL-GLR test is directly compared to a canceller based radar. Both the theoretical optimum and classical approaches to adaptive space-time processing are included for completeness. This analysis is performed for target detection in a nonhomogeneous clutter and jamming interference environment, where conventional adaptive array processing is not feasible. The JDL-GLR based approach to radar signal processing is shown to offer superior performance over the canceller based approach under a wide variety of conditions, even in a nonhomogeneous interference environment.

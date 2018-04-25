@@ -1,0 +1,11 @@
+$TITLE:
+Speech act theories of meaning
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Speech act, Meaning, Communication, Language
+
+$ABSTRACT:
+The bulk of my dissertation is a survey of current speech act theories of meaning. This provides the necessary background leading up to what I ultimately aim to show, which is that Searle is right in claiming that there is a connection between what a speaker means by what he says and what that which he says means in the language.  I take it that one of the main problems of any account of meaning is that of how to combine the seemingly irreconcilable private psychological intentionality involved in a speaker meaning something by what she says with the equally important public aspect of linguistic meaning, i.e. the fact that a meaningful sentence is a sentence which means something in some language. So, I spend chapter One going over arguments that show intentions are not sufficient for meaning, and in chapters Two through Four (part of what I do) is examine various attempts (starting with Grice's revised account of meaning) to bring in this public aspect; whether it is to link it with the private intentional aspect or to confine it to sentence (rather than speaker) meaning. In chapter Five I distinguish the different types of speaker and utterance (or sentence) meaning that are in keeping with Searle's claim. And, finally, in distinguishing between speaker meaning and communication, I identify three different types of communication.

@@ -1,0 +1,11 @@
+$TITLE:
+Intentio Ex Machina: Android Intent Access Control via an Extensible Application Hook
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+access, android, control, intent, security
+
+$ABSTRACT:
+Android's intent framework facilitates binder based interprocess communication (IPC) and encourages application developers to utilize IPC in their applications with a frequency unseen in traditional desktop environments. The increased volume of IPC present in Android devices, coupled with intent's ability to implicitly find valid receivers for IPC, bring about new security challenges to the computing security landscape.This work proposes Intentio Ex Machina (IEM), an access control solution for Android intent IPC security. IEM separates the logic for performing access control from where the intents are intercepted by placing an interface in the Android framework. This allows the access control logic to be placed inside a normal application and reached via the interface. The app, called a “user firewall”, can then receive intents as they enter the system and inspect them. Not only can the user firewall allow or block intents, but it can even—within designed limitations—modify them. Since the user firewall runs as a normal user application, developers are free to create their own user firewall applications which users can then download and enable. In this way, IEM creates a new genre of security application for Android systems allowing for creative and interactive approaches to active IPC defense.

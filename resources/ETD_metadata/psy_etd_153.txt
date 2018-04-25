@@ -1,0 +1,11 @@
+$TITLE:
+Alcohol, Gender, Power, and Condom Use Among African American Adults
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Alcohol use, African-Americans, Condom use, HIV/AIDS
+
+$ABSTRACT:
+Experimental vignettes depicting a hypothetical sexual encounter were used to test causal hypotheses generated from the Theory of Gender and Power (TGP) on self-reported difficulty implementing condom use among heterosexual African American adults. One hundred fifty five women and N =155 men completed a repeated measures experimental protocol of 8 experimental vignettes designed to manipulate the following aspects of a sexual encounter: relationship power (low vs. equal), partner type (casual vs. serious), and presence or absence of alcohol use immediately prior to a sexual event. For female participants, significant main effects for the 3 manipulated independent variables emerged such that experimental vignettes characterized by low relationship power, a serious partner type, and presence of alcohol use received significantly higher mean ratings of difficulty implementing condom use. For men, only a robust main effect for alcohol use and a modest main effect for relationship power were observed. Condom use self-efficacy also emerged as an important between subjects variable such that male and female participants who reported low levels of self-efficacy found it significantly more difficult to implement condom use in all experimental conditions. This project adds to the existing literature in three ways: (a) extensive formative work was conducted to provide a template for, and facilitate an increase in, experimental HIV-related research, (b) study hypotheses were explored using an experimental methodology, which allowed for the investigation of the theory-based causal mechanisms underlying condom use behavior in a sample at high risk for HIV acquisition, (c) the results from this study have the potential to enhance the effectiveness of HIV prevention interventions and contribute to the reduction of HIV infection among African American adults.

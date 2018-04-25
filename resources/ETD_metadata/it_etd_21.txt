@@ -1,0 +1,11 @@
+$TITLE:
+Technology, values, and genre change: The case of small literary magazines
+
+$DEPARTMENT:
+Information Science and Technology
+
+$KEYWORDS:
+Technology, Values, Genre change, Literary magazines, Magazines
+
+$ABSTRACT:
+Studies of genre change have been among those that have focused on the ability of human actors to use information technology to alter the social structures in which they participate. However, these studies have tended to focus on genres in which creative values play a small role, or to focus on generic artifacts rather than on the values behind them. In contrast, scholars in the humanities have raised questions about whether the traditional values expressed in literary genres are linked specifically to print culture, or whether those values will change with the introduction of online technologies. These questions have not been answered empirically. This gap in the research means that we lack an empirically tested conceptual framework for anticipating how producers in creative genres will use online technologies to reinforce or alter the traditional values in those genres.Editors of online and paper literary magazines make ideal subjects for this study. They produce their magazines in an atmosphere with little or no external control, and previous scholarship would suggest that creative values play an important role in their decisions. Accordingly, this study proposed and evaluated a conceptual framework, based principally on work by Pierre Bourdieu and Anthony Giddens, for anticipating whether and how literary magazine editors will use online technologies to reinforce or alter the traditional values in their genre. This was a step toward a more general understanding of the use of online technologies by producers in creative genres.The study found that the four key values that make up the heart of the synthetic conceptual framework, Positive Regard for Symbolic Capital, Negative Regard for Immediate Financial Gain, and Positive Regard for Avant-garde-ism, are a good fit for the value expressed by literary magazine editors. Literary magazine editors who publish their magazines online, however, were found to hold those values more strongly than editors who publish their magazines exclusively on paper. The study posits the concept of intensifying use to explain these differences.

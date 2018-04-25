@@ -1,0 +1,11 @@
+$TITLE:
+Computational studies of wavelength selection in cone pigments and cation binding in bacteriorhodopsin
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Wavelength selection, Cone pigments, Cation binding, Bacteriorhodopsin
+
+$ABSTRACT:
+Retinal proteins are integral membrane proteins, which bind a co-factor, retinal, via a conserved covalent linkage. Retinal is light-sensitive and can harness light energy, which is used by the protein to perform a variety of physiological functions. Color vision is a direct consequence of the ability of the protein environment to alter the electronic properties of retinal. The violet absorbing pigment from Xenopus laevis (VCOP) has been the subject of much recent experimental characterization. We have developed semi-automated procedures to build three-dimensional models for VCOP and other cone opsins. These models have been used to interpret data from mutagenesis experiments. The chromophore conformation of rhodopsin has also been studied on the basis of recent NMR studies. A minimum energy structure for retinal in rhodopsin adopts a conformation that satisfies NMR data but disagrees with previously published models. MNDO-PSDCI molecular orbital calculations provide strong evidence for the involvement of an arginine residue (R82) as a principle counterion in the bacterial protein, bacteriorhodopsin. A role for R82 in the binding site precludes calcium binding in that region. This led to the study of several crystal structure of bacteriorhodopsin using empirical ion-mapping techniques to identify probable cation binding sites. Molecular dynamics simulations on several promising sites, in conjunction with FTIR studies strongly suggest an interaction between the proton release group and the color-controlling cation binding site.

@@ -1,0 +1,11 @@
+$TITLE:
+Novel methods for fabricating magnetic thin films and heterostructures
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+thin films, metalorganic chemical vapor deposition
+
+$ABSTRACT:
+The deposition of metal thin films can be undertaken using volatile organometallic complexes. Metal-organic chemical vapor deposition has a number of potential advantages over conventional chemical vapor deposition and molecular beam epitaxy technologies, and a number of novel thin film materials can be made from organometallic compounds. Despite widespread use of MOCVD, little systematic work has been done to evaluate new source complexes. Thermodynamic studies are particularly important, since these factors control whether the compound will decompose in such a way as to give a desired coating with low levels of contamination. Plasma-, pyrolytic- and photolytic-assisted decomposition of organometallic complexes has been undertaken to make a variety of metal thin films.In this work we have used Pd(C5Hb5)(C3H5) to deposit Pd, Co(C5H5)2 to deposit Co, Ni(C5H5)2 to deposit Ni, and CrO3 or Cr(CO)6 combined with O2 to deposit CrO2. We then made Co/Ni and Co/Pd multilayers by laser photolysis. Multilayers have been deposited with a variety of compositions to verify dependence of the saturation magnetization on the composition. The films were analyzed by scanning electron microscopy, X-ray electron spectroscopy, and Auger electron spectroscopy, as well as magneto-optic Kerr effect (MOKE), torque magnetometer, and vibrating-sample magnetometer (VSM). Several conclusions can be drawn relating the thermodynamics with the outcome of attempting to make coatings. The thermodynamic studies, discussed herein are seen to give some prediction of contamination levels and coating feasibility with various organometallic compounds.

@@ -1,0 +1,11 @@
+$TITLE:
+The synthesis and structural study of organically templated copper molybdenum oxides
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Organonitrogen, Copper, Molybdenum oxides
+
+$ABSTRACT:
+An investigation into the structural motifs developed by applying batch hydrothermal synthetic techniques to organonitrogen-templated copper molybdenum oxides was undertaken. All reactions were carried out with molybdenum trioxide, a copper(II) starting material (CuSO 4 ·5H 2 O, Cu(NO 3 )·2.5 H 2 O) and the organonitrogen in 10ml of water contained in a 23ml Parr acid digestion bomb. Variations in reaction conditions included temperature (120-220°C), concentration of precursors, and the type of organoamine incorporated into the metal oxide framework. The organonitrogen ligands utilized are mono-, di-, tri- and tetradentate ligands varying in size and geometry. By characterizing all crystalline products with single crystal x-ray diffraction, one can gain some understanding of the synergistic relationships between the formation of the metal oxide framework and the organonitrogen template. This understanding can further the development of new metastable materials combining microporosity and selectivity for catalytic reactions.

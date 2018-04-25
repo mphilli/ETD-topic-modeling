@@ -1,0 +1,11 @@
+$TITLE:
+The synthesis and reactions of derivatives of thiacyclobutene (thiete)
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+thiacyclobutene (thiete)
+
+$ABSTRACT:
+Reactions of derivatives of thiacyclobutene (thiente)

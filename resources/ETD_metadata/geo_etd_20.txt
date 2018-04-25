@@ -1,0 +1,11 @@
+$TITLE:
+Using GIS in assessing nuclear risk communication: A case study from Oswego County, New York
+
+$DEPARTMENT:
+Geography
+
+$KEYWORDS:
+GIS, Nuclear risk communication, Oswego County, New York
+
+$ABSTRACT:
+Current nuclear emergency management procedures do not satisfactorily address issues related to how people might respond to an accident. This response might be very different from what authorities recommend, and thus create confusion, mistrust, and widespread uncertainty. To understand how people might react to a nuclear accident, in the first part of my dissertation I used a mailed survey to assess possible reactions to an emergency situation at the Nine Mile Point nuclear complex, located in Oswego County, New York. I then compared respondents' answers to the directives given by local emergency planners, and looked for factors (socio-demographic, economic, and perceptual) that might explain their reactions. In the second part of my research, I used a Geographic Information System (GIS) as a tool for visualizing the results of my survey, communicating respondents' attitudes and concerns regarding Nine Mile Point to local emergency planners, and studying the effects of distance from the nuclear complex on respondents' likely reactions to the nuclear emergency.A key result of my work is the identification of unresolved issues in the communication of nuclear risk in Oswego County. In particular, the booklet "Oswego County Emergency Planning and You," sent once a year to all people living close to the plant, is not very effective in preparing the population for a nuclear emergency. In addition, my research shows that a GIS can work well in communicating to the planners the respondents' perceptions of nuclear risk and in discovering spatial patterns in the answers to the survey. My study also demonstrates that a GIS can be effective in participatory, collaborative planning for nuclear emergencies.

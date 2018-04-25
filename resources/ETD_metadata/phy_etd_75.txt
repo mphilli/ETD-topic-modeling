@@ -1,0 +1,11 @@
+$TITLE:
+Exotic statistics
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Geons, Unknotted strings, Point particles
+
+$ABSTRACT:
+It is known that when the classical configuration space of a physical system is multiply connected, that system has two or more distinct quantizations. The configuration space of N identical systems has such multiple connectivity. For a system of N identical particles in a simply connected space of dimension 3 or more, the fundamental group is the permutation group $S\sb{N}$ and this leads to quantization based on its representation and particles which in general obey parastatistics. Of these, only two quantizations are normally used, namely one in which the particles obey Fermi-Dirac statistics and one in which they obey Bose-Einstein statistics. Recently, however, attention has been paid to physical systems where possibilities for quantization in addition to those furnished by representations of $S\sb{N}$ exist. In many of these cases the particles may obey statistics other than parastatistics. These statistics are called exotic.In this thesis we examine three such examples: in the first, the physical objects are topological excitations called geons. They are believed to exist in generally covariant theories that are diffeomorphism invariant. We find that they need not obey any definite statistics; the possibilities for statistics that may occur depend on their topology and on the dimensionality of the physical space. It is also possible that they may not obey the usual spin-statistics relation.The second example is a system of unknotted strings in 3 + 1 dimensions. We show that this system can also lead to exotic statistics, and once more the spin-statistics relation may not be valid. We also show that unoriented linked strings may exhibit statistics which oriented ones cannot, while for unlinked ones the possibilities for statistics of oriented and unoriented strings are the same.Our final example treats point particles on one-dimensional spaces, such as circles or lines. When one allows for the existence of antiparticles as well as for pair creation and annihilation processes, new possibilities for statistics arise, such as fractional or indefinite statistics.

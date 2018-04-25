@@ -1,0 +1,11 @@
+$TITLE:
+Predictors of Postsecondary Education Attendance for Youth with Learning Disabilities
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Postsecondary education, students, learning disabilities
+
+$ABSTRACT:
+Given the increasing number of students with learning disabilities attending postsecondary educational institutions, it is essential to determine the factors which may play a predictive role in postsecondary education in order to inform educational practices and interventions prior to high school graduation. As such, the primary aim of the current study was to examine which variables may hold predictive value for postsecondary education attendance for students with learning disabilities. This study analyzed the National Longitudinal Transition Study-2 (NLTS2) in an attempt to identify the variables that predicted the likelihood that youth with disabilities would attend more postsecondary education. A total of 435,437 youth with learning disabilities were included in the present study. The sample of youth with learning disabilities was mostly male (60.9%); family household income was roughly evenly distributed amongst the following three categories: $25,000 or less, $25,001-50,000, and more than $50,000. Youth's education attainment ranged from not finishing high school to completing a four-year college degree. Results indicated that reading achievement, family involvement, and social support played significant roles in predicted graduation from a two-year college or university, such that postsecondary education attendance increased if the youth was had higher reading achievement, had a parent/guardian involved in school activities, and had social support. It was also determined that math achievement, the youth's role in IEP/transition planning, social support, and family involvement all played significant roles in the predicted number of credits earned from a postsecondary institution, such that number of credits increased if the youth had higher math achievement, played more of a leadership role in IEP/transition planning, had social support, and had a parent/guardian involved in school activities. Directions for further research and implications for best transition practices are denoted in light of these results.

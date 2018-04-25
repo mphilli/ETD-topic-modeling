@@ -1,0 +1,11 @@
+$TITLE:
+Adaptive bandwidth management for QoS sensitive multimedia cellular/communication networks
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Cellular networks, Communication networks, Quality of service, Bandwidth, Multimedia
+
+$ABSTRACT:
+Bandwidth is an extremely valuable and scarce resource in multimedia networks. Therefore, efficient bandwidth management is necessary in order to provide high quality service to users in a multimedia network. In this dissertation, we propose new bandwidth management algorithms for bandwidth reservation, adaptation, extension and migration; and call admission and preemption. In addition, advance reservation strategies for applications requiring bandwidth at a future time are also proposed. These algorithms are combined in integrated frameworks where they are able to cooperate with each other to strike an appropriate network performance balance between contradictory QoS requirements for multimedia services. An important design principle underlying our frameworks is online decision making based on real time traffic estimation. This on-line approach gives adaptability and flexibility to solve a wide range of control tasks for efficient network performance. We compare the performance of our frameworks with several existing bandwidth management schemes. Performance evaluation results clearly indicate that our frameworks maintain well-balanced network performance while satisfying contradictory QoS requirements in widely different and diversified traffic load situations. Other existing schemes can not offer such an attractive trade off. The main concept of our integrated online framework can also be applied beyond bandwidth management in communication networks to other resource management tasks, e.g., CPU scheduling, and disk and memory management.

@@ -1,0 +1,11 @@
+$TITLE:
+Ruthenium Hydride Catalyzed Silylvinylation of Alkynes
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Imidazopyridines, Organic Chemistry, Organometallic Chemistry, Palladium, Ruthenium, Synthetic Chemistry
+
+$ABSTRACT:
+The intermolecular ruthenium hydride catalyzed coupling of internal alkynes with subsequent insertion of olefin acceptors is described. This approach utilizes a vinyl silicon tether to provide complete regiocontrol, a stereoselective anti-exo-dig cyclization which affords a tetrasubstituted olefin with a new vinylsilane, and a highly functionalized Z,E diene motif. Subsequent studies for a highly selective intramolecular trans-silylvinylation of internal alkynes catalyzed by RuHCl(CO)(SIMes)(PPh3) is reported. The use of methyl vinyl ketone as an additive increased the efficiency of this transformation. This process was expanded upon using ethylene gas as an additive and provides a net 5-exo-dig trans-silylvinylation of internal alkynes. Ethylene decreased reaction times and promoted altered selectivity at increased pressure. Furthermore, the chemoselectivity was attenuated when alkyl substituted alkynes afforded silylvinylation at 80 psi of ethylene. Terminal alkynes were utilized in this transformation at increased ethylene pressure and produced syn-silylvinylation products.Imidazo[4,5-c]pyridines were synthesized in three steps utilizing a palladium catalyzed amidation-cyclization strategy. N-Aryl substrates were synthesized using copper catalyzed amidation of 3-amino-N-Boc-4-chloropyridine. Complementary protocols for the selective chlorination of imidazo[4,5-c]pyridines at C2 and C7 positions were also developed. An improved protocol for the synthesis of imidazo[4,5-b]pyridines and pyrazines using palladium catalyzed amidation of 2-chloro-3-aminopyridines is described. The process utilizes Xantphos and a binary solvent system comprised of 1,4-dioxane and tert-amyl alcohol. The improved conditions were extended to provide a method for the regioselective coupling of polychlorinated aminopyridines.

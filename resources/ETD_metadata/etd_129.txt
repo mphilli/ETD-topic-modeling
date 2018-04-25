@@ -1,0 +1,11 @@
+$TITLE:
+FATHER INVOLVEMENT IN LOW-INCOME FAMILIES: EVIDENCE ON PREDICTORS OF INVOLVEMENT FROM TWO LARGE SCALE MATERNAL-CHILD HEALTH DATASETS
+
+$DEPARTMENT:
+Child and Family Studies
+
+$KEYWORDS:
+father involvement, maternal-child health
+
+$ABSTRACT:
+The literature on father involvement in low-income, racially diverse families has grown in recent years, but is far from complete.  Continued research is needed to better understand those factors that support father involvement, which has been identified to be a key contributor to maternal and child wellbeing.  This dissertation examines the utility of using existing, large-scale maternal-child health datasets to generate insights into the processes that contribute to father involvement.  Two large scale maternal-child health data sets on low-income families were examined to improve our understanding of the nature of father involvement at birth and in infancy/early childhood.  Multinomial logistic and logistic regression models were developed to examine predictors of father involvement at the time of birth and at 36 months after birth.  Significant predictors of low levels of father involvement included: 1) a non-marital birth/unmarried parents, 2) mothers without a high school education, 3) teen pregnancy, 4) maternal poverty, 5) race (a proxy for other social risk factors) for both Black and White mothers, compared to Latino mothers, but with Black mothers having the greatest likelihood of low father involvement, 6) maternal risky lifestyle/health behaviors and maternal prenatal health risks, 7) maternal depression/antidepressant use, and 8) unintended pregnancy.  These findings expand the boundaries of both the child and family studies and maternal-child health/public health literature by validating theoretical frameworks that have been proposed for the study of father involvement and by identifying maternal characteristics and behaviors that increase the risk for low father involvement.  This study identifies opportunities for earlier intervention focused on risk reduction and identifies additional areas for future research.  The results of this study enhance the literature on low-income, minority fathers--an area that has been identified as neglected and in need of significant attention.

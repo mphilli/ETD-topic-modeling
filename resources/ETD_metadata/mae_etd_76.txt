@@ -1,0 +1,11 @@
+$TITLE:
+Enriching Step-Based Product Information Models to Support Product Life-Cycle Activities
+
+$DEPARTMENT:
+Mechanical and Aerospace Engineering
+
+$KEYWORDS:
+Compliance management, Information modeling, ISO 10303, Semantic representation, STEP, Tolerance analysis
+
+$ABSTRACT:
+The representation and management of product information in its life-cycle requires standardized data exchange protocols. Standard for Exchange of Product Model Data (STEP) is such a standard that has been used widely by the industries. Even though STEP-based product models are well defined and syntactically correct, populating product data according to these models is not easy because they are too big and disorganized. Data exchange specifications (DEXs) and templates provide re-organized information models required in data exchange of specific activities for various businesses. DEXs show us it would be possible to organize STEP-based product models in order to support different engineering activities at various stages of product life-cycle. In this study, STEP-based models are enriched and organized to support two engineering activities: materials information declaration and tolerance analysis. Due to new environmental regulations, the substance and materials information in products have to be screened closely by manufacturing industries. This requires a fast, unambiguous and complete product information exchange between the members of a supply chain. Tolerance analysis activity, on the other hand, is used to verify the functional requirements of an assembly considering the worst case (i.e., maximum and minimum) conditions for the part/assembly dimensions.Another issue with STEP-based product models is that the semantics of product data are represented implicitly. Hence, it is difficult to interpret the semantics of data for different product life-cycle phases for various application domains. OntoSTEP, developed at NIST, provides semantically enriched product models in OWL. In this thesis, we would like to present how to interpret the GD & T specifications in STEP for tolerance analysis by utilizing OntoSTEP.

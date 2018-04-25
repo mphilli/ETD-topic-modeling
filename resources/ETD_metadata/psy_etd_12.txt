@@ -1,0 +1,11 @@
+$TITLE:
+Determinants of postsecondary students' performance on timed examinations: Implications for extended time testing accommodations
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Postsecondary students, Timed examinations, Extended time, Testing accommodations, Test performance
+
+$ABSTRACT:
+Increasing numbers of postsecondary students with disabilities are applying for testing accommodations, with the most frequent accommodation being extended time on tests. However, little is known about the factors that affect performance on timed academic tests. Hypothesized contributors to performance on these tests include reading fluency, processing speed, students' perceptions of timed test-taking ability, test anxiety, and level of effort. In the present study, participants ( N  = 225) completed a battery of performance and self-report measures, including a brief reading comprehension test that served as a proxy for a timed high-stakes examination. Level of effort was manipulated by randomly assigning students to either a "best effort" condition, in which they were asked to put forth their best effort on all measures, or to a "malingering" condition, in which they were asked to feign reading-related problems in an effort to obtain testing accommodations. In the best effort group, reading fluency and self-perceptions emerged as predictors of performance on the reading comprehension test, whereas test anxiety and processing speed did not add unique predictive value. Perceptions of performance on timed tests were predicted by test anxiety, even when reading fluency was controlled. The malingering group obtained significantly poorer scores on all measures, although the differences were greater on the self-report measures (e.g., the test anxiety questionnaire) than on the performance measures (e.g., processing speed tasks). Implications for future research and testing accommodation eligibility decisions are discussed.

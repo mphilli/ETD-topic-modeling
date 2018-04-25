@@ -1,0 +1,11 @@
+$TITLE:
+Evaluation and selection of supply chain initiatives: A model including customer utilities and competitive reaction
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+Supply chain, Quality function deployment, Customer utilities, Competitive reaction
+
+$ABSTRACT:
+Investments to improve the performance of supply chains are often costly and difficult to justify using traditional discounted cash flow (DCF) techniques primarily because the benefits of a supply chain project tend to be indirect and non-financial in nature. While it may be easy to address the costs associated with a supply chain project, estimates of the impact on revenue are often crude. To address this issue, this dissertation proposes a methodology to assess the impact of a supply chain initiative on market share and revenue. The proposed methodology links quality function deployment (QFD) and customer utility functions to predict the change in market share attributable to a supply chain initiative. This approach reduces the subjectivity of traditional QFD by using data fusion and regression to calculate the strength of the relationships between the proposed supply chain initiative, supply chain capabilities and the perceived utilities of consumers. The model is verified and validated through simulation and appears to mitigate several of the inherent limitations of DCF analysis method typically used to evaluate supply chain projects. Potentially, the model can also help supply chain managers make better use of their current capabilities.

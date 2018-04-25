@@ -1,0 +1,11 @@
+$TITLE:
+Performance analysis using formal methods
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+labeled transition system, LOTOS, Computer science, Operations research, Electrical engineering
+
+$ABSTRACT:
+Enhancements are made to the labeled transition system LOTOS in order to map specifications to stochastic models. The results are formalized into an enhanced labeled transition system that retains all of the prior properties of the language, but permits performance predictions from specifications. Methods are discussed for an automated tool to generate and analyze stochastic models.

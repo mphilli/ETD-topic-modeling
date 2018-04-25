@@ -1,0 +1,11 @@
+$TITLE:
+International trade, domestic institutions and development
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Trade, India, Poverty, Banks, Firms, Labor, International trade, Domestic institutions, Manufacturing performance
+
+$ABSTRACT:
+This dissertation looks at the role of domestic institutions in determining the impact of international trade on poverty and manufacturing performance in developing economies. The first chapter analyzes the impact of trade liberalization on small enterprises in India and investigates how these effects differ with bank presence in area in which enterprises are located. The second chapter studies the differential effects of trade on economically leading and lagging regions in South Asia. The third chapter focuses on the significance of credit market imperfections and labor market rigidities for capital intensities used in manufacturing. My findings highlight the importance of flexible labor markets, financial development and strong transport infrastructure in enabling developing countries to benefit from international trade.

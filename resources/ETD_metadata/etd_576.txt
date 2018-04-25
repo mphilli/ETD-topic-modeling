@@ -1,0 +1,11 @@
+$TITLE:
+Achieving Public Long-Term Care Insurance Through Social Security Wealth: Microsimulation for the US Case
+
+$DEPARTMENT:
+Public Administration
+
+$KEYWORDS:
+income, insurance, long-term care, Medicaid, social security, wealth
+
+$ABSTRACT:
+The risk of needing long-term care (LTC) at some point in one's life is non-negligible, and the cost of care–whether in formal or informal settings– can be prohibitive for many seniors. In fact LTC is sometimes labeled the last major uninsured expense for seniors in the United States. The majority of LTC costs are currently borne by Medicaid and out-of-pocket spending, while private insurance coverage remains minimal. The take-up of private insurance among American seniors has remained low, in part because of the large (and growing) cost of premiums, as well as the presence of Medicaid. As the payer of last resort, Medicaid forces seniors with LTC needs to liquidate their assets to bare minimums, and then use most of their retirement income as co-payment, leaving no possibility for bequests. Because there is no middle ground between costly private insurance and Medicaid, many middle-income seniors end up on Medicaid, sometimes after having sheltered assets away, thus burdening taxpayers with the cost of their care. Expanding on policy proposals by Chen (1993, 1994, 2003, 2007), and Murtaugh, Spillman & Warshawsky (2001, 2003), I propose an intermediate approach to LTC insurance, where universally-accessible, non-compulsory LTC insurance could be bought off Social Security wealth at age 65. Buyers with enough accumulated Social Security wealth at 65 would agree to receive lower Social Security retirement benefits for the remainder of their life, in exchange for a supplemental annuity in the event of LTC needs. Through a microsimulation of costs and benefits, I locate the area on the income/wealth distribution where taking up this LTC insurance would make economic sense for seniors. A secondary goal of the microsimulation will be to assess potential savings in Medicaid spending on LTC care.

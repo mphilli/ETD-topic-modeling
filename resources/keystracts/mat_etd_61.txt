@@ -1,0 +1,1 @@
+banach algebras arens-hoffman in this dissertation we will refer to any commutative algebra over the complex field which possesses an identity e simply as an algebrathis dissertaion deals primarily with algebraic aspects of the arens-hoffman extension of a banach algebra a and thus builds upon the work of g a heuer ja lindberg and heuer and lidberg

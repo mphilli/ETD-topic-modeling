@@ -1,0 +1,11 @@
+$TITLE:
+Inter-trade duration and the dynamics of the stock and option trade processes
+
+$DEPARTMENT:
+Finance
+
+$KEYWORDS:
+Intertrade duration, Stock market, Option markets
+
+$ABSTRACT:
+This dissertation characterizes the bivariate point process of stock and option trades. Additionally the thesis tests for lead-lag effects in stock and option trade durations (i.e., time between trades) and intensities. An important contribution of the thesis is the assessment of how quickly information is transferred from one market to another. Inclusion of other trade variables, such as volume, signed volume, and quoted spread extends the understanding of how private information is incorporated into prices, and which market reflects private information first.The first econometric model is a bivariate Autoregressive Conditional Duration (ACD) model similar to that of Engle and Lunde (1999). The bivariate ACD directly models the relationship between inter-trade durations in the stock market and option market. Inclusion of a forcing process--either a stock trade or an option trade--facilitates lead-lag testing. The results of this model are consistent with the idea that at least some private information reaches the option market first. However, most informed traders appear to prefer the stock market.The second econometric model is an extension of Russell's (1999) Autoregressive Conditional Intensity (ACI) model. In this setting, the trade intensities are modeled directly, eliminating the need for choosing a forcing process. The results of this model are consistent with the results of the previous model: most informed trading is in the stock market, but occasionally some information appears in the option market first. Further evidence in support of this conclusion is provided by the exogenous trade variables. Stock trade variables, such as volume and spread are important in characterizing both stock trade intensities and option trade intensities. However, option trade variables are important in characterizing option trade intensities only.

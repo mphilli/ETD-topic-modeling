@@ -1,0 +1,11 @@
+$TITLE:
+Language Abstractness as Discursive Microframes: LCM Framing in American Coverage of International News
+
+$DEPARTMENT:
+Media Studies
+
+$KEYWORDS:
+International News, Journalism, Linguistic Category Model, News Frames, Stereotypes, U.S. News Media
+
+$ABSTRACT:
+The purpose of this thesis is to examine whether articles covering countries with different levels of proximity and relations to the U.S. would be framed differently in American news media. In particular, this study employs the Linguistic Category Model, a tool for measuring language abstractness.This study incorporates scholarship from mass communication, international relations and linguistics. The literature review discusses international news coverage by American reporters and journalists; past scholarship examining linguistics in news text, including linguistic relativity theory and critical discourse analysis; and framing literature, focusing specifically on the framing building process and international news frames. After, the Linguistic Category Model is introduced, which is used to code for language abstractness.Two constructed weeks of news, encompassing a sample size of 960, were coded for their LCM frame and most important country discussed. Seven proximity and interaction country characteristics were applied to each article based on most important country discussed: distance, trade flow, language, military aid, regime type, development and conflict. The LCM frame was the dependent variable, while the country characteristics were the independent variable.Results show that the variables regime type, development and conflict were most related to changes in the LCM frame. While increased polity and development decreased language abstractness, increased conflict increased language abstractness. One interaction (conflict + development) included in the model was also influenced LCM frame. Implications of this are discussed, and the LCM frame is identified as a discursive microframe.

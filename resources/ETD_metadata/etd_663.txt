@@ -1,0 +1,11 @@
+$TITLE:
+Resource Allocation for Interference Management in Wireless Networks
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Coding theory, Cognitive Radio Networks, Game theory, Interference, Matching theory, Resource allocation
+
+$ABSTRACT:
+Interference in wireless networks is a major problem that impacts system performance quite substantially. Combined with the fact that the spectrum is limited and scarce, the performance and reliability of wireless systems signiﬁcantly deteriorates and, hence, communication sessions are put at the risk of failure. In an attempt to make transmissions resilient to interference and, accordingly, design robust wireless systems, a diverse set of interference mitigation techniques are investigated in this dissertation.Depending on the rationale motivating the interfering node, interference can be divided into two categories, communication and jamming. For communication interference such as the interference created by legacy users(e.g., primary user transmitters in a cognitive radio network) at non-legacy or unlicensed users(e.g.,secondary user receivers), two mitigation techniques are presented in this dissertation. One exploits permutation trellis codes combined with M-ary frequency shift keying in order to make SU transmissions resilient to PUs’ interference, while the other utilizes frequency allocation as a mitigation technique against SU interference using Matching theory. For jamming interference, two mitigation techniques are also investigated here. One technique exploits time and structures a jammer mitigation framework through an automatic repeat request protocol. The other one utilizes power and, following a game-theoretic framework, employs a defense strategy against jamming based on a strategic power allocation. Superior performance of all of the proposed mitigation techniques is shown via numerical results.

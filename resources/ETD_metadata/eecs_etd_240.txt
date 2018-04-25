@@ -1,0 +1,11 @@
+$TITLE:
+On techniques for estimating parameters of exponentially damped/undamped sinusoids in noise
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Sinusoidal signals, Polynomial method, Pencil method
+
+$ABSTRACT:
+Noniterative parametric estimation techniques for exponentially damped and undamped sinusoidal signals are investigated in this thesis. Two high performance noniterative methods, i.e., the generalized Prony method (or called the polynomial method) and the generalized pencil-of-function method (or called the pencil method), are presented and discussed in great detail. The first order perturbation analysis of the two methods is provided. The performances and the perturbation properties of the two methods are compared with each method and with the Cramer-Rao bound. Simulation results have proved that our perturbation analysis is very accurate in evaluating the performances of the two methods. It is shown consistently by both perturbation analysis and numerical simulations that the pencil method performs better than the polynomial method.Although the methods for short data sequences are emphasized in this thesis, two asymptotically consistent estimation methods for long data sequences, which are derived respectively from the pencil method and the polynomial method, are also discussed.

@@ -1,0 +1,11 @@
+$TITLE:
+Angular trapping of a mirror using radiation pressure
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Angular control, Gravitational waves, LIGO, Optical spring, Radiation pressure
+
+$ABSTRACT:
+Alignment control in gravitational-wave detectors has consistently proven to be adicult problem due to the stringent noise contamination requirement for the gravitationalwave readout and the radiation-pressure induced angular instability in Fabry-Perot cavities (Sidles-Sigg instability). In this thesis, I present optical springs as atool to damp the motion of a mirror. I discuss the design and implementation of a singledegree-of-freedom optical spring system and the importance of the photothermaleect in properly predicting optical spring behavior.I also present the development and implementation of an angular control scheme,attempting to damp two degrees of freedom with two optical cavities. I then extendthis understanding into a plausible concept for implementing optical-spring-basedangular control in the Advanced LIGO detectors.

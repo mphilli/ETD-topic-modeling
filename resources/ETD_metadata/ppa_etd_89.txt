@@ -1,0 +1,11 @@
+$TITLE:
+Taking Nonprofits at Their Word: The Role of Conflict over Mission in Organizational Change and Response to Environmental Pressures
+
+$DEPARTMENT:
+Public Administration
+
+$KEYWORDS:
+Change, Interpretation, Mission, Nonprofit, Process
+
+$ABSTRACT:
+Central to any nonprofit is a mission; a defining purpose and set of values that provide its exempt purpose, differentiate it and motivate action by the organization and others on its behalf. Even the most formal and established mission is subject to redefinition, interpretation and different ideas over achieving it. This dissertation addresses the question of what role these interpretations of mission play in the processes by which nonprofits change, not just mission but also leadership, strategy and structure.     Two distinct theoretical models are examined for fit with empirical results: (1) change processes as a response to external pressure moderated by organizational characteristics, from organization theory and nonprofit management research, and (2) change processes as internal contests over ideas, adapted from global and national level advocacy and policy process theories. Mixed methods are used to address this research question and evaluate the two models. Logistic regression of panel data on 152 internationally active nonprofits over 14 years is used to identify factors correlated with various changes. Through process tracing, narratives of change for a series of four case studies on similar nonprofits are developed. Comparisons within cases, across the four, between the qualitative and quantitative elements, and with theory are used to explore the fit between results and the two models of change.     This dissertation proposes and finds evidence of two new concepts: (1) personal mission conceptions, the different interpretations of mission held by individuals or groups within a nonprofit; and (2) dominant mission conceptions, the consensus interpretation at a particular time. Evidence from both forms of analysis provide little support for the organization theory model of change, while the case studies establish support for a potential model of internal politics wherein coalitions form around common mission conceptions, compete with the status quo or other coalitions, and push for particular changes.

@@ -1,0 +1,11 @@
+$TITLE:
+Risk-Aware Planning for Sensor Data Collection
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+With the emergence of low-cost unmanned air vehicles, civilian and military organizations are quickly identifying new applications for affordable, large-scale collectives to support and augment human efforts via sensor data collection. In order to be viable, these collectives must be resilient to the risk and uncertainty of operating in real-world environments. Previous work in multi-agent planning has avoided planning for the loss of agents in environments with risk. In contrast, this dissertation presents a problem formulation that includes the risk of losing agents, the effect of those losses on the mission being executed, and provides anticipatory planning algorithms that consider risk. We conduct a thorough analysis of the effects of risk on path-based planning, motivating new solution methods. We then use hierarchical clustering to generate risk-aware plans for a variable number of agents, outperforming traditional planning methods. Next, we provide a mechanism for distributed negotiation of stable plans, utilizing coalitional game theory to provide cost allocation methods that we prove to be fair and stable. Centralized planning with redundancy is then explored, planning for parallel task completion to mitigate risk and provide further increased expected value. Finally, we explore the role of cost uncertainty as additional source of risk, using bi-objective optimization to generate sets of alternative plans. We demonstrate the capability of our algorithms on randomly generated problem instances, showing an improvement over traditional multi-agent planning methods as high as 500% on very large problem instances.

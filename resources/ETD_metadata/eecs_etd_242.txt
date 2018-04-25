@@ -1,0 +1,11 @@
+$TITLE:
+Full-wave analysis of MICs in multilayer dielectric media in a rectangular waveguide: A spectral domain approach
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+microwave integrated circuits
+
+$ABSTRACT:
+Accurate numerical modeling of electromagnetic problems has become an essential tool for research and development in millimeter-wave and monolithic integrated circuits. Although several techniques have been employed for such analysis, accurate methods demand a high computational effort. This work presents a full-wave analysis of planar microwave integrated circuits at the dielectric interfaces are accurately modeled through Method of Moments in Spectral Domain. The technique can be easily extended to any number of dielectric layers through the equivalent transmission line method. In the first part of this study, a procedure is developed to speed up the evaluation of the impedance matrix of Method of Moments, thereby allowing such an analysis to be quickly performed on CAE packages. This method enhances the accuracy of the analysis to be quickly performed on CAE packages. This method enhances the accuracy of the analysis while simultaneously reducing the computational time, typically by a factor of 40. In the second portion of the study, different excitation procedures were analyzed and compared. Two modifications were introduced to the traveling wave excitation method. The first one, on the traveling wave basis functions, results in clear limits of the traveling wave sections and the subdomain (rooftop) sections. The second modification, on the extra weighting functions, ensures that the boundary conditions are imposed on the traveling wave sections, despite the number of basis functions used in the adjacent rooftop sections. This alteration overcomes previous convergence issues. Throughout the dissertation numerical results are provided, which agree well with other published results.

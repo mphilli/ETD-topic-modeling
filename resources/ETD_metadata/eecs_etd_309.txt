@@ -1,0 +1,11 @@
+$TITLE:
+The Differential Scheme and Quantum Computation
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Cellular Automata, Convergence Spaces, Differential Scheme, Dynamical Systems, Hybrid Computation, Quantum Computation
+
+$ABSTRACT:
+It is well-known that standard models of computation are representable as simple dynamical systems that evolve in discrete time, and that systems that evolve in continuous time are often representable by dynamical systems governed by ordinary differential equations. In many applications, e.g., molecular networks and hybrid Fermi-Pasta-Ulam systems, one must work with dynamical systems comprising both discrete and continuous components.Reasoning about and verifying the properties of the evolving state of such systems is currently a piecemeal affair that depends on the nature of major components of a system: e.g., discrete vs. continuous components of state, discrete vs. continuous time, local vs. distributed clocks, classical vs. quantum states and state evolution.We present the Differential Scheme as a unifying framework for reasoning about and verifying the properties of the evolving state of a system, whether  the system in question evolves in discrete time, as for standard models of computation, or continuous time, or a combination of both. We show how instances of the differential scheme can accommodate classical computation.We also generalize a relatively new model of quantum computation, the quantum cellular automaton, with an eye towards extending the differential scheme to accommodate quantum computation and hybrid classical/quantum computation.All the components of a specific instance of the differential scheme are Convergence Spaces. Convergence spaces generalize notions of continuity and convergence. The category of convergence spaces, Conv, subsumes both simple discrete structures (e.g., digraphs), and complex continuous structures (e.g., topological spaces, domains, and the standard fields of analysis: R and C). We present novel uses for convergence spaces, and extend their theory by defining differential calculi on Conv. It is to the use of convergence spaces that the differential scheme owes its generality and flexibility.

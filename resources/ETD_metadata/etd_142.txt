@@ -1,0 +1,11 @@
+$TITLE:
+DETECTION OF DEMENTIA RISK IN PRIMARY CARE:  PRELIMINARY INVESTIGATION OF A COMPOSITE DEMENTIA RISK SCORE IN VETERANS
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Alzheimer's, Composite Risk, Dementia, Risk, Veterans
+
+$ABSTRACT:
+Dementia is becoming a significant public health concern as the United States population rapidly ages. Veterans, accounting for a substantial portion of the United States population, may be at even higher risk for developing dementia as they generally have more risk factors for dementia than the general population. The current study sought to develop a modifiable composite dementia risk score, based on routinely gathered data from the primary care setting, that would predict an individual's risk for developing dementia in 10 years. A composite risk score--based on age, hypercholesterolemia, hypertension, current smoking, alcohol use disorder, and pulse pressure--was created using 10 years of Veterans' electronic medical record information. The predictive accuracy of the composite risk score was in the "good" range (AUC = 0.78) and less conservative estimates were even more accurate (AUC=0.85). The sensitivity was 50% and the specificity was 80%. This risk score is the first composite dementia risk score created for Veterans and provides optimism for future research in this area. Once further validated, this type of risk score could be seamlessly introduced into the primary care setting where its components are usually available. This type of assessment holds promise of being a considerable step forward in the prevention or delay or dementia onset in a rapidly aging Veteran population.

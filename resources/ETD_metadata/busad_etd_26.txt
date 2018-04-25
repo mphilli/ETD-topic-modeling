@@ -1,0 +1,11 @@
+$TITLE:
+Effects of regulation Fair Disclosure on the precision of investors' information around earnings announcements
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+Regulation, Fair Disclosure, Investors, Earnings announcements
+
+$ABSTRACT:
+In this study, I provide evidence on the effects of Fair Disclosure (FD) on stock price and trading volume reactions to quarterly earnings announcements. Based on the SEC's intent of leveling the "playing field", I expect (i) a decrease in differential prior precision of information prior to earnings announcements and (ii) an increase in differential interpretation of earnings announcements. Consistent with (i), I find volume reaction related to price change decreased in the post FD period relative to a pre FD period. Consistent with (ii), I find volume reaction unrelated to price change has increased in the post FD period relative to a pre FD period. Based on analysts' concerns about a "chill" in voluntary information disclosure, I expect a decrease in the average precision of investor information prior to earnings announcements. Inconsistent with this, I do not find that stock price reaction to a unit surprise has increased in the post FD period relative to a pre FD period for the full sample.In additional analysis, I partition the sample into size-based quintiles and reexamine both the volume and return regressions. I also examine the effect of proxies for the proprietary information of the firm and the competitiveness of the firm's industry. Both size and cross-sectional characteristics are shown to affect the changes in investor reaction due to FD.My evidence of a decrease in differential prior precision and an increase in differential interpretation supports the position of the SEC, that the playing field has been leveled. Further, my evidence of no change in average prior precision on average contradicts the position of analysts, that there has been decrease in the quality of information available to investors or in other words a chill effect. My cross-sectional analysis indicates that changes in both the volume and price reactions are different for different types of firms.

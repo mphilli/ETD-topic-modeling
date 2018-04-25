@@ -1,0 +1,11 @@
+$TITLE:
+The impact of audit quality on cash incentive compensation and cost of capital
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+CEO compensation, Incentives, Audit quality, Agency theory, Cost of capital, Executive compensation
+
+$ABSTRACT:
+I use the agency theory framework to model the effect of audit quality on principal agent dynamics. The model shows that as audit quality increases, the weight placed on accounting earnings in determining managers compensation increases. I also show that the returns expected by the investors decline with increasing audit quality. Hence the cost of capital to the firm decreases with increasing audit quality. I find empirical evidence to support the two propositions. The empirical results confirm that the weight placed on accounting earnings in determining the incentive pay of both CEOs and non-CEO managers increase with audit quality. The evidence also confirms that cost of capital of firms declines as audit quality increases although this effect is only observed in small firms. I further test the impact of audit tenure and auditor opinion on cost of capital and find that cost of capital is inversely proportional to auditor tenure, and that cost of capital for the client will increase if the auditor issues any opinion other than an unqualified opinion.

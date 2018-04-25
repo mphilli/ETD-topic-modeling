@@ -1,0 +1,11 @@
+$TITLE:
+Integrating spatial statistical analysis and GIS: Strategies, implementations and applications
+
+$DEPARTMENT:
+Geography
+
+$KEYWORDS:
+Spatial statistical analysis, GIS, Geographic information systems
+
+$ABSTRACT:
+Although it is generally agreed that Geographic Information Systems (GIS) should include more spatial statistical analysis functionalities, the issues of what functionalities should be included and how to integrate statistical analysis with GIS are still widely debated. This research is a response to this controversy; its purpose is to provide a brief review of what has been done in this area, construct a framework of linking spatial statistical analysis and GIS from conceptual and theoretical perspectives, and explore strategies and possible technical methods for implementing this integration. The focus is on methods that have not been used or have received insufficient attention, especially (1) linking GIS and spatial statistical analysis in a web-based environment; (2) developing a user-friendly spatial statistical module in ArcView (the dominant desktop GIS software) using Avenue (the object-oriented macro language of ArcView); and, (3) embedding GIS components into a statistical software package using component-based software technology. One of the most frequently performed spatial analyses, that is, exploring the spatial patterns of population in a finite region or area, is used as an example to illustrate how GIS and spatial statistical analysis can mutually benefit from such an integration.

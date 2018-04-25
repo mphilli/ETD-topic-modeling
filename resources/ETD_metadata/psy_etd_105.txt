@@ -1,0 +1,11 @@
+$TITLE:
+The prediction of cardiovascular reactivity from a measure of hostility: Moderating influences of narcissism and self-involvement
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Narcissism, Cardiovascular reactivity, Hostility, Coronary Heart Disease
+
+$ABSTRACT:
+Recent research has implicated hostility and self involvement in the pathogenesis of coronary heart disease (CHD). The present study sought to investigate whether narcissism and self involvement moderate the effects of hostility in predicting cardiovascular reactivity among a sample of college age males. An ancillary aspect of the study investigated the construct validity of self reference density in subjects' speech as a measure of self involvement. One hundred twelve male college students completed a number of self report measures and were subsequently interviewed individually while their cardiovascular responses were monitored. Contrary to expectations, the interaction terms hostility by narcissism and hostility by self involvement failed to reach significance, thus providing no support for the moderation hypothesis. Moreover, hostility and self involvement both individually failed to predict cardiovascular responses during the structured interview. Narcissism was found to be inversely related to systolic and diastolic blood pressure responses during the interview. The results of the investigation raise questions about the possibility of nonlinear relationships between the predictor variables and cardiovascular reactivity and also suggest that characteristics of the sample as well as the distribution of scores on the Cook and Medley Hostility Scale (HO) and the Narcissistic Personality Inventory (NPI) may have affected the results. The inverse associations between narcissism and blood pressure responsivity suggest that moderate levels of narcissism may be protective against cardiovascular reactivity or that the NPI may assess only certain aspects of the narcissism construct which may not be pathological. Finally, the findings provide little support for the construct validity of self referencing as a measure of self involvement or its relationship to cardiovascular reactivity and further suggest that self reference may be related only to nonpathological aspects of narcissism.

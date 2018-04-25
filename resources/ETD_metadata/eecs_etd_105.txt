@@ -1,0 +1,11 @@
+$TITLE:
+Neural network applications to turbo decoding
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Channel coding, Error control, Decoding, Neural networks
+
+$ABSTRACT:
+Error control coding, or channel coding, is an essential part of a communication system. Recent invention of the state-of-the-art turbo codes and their innovative iterative decoding technique has been a milestone in the history of error control coding. Turbo coding and decoding made it possible to approach the Shannon's channel capacity limit within a few tenths of a dB, thereby providing incredible coding gains. The decoding problem of error control codes has been shown as a promising application of neural networks, which have been previously applied to many other fields.In this dissertation, we discovered the equivalence of the BCJR (Bahl, Cocke, Jelinek and Raviv) algorithm, also known as MAP (Maximum A Posteriori) algorithm, and a feedforward neural network structure. We reformulated the BCJR algorithm, which is the optimum soft input soft output (SISO) algorithm, using matrix manipulations. Based upon this new formulation, we implemented the BCJR algorithm as a feedforward neural network structure. We verified our theoretical work by computer simulations.

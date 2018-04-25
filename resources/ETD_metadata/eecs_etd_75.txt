@@ -1,0 +1,11 @@
+$TITLE:
+Simplified analyses of electromagnetic interference in weakly nonlinear systems and direct-sequence spread spectrum systems
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Electromagnetic interference, Weakly nonlinear, Direct-sequence spread-spectrum
+
+$ABSTRACT:
+Because of many users and a crowded spectrum, electromagnetic interference is a common occurrence with current communications and electronic equipments. Analyses are performed to either avoid or eliminate such interference. However, these analyses tend to be very difficult, costly, and time consuming. This dissertation introduces two approaches that can simplify analyses of some of the interference problems that are encountered. The first approach deals with an equivalent baseband analysis of a narrow weakly nonlinear bandpass system. It is shown that the complex envelope of the output can be expressed in terms of the complex envelopes of the inputs, the complex envelopes of the filter impulse responses and the power series coefficients used to model the nonlinearity. The second approach deals with a simplified but generalized analysis for multi-user interference in direct-sequence spread spectrum systems. The simplified analysis applies to multiple users whether or not they have the same carrier frequencies and bandwidths of the desired signal. A scheme is proposed that results in a significant increase in the number of users without violating a prespecified probability of error.

@@ -1,0 +1,11 @@
+$TITLE:
+Search for electroweak penguin decay bottom quark to s quark lepton+ lepton-
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+flavor changing, bottom quark, strange quark, neutral current
+
+$ABSTRACT:
+Using data taken with the CLEO II detector at the Cornell Electron Storage Ring (CESR), we have searched for the effective Flavor Changing Neutral Current (FCNC) decays $b\to sl\sp+l\sp-$ in an inclusive way. We obtain upper limits on the branching ratio ${\cal B}(b\to se\sp+e\sp-)<5.7\times10\sp{-5},\ {\cal B}(b\to s\mu\sp+\mu\sp-)<5.6\times10\sp{-5}$ and ${\cal B}(b\to se\sp{\pm}\mu\sp{\mp})<2.2\times10\sp{-5}$ at 90% C.L.

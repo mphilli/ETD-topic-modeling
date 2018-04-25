@@ -1,0 +1,11 @@
+$TITLE:
+Impact of affective states and drinking motives on drinking behavior
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Alcohol consumption, Affective, Drinking motives
+
+$ABSTRACT:
+Objective . A study was proposed to investigate relationships between affective states and drinking motives with respect to prediction of alcohol consumption and drinking problems. In addition, replication of an earlier study (Cooper, 1994) was conducted to determine gender differences in drinking motives as well as the effects of drinking motives on alcohol consumption and drinking problems.Method . A total of 122 women and 111 men completed self-report measures as part of a course requirement. Measures included drinking motives (coping, enhancement, conformity, and social motives), positive and negative affect, psychological well-being, mean number of drinks, and drinking problems.Results . Gender differences were found in drinking motives in the prediction of drinking behavior. Motives predicted alcohol consumption and drinking problems; relationships vary by gender. These findings generally replicated previous research (Cooper, 1994), with some exceptions. The only significant affect variable in predicting alcohol consumption was the overall psychological well-being (defined as the Affect Balance Scale by Bradburn, 1960) in men. The Affect Balance Scale was marginally significant in predicting alcohol-related problems in women in exploratory analyses. Except for these positive findings, affect did not add to the prediction of alcohol consumption and drinking problems either as a main effect or as a moderator of motives.Conclusion . Gender-specific prevention and interventions based on drinking motives may reduce the alcohol consumption. The inability of affect variables to predict and moderate the relationship between drinking motives and drinking behavior may be remedied by conceptualizing the present research design as a mediational model.

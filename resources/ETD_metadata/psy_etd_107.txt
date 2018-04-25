@@ -1,0 +1,11 @@
+$TITLE:
+Measuring Antonovsky's "Sense of Coherence" construct: A psychometric study
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Aaron Antonovsky, Sense of Coherence scale, Personality, Psychological tests
+
+$ABSTRACT:
+This study evaluated the psychometric properties of Antonovsky's Sense of Coherence (SOC) Scale. The subjects were 183 undergraduate students, 50 graduate students, 43 social service employees, 52 brief psychotherapy patients, 20 open-ended psychotherapy patients and 26 chronic patients. It was predicted that the SOC scale would demonstrate satisfactory internal consistency, test-retest reliability, convergent validity, discriminant validity, and known groups validity. Exploratory factor analytic procedures were conducted to examine the factor structure of the scale. Results indicated satisfactory internal consistency reliability as demonstrated by a high Cronbach's alpha coefficient. Test-retest reliability was observed at one and two weeks. Evidence for convergent validity was provided by negative correlations between the SOC scale and (a) the Perceived Stress Scale; (b) the Trait form of the State-Trait Anxiety Inventory; and (c) the Beck Depression Inventory. Discriminant validity data suggest that the SOC scale is not correlated with a measure of intelligence (the Shipley Institute of Living Scale), but it is correlated with the Social Desirability Scale. In support of the known groups validity of the SOC scale, the three nonpatient groups obtained higher SOC scores than the three patient groups. Principal components analysis with a Varimax-Promax rotation sequence produced a solution with five factors, which were further reduced to one factor, suggesting that the SOC scale is a unidimensional instrument.

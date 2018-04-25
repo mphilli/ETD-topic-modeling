@@ -1,0 +1,11 @@
+$TITLE:
+The Influence of Employees' Mindset on the Feedback Process
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+Organizational behavior, Feedback, IPT
+
+$ABSTRACT:
+Individuals vary in their mindsets - their implicit beliefs regarding the malleability of human attributes. Because mindset influences individuals' self-regulating activities, it is likely that employees' mindset will influence how they respond to feedback. In this study, I examine how employee mindset interacts with characteristics of the feedback (i.e., feedback valance and whether the feedback is relative or absolute) to influence their perception of the feedback, and in turn, their responses to. The findings of this study suggests that those who believe human attributes can change through effort find negative feedback more valuable and less threatening to their self-concept, which results in them spending more time on and having a greater understanding of the feedback area. In contrast, those who believe attributes are fixed find themselves in a position of motivational conflict as they perceive relative feedback as the most valuable and also the most threatening to their self-concept. This leads to them spending less time on and having poorer understanding of the feedback area.

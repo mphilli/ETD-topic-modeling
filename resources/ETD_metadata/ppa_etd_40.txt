@@ -1,0 +1,11 @@
+$TITLE:
+The impact of organizational culture on federal laboratory aggressiveness towards technology transfer
+
+$DEPARTMENT:
+Public Administration
+
+$KEYWORDS:
+Public administration
+
+$ABSTRACT:
+The federal government has recently asked its laboratories to assist in the nation's economic growth and competitiveness through increased technology transfer. Dispersed across ten federal agencies and coming into existence at different times and for different reasons, the 700 federal labs have a diversity of organizational cultures. This research argues that organizational culture can present a stumbling block to the aggressive pursuit of technology transfer initiatives.Partially captured by a laboratory's market orientation, research area, and parent agency, organizational culture is found to be significantly associated with laboratory aggressiveness towards technology transfer. The large, market-oriented labs from DOE, DOD, NASA and HHS are found to aggressively pursue technology transfer. Smaller, less market-oriented labs from Agriculture, DOT, EPA, Commerce, VA, and Interior are less aggressive.Greater tailoring of technology transfer initiatives may enhance transfer aggressiveness. A reward system should be established that encourages transfer by rewarding the type of transfer appropriate to the existing culture.

@@ -1,0 +1,11 @@
+$TITLE:
+A Study Of The Attitudes Of State College Faculty Toward Three Adult Education Programs
+
+$DEPARTMENT:
+Teaching and Leadership
+
+$KEYWORDS:
+Adult education, Continuing education, Pennsylvania, Innovation, Discriminant Analysis
+
+$ABSTRACT:
+The purpose of the study was to evaluate the attitudes of Pennsylvania state college faculty toward three adult education programs in relation to six categories of personal and professional characteristics. These programs were thought to be representative of beneficial developments in higher adult education. The programs as described to subjects were the Life Experience Center, The Educational Brokerage, and the Life and Career Planning Program. The six categories of characteristics were: (1) demographic; (2) status; (3) situational; (4) professional activity; (5) social affiliational; and (6) ambiguity tolerance.The study was conducted in the form of a mail survey. A survey package was distributed to a random sample of 313 faculty at 14 state owned institutions in Pennsylvania. The package was comprised of descriptions of three adult education programs, the Dye Local-Cosmopolitan Scale, the Budner Intolerance of Ambiguity Scale, and a Biographical Data Form. The number of completed forms used in the study was 177 or 55% of the sample.Sixteen research questions were formulated in order to systematize the data analysis. Four separate analyses of the data were conducted using the two group procedure of the SPSS program discriminant. Response to each of the programs was considered the criterion variable while 23 characteristics were treated as predictor variables in each of four analyses.The findings of the study indicated that particular characteristics did systematically differentiate more and less favorable subjects. The professional activity, status, and situational categories of predictor variables were more important discriminators.The study provided a new set of data upon which further research might be based. It was recommended that future research utilize different faculty populations and that multiple methodologies be employed.

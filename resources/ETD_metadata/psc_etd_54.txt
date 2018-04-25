@@ -1,0 +1,11 @@
+$TITLE:
+School voucher policy and parents: Education as a private good?
+
+$DEPARTMENT:
+Political Science
+
+$KEYWORDS:
+Vouchers, School voucher, Policy, Parents, Private good
+
+$ABSTRACT:
+How do parents view education, as a public good or a private good? Neither school voucher policy, which is a likely source of education consumers, nor studies of parents' attitudes toward education has ventured to address this issue. The specific question this study asks is: are parents whose children participate in a voucher program more likely to see education as a private good than parents whose children attend public schools? As home to the longest-running publicly-funded school voucher program in the United States, the Milwaukee Parental Choice Program (MPCP), Milwaukee provides a ready-made group of education consumers as well as parents whose children attend Milwaukee Public Schools (MPS). This study uses a telephone survey and personal interviews in an effort to uncover how voucher program parents and public school parents in Milwaukee characterize education. Analysis of the results of these two methods indicate that both groups of parents in Milwaukee tend to view education as a private good. This study concludes with an examination of market intervention in public education, suggesting that the mindset which sees education primarily as a private good is part of the ongoing marketization of education and that this trend, though it might produce some benefits, does not bode well for the relationship between education and democracy.

@@ -1,0 +1,11 @@
+$TITLE:
+Modeling Elementary Aged Students' Fluency Growth in Written Expression: Predicting Fluency Growth for Girls and Boys in General Education
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Behavioral intervention, Performance feedback, Writing fluency
+
+$ABSTRACT:
+Research on evidence-based writing intervention practices as well  as reliable and valid assessments of elementary-aged students' writing fluency  has been lacking compared to other academic areas (i.e., reading). Performance  feedback interventions targeting writing fluency are gaining empirical support  (Eckert et al., 2006); however, growth trajectories for elementary-aged  students' writing fluency over a short period of time and contributing variables  have not been explored. The purpose of this study was to model students' writing  fluency growth as it relates to: (a) instructional practices, (b) sex  differences, and (c) individual student's initial level of writing fluency. A  total of 133 third-grade students in three urban elementary schools were  randomly assigned to either an individualized performance feedback condition (n  = 46),a practice-only condition (i.e., weekly writing practice) (n = 39), or an  instructional control condition (n = 48) for eight weeks. Results indicated that  students assigned to the performance feedback condition demonstrated  statistically significantly greater growth in their writing fluency than  students assigned to the other two conditions. Additionally, students assigned  to the instructional control condition demonstrated statistically significantly  greater growth in writing fluency than students assigned to the practice-only  condition. Statistically significant sex differences were observed, with girls  writing more total words and correct writing sequences than boys. However, in  comparison to boys, girls did not differ in their rate of growth. Finally,  students' initial level of writing fluency did not differentially predict their  growth in writing fluency over the course of the study. Implications for  measuring and increasing growth in elementary-aged students' writing fluency are  discussed.

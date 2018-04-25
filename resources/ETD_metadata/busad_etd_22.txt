@@ -1,0 +1,11 @@
+$TITLE:
+Earning predictability and heterogeneity in analyst forecasts
+
+$DEPARTMENT:
+Public Administration
+
+$KEYWORDS:
+Forecast revision, Private information, Earning predictability, Heterogeneity, Analyst forecasts
+
+$ABSTRACT:
+This paper examines how the predictability of earnings, through analysts' private information acquisition decisions, affects the differences in analysts' forecasts and forecast revisions. This study finds evidence that analyst forecast dispersion is negatively related to earnings predictability. In addition, the change in analyst forecast dispersion and the percentage of heterogeneous forecast revisions following annual earnings announcements are negatively related to earnings predictability. These findings suggest that analysts are less likely to rely on private information to revise their forecasts when earnings predictability is high. This evidence is consistent with a substitute relationship between public and private information (Diamond 1985; Indjejkian 1991).

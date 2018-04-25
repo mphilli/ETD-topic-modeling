@@ -1,0 +1,11 @@
+$TITLE:
+Applications of tellurium in synthesis of alkenes, allylic alcohols, allylic amines and heterocyclic compounds
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Alkenes, Tellurium, Allylic alcohols, Allylic amines
+
+$ABSTRACT:
+A novel methodology for the stereospecific syntheses of alkenes from 1,2 cyclic sulfates via tellurium chemistry has been discovered. meso -2,3-Diphenylethane-2,3-diol [arrow right] cis stilbene; d,l -2,3-diphenylethane-2,3-diol [arrow right] trans -stilbene. Compared with other procedures, advantages of this method include (1) the use of mild temperatures (0°C to room temperature), (2) the rapidity of the reaction (10 min to 2 h), (3) stereo specificity, (4) the recovery of Te o , and (5) the adaptability of the reaction to the use of catalytic amount of Te (0.1 equiv).Tellurium mediated nucleophilic reduction under "no-solvent" conditions have been investigated systematically. Secondary and tertiary allylic alcohols were synthesized with different substitution patterns by "no-solvent" reactions in excellent yields.A new telluride phase transfer catalysis process has been developed and successfully applied to the syntheses of secondary and tertiary allylic alcohols. A catalytic amount of Te o can be used. Previous regiochemistry problems were overcome by this procedure: epoxycinnamyl tosylate gave 1-phenyl-2-propen-1-ol exclusively in 98% yield. One of the attractive features is easy workup--the toluene organic phase is removed and concentrated to give pure allylic alcohols. A chiral phase transfer catalyst was tried but no asymmetric induction was found from racemic starting materials.A general efficient procedure has been found to synthesize racemic and non-racemic secondary and tertiary allylic amines via tellurium chemistry from activated aziridines. The syntheses of racemic allylic amines involve three steps starting from allylic alcohols. The synthesis of chiral allylic amines was completed using Sharpless' aminohydroxylation or asymmetric epoxidation procedure.A new domino tellurium mediated nucleophilic reduction and Michael addition has been discovered for the synthesis of oxygen-containing heterocycles. A synthesis of a highly functionized racemic isohydrobenzofuran has been completed through five steps. Chiral heterocycles can be conveniently prepared using Sharpless' asymmetric epoxidation.

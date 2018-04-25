@@ -1,0 +1,11 @@
+$TITLE:
+Using self-evaluation to assess the effects of school-based interventions
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Self-evaluation, School-based, Interventions, Attention deficit hyperactivity disorder
+
+$ABSTRACT:
+Extensive research has documented the effectiveness of self-evaluation on the behavior and academic performance of students with and without disabilities. Components of self evaluation that have not been fully examined include the accuracy and sensitivity of students' ratings before and after training, the efficacy of different accuracy training procedures, and the effects of accuracy training alone on behavior. Five students exhibiting behavior consistent with Attention Deficit Hyperactivity Disorder participated in the current study. Students' behavior and the accuracy of their ratings were examined before, during, and after accuracy training. The accuracy of student's ratings was compared to ratings based on time-sampled observations of behavior. Results suggest that for some students exhibiting ADHD related behavior self-evaluation alone does not affect behavior, prior to training their self-evaluations are inaccurate, accuracy-training results in reduced levels and variability of behavior, and self-evaluations are sensitive to changes in behavior following accuracy training. The implications of these results for the quality and utility of self-evaluation measures and the role of accuracy training in self-evaluation effects are discussed.

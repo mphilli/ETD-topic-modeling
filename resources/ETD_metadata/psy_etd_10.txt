@@ -1,0 +1,11 @@
+$TITLE:
+Recognition accuracy and response bias for emotional words and pictures
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Recognition memory, Emotional memory, Accuracy, Response bias
+
+$ABSTRACT:
+Emotional material is commonly assumed to be more accurately recognized than non-emotional material; however a recent meta-analysis reported significant enhancements in the hit rates and false alarm rates for emotional material (Bessette-Symons & Hoyer, 2008b). In this article, two series of experiments are presented that evaluate recognition memory for emotional and non-emotional words and pictures through the assessment of receiver operating characteristic curve data. Across five experiments, emotional materials consistently showed a more liberal response bias. No evidence of better accuracy for emotional words was found. Greater accuracy was most consistently found for moderately arousing negative pictures that were not controlled for content; however this effect differed according to the accuracy measurement adopted. While the results of these experiments call into question the generality of the assumption that emotionality enhances recognition accuracy, they provide substantial evidence that emotionality induces a more liberal response bias.

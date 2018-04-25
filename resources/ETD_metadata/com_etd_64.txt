@@ -1,0 +1,11 @@
+$TITLE:
+Unobtrusive Issues In The Agenda-Setting Role Of The Press
+
+$DEPARTMENT:
+Mass Communications
+
+$KEYWORDS:
+Mass media
+
+$ABSTRACT:
+The agenda-setting role of the press proposes that what is emphasized by the mass media subsequently becomes what the public regards as important. Recent research has focused on identifying contingent conditions that either enhance or diminish agenda-setting effects. This study examines the concept of issue obtrusiveness, which proposes that the media exert minimal influence in setting the public agenda for issues that are obtrusive for people. For example, most people have experiences with inflation or the cost of living in their daily lives and do not need the media to tell them the Inflation issue is important. The literature on obtrusiveness is reviewed and three issues (Inflation, Recession, Iran hostages) are examined in a two-wave panel study conducted during the 1980 Presidential election. This is the first study to directly measure issue obtrusiveness and abandons previous a priori researcher designations of obtrusive/unobtrusive issues.The study shows that the Inflation issue is most obtrusive, the Recession issue is less obtrusive, and the Iran hostages issue is unobtrusive. There is considerable between-issue and within-issue obtrusiveness variance for respondents. These findings validate the claim that issue obtrusiveness only has meaning if it is audience-centered.A transactional model of issue obtrusiveness/media exposure is proposed. The study finds that obtrusiveness increases issue salience and that there is an interaction between obtrusiveness and media exposure. As obtrusiveness decreases (toward less experience with the issue), the relationship between media exposure and salience is strengthened. This suggests that the media set the agenda for issues people consider unobtrusive. Two other contingencies are examined--discussion about the issue and voter's need for orientation. Both increase issue salience. Multiple regression analysis confirms that the obtrusiveness-exposure interaction is a predictor of issue salience. Exploratory stepwise multiple regression analysis suggests that the interaction effects of obtrusiveness, media exposure, discussion and need for orientation may be important predictors of issue salience.

@@ -1,0 +1,11 @@
+$TITLE:
+Three essays on cointegration in panel data
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+econometrics, time series
+
+$ABSTRACT:
+With the advent of the results on non-stationary data in time series econometrics and the increased use of panel data sets, the question is naturally asked: how can these time series developments best be used in a panel data setting, a data set which follows a cross-section of observations over time? This dissertation provides some new results on residual-based testing for cointegration in a panel data setting. Testing for cointegration can be attractive for economists as the presence of a cointegrating relationship between non-stationary variables is interpreted as a long run steady state relationship between these variables. This direct connection between economic theory and statistical application makes the quest for results about cointegration appropriate for applied econometric use particularly exciting. The first chapter of the dissertation provides Monte Carlo results on various tests proposed for cointegration in panel data. In particular, tests for two panel models, varying intercepts and varying slopes and varying intercepts and common slopes, are presented from the literature with a total of five tests being simulated. In all cases results on empirical size and size-adjusted power are given. The second chapter outlines the asymptotic theory for a new test of the null hypothesis of cointegration in panel data, $\overline {LM}$. This test is among those compared in Chapter 1. Because the test is residual-based, the method of estimating the residuals is crucial to the performance of the test. Included in Chapter 2 is a comparison of the results of the test using two different methods for estimating a cointegrated relationship: Dynamic Ordinary Least Squares (DOLS) and Fully Modified (FM). The final chapter, Chapter 3, provides an application of the $\overline {LM}$ test. The application tests the presence of a cointegrating relationship between the natural logs of GDP per worker, capital per worker and urbanization levels for two data groups: developing and developed countries. This relationship had not been previously tested using a cointegration framework. The null hypothesis of cointegration can be rejected for both groups.

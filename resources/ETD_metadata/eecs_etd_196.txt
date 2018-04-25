@@ -1,0 +1,11 @@
+$TITLE:
+A hybrid method to terminate finite element meshes (frequency and time domain analysis)
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Green's function, Electrical engineering
+
+$ABSTRACT:
+The finite element or finite difference techniques are well known for the solution of Maxwell's equations in differential form. But terminating the mesh accurately at a finite distance from the body in the case of an open problem is a major challenge. Though there are several techniques presented before, this new approach allows for the terminating surface to encapsulate the body very tightly. Typically the finite element meshes extend up to two to four layers from the body. In this proposed method, finite element technique is used for open region problems whereas integral equation solution approach using Green's function is applied to enforce the radiation condition. At each iteration cycle, field sources within the discretized domain, namely charges or induced currents, are evaluated and the field quantities at the terminating surface are calculated. These new field values are used once again to find the unknown field quantities inside the domain using finite element analysis. Numerical results are presented for electrostatic and frequency domain analysis of conducting bodies to illustrate the accuracy of the technique. The second part of this study is devoted to time domain analysis of scattering from conducting bodies. As before at each time step, fields inside the discretized domain are calculated using finite element analysis. Now the calculated induced currents for earlier time steps give the radiation condition at the terminating surface. Numerical results are provided, which agree well with other published results. The proposed method leads to increased computational efficiency of finite element method. It can be generalized for the case of inhomogeneous media, for static and dynamic fields.

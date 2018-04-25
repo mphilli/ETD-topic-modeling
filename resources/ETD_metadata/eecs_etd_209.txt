@@ -1,0 +1,11 @@
+$TITLE:
+The computation of far-field antenna patterns from near-field measurements using an equivalent current approach
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Scattering, Antenna patterns
+
+$ABSTRACT:
+In any antenna configuration, it is desirable to obtain accurate far-field patterns of the antenna. Measurements of the far-fields may be performed directly, however, the size and frequency of operation of the antenna may require the use of large outdoor test ranges. These are susceptible to external effects such as weather conditions or interfering signals. An alternative approach is to measure near-fields of the antenna and relate these to the far-fields. Measurements are performed in a compact range or anechoic chamber, which is specially designed to absorb reflections from the walls. Better lighting effects can also be achieved in the compact range than in an outdoor range.In this dissertation a novel method is proposed to transform from the near-fields to the far-fields. In this method, the antenna under test (AUT) is replaced by equivalent currents which reside on a fictitious surface which encompasses the antenna. Depending on the antenna configuration, the currents may be electric, magnetic or both. A method of moments approach is used in which the currents are expanded in terms of known basis functions with unknown coefficients. The measured near-fields are used to solve for the unknowns. This results in a matrix equation, which is solved using the conjugate gradient method. Once the equivalent currents are ascertained, the far-fields may be computed in a straightforward manner. A comparison of this approach with the modal expansion approach is made and advantages and disadvantages of the method are detailed.

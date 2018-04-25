@@ -1,0 +1,11 @@
+$TITLE:
+Displacement-based seismic design of structures using equivalent linear system parameters
+
+$DEPARTMENT:
+Civil and Environmental Engineering
+
+$KEYWORDS:
+Displacement-based, Seismic design, Equivalent linear system, Earthquake
+
+$ABSTRACT:
+This study presents a new method to calculate equivalent linear system parameters for estimating the maximum inelastic seismic response of structures. Since inelastic response is dependent on the type of hysteretic model used, two hysteretic models: the Bilinear and Q-model hysteretic models, are considered. The effects of these hysteretic models, initial damping, post yielding stiffness and degrading behavior on the equivalent linear system's period and equivalent viscous damping are investigated. To check the accuracy of the proposed method, the maximum inelastic responses of structures computed using six different methods are compared and studied. It is observed that the proposed approach gives more accurate results than the other methods for structures that experience ductile flexural behavior with natural periods in the range 0.3 to 3 seconds. The proposed equivalent period and equivalent viscous damping equations are then implemented into the Displacement Based Design Method to design sixteen single degree-of-freedom sample structures. Dynamic inelastic time history analyses are performed on all these sample structures to evaluate the accuracy of the proposed seismic design approach. The results indicate that the accuracy and versatility of the Displacement Based Design Method can be improved by the use of the proposed equivalent linear system parameters.

@@ -1,0 +1,11 @@
+$TITLE:
+Community Interest as An Indicator for Ranking
+
+$DEPARTMENT:
+Information Science and Technology
+
+$KEYWORDS:
+Community Interest, Evaluation, Information Retrieval, Methodology, Ranking, User Study
+
+$ABSTRACT:
+Ranking documents in response to users' information needs is a challenging task, due, in part, to the dynamic nature of users' interests with respect to a query. We hypothesize that the interests of a given user are similar to the interests of the broader community of which he or she is a part and propose an innovative method that uses social media to characterize the interests of the community and use this characterization to improve future rankings. By generating a community interest vector (CIV) and community interest language model (CILM) for a given query, we use community interest to alter the ranking score of individual documents retrieved by the query. The CIV or CILM is based on a continuously updated set of recent (daily or past few hours) user oriented text data. The interest based ranking method is evaluated by using Amazon Turk to against relevance based ranking and search engines' ranking results. Overall, the experiment result shows community interest is an effective indicator for dynamic ranking.

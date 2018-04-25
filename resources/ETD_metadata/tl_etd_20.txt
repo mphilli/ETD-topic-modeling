@@ -1,0 +1,11 @@
+$TITLE:
+Short-term training effects on myocardial and arterial function in obese individuals, with and without the metabolic syndrome
+
+$DEPARTMENT:
+Teaching and Leadership
+
+$KEYWORDS:
+Arterial function, Metabolic syndrome, Obesity, Execrcise, Myocardial function, Glucose tolerance
+
+$ABSTRACT:
+The purposes of these studies were to determine the effects of short-term high-intensity exercise training on glucose tolerance, cardiac and arterial function in obese individuals with and without metabolic syndrome (MetSyn). Secondly, the effect of acute hyperglycemia on arterial function was investigated and if short-term training would yield changes during this challenge. Obese men and women (BMI>30 kg/m  2  ; 39-60 yrs) with and without MetSyn (MetSyn 13; Non-MetSyn 18) underwent exercise training consisting of 10 consecutive d of treadmill walking for 1 h/d at 70-75% of peak aerobic capacity. Subjects performed pre and post-training testing for aerobic capacity, glucose tolerance (2 h meal test), standard echocardiography, endothelial function and arterial stiffness. Body weight did not change with training in either group. Aerobic capacity (pre vs post) improved for both groups (main effect: 24.5 ± 1.2 vs. 25.8 ± 1.1 mL/kg/min, p<0.05). Glucose area under the curve improved in the MetSyn group (1017 ± 58 vs. 883 ± 75 pmol/L/min, p<0.05) with no change for the Non-MetSyn group (685 ± 54 vs. 695 ±70 pmol/L/min). Isovolumic relaxation time (IVRT) improved in the MetSyn group (97 ± 6 vs. 80 ± 5 msec, p<0.05), and remained normal in the Non-MetSyn group (82 ± 6 vs. 86 ± 5 msec). Endothelial function decreased by ∼20% (p<0.05) for both groups during acute hyperglycemia, and hyperglycemia increased central arterial stiffness (fasted 7.278 ± 0.270 vs. fed 7.735 ± 0.220 m/s; p<0.05). Exercise training did not change arterial measures in the fasted or glucose challenged state. In conclusion, 10 d of high-intensity exercise improved aerobic capacity for obese individuals with and without MetSyn, and diastolic function and glucose tolerance improved in the group with MetSyn. Arterial function did not improve with training for either group, but the meal test did have a deleterious effect on arterial function in both groups.

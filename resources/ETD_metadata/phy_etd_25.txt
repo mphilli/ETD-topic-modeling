@@ -1,0 +1,11 @@
+$TITLE:
+First measurements of the exclusive decays of the upsilon(5S) to B* meson B* bar meson pion pion final states and improved B*(s) meson mass measurements
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Upsilon, B mesons, Exclusive reconstruction, Cross section, particle physics
+
+$ABSTRACT:
+Using 420 pb -1 of data collected on the Υ(5 S ) resonance, we exploit exclusive reconstruction of B mesons in several channels to measure or set upper limits on the decay of the Υ(5 S ) into B ([low *]) B ([low *]) (π)(π) final states for the first time in the world. Using 25 B decay modes, we measure the inclusive B cross-section to be σ(Υ(5 S ) [arrow right] BBX ) = (0:177 ± 0.030±0.016) nb. We also establish first measurements of the production rate for Υ(5 S ) [arrow right] B * B * and Υ(5 S ) [arrow right] B B *, and measure their cross-sections to be: σ(Υ(5 S ) [arrow right] B * B *) = (0.119 ± 0.023 ± 0.013) nb, σ(Υ(5 S ) [arrow right] BB *) = (0.039 ± 0.015 ± 0.005) nb. In other decay channels, we establish 90% confidence level limits of σ(Υ(5 S ) [arrow right] BB ) < 0.038 nb, σ(Υ(5 S ) [arrow right] B ([low *]) B ([low *]) π) < 0.051 nb and σ(Υ(5 S ) [arrow right] BB ππ) < 0.029 nb. We also extract the most precise value of the [Special characters omitted.] mass to date, which is measured to be M ([Special characters omitted.] ) = (5411.7 ± 1.6 ± 0.6) MeV.

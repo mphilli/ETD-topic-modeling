@@ -1,0 +1,11 @@
+$TITLE:
+A theoretical model of national image processing and international public relations
+
+$DEPARTMENT:
+Mass Communications
+
+$KEYWORDS:
+Newsworthiness, National image processing, International, Public relations
+
+$ABSTRACT:
+The purpose of this study is to propose a comprehensive theoretical model of national image processing, including both in the media and in the public, and to test a portion of this model. This study identified three factors--environmental, relational, and strategic public relations factors (seven constructs in particular)--to affect national image of other countries in a target country's news media. It tested how these three factors are related to the prominence and valence of 157 countries in US newspaper and television news coverage ( New York Times, Washington Post, ABC, NBC, CBS  , and CNN  ) during 2002. This study found that three factors were significant predictors on total newspaper articles, newspaper prominence, and total television stories. Specifically, national traits and political significance were positively related to most prominence measures, while deviance, economic significance, and cultural significance had mixed findings. Communication constraints had no significant relationship with prominence. Strategic public relations turned out to be a significant predictor on newspaper prominence, but not on newspaper total articles controlling for environmental and relational factors. Deviance was negatively related to news valence. In contrast, strategic public relations had no significant relationship with valence. Suggestions for future study as well as several implications on theory and methodology are discussed, drawing on the experience of this study.

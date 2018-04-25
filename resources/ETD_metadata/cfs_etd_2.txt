@@ -1,0 +1,11 @@
+$TITLE:
+Family role stressors, psychological distress, and marital adjustment in South Korean families: Mediating role of collectivist coping strategies
+
+$DEPARTMENT:
+Child and Family Studies
+
+$KEYWORDS:
+Coping strategy, Stress, Korean parents, Depression, Marriage, Culture, Family role stressors, Collectivist, Coping, Korea
+
+$ABSTRACT:
+This investigation examined the role of family role stressors (parent care role stressors, parent-in-law care role stressors, parent-in-law relationship stressors, father/mother role stressors, and wife/husband role stressors), psychological distress, and its impact on marital adjustment in South Korean families. Also investigated within this study were the role of collectivist coping strategies in the relationship between family role stressors and marital adjustment. The sample consisted of 137 Korean fathers and mothers of children in the 5 th  - 6 th  grade (10-11 years) drawn from diverse socioeconomic status. A four-factor solution of collectivist coping strategies (acceptance, reframing, and striving, family support, religion-spirituality, avoidance and detachment) using EFA and CFA was found to be representative of Korean fathers and mothers. Private emotional outlets (PEO) were not a coping strategy used by Korean fathers and mothers. Paired  t  -tests revealed significant differences between fathers and mothers on family role stressors, psychological distress, and marital adjustment. Test of the conceptual model using path analysis indicated a direct relationship between family role stressors and marital adjustment for Korean fathers and mothers. The relationship between parent-in-law care role and marital adjustment was mediated by avoidance and detachment coping strategies for fathers. Additional indirect pathways were obtained between father role stressors, acceptance, reframing, and striving coping strategies, and marital adjustment. Collectivist coping strategies did not mediate the relationship between family role stressors and marital adjustment for mothers. Depression did not mediate the relationship between family role stressors and marital adjustment for fathers or mothers. The strength of the mediated and indirect pathways was examined using Sobel's test and using bootstrapping techniques.

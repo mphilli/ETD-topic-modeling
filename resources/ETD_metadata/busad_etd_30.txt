@@ -1,0 +1,11 @@
+$TITLE:
+Job-related diversity and service team outcomes: New insights into the roles of task structure and process conflict
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+Job-related diversity, Service team, Task structure, Process conflict, Diversity, Hospitals
+
+$ABSTRACT:
+This research investigates how interdisciplinary team composition affects team processes and service outcomes. More specifically, the study examines the relationship between job-related diversity, conflict, task structure and outcomes in interdisciplinary treatment teams delivering care to hospitalized patients.The use of interdisciplinary teams is common in the planning and delivery of hospital care and other professional services. Advocates of interdisciplinary teamwork suggest that teams provide a wide array of benefits and are a source of competitive advantage to the firms that utilize them. However, these claims are made without clear scientific evidence supporting a positive relationship between the functional characteristics of a team, its team processes, and customer, team and service outcomes. The team performance models that have been developed and tested do not reliably explain why some teams perform well and others do not. Indeed, a number of studies suggest that interdisciplinary teamwork can lead to negative team outcomes. This study attempts to fill this void in the literature.Three models of teamwork derived from the team literature are compared using LISREL and regression analysis. A new scale measuring process conflict is developed and validated. Two different measures of service team outcomes are used: team satisfaction and an index of the patient length-of-stay.The study finds that job-related diversity has two different impacts on team outcomes: a direct effect and an indirect effect mediated by conflict. A new type of conflict, process conflict, is found to have important effects on interdisciplinary treatment team outcomes. Furthermore, the relationship between conflict and the patient length-of-stay index is moderated by task structure. The study findings suggest that different models of teamwork are necessary to explain different team outcomes. Implications of these findings for marketing theory, healthcare delivery, and future research are discussed.

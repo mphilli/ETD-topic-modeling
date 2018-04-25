@@ -1,0 +1,11 @@
+$TITLE:
+Investigating Elementary Principals' Science Beliefs and Knowledge and its Relationship to Students' Science Outcomes
+
+$DEPARTMENT:
+Teaching and Leadership
+
+$KEYWORDS:
+Principals and science outcomes, Principals and student outcomes, Principals' science beliefs, Principals' science knowledge, Science instructional leadership
+
+$ABSTRACT:
+The aim of this quantitative study was to investigate elementary principals' beliefs about reformed science teaching and learning, science subject matter knowledge, and how these factors relate to fourth grade students' superior science outcomes. Online survey methodology was used for data collection and included a demographic questionnaire and two survey instruments: the K-4 Physical Science Misconceptions Oriented Science Assessment Resources for Teachers (MOSART) and the Beliefs About Reformed Science Teaching and Learning (BARSTL). Hierarchical multiple regression analysis was used to assess the separate and collective contributions of background variables such as principals' personal and school characteristics, principals' science teaching and learning beliefs, and principals' science knowledge on students' superior science outcomes. Mediation analysis was also used to explore whether principals' science knowledge mediated the relationship between their beliefs about science teaching and learning and students' science outcomes.Findings indicated that principals' science beliefs and knowledge do not contribute to predicting students' superior science scores. Fifty-two percent of the variance in percentage of students with superior science scores was explained by school characteristics with free or reduced price lunch and school type as the only significant individual predictors. Furthermore, principals' science knowledge did not mediate the relationship between their science beliefs and students' science outcomes. There was no statistically significant variation among the variables. The data failed to support the proposed mediation model of the study. Implications for future research are discussed.

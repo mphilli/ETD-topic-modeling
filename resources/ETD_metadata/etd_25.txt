@@ -1,0 +1,11 @@
+$TITLE:
+Putting the Ghost Back in the Machine: A Defense of Common Sense Dualism
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Common Sense, Dualism, Free Will, Naturalism, Philosophical Method, Physicalism
+
+$ABSTRACT:
+Gilbert Ryle once ridiculed substance dualism, describing it as the view that we are a "ghost in the machine." Since that time, substance dualism has found few defenders, and a presumption toward naturalism has dominated philosophical inquiry. Here, I offer an unapologetic defense this unfashionable view of the self. To do so, I first explain why philosophy should endorse a shift in method away from naturalism and toward common sense philosophy. I then show how, from within that approach, substance dualism is far better supported than its competitors. My defense of the common sense method rests heavily on an account of justification and of evidence defended by Michael Huemer, and results in the view that we should give strong presumptive weight to common sense. I proceed to argue that a commitment to active, immaterial minds is built into the conception of human nature used in everyday life, and therefore qualifies as a tenet of common sense. This fact gives a strong presumption to dualism. I finish by considering objections to dualism, and showing that they not only fail to overcome this strong presumption, but would fail to overcome even a moderate conservatism with regard to beliefs about the nature of the mind.

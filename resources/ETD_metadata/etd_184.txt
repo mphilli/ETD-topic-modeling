@@ -1,0 +1,11 @@
+$TITLE:
+The synthesis, characterization, and application of carborane-cluster based macrocycles and boron nitride nanosheets in photovoltaics
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Boron, Cluster, Macrocycle, Nano, Photovoltaics, Polythiophene
+
+$ABSTRACT:
+Chapter 1: Dye-sensitized solar cell (DSSC) efficiencies have not significantly improved in recent years, primarily because of their single band gap design, limitations in dye absorption energies, and the Shockley-Queisser (SQ) limit. DSSCs require incident photon energy in the visible spectrum for the cell to produce a usable current. While the possibility of absorbing twonear-infrared photons is a known concept for surmounting the SQ limit, the opportunities presented by mesoporous systems for creating such a sensitizer do not appear to have been studied. By incorporating carborane cluster-based macrocyclic compounds as "electron reservoirs," a number of the inherent limitations in DSSC systems can be potentially circumvented, including extending the useable photon energy into the IR region by using a multi-photon, multi-step mechanism, effectively surmounting the SQ limit.Chapter 2: Recent experiments with hexagonal boron nitride (h-BN) have shownsuccessful covalent and non-covalent functionalization of these nanostructures. Furthermore, experiments have also shown that the non-covalent functionalization of boron nitride nanosheets (BNNS) with polythiophene can produce a working photovoltaic device when attached to TiO2 nanoparticles as a semiconductor in a manner similar to a DSSC. This paper explores the characterizations of a new polythiophene-BNNS complex, as well as attempting to stabilize and functionalize BNNS with thiophene based monomers.

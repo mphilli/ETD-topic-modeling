@@ -1,0 +1,11 @@
+$TITLE:
+Conditions that support the implementation of e-goverment through the Digital Towpath Project: An exploratory study
+
+$DEPARTMENT:
+Instructional Design, Development and Evaluation
+
+$KEYWORDS:
+Diffusion of innovations, Implementation of innovations, Technology diffusion, Adoption of innovations, Technology adoption, Innovation diffusion
+
+$ABSTRACT:
+This study examined the social environmental conditions perceived by local government representatives as relatively important for their implementation of e-government using the Digital Towpath Project (DTP) content management system, referred to as websites  . The survey population included individuals who administered the municipal websites for their towns and villages between 2000 and 2007. Based on Rogers' (1962/1995) framework for the implementation of innovations by organizations, the towns and villages were categorized by the degree to which they integrated the websites into their office routine, called stage of implementation (SOI)  and also by the degree to which their websites were used, called degree of use (DOU)  .Ely's (1999) Eight Conditions framework was used to inform the survey design and to analyze the responses. Ely's conditions include: dissatisfaction with status quo, knowledge and skills, resources, time, rewards and incentives, participation in decision making, commitment and leadership . These conditions had been tested in previous studies, particularly in the K-12 environment with a focus on the adoption and implementation behavior of school teachers. (Bauder, 1993; Ravitz, 1999; Surry, Ely, Reiser, & Dempsey, 2002; Surry & Ensminger; Surry, Porter and Wright, 2004; Ensminger & Surry, 2008) This study investigated which, if any, of Ely's conditions were reported as relatively more important for implementation of local e-government and the degree to which they were associated with stage of implementation or degree of use .Based on the results of this survey, municipal adopters of e-government who choose to fully implement their websites through the Digital Towpath Project should consider encouraging their web administrators to attend training sessions, conferences and other forms of knowledge and skills enhancement; and to consider these activities strategically important budget items.

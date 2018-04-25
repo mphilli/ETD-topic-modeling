@@ -1,0 +1,11 @@
+$TITLE:
+Multivariate and path analysis in magnetic resonance spectroscopy
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Multivariate analysis
+
+$ABSTRACT:
+This dissertation endeavors to solve problems in Magnetic Resonance Imaging (MRI) and in Nuclear Magnetic Resonance (NMR) spectroscopy. In MRI, the main problem attacked is tissue discrimination in images. In particular, contrast enhancement and tissue separation (and prediction) are important. The experimental parameters needed to give this discrimination are also required. Chemometrics was applied to each of these problems. The use of Principal Component Analysis (PCA) score images enhanced contrast. The score plots differentiated separate tissue types. The use of Partial Least Squares (PLS) regression generated images of tissues predicted to be similar. The use of loading plots and leverage histograms identified important experimental parameters. Chemometrics is shown to be effective in MRI. It is possible that it will also help solve problems associated with other imaging techniques used in chemistry.In NMR, the assignment problem of nucleic acids is attacked. In particular, the problems of resonance overlap and breaks in the normal walks used to solve assignments are explored. The technique of Path Analysis is invented to help solve these problems. This technique involves mapping several different sources of information into a mathematical graph and using Path Analysis algorithms to interpret that information. Path constraints solve, or reduce, the overlap problem. Breaks in the normal walks are replaced with "dummy" protons that allow the user to search for long paths consistent with sequencing information. The technique of Path Analysis is shown to be effective. It is also shown that it may be effective in assignment problems of biopolymers other than nucleic acids.

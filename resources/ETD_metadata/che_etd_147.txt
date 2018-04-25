@@ -1,0 +1,11 @@
+$TITLE:
+The electrostatic and covolume contributions to the mean ionic activity coefficients of concentrated aqueous 1: 1 electrolytes at 25 degrees c
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+chemistry, covolume contributions, mean ionic activity
+
+$ABSTRACT:
+The research on which this dissertation is based was begun when the author was engaged as a consultant by the American Dental Association rEsearch Laboratory at the National Bureau of Standards.  One of the problems being studied at that laboratory is the mechanism of growth of teeth, becasue, if the intimate details of this mechanism were known, it might be possible to develop more effective methods of preventing tooth decay.

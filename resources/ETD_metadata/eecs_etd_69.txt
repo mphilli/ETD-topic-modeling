@@ -1,0 +1,11 @@
+$TITLE:
+Propagation and radiation of electromagnetic waves in the presence of a gyromagnetic medium
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Electromagnetic waves, Wave propagation, Gyromagnetics, Ferrite
+
+$ABSTRACT:
+In this dissertation, electromagnetic wave propagation, dispersion characteristics, and radiation in the presence of a gyromagnetic medium are considered.First, the dispersion relations for a gyromagnetic medium are derived when the applied magnetic filed is in an arbitrary direction, from which the wave numbers for two types of waves are obtained. The resonance and cutoff conditions are then found for the principle waves using a gyromagnetic medium such as ferrite. A wave normal surface is then constructed based on the dispersion relation to provide regions in which waves can propagate.Transmission and reflection of plane waves from a gyromagnetic medium are studied and the total internal reflection is examined. Using a plot of reflectivity, the effects of the orientation of an applied magnetic field are discussed.The dyadic Green's function (DGF) for an unbounded gyromagnetic medium is derived using the new formulation technique, which consists of a matrix method with dyadic decomposition in the k -domain. The DGF for the two-layer problem is also formulated, expressing the coefficients in terms of half-space Fresnel coefficients and finally evaluating the various half-space Fresnel coefficients.Using these DGFs, the far-field radiation from a Hertzian dipole in the presence of a gyromagnetic slab is investigated. Parametric studies are performed to investigate the effects of changing the magnitude or orientation of the applied magnetic field, as well as the frequency, slab thickness, and the location of a dipole antenna on radiation patterns. Possible applications which take advantage of these effects are suggested.

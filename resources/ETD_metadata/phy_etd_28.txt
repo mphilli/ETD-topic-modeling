@@ -1,0 +1,11 @@
+$TITLE:
+Exact supersymmetry on the lattice
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Supersymmetry, Lattice, Yang-Mills theory
+
+$ABSTRACT:
+We describe a new approach of putting supersymmetric theories on the lattice. The basic idea is to discretize a twisted formulation of the (extended) supersymmetric theory. One can think about the twisting as an exotic change of variables that modifies the quantum numbers of the original fields. It exposes a scalar nilpotent supercharge which one can be preserved exactly on the lattice. We give explicit examples from sigma models and Yang-Mills theories. For the former, we show how to deform the theory by the addition of potential terms which preserve the supersymmmetry and play the role of Wilson terms, thus preventing the appearance of doublers. For the Yang-Mills theories however, one can show that their twisted versions can be rewritten in terms of two real Kähler-Dirac fields whose components transform into each other under the twisted supersymmetry. Once written in this geometrical language, one can ensure that the model does not exhibit spectrum doubling if one maps the component tensor fields to appropriate geometrical structures in the lattice. Numerical study of the O (3) sigma models and U (2) and SU (2) Yang-Mills theories for the case [Special characters omitted.] = D = 2 indicates that no additional fine tuning is needed to recover the continuum supersymmetric models.

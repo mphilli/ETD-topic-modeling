@@ -1,0 +1,11 @@
+$TITLE:
+Solving time domain scattering and radiation problems in a marching-on-in-degree technique for method of moment
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Electromagnetics, Laguerre Transform, Marching-on-in-degree, Method of moment, Numerical Method, Parallel computing
+
+$ABSTRACT:
+The time domain method of moment has been proposed for a long time. The marching-on-in-time solver suffers from late time instability, while the marching-on-in-degree technique can avoid this problem.This thesis introduces a new temporal basis function and a new Green's function form that improves the computation speed of the marching-on-in-degree technique. This method can be used for the perfect conductor and can also be applied to conductors with loss or dielectric.As a method of moment solver, this marching-on-in-degree technique must solve a dense matrix equation and it may be time consuming if the objects are very large. Therefore, parallelization and a hybrid method are also proposed to handle large objects.This thesis will cover all my improvements to the time domain marching-on-in-degree method.

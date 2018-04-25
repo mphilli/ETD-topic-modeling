@@ -1,0 +1,11 @@
+$TITLE:
+The Development Of Computer Programming Concepts And Problem-Solving Abilities Among Ten-Year-Olds Learning Logo
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Computer science, Education, string-processing languages, problem-solving by children
+
+$ABSTRACT:
+This paper examines some empirical issues regarding development of problem-solving by children. The study surveys several semesters of children's LOGO programming, and isolates some concepts and skills which the children developed.--Introduction.

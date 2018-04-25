@@ -1,0 +1,11 @@
+$TITLE:
+Simulations of hydrodynamic interactions in bubbly liquids and colloids
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+hydrodynamic interactions, bubbly liquids and colloids
+
+$ABSTRACT:
+This thesis consists of two parts. The part I is concerned with the problem of determining electrokinetic properties of colloidal dispersions of charged spherical as well as cylindrical particles in the limit of thin, polarized double layers. In this limit the problem of multiparticle interactions is decoupled from the details of double layer dynamics, and the electrokinetic properties depend on relatively few variables. The linearized equations of motion for the fluid motion and ionic potentials are solved using a method of multipole expansion to determine the electric conductivity of the dispersion and the electrophoretic mobility and resistivity of the particles as a function of the volume fraction c of the particles, the geometric arrangement of the particles, and the conductivities of the ions in the polarized layers.The part II is concerned with the problem of determining the properties of flows of bubbly liquids at large Reynolds and small Weber numbers. In this limit the bubbles are approximately spherical and the velocity is approximately given by the irrotational, inviscid flow equations. Kinetic theory and numerical simulations are used to examine the rheological behavior of the sheared bubbly liquids. It is shown that the rheological behavior of bubbly liquids is in general quite complex includes such non-Newtonian effects as shear thickening, normal stress differences, and even multiple steady states. Finally, a very efficient algorithm is described for computing the hydrodynamic interactions in suspensions containing thousands of bubbles

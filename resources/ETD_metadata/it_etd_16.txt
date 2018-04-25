@@ -1,0 +1,11 @@
+$TITLE:
+Towards a better understanding of dynamics of IT use: A new concept of adaptive IT use
+
+$DEPARTMENT:
+Information Management and Technology
+
+$KEYWORDS:
+IT use, Activity theory, Adaptive structuration theory, Trigger, Information technology
+
+$ABSTRACT:
+Contemporary Information Systems (IS) research defines and measures IT use simply by the amount of time spent and the frequency of IT use, despite the fact that it has long been observed that individuals frequently modify their IT use behavior: they purposely switch and selectively combine IT features to cope with new task needs and changing environments. In my dissertation research, I challenge the existing static view of individual IT use and propose to study a new construct called adaptive IT use (AITU) whereby people revise their features in use adaptively over time to cope with changes in internal and external environments. Using Adaptive Sructuration Theory as a frame, five dimensions of adaptive IT use were conceptualized: feature set expanding, feature set decreasing, feature substitution, feature recombining, and feature repurposing. An instrument for these dimensions was developed using Moore and Benbasat's method. From an Activity Theory perspective, a process model of adaptive IT use was developed by introducing three types of antecedents of adaptive IT use: Triggers, Internal Factors, and External Factors. The internal and external factors also serve as moderating factors. The major outcomes of my dissertation include a new construct of AITU, an instrument to measure it, and a nomological model of AITU. Findings from this dissertation can help in designing systems and organizational training to facilitate IT use that generates positive outcomes. Also, the instrument of AITU can help us make sound judgments regarding the "depth" of employees' use of existing systems.

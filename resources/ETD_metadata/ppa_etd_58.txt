@@ -1,0 +1,11 @@
+$TITLE:
+Care arrangements for frail older persons
+
+$DEPARTMENT:
+Public Administration
+
+$KEYWORDS:
+elderly, long term care, disability
+
+$ABSTRACT:
+What factors affect the choice of a care arrangement for a frail, older person, assuming the availability of all types of care? How does the process surrounding the choice of a care arrangement affect the outcome we see? How do the factors that affect the choice of a care arrangement interact with each other, and with the process itself, to result in a care arrangement? I address these questions with a three-part study. First, I employ a multinomial logit model to identify variables that are significantly associated with care arrangements and to predict the probability of five unordered categories of care arrangements for frail, older, unmarried persons. Data used to estimate the logit model are from the 1989 National Long-Term Care Survey. Second, I select a sample of frail older individuals and, using survey and interview methods, I collect data on their personal characteristics and the way in which their care arrangement was chosen. Third, I combine results from both studies to examine the effect that care decision participants' characteristics and the decision-making process itself have on the choice of a care arrangement. My major findings follow.First, higher levels of disability and increasing age were associated with the use of some form of care beyond self care, and the presence of children always made the likelihood of informal only care higher. Second, the various participants in a care arrangement decision view independence as a normative value framing the care decision process. At the same time, they often attach very different meanings to the concept of independence, which introduces added complexity to the decision-making process. Third, some service providers have the ability to exercise a great deal of discretion when making long-term care service allocations, particularly when services are provided with funds that are inherently discretionary (e.g., block grants). Finally, the importance attached to the way disability is measured is reiterated: Differences in the way "difficulty" is measured affect the prevalence of disability, and would potentially affect the number of persons who would be eligible for long-term care services under a disability-tested program.

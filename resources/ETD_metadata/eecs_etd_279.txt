@@ -1,0 +1,11 @@
+$TITLE:
+Radiation characteristics of cavity-backed aperture antennas
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+electrical engineering
+
+$ABSTRACT:
+The analysis of the radiation characteristics of a rectangular aperture in a perfectly conducting plane of infinite extent backed by a rectangular cavity is performed using the generalized admittance approach. The radiating structure is called a cavity-backed aperture antenna and is excited by a wire that runs width-wise across the aperture and that is fed at one end by a coaxial cable. The equivalent principle is used to divide the problem into two different regions. The fields in the cavity are expanded in terms of waveguide modes. Those in the half-space region are derived in terms of the freespace Green's function. The resulting magnetic field operator equation is solved by the method of moments using roof-top functions for expansion and testing.The special case of a rectangular aperture backed by a rectangular cavity is analyzed. The distribution of the magnetic current in the aperture region and the gain patterns are discussed for different parameters of the radiating structure. The change in input impedance with cavity depth is investigated. Several different cavity depths are found to maximize the power radiated by a cavity-backed aperture antenna. A special example is presented where the moment solution for the magnetic current does not converge as the number of expansion functions is increased.

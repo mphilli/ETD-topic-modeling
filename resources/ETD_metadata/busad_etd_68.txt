@@ -1,0 +1,11 @@
+$TITLE:
+The organizational impact of profit-sharing
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+Management
+
+$ABSTRACT:
+This field study investigated the factors which determine how strongly participants will support profit sharing and the effect that profit sharing has on organizational performance. A research model was developed and tested with a triangulated research design combining case studies, multivariate analyses of attitude surveys, and ARIMA time-series analyses of productivity, quality, absenteeism, and employment data. Four geographically dispersed profit sharing firms comprised the sample.Path analysis supported many of the attitudinal relationships that were proposed. As expected, pay equity and performance-reward contingencies were significant determinants of plan support for all respondents as well as the subgroup of employees. Managerial support for profit sharing was influenced by pay equity alone. Furthermore, profit sharing support was a major determinant of organizational commitment for the entire sample and both subgroups. No support was obtained for the hypothesized link between influence on decision making and plan support. Nor was there consistent evidence that job satisfaction moderated the relationship between support for profit sharing and organizational commitment.Time-series analysis indicated that profit sharing affected some aspects of organizational performance. As predicted, productivity and employment improved in Company A after the inception of profit sharing. Similarly, productivity was higher in Company D before a potentially undesirable change was made in the plan's distribution schedule than afterward. However, historical events could not be ruled out as threats to the validity in these analyses. Although overall productivity gains were not apparent in Company B, the trend was positive for production employees. Contrary to expectations, quality and absenteeism worsened in Company A following the plan's introduction.

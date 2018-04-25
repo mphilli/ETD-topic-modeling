@@ -1,0 +1,11 @@
+$TITLE:
+On the spectral radius of a positive operator
+
+$DEPARTMENT:
+Teaching and Leadership
+
+$KEYWORDS:
+Banach spaces, Spectral radius, Positive operator
+
+$ABSTRACT:
+This dissertation surveys results on the spectral radius, r(A), of an operator A on a Banach space, under the hypothesis that A is positive. A primary goal of the work is to present an accessible introduction and overview to the spectral properties of a positive operator to readers from outside the field. An historical overview is presented first, taking the reader from Perron's Theorem for positive matrices to the Krei n-Rutman Theorem for compact, strongly positive operators on a partially ordered Banach space, then moving on to a preview of related results on r(A) which followed. Chapter 2 is devoted to a careful examination of ordered Banach spaces, and synthesizes a variety of properties of cones, positive functionals, and positive operators from across the research literature. Next follows a development of the existence theory of positive eigenvalues and positive eigenvectors of positive operators. These theorems are presented in order of increasing stringency of hypotheses, reflect recent and simpler proofs, and are used to prove the culminating result of Chapter 3, the Krei n-Rutman Theorem. The remaining two chapters focus on finding bounds and numerical approximations for r(A). Chapter 4 includes propositions on pointwise bounds for r(A), an alternate characterization of r(A) due to Karlin, the monontonicity results of Marek, Schaefer's work on positive invertibility and its links to r(A), and more. In the final chapter, a generalized power method is introduced and shown to converge, extending a result of Krasnoselskii. Furthermore, a specific iterative technique for approximating the spectral radius of an integral operator is developed and analyzed in light of results of Kershaw and Bauer. Finally, a numerical technique of Cryer is presented, and the text closes with a selection of numerical examples.

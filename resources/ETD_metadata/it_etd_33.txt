@@ -1,0 +1,11 @@
+$TITLE:
+The information use environment: A descriptive study of a sub-set of agriculturists in the developing country of Trinidad and Tobago
+
+$DEPARTMENT:
+Information Science and Technology
+
+$KEYWORDS:
+Information use, Agriculturists, Trinidad and Tobago, Developing countries
+
+$ABSTRACT:
+The objective of this study was to examine empirically and describe the concept of the Information Use Environment (IUE). Applying the model advanced by Taylor (1991), the study attempts to understand the characteristics of the IUE and how they influence information use by a subset of agriculturists in the developing country of Trinidad and Tobago.The IUE, a concept developed by Taylor (1986, 1991), provides a framework for understanding the contexts within which the flow of information enters or leaves "any definable entity or group of clients" as well as the criteria by which such an entity or group judge that information, a definition premised on a user-oriented perspective.According to Taylor's model, the IUE is a composite whole made up of four dimensions: (1) sets of people (2) kinds of problems (3) setting and (4) problem resolution. For the present study, three research questions were formulated based on this conceptualization. Descriptive and exploratory in its approach, the study used face-to-face interviews to elicit data from a sample of 26 agriculturists from the three largest agricultural institutions in the Country.The major findings are: (1) that the model of the IUE is sufficiently robust to be applied to a user group in a different cultural context where it can capture the information behavior of a new group (2) that typical problems of this group of agriculturists center on constraints in the work environment overshadowing core agricultural issues (3) that problems have an anatomy described by the three elements of content, characteristics and solution (4) that the IUE is affected by lack of access to information and (5) that it is possible to describe the information use patterns of agriculturists by a number of attributes including types, uses, sources, changes induced in users as well as criteria applied by users when selecting information.The effects of the study are seen as stimulus for further research and ultimately for improvement in agricultural information systems and services in the development environment.

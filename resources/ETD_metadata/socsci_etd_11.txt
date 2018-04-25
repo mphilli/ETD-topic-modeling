@@ -1,0 +1,11 @@
+$TITLE:
+A vignette-based study of ADHD, race, and insurance status in primary care
+
+$DEPARTMENT:
+Social Sciences
+
+$KEYWORDS:
+ADHD, Family medicine, Health policy, Health disparities, Mental health, Primary care
+
+$ABSTRACT:
+This dissertation explores the effects of race and insurance status on clinical decisions about Attention-Deficit Hyperactivity Disorder (ADHD) in primary care settings. Social factors have been demonstrated to influence clinical decisions in many disease contexts, with race and insurance status frequently identified among the most important of those factors. In terms of ADHD, a number of studies have identified higher rates of diagnosis with ADHD and treatment for it in white and insured children.To achieve the aims above, a factorial web-based survey, utilizing two ADHD-negative and two ADHD-positive vignettes, was sent to a convenience sample of primary care physicians, who selected from a limited list of possible diagnoses and treatment options for each. Race and insurance status were randomly and independently varied.The primary finding from this study is that being randomized as uninsured appears to reduce the odds of being diagnosed with or treated for ADHD, especially in male cases. In female cases, being uninsured appears to have an opposite effect of increasing the likelihood of diagnosis and treatment for ADHD, but this finding requires further substantiation, since it runs counter to the observed trend that females are generally less likely to be diagnosed and treated for ADHD in almost all studies and methodologies used to track the phenomenon, and also because gender was not a randomized variable in this study. Both race and gender appear to moderate the effects of insurance status. African-American cases being more likely to be diagnosed and treated for ADHD, but being both African-American and uninsured reduced the odds of diagnosis in both male and female cases. The moderating effects of race and gender require further study.

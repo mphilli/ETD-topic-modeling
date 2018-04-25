@@ -1,0 +1,11 @@
+$TITLE:
+Does Credit Rating Matter in Audit Fee Determination? A Comprehensive Analysis
+
+$DEPARTMENT:
+Accounting
+
+$KEYWORDS:
+Audit Fee, Credit Rating, Credit Rating Change, Financial Crisis, Sarbanes-Oxley Act
+
+$ABSTRACT:
+Using a large sample of observations between 2001 and 2011, this study provides a comprehensive investigation of the relationship between credit ratings and audit fees. The findings of this study show that companies with lower credit ratings are associated with higher audit fees. Credit downgrades are associated with audit fee increases while credit upgrades have no explicit effect on audit fees. In addition, the relationship between rating changes and audit fees is non-linear. Companies that experienced credit rating changes from investment grades to speculative grades are associated with even higher audit fees relative to other rating changes within investment grades or within speculative grades. When investigating the influence of out/within-broad credit rating changes, this study finds that audit firms charge higher fees for out-broad rating changes compared to within-broad rating changes. Further, auditors place more weight on credit ratings after the Sarbanes-Oxley Act while placing less weight on credit ratings after the financial crisis, which is likely due to the criticism of credit rating agencies for their role in the financial crisis.

@@ -1,0 +1,11 @@
+$TITLE:
+Three-dimensionalism
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Three-dimensionalism, Metaphysics, Persistence, Identity, Endurantism
+
+$ABSTRACT:
+Three-dimensionalism is the view that persisting objects are 'wholly present' whenever they exist and do not have temporal parts. My goal is to clarify and defend this claim.In Chapter 2, I develop a novel understanding of 'wholly present'. Whereas most three-dimensionalists have taken a stance against the existence of short-lived things--so-called temporal parts--I remain neutral about the existence of those things, arguing instead that three-dimensionalism is properly understood as the denial that any short-lived things that may exist are parts of longer-lived things.In Chapter 3, I show that there is at least one mereology that is incompatible with four-dimensionalism--one that takes proper parthood-at-a-time as its primitive relation. Since, on the other hand, the mereology I develop there is compatible with three-dimensionalism (Chapters 3 and 4), I propose that mereology correctly captures the intuitions that motivate three-dimensionalists.The remainder of the dissertation addresses issues related to the above described strategy. The most emphasis is placed on two outstanding arguments in favor of the existence of temporal parts, since any such argument undermines the my claim that persisting things are wholly present whenever they exist. Chapter 5 focuses on David Lewis's combinatorial argument for four-dimensionalism (I suggest that Lewis at best shows that four-dimensionalism is possibly true, which I take it no one denies).Chapter 6 focuses on Theodore Sider's Argument from Vagueness. I note that Sider's argument is really two arguments in one. One (if sound) would establish four-dimensionalism, and the other (if sound) would establish universal mereological composition. I develop a novel line of resistance to Sider's argument for four-dimensionalism. Since universal composition is a problem for my form of three-dimensionalism, Chapter 7 sketches a package of metaphysical theses which, when combined with my form three-dimensionalism, are robust enough to resist Sider's argument for universal mereological composition. Chapter 7 closes with a discussion of mereological coincidence as it relates to my variety of three-dimensionalism.

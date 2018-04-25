@@ -1,0 +1,11 @@
+$TITLE:
+Electromagnetic Transmission Through A Rotationally Symmetric Hole In A Thick Screen
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Electrical engineering
+
+$ABSTRACT:
+Electromagnetic wave transmission through an aperture in a thick conducting screen is investigated. The aperture is assumed to be rotationally symmetric about an axis normal to the screen. The equivalence principle is used to divide the original problem into three regions. Fields in each region are expressed in terms of equivalent currents on the boundary, and integral equations for the unknown currents are established by enforcing proper boundary conditions. When the aperture region in the screen is a section of a cylindrical or coaxial waveguide, the waveguide modes can be used to construct the operators in that region. In this case the boundary condition for the E-field on the waveguide walls is built into the operator. However, in a more general situation, operators in an unbounded medium are used and an extra integral equation is written for the aperture region, resulting in a larger system of equations. The moment method is used to solve the integral equations numerically and results are presented. An equivalent circuit is also developed for a narrow annular slot at low frequencies. Resonant behavior predicted from the circuit is supported by numerical results.

@@ -1,0 +1,11 @@
+$TITLE:
+Storage of energy gases on activated carbon on the basis of structural parameters and energetic heterogeneity as determined by high-pressure adsorption of methane and hydrogen
+
+$DEPARTMENT:
+Biomedical and Chemical Engineering
+
+$KEYWORDS:
+adsorption of methane
+
+$ABSTRACT:
+Analysis of high pressure adsorption isotherms for methane and hydrogen was carried out on four commercially available activated carbons. All adsorption data were obtained above the critical temperature for the gases used in this work. Data for methane were obtained at or close to room temperature and up to pressures of approximately 30 atmospheres. Hydrogen data were obtained at temperatures between 78 K and 90 K and up to pressures of 12 atmospheres.The adsorption data were analyzed by the Potential Theory to collapse the isotherms of an adsorption system onto single characteristic curves invariant of temperature. It was found that, based on the Dubinin's method, such a procedure was reasonable for methane but not applicable to the hydrogen data.A modified form of the Dubinin method, by introducing a parameter, k, was proposed to account for both adsorbate-adsorbent and adsorbate-adsorbate interactions. This new approach resulted in the collapse of both methane and hydrogen data onto single characteristic curves.Equations for the adsorption isotherms, based on the new approach, for each adsorption system were developed by means of the Dubinin-Astakhov (D-A) equation. Unlike the results predicted by the Dubinin method, the limiting micropore volume, W$\sb{\rm o}$, of all adsorbents for hydrogen data was found to be greater than those obtained with methane adsorption, a trend which is in accordance with what is expected. The goodness-of-fit of the developed isotherm equations to the experimental data was less than 2% for all the adsorption systems using the modified Dubinin method.Introduction of the new parameter, k, led to an expression for the isosteric heat of adsorption which provided estimates of pseudo-heats of vaporization. These values were used to obtain estimates of the Langmuir constant, K, and mean interaction parameter, u, needed to evaluate adsorption energy distributions. It was found that these energy distributions were independent of temperature for each adsorption system.

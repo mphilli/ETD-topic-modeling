@@ -1,0 +1,1 @@
+mechanics mass diffusion passive scalar the purpose of this study is to investigate the mechanism of turbulent diffusion of temperature in a shear flow the temperature which is diffused in this case is a scalar there are particular challenges in addressing mass diffusion--introduction

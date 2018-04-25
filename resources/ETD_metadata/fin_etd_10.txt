@@ -1,0 +1,11 @@
+$TITLE:
+Price of Islam
+
+$DEPARTMENT:
+Finance
+
+$KEYWORDS:
+Social sciences, Islamic companies, Kuwait Stock Exchange, Social norms, Stock returns
+
+$ABSTRACT:
+We investigate the effect of social norms on the stock returns of firms traded on the Kuwait Stock Exchange by studying Islamic companies (i.e., publicly traded companies that have internal "Shariah" boards). The results indicate that during the period 2007-2010, Islamic stocks were traded at a monthly discount of 1.6% in comparison to conventional companies. Two hypotheses provide alternative explanations of this finding. First, there may be a social norm that supports investing in Islamic companies, which increases the demand for these types of stocks, thereby leading to higher prices and lower expected returns. Second, Islamic companies may have reduced profitability due to restrictions on their investment activities, which lowers their expected returns. Consistent with these hypotheses, we find that the demand for Islamic stocks increases conditional on a company being Islamic and big. Second, we find that Islamic companies have lower profitability.

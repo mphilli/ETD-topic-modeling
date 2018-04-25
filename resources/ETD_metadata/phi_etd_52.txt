@@ -1,0 +1,11 @@
+$TITLE:
+The Relationship Of Russell And Quine To Contemporary Theorists On Reference
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Philosophy
+
+$ABSTRACT:
+The major thesis of this Dissertation is that (1) "causal" and "historical explanation" theories are fundamentally similar to Russell's about proper names and definite descriptions, and (2) the main antagonist of the recent theorists is Quine, not Russell. These recent theorists include Kripke

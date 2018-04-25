@@ -1,0 +1,11 @@
+$TITLE:
+Automated code extraction from packed android applications.
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Android Unpacking, Systems Security
+
+$ABSTRACT:
+Software packing is a method employed by malicious applications to hide their original intent. Extracting the original intent of an application from its application bundle, whether to perform a security analysis on it, to search for security flaws(or bugs) or simply for educational purposes is a key requirement for the security community. With the fluidity provided by the Android app store coupled with a complete application-framework based environment for a malicious user to employ as an attack space, it is of great importance to examine Android applications and extract their intent.For basic applications, simple reverse engineering tools can be used to extract a semantic view of the application very close to the original source code of the application. However for applications, which have been deliberately packaged/packed in such a way that their original intent cannot be extracted by simply reverse-engineering them, we need a more intricate procedure to extract enough information to be able to reproduce the original intent of the application. These applications are packaged such that the actual code is hidden/encrypted and only during run-time is the actual code unpacked and executed.To unpack such applications, we present DroidUnpack, a tool based on dynamic program analysis, which is able to extract the original intent of the application, generically. DroidUnpack is designed by exploiting some fundamental features of the Android Runtime which cannot be mutated by a malicious user to unpack the application. We also attempts to alleviate tedious manual analysis required by a user to analyze different types of packed applications, by providing a generalized tool which is able to unpack android applications, regardless of the packing technique used.

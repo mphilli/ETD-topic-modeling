@@ -1,0 +1,11 @@
+$TITLE:
+Synthesis and thermal automerizations of 4- and 6-exo-deuteriobicyclo[3.1.0]hex-2-enes
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Thermal automerizations, Exo-deuteriobicyclo[3.1.0]hex-2-enes, Vinylcyclopropane
+
+$ABSTRACT:
+Samples of racemic 4- exo -deuteriobicyclo[3.1.0]hex-2-ene (4 x - 1 ) and racemic 6- exo -deuteriobicyclo[3.1.0]hex-2-ene (6 x - 1 ) were synthesized with high incorporation and stereoselectivity of deuterium label. Mole percent concentrations as functions of time profiles for the four isomers were secured from the thermolysis of 4 x - 1 at 224.9, 240.1, and 255.0°C. From this data rate constants for the three isomerization paths ( k r , k i , and k 1,5 ) at the three temperatures were calculated. Relative participation of the three reaction paths was determined; the k r :k i :k 1,5 proportions were 48:11:36. The calculated activation parameters for k r , k i , and k 1,5 were Ea 43.8, 44.8, 44.3 kcal/mole and log A 14.1, 14.1, 14.2, respectively.Thermolysis of 6 x - 1 at 224.9, 240.1, and 255.0°C provided mole percent concentration as functions of time profiles that were compared with the profiles obtained with 4 x - 1 . This comparison demonstrates that one-centered epimerization, k 6e , plays no kinetically important role at the temperatures and time domains studied.

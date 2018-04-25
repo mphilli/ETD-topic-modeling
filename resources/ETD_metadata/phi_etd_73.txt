@@ -1,0 +1,11 @@
+$TITLE:
+Kant, Derivative Influence, and the Metaphysics of Causality
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Causality, Cause, Derivative Influence, Dogmatic Slumber, Hume, Kant
+
+$ABSTRACT:
+Kant tells us in the Prolegomena's autobiographical note that Hume interrupted his dogmatic slumber. This declaration has traditionally dictated the interpretive limits of Kant's causal theory. That dogmatic slumber has been largely misunderstood, and as a result, so has Kant's metaphysics of causality. The pre-critical Kant was not exposed to Hume's skepticism of necessary connection precisely because he too subscribed to a theory in which substances are not necessarily connected. Instead, Kant's enduring metaphysics of causality, which Kant refers to as `Derivative Influence' or `Generally Established Harmony,' remained largely intact even through his Copernican revolution. This thesis traces the elements of Kant's enduring metaphysics of cause from his pre-critical work to the Critique. It also covers Kant's actual slumber which consisted in his not having a viable, ready-to-hand answer to explain to Hume how we have access to the causal concept. To overcome the impasse and to give a viable account, Kant endeavors to relocate the causal schema, formally thought of as being in the mind of God, to the finite mind. The previously overlooked elements of Kant's causal metaphysics give insight into Kant's treatment of causality in the Second and Third Analogies of Experience. There, Kant looks to sustain Newtonian arguments while also explaining how independent existents gain co-existence with other existents.

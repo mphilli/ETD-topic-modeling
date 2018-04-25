@@ -1,0 +1,11 @@
+$TITLE:
+A Stochastic Dynamic Programming Approach to Investment Decisions for Productive Capacity in Continuous Operation Systems
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+facility planning, operations, management, continuous operations
+
+$ABSTRACT:
+This study presents a stochastic dynamic programming approach to facility size planning, which can be used by the management of a continuous operation system for scheduling the size and timing of investments in facilities. The total cost (outflows) minimizing schedule is sought for a long planning horizon, or for an unbounded (infinite) period of time, under assumed stationarity conditions. The models developed in this dissertation are appropriate for systems operating in restricted markets, regulated by government controls, and committed to demand satisfaction.The approach described in this study cannot be used for facility size planning in intermittent operation systems. The large variety of products turned out by such systems, the high diversification of equipment used, and the frequent changes of the product mix preclude the application of the techniques presented in this study to capacity planning in intermittent systems. In most cases, a continuous system also involves certain intermittent operations, often integrated with the continuous ones. The models discussed in this dissertation are appropriate in such cases, provided that the operations are well defined and the final output is standardized.

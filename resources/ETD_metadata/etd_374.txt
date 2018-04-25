@@ -1,0 +1,11 @@
+$TITLE:
+Soft Reversible Actuator based on Shape Memory Polymer
+
+$DEPARTMENT:
+Biomedical and Chemical Engineering
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+My research employs two shape memory polymer based approaches to develop thermally-triggered soft reversible actuators. Our approaches throughout this thesis aim at developing soft actuators with both simple and complex geometries that have the spatial control over actuation shapes, which makes them desirable for a broad range of applications.In this thesis, we employed a porous poly (caprolactone) (PCL) shape memory polymer foam infiltrated with PDMS elastomeric matrix to fabricate the actuators. Thermal/mechanical characterizations were used to demonstrate good thermal properties and thermomechanical behavior of materials and composites. Scanning electron microscopy was conducted to illustrate the morphology of the composite actuators and PCL foam. Thermomechanical experiments and self-actuation tests were performed to demonstrate the good reversible actuation of the composite actuators.

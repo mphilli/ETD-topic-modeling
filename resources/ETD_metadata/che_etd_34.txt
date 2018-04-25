@@ -1,0 +1,11 @@
+$TITLE:
+Basic and applied studies of blue & green proteorhodopsin
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Proteorhodopsin, Photoactive, Long-term storage
+
+$ABSTRACT:
+Low temperature UV-Vis evaluation of proteorhodopsin. Low temperature UV-Vis spectroscopy has been used to characterize the photocycle intermediates of wild type green and blue proteorhodopsins. Our data shows that in wild type green proteorhodopsin, the K, M, and N states can be trapped at low temperatures, either alone or mixed with other intermediates. The L and O state, however, cannot be identified from our data. In wild type blue proteorhodopsin, M appears at extremely low temperatures and is always mixed together with either K or N. Absorption spectra of photoproducts were calculated using Fitspectra, an in-house software package developed by Robert R. Birge developed by Robert R. Birge, et al , for manipulating spectral data.Evaluation of proteorhodopsin as a holographic material. Photodiffractive properties including diffraction efficiency, rise time, etc . of proteorhodopsin (wild type green and blue proteorhodopsin, E108Q green and blue proteorodopsin) based films in the volume holographic regime were measured. Lifetimes of the intermediates involved in the holographic recording process were calculated using the decay portion of the holographic growth curve.Characterization of an extremely long-lived photo-generated state in proteorhodopsin. A long-lived intermediate was found in wild type proteorhodopsin upon continuous illumination. The absorption spectrum of this long-lived intermediate is blue shifted and is close to that of the M state. The lifetime of this long-lived intermediate is about two hundred hours. This long-lived intermediate can be almost totally driven back to the protein resting state with blue light illumination. These collective features make it a potential candidate for long-term data storage applications.

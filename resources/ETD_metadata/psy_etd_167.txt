@@ -1,0 +1,11 @@
+$TITLE:
+The Impact of Incentives on Neuropsychological Test Performance: An Analog Study
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Assessment, Effort, Incentives, Symptom Validity
+
+$ABSTRACT:
+Concussion, also known as mild traumatic brain injury (MTBI), represents a common injury in children, young adults, and athletes in particular. High rates of malingering have been demonstrated in individuals with MTBI when faced with monetary incentives, but research is yet to explore the impact of other incentives on test performance. The present study sought to examine the rate of effort test failure, symptom report, and neuropsychological test performance in college students assigned to one of three conditions: Fake Good, Fake Bad, and No Incentive conditions. All groups were asked to simulate concussion and provided a description of the injury and common symptoms. The Fake Good group was asked to pretend to be an athlete seeking to return to play following injury. The Fake Bad group was asked to pretend to be seeking academic accommodations after injury. The No Incentive group was provided no additional information. A sample of 171 participants was randomly assigned to one of three groups. Participants completed a symptom report, brief neuropsychological battery, and symptom validity test. The results suggested that the Fake Bad and No Incentive groups showed higher symptom report, weaker neuropsychological test performance, and higher rates of effort test failure than the Fake Good group. Regardless of group, effort test failure explained a significant amount of variance in neuropsychological test performance. The implications and limitations of the current findings are discussed, in addition to future directions for study.

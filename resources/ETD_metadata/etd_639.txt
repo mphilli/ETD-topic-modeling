@@ -1,0 +1,11 @@
+$TITLE:
+Finite Generation of Ext-Algebras of Finite Dimensional Algebras and Associated Monomial Algebras
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Homological Algebra, Representation Theory
+
+$ABSTRACT:
+In this thesis, we investigate the Ext-algebra of a basic, finite dimensional $K$-algebra $A=K\mathcal{Q}/I$, where $K$ is an algebraically closed field and $\mathcal{Q}$ is a finite quiver. We denote the Ext-algebra of $A$ by $E(A)$. We denote $\bar{A}=A/A^+$ to be the direct sum of all simple modules over $A$.In the first part, we use the work of Green, Solberg, and Zacharia to construct a family of elements in $K\mathcal{Q}$, which we call $\{f_i^j\}$. These elements yield a minimal projective resolution of $\bar{A}$ over $A$. Consequently, $\{f_i^j\}$ form a dual basis of $E(A)$. In Chapter 2, we see that the subalgebra of $E(A)$ generated in degrees 0 and 1 is of the form $K\mathcal{Q}^*/I^!$ and prove the relations in $I^!$ can be directly computed using $\{f_i^j\}$. In the case $A$ is graded, we provide an alternate proof to the result of L{\"o}fwall and Priddy, namely that $A^!$ is quadratic. Then we proceed to compute the relations which generate $I^!$.  In the case $A$ is monomial, we prove that the family $\{f_i^m\}$ is exactly the set of $m$-chains used by Green and Zacharia.In the second part, we use a construction by Anick, Green, and Solberg to form a family $\{x_i^j\}$ which yields a projective resolution of $\bar{A}$, called the AGS resolution. If $A$ is a monomial algebra, we prove there are easily checked conditions for $E(A)$ to be generated in degrees 0,1, and 2. If $A$ is not necessarily monomial, we consider the case where the AGS resolution is minimal. In that situation, we look to the associated monomial algebra of $A$, found in \cite{G1} and \cite{G2}, which we denote $\Am$. We prove that if the AGS resolution is minimal and $E(\Am)$ is finitely generated, then $E(A)$ is finitely generated.

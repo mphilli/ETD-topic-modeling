@@ -1,0 +1,11 @@
+$TITLE:
+Generalizations of the B Spline Approximation and Their Applications to Geometric Problems in Computer Aided Designs
+
+$DEPARTMENT:
+Information Science and Technology
+
+$KEYWORDS:
+Computer applications, Sketchpad, Graphic design
+
+$ABSTRACT:
+Since the beginning of the 1960's, the use of graphic terminals in computer applications has proliferated steadily. The landmark development of a truly interactive graphic device is that of Sutherland's SKETCHPAD ... With the advent in computer technology, interactive graphic terminals have become more sophisticated and have been able to handle a wide variety of features and functions, such as 3-dimensional clipping, windowing, shading and hidden surface removal ... Such terminals provide more elaboration applications in all forms of computer-aided designs and they are widely used in the industries ...

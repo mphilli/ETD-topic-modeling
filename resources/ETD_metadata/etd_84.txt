@@ -1,0 +1,11 @@
+$TITLE:
+The Effect of Maternal Separation and Postnatal Oxytocin Administration on Social Recognition in Adolescent Female Mice
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Adolescent mice, Female, Maternal Separation, Oxytocin, Social Recognition
+
+$ABSTRACT:
+A vast body of literature indicates that exposing rodents to maternal separation during infancy results in long - term developmental changes in physiological, behavioral, and psychological domains.  Because several previous studies have indicated that maternal separation may be detrimental to the processing and discrimination of social cues, the primary aim of this dissertation was to determine whether separating female infant mouse pups from their mother, but not siblings, for 3 hrs daily, during the first two weeks of life, influences social recognition during adolescence (Experiment 1).  This dissertation also sought to evaluate whether postnatal administration of the oxytocin would influence social recognition or the acquisition of social odor preferences in adolescent control and maternally separated female mice (Experiment 2).  The results of Experiment 1 showed that, in contrast to control subjects, maternally separated females showed diminished habituation to repeated presentations of a familiar conspecific and significant impairments in the ability to discriminate between a previously encountered and novel mouse during the dishabituation session.  In Experiment 2, postnatal oxytocin injections did not substantially affect the expression of either social recognition behavior or social odor preferences by control-reared females during adolescence.  By contrast, postnatal oxytocin administration improved the acquisition of social odor preferences, but did not recover social recognition behavior in MS females.  The results of this dissertation suggest that altering the early social environment by means of the maternal separation procedure can disrupt the ability to recognize conspecific odor cues, which are fundamental components in establishing and maintaining social relationships later in life.

@@ -1,0 +1,11 @@
+$TITLE:
+Factors affecting student effort within a higher education credit system
+
+$DEPARTMENT:
+Instructional Design, Development and Evaluation
+
+$KEYWORDS:
+Curricula, Teaching, Educational software, Higher education
+
+$ABSTRACT:
+Purpose and method. The purpose of this study was to better understand student study effort (in terms of number of clock hours students spend in private study and in class) and to describe the relationships between it and selected factors that influence it. These factors were (a) student characteristics, (b) teacher characteristics, (c) course-related characteristics, and (d) study environment.Fifteen courses from five different schools in an Institute of Teacher Training in Indonesia were chosen through a cluster sampling procedure. The 15 courses were required courses for majors in the students' chosen field of study. Each course was a lecture-type course and was offered for three credits. Of the 303 questionnaires completed by students attending the courses, 282 (93.40%) were usable. Each of the 15 professors teaching these particular courses was also asked to complete questionnaires especially designed for them.The data were recorded and processed by means of the SAS software package. Correlation coefficients were used to test for relationships between student effort and the four influencing factors. A stepwise regression analysis was applied to study the nature as well as the magnitude of the effect of the factors on student effort.Results of the study. (1) Except in the School of Education, most students tended to spend more study hours than were mandated by the government, allocated in the curriculum, or estimate by professors. (2) In most cases, the allocation of course credits did not proportionately reflect the number of study hours spent by students. (3) Student effort was related to and influenced by several variables and these variables differed from school to school. This implies that each school had its own set of unique characteristics. (4) The general rule currently applied to determine students' academic workload was apparently too general and crude and therefore its credibility needs to be questioned.

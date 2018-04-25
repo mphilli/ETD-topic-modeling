@@ -1,0 +1,11 @@
+$TITLE:
+Essays on taxation, self-employment, and housing
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Housing, Taxation, Self-employment
+
+$ABSTRACT:
+This dissertation consists of three essays in public and labor economics. In the first two, I examine individual data on transitions into self-employment. Essay I examines whether or not the U.S. tax system discourages individuals from starting new businesses, and Essay II considers the effect of a self-employed husband on the transition decisions of married women. Finally, Essay III presents a dynamic simulation model of the impact of tax reform--specifically, of a Flat Tax--on owner-occupied housing values.In the first, I estimate random effects probits of whether or not a male wage worker makes a transition into self-employment, controlling for a variety of individual, household, occupational, and regional characteristics. Unique to this study is the use of individual-specific differences in wage-and-salary and self-employment tax rates. Empirical results show that differential taxation has significant effects on the probability of becoming self-employed. Lower average tax rates in self-employment increase the probability of entry, while lower marginal tax rates in self-employment decrease the probability.The focus in the second essay is on the effect of a husband's self-employment experience. Results show that having a husband with experience in self-employment nearly doubles the probability that a woman will start her own business. The effect is found to be strongest if the husband is actually self-employed at the time the wife is contemplating a transition. A series of robustness checks suggest that family businesses and assortative mating only partially explain this large effect. Intrahousehold human capital transfers might also play a role.The third essay is co-authored by Douglas Holtz-Eakin. In it, we estimate the effects of a Flat Tax on owner-occupied housing, being careful to disentangle the transitional adjustments from long-run steady-state outcomes. Simulation results using plausible parameter values indicate that such a reform would not have devastating effects on housing values. This divergence is attributed to the business-side tax on new housing, which would make existing housing relatively tax advantaged in the immediate term.

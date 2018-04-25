@@ -1,0 +1,11 @@
+$TITLE:
+Image analysis methods based on Markov random field models
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Image analysis, Markov random field, Stochastic optimization, Clutter
+
+$ABSTRACT:
+This dissertation investigates the use of Markov random field (MRF) models to several data analysis problems including image change detection, statistical characterization of clutter scenes and spatial enhancement via image fusion. The objective of the image change detection problem is to identify changed pixels by comparing two images taken at two different times, and declare a pixel as a changed pixel if the types of material that occupy the corresponding area in the two scenes are different. By employing the MRF to model both the change image as well as the noiseless image, our image change detection algorithm is able to achieve more accurate results than other algorithms. The objective of the statistical characterization of clutter scenes is to partition it into homogeneous regions, identify the clutter type associated with each region, and determine its corresponding probability density function (PDF) dominating a pixel of interest. The MRF is employed to model the clutter scene. Our results illustrate the high accuracy of our algorithm not only in the partitioning of the clutter scene, but also in the approximation and estimation of the associated PDFs and their parameters. Unlike the previous two problems, the goal of spatial enhancement via image fusion is to produce a high resolution image that contains information vital to users. Here, we only consider the case of fusing two images of different modalities. The Gaussian MRF model is employed to model the fused image. In the illustrative examples, we observe significant improvement in terms of spatial resolution of a fused image over original images.

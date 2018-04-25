@@ -1,0 +1,11 @@
+$TITLE:
+Conventional and non-conventional synthesis of some oxovanadium phosphonate and phosphate clusters
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+vanadium organophosphonates, chemistry
+
+$ABSTRACT:
+A number of vanadium-organophosphonates/phosphate clusters were synthesized using conventional and solvothermal chemical methods. The nuclearity of these compounds range from the prototypical binuclear (VOCl$\rm(H\sb2O)(C\sb6H\sb5PO\sb3H)\rbrack\sb2$ species, compounds of intermediate nuclearities like the tetranuclear $\rm\lbrack(VO)\sb4\{C\sb6H\sb5P(O)\sb2OP(O)\sb2C\sb6H\sb5\}\sb4 \subset Cl\sb4\rbrack\sp-$ and the hexanuclear $\rm\lbrack(VO)\sb6$(t-$\rm C\sb4H\sb9PO\sb3)\sb8\subset Cl\rbrack,$ to the super cluster $\rm\lbrack V\sb{18}O\sb{25}(C\sb6H\sb5PO\sb3)\sb{20}\subset Cl\sb4\rbrack\sp{4-}.$ In both conventionally and non-conventionally synthesized compounds, the concepts of template-directed structural formation and self-assembly of prototypical fragments into larger clusters are apparent. And, even with the disparate energetics involved in the reaction chemistries of the two synthetic methods, the products from these two methods show some distinct similarities. The structural similarities between these compounds provide insights into the reaction and structural mechanics involved in product formation from simple monomeric oxovanadium halide precursors to the final clusters. Some reasonable speculation on the structures of the possible intermediates are also provided. Solvothermal synthetic methods also illustrate a novel metal and solvent mediated ligand chemistry.

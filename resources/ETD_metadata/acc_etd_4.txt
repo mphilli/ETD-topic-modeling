@@ -1,0 +1,11 @@
+$TITLE:
+Fair value measurements and earnings management: evidence from the banking industry
+
+$DEPARTMENT:
+Accounting
+
+$KEYWORDS:
+discretionary loan loss provisions, discretionary security gains and losses, earnings management, fair value measurements, SFAS 157, SFAS 159
+
+$ABSTRACT:
+I examine the association between fair value measurements and bank earnings management using financial data for a sample of U.S. bank holding companies from 2009 to 2012. I follow the methodology in Beatty et al. (2002) and find that banks reporting higher recurring basis fair values, especially level 2 fair values and banks reporting increased fair values are more likely to report small earnings increases both in the current year and one-year ahead after controlling for discretionary loan loss provisions, discretionary security gains and losses, and other bank-specific characteristics. By decomposing the fair values into different types, I find that the positive association between fair value measurements and earnings management is primarily driven by available-for-sale assets. This relation can be found in both public banks and private banks. I also distinguish upward earnings management from downward earnings management and find that level 2 fair values are positively associated with upward earnings management and with downward earnings management via discretionary security gains and losses. By examining the relation between earnings volatility and fair value measurements, I find that banks recognizing more level 2 fair value assets and liabilities report smoother earnings over the time

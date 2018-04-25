@@ -1,0 +1,11 @@
+$TITLE:
+Face selectivity in the dihydropyrone Diels-Alder reaction and studies toward the total synthesis of phomactin A
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Face selectivity, Dihydropyrone, Diels-Alder reaction, Phomactin
+
+$ABSTRACT:
+1-Oxadecalin containing natural products have attracted the attention of synthetic organic chemists due to the unique biological activity they display. Of the many approaches used to make these subunits, the dihydropyrone Diels-Alder reaction has proven to be a rapidly efficient method. However, the issue of face selectivity in the reaction has remained unaddressed until now.Three approaches were used to control the face selectivity. Intial studies using a silane linker between the diene and dienophile failed to due to acid labile nature of the substrates. The use of various substituents at the C2 stereocenter produced mainly low levels of selectivity with the exception of carbonyl and trifluromethane groups. Incorporation of a substituent at the C3 position was also done using OAc, Me, Cl, OMe, and OBn functionalities. Initial studies showed the OAc, Me, and Cl groups were capable of controlling face selectivity. Further investigation revealed that only the OAc and Me groups were fully capable of this control in the dihydropyrone Diels-Alder reaction.Phomactin A is a diterpene isolated from the marine fungus phoma sp. (SANK 11486) targeted for synthesis by our group. The 1-oxadecalin core was successfully formed using the dihydropyrone Diels-Alder reaction. Initial attempts form the C6 quaternary stereocenter proved to be difficult. However, formation of this stereocenter was successfully done using a model study using the C7 desmethyl analog, albeit in low yield. Attempts to prepare the vinyl iodide necessary resulted in reduction of the alkyne to the cis -olefin. Additional approaches to prepare the 12-membered macrocycle using an appropriate side chain at C6 were made. The Suzuki and Negeshi cross couplings proved unreliable to incorporate the C6 side chain, while an aldol reaction proved successful in attaching the necessary side chain. The 12-membered macrocycle was not formed under the reaction conditions used. The use of an intramolecular alkylation to furnish the macrocycle was also done.

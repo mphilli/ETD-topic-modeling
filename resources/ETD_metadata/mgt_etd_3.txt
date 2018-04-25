@@ -1,0 +1,11 @@
+$TITLE:
+Banking crisis in a liberalizing developing economy
+
+$DEPARTMENT:
+Management
+
+$KEYWORDS:
+Liberalizing, Banking crisis, Developing economy
+
+$ABSTRACT:
+The last twenty years have witnessed an unprecedented increase in the incidence of financial crisis in developing economies. A number of these economies have experienced crisis during the course of a broader program of economic reforms. This dissertation inquires into the causes and effects of financial crisis. We focus on the role of banks, the dominant institutions in the financial sector. The macroeconomic framework is spelled out in a critique of the linkages between stabilization policies and micro-level structural reforms. The impact on the behavior of individual agents is considered. Next we consider three propositions on macroeconomic stability. The macro data is tested for cointegration to provide a broad indication of structural change during the liberalization program. Tests of stability of the money demand function provide insights into the extent of asset substitution. Secondly a credit demand function is tested to examine if conditions of financial fragility were created by a surge in lending following financial reforms. The third test draws upon a simple model of interest rate determination in an open economy to analyze the causes of persistently high interest rates. These three hypothesis coupled with secondary evidence on the consequences of financial liberalization, enable us to construct a taxonomy of a banking crisis in a developing economy. The results provide some useful insights into the evolution of a financial crisis.

@@ -1,0 +1,11 @@
+$TITLE:
+An examination of the emergence, development and current state of urban land use theory
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+urban land use
+
+$ABSTRACT:
+The traditional theories of uran land use were promulgated in social, economic and political environments markedly different from those of today.  The then-existent social philosophy was that of laissez-faire.  Collective action (particularly on the part of government) to control land use was minimal.More recently, however, numberous kinds of collective action have come to play an important role in the determination of urban land use...The changed circumstances under which urban land use is contolled and determined raises questions as to the operational adequacy and empirical relevancy of the traditional theories of urban land use...

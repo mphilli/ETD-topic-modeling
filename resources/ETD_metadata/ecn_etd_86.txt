@@ -1,0 +1,11 @@
+$TITLE:
+Three essays in public economics
+
+$DEPARTMENT:
+
+
+$KEYWORDS:
+Public economics, Tax, Incidence, Tobacco, Cigarette, Fertility, Subsidy
+
+$ABSTRACT:
+The first chapter of this dissertation uses new data collected by the author on cigarette taxation in 443 municipalities from 1990 to 2009. These data are combined with state-level price and tax information to measure the relative effects of state and local taxes on cigarette prices. The results suggest that a $1 increase in the state excise cigarette tax increases cigarette prices by $1.10 to $1.13, but that a $1 increase in city or county-level excise taxes has a significantly smaller positive effect on prices of $1.06. These findings are similar between premium and generic cigarette brands.The second chapter uses a recent increase in Wisconsin's tobacco tax as a natural experiment to measure the economic incidence of tobacco taxation, using micro-level data on cigarette prices from retail locations in Wisconsin and states that share its border. We find that Wisconsin's $1.00 tobacco tax increase was over-shifted to consumers; they pay the entire amount of the tax as well as a premium of between $0.08-0.17 per pack of cigarettes. We also use geo-coded data to test if the incidence of the tobacco tax is different for locations near the border of states with different tobacco taxation.The third chapter examines the effects of a fertility subsidy that was instituted in specific regions in Korea in 2004. The value of the subsidy ranged from $4,000 to $9,000 (2004 US$) depending on area of residence. Using a difference-in-differences estimation strategy, we measure the effects of the policy on migration in and out of subsidized areas, childbearing, and the sex ratio of newborns. Our estimates for migration suggest that the policy significantly increased the net inflow of females into subsidized areas. This effect is driven roughly equally by a decrease in the outflow from and an increase into the subsidized areas. Our estimated effects on fertility are in line with previous results from the literature; we find that a $1,000 increase in fertility subsidies leads to a 0.108% increase in the chance of bearing a child for all age groups (21 to 45), and that the policy increased total births in 2005 by 11,000. We find no effect of the subsidies on the sex ratio of children.

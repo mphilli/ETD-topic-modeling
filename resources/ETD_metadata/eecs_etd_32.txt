@@ -1,0 +1,11 @@
+$TITLE:
+Automatic synthesis of CMOS ring oscillators
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Automatic synthesis, CMOS, Ring oscillators, Phase noise
+
+$ABSTRACT:
+In general, the design process of analog and mixed-signal circuits is considered more challenging than designing digital circuits. Complex performance metrics and design constrains have to be taken into account while synthesizing analog and mixed-signal circuits. Moreover, the nonlinearity of the circuits and presence of noise also make the designing process of analog circuits more complex than their digital counterparts. On the other hand, while Computer Automated Design (CAD) tools for digital circuits have reached high level of maturity; CAD tools for analog circuits are still in their early stage of development. Therefore, better tools are needed for design of analog and mixed-signal circuits. In particular, developing synthesis tools for Radio Frequency (RF) circuits are even more challenging due to the extremely high frequency of operation and their sensitivity to noise. In this work, we develop a methodology for automatically synthesizing CMOS ring oscillators and Voltage Controlled Oscillators (VCOs). We analyze the phase noise in CMOS ring oscillators and enumerate the parameters that affect phase noise in CMOS ring oscillators. A Genetic Algorithm (GA) is used in the synthesis process to find near optimal solutions in reasonable time. With the developed synthesis methodology, we minimize the effect of phase noise while optimizing other key design constraints, such as frequency and power in CMOS ring oscillators.

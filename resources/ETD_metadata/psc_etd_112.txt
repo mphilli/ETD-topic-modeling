@@ -1,0 +1,11 @@
+$TITLE:
+The Risks of Outsourcing Security: Foreign Security Forces in United States National Security Policy
+
+$DEPARTMENT:
+Political Science
+
+$KEYWORDS:
+Constructivism, IR Theory, U.S. diplomatic history, U.S. foreign policy, U.S. national security policy
+
+$ABSTRACT:
+This study combines insights from international relations, diplomatic history, and civil-military relations to improve our understanding of the tenuous arrangement between the United States and its foreign military proxies. For over a century, the U.S. has armed and trained these proxies to assume responsibilities that its own military might otherwise have to bear. But throughout that time, critics have doubted whether the U.S. could or should delegate sensitive security responsibilities to "dubious" foreign soldiers. Such doubt highlights an international analog to the principal-agent problem normally associated with domestic civil-military relations. I examine why this international principal-agent problem arose, how it has evolved over the past century, and how this evolution has shifted the U.S.'s approach to bringing its foreign agents in line with its strategic objectives. From extensive archival research, I find that variation in this approach stems from changes in how the U.S., as the principal, has understood and characterized its security agents. To make sense of this finding, I advance constructivist principal-agent theory. This theory 1) reveals how the principal's evolving perception of its agent defines different bases of the principal-agent problem and 2) shows how each of these bases specifies particular policies--from among all those available--for mitigating that problem.

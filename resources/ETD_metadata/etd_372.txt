@@ -1,0 +1,11 @@
+$TITLE:
+Effects of Ultrasound as Visual Feedback of the Tongue on Generalization, Retention, and Acquisition in Speech Therapy for Rhotics
+
+$DEPARTMENT:
+Communication Sciences and Disorders
+
+$KEYWORDS:
+speech sound disorders, ultrasound treatment, visual feedback
+
+$ABSTRACT:
+Purpose:  The purpose of this study was to provide an initial comparison of exposure to ultrasound visual feedback of the tongue and no exposure to ultrasound in speech therapy for postvocalic rhotics (the /r/ family of sounds).  Effects of the two treatments on acquisition, retention, and generalization were explored in participants ages 7-9.Methods:  A single-subject randomized block design replicated across four participants was used.  Each week for seven weeks, one session containing high frequency ultrasound use and one session containing no ultrasound use were randomly ordered.  A Training Probe List and Generalization Probe List consisting of monosyllabic words, multisyllabic words, phrases, and short sentences were used to measure acquisition within each session as well as retention and generalization between two consecutive sessions.  Data analyses included: (a) descriptive statistics to complement visual inspections of single-subject graphs, (b) effect size calculation, and (c) statistical results from a randomization test.Results: One participant showed a significant advantage for ultrasound sessions over no ultrasound sessions in acquisition scores; however, there were no differences between treatment conditions for any participants in generalization or retention.Conclusion: For some children, acquisition may be facilitated by ultrasound visual feedback.  No evidence suggested that ultrasound visual feedback inhibited retention or generalization in speech tasks.  As a whole, treatment was effective for 2 of the 4 participants when comparing pre/post generalization data.  Future studies should focus on evaluating the effectiveness of ultrasound visual feedback therapy given a larger dose (i.e., treatment duration) and differing age groups.

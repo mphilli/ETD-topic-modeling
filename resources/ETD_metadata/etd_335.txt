@@ -1,0 +1,11 @@
+$TITLE:
+Human-Managed vs. Natural Grazing Systems: Exploring Effects of Livestock and Wildlife Grazing at Multiple Scales
+
+$DEPARTMENT:
+Biology
+
+$KEYWORDS:
+grazers, grazing, herder decision making, livestock, plant community composition, soil carbon
+
+$ABSTRACT:
+Grazing by large herbivores is the most prevalent land use on grassland ecosystems, which cover greater than 40% of the earth's land surface and provide critical ecological and economic benefits. As such, understanding how grazing impacts different aspects of the ecosystem is of especially great importance. This study uses a range of approaches to explore the potentially contrasting effects of grazing across human-managed, livestock-grazed systems and natural, wildlife-grazed systems. The first chapter uses a short-term, small-scale approach in assessing differences across management type in plant community composition following a relaxation of grazing. Results reveal that livestock and wildlife grazers may not be functionally different, but rather exhibit different effects due to the way they are managed (free-ranging vs. herded, etc. which affects grazing pressure and its spatial and temporal distribution). The second study explores how herders make livestock movement decisions and reveals that while individual variation in herd movement decisions is related to factors such as herd size, purpose for keeping livestock, and number of herders, the chief drivers influencing herd movement seem to be limited available grazing space and a lack of options. The third study uncovers global patterns regarding environmental and other influences on grazer effects on soil carbon storage. And finally, the last chapter synthesizes these results and suggests recommendations for policy and management.  These results have implications for rangeland and wildlife management as well as future ecological studies.

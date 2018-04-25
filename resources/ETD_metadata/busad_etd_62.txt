@@ -1,0 +1,11 @@
+$TITLE:
+Finite element analysis and option pricing
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+variational functional, finite element method, options pricing, finance
+
+$ABSTRACT:
+In many instances closed form solutions to option pricing problems are not possible. In these cases numerical techniques provide one useful way to estimate the solution. One method that has gained popularity in engineering and mathematics is the finite element method (FEM). The finite element method is a discretization method which attempts to estimate values for an unknown function which satisfies a differential equation or partial differential equation. The values of the function are estimated at discrete points (nodes) over the domain (or subset of the domain) of the problem. In the finite element method, the partial differential equation or strong form itself is not estimated as with the finite difference method. Instead, the set of differential equations in terms of unknown variables is replaced with a related but approximate set of algebraic equations where the unknown variables are evaluated at nodal points. Most often an equivalent integral formulation of the differential equation or weak form (known as a variational functional or variational formulation) is used in the estimation.In this study the finite element method is presented and applied to the pricing of options, using the variational functional form of the option pricing differential equations. Both European and American option prices are obtained for standard options and knock-out barrier options. Also, as an illustration of pricing where there are two stochastic variables, the FEM formulation for options on futures spreads is derived. Two families of elements are described, Lagrange/Serendipity elements and Hermite elements. Several examples of each are derived and employed in pricing examples, and a discussion of stability and convergence is provided.Unlike other popular lattice models the solution is provided over the entire domain defined, not just at the nodes. In addition the method easily provides accurate estimates of the option's delta and gamma, and this is illustrated with the pricing examples. Many parts of the finite element method share the same basic steps, and therefore modifications for alternative problems can be easily and quickly incorporated.

@@ -1,0 +1,11 @@
+$TITLE:
+Test-taking behavior in college students with and without Attention-Deficit/Hyperactivity Disorder
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Test-taking behavior, High-stakes testing, Attention deficit hyperactivity disorder, Accommodations, Reading comprehension, College students
+
+$ABSTRACT:
+Students with ADHD often request and receive extended time to complete high-stakes tests throughout their educational careers. However, there has been no research documenting actual differences in how students with and without ADHD behave and perform while taking high-stakes tests, or demonstrating that ADHD students approach reading tests differently than those without the disorder. This study examined the test-taking performances and behaviors of college students on a set of tasks, including reading comprehension. Thirty-five college students with ADHD were compared to 185 typical peers on computerized measures of reading decoding, speed, vocabulary, comprehension, test strategies, time management, and test anxiety. Results indicated no differences between students with and without ADHD on various reading (decoding, speed, vocabulary, and comprehension), and test-taking variables (time utilization and navigation style), yet significant differences were present regarding their perceptions of, and anxiety during, test-taking. Vocabulary score, decoding score, and total time spent on the passages were the strongest predictors of comprehension performance, respectively. In addition, the "best" comprehension test performers, relative to the "weakest," tended to read faster, decode better, have stronger vocabularies, spend less time on the passages, more time on the questions, and make more switches between the various test sections. Implications from this study for future research are discussed.

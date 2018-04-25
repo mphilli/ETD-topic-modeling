@@ -1,0 +1,11 @@
+$TITLE:
+An infinite server queueing model for software readiness assessment and related performance measures
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Electrical engineering, Systems design, Operations research
+
+$ABSTRACT:
+The aim of this work is to develop mathematical techniques for modeling and evaluating the fault detection and removal processes during software testing. An infinite server queueing (ISQ) model which permits a joint study of these two processes is proposed. The arrival process, which corresponds to the fault detection process, is assumed to be a non-homogeneous Poisson process (NHPP) with bounded mean value function. The service time is assumed to be general. It is proved that under general conditions the departure process, which corresponds to the fault removal process, is a superposition of an NHPP and a generalized De-Eutrophication process. Based on this result, distribution functions and expectations for several performance measures are derived. A new method based on the Laplace trend statistic is developed to estimate the parameters of the NHPP arrival process. Three different methods for estimating the parameters of service time from fault count data are also investigated.Expressions for the operational reliability of software are derived by considering failures due to both the undetected and detected but unresolved faults. Other measures such as mean time to next failure and number of faults to be encountered by users are also derived based on the ISQ model. These results are then used to determine release time.Extensions of the ISQ model are studied by assuming that the fault detection and removal rates can be changed by increasing or decreasing the corresponding efforts. An analytical framework is provided for studying the interdependencies among reliability, cost, resources and schedule. Fault detection and removal data from a large Air Force system are analyzed throughout the dissertation to illustrate the usefulness and applicability of the new results.The ISQ model not only provides a more realistic model for evaluating software reliability and other related measures, it also provides a rich analytical framework for readiness assessment, decision making and tradeoff analyses.

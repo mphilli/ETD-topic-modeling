@@ -1,0 +1,11 @@
+$TITLE:
+Practicist epistemology and the social dimension
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+Social epistemology, Rationality, Epistemology, Donald Davidson, Realism, Lynn Hankinson Nelson
+
+$ABSTRACT:
+In this work, I develop a more socially informed practicist epistemology by critically appropriating three distinct kinds of social epistemologies: the 'Strong Programme' of the sociology of knowledge, Lynn Hankinson Nelson's communitarian epistemology, and Donald Davidson's social externalist epistemology. 'Practicist' epistemology is an epistemology that recognizes the actuality of our epistemic practices and develops theories of knowledge and rationality based upon them - not in spite of them. Many practicist epistemologists acknowledge that there is a deep connection between epistemic practices and society, but there has not been much said on the exact nature of that connection. In my work here, I expand a basic version of a practicist epistemology along the themes of rationality and realism to show the various imports of the social dimension.Through the critical appropriation of the three social epistemologies, I create an ecological model of epistemology because I include the social and natural environments of people in their practices. I incorporate the social constitution and maintenance of rational norms, the social nature of evidence, the interpersonal character of epistemic contexts, and the non-human natural world as necessary features of epistemic practices. Because I focus on ecological contexts, my epistemology is pluralistic. However, I argue that this does not mean giving up on robust senses of objectivity and the concept of truth. To the contrary, I argue that we must accept the metaphysics of commonsense realism where we take that (1) objects, properties, and relations exist independently from the beliefs we have about these things and the languages and concepts we use to describe them, and (2) we are able to have epistemic access to these objects, properties, and relations; many of our beliefs about these things are true.

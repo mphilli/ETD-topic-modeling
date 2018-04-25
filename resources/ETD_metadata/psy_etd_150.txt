@@ -1,0 +1,11 @@
+$TITLE:
+Efficacy of a computerized stress management training program for HIV+ women
+
+$DEPARTMENT:
+Biomedical and Chemical Engineering
+
+$KEYWORDS:
+HIV, Stress management, Computerized intervention, HIV-positive women, Coping, Psychology functioning
+
+$ABSTRACT:
+The overarching goal of this research was to develop and pilot test a brief, computer-administered stress management training program for HIV-positive women. First, focus groups were conducted with HIV-positive women (  N  = 29) to assist in the development of intervention content and format. A brief, interactive, computerized, educational stress management intervention was designed based on the formative research, past empirical studies of stress and coping interventions with HIV-positive individuals, and Lazarus and Folkman's Transactional Model of Stress and Coping. The intervention was then implemented in a sample of HIV-positive female outpatients ( N = 60) to provide preliminary data regarding the feasibility, acceptability, and efficacy of the program. Participants were randomly assigned to either an immediate intervention ( n  = 30) or time-lagged intervention control ( n = 30) group. Results indicated that this was a feasible and acceptable stress management intervention approach. Compared to the delayed treatment control group, intervention recipients reported greater knowledge of stress management coping skills. However, psychological distress, perceived stress, and coping self-efficacy did not differ between the immediate and delayed control intervention groups. Findings provide evidence of intervention feasibility and acceptability and suggest that our brief intervention can be successful in improving knowledge of stress management skills. A sufficiently powered RCT is needed to test the impact of our intervention on coping self-efficacy and psychological functioning outcomes.

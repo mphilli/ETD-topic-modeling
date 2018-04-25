@@ -1,0 +1,11 @@
+$TITLE:
+Experimental and theoretical measurements of vibrational circular dichroism and instrumental development of Raman optical activity
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Vibrational circular dichroism, Raman optical activity, Ketoconazole, Itraconazole, Miconazole
+
+$ABSTRACT:
+Vibrational optical activity (VOA) spectroscopies are employed to probe molecular structure. Vibrational circular dichroism (VCD) measurements in conjunction with computational modeling are used to determine absolute configurations of three different fungicides. The reported configuration of (+)-ketoconazole is confirmed to be (2 R ,4 S ) and the absolute configuration of (+)-itraconazole assigned to be (2 R ,4 S ) and (+)-miconazole to be ( S ). In addition, VCD measurements and computational modeling provide insight into the mechanism of VCD intensity enhancement for ligand-bound metalloproteins containing open shell metals. VCD measurements identify heme modes being enhanced for azide- and cyanide-bound metmyoglobins with open-shell iron(III) centers. DFT calculations of six heme models using the LanL2DZ and Wachters+f basis sets demonstrate the importance of the chiral environment of the heme in addition to an open shell iron(III) species in the generation of larger anisotropy ratios of ligand stretches and VCD intensity enhanced vibrations below 1500 cm -1 .The advanced spectroscopies used to obtain spectral data display performance levels of current instrumentation. Data obtained in VCD measurements of the proteins myoglobin, albumin, lysozyme and concanavalin A, show a new level of spectral quality in FT-VCD measurements. The VCD spectra obtained display a high signal-to-noise ratio and can be used to identify protein structure at a quantitative level. Raman optical activity (ROA) measurements demonstrate the limitations of current instrumentation in the acquisition of spectra of the proteins albumin and lysozyme. Spectra obtained demonstrate the problem of fluorescence in current DCP I ROA measurements.

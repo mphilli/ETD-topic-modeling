@@ -1,0 +1,11 @@
+$TITLE:
+DEVELOPMENT OF A “2-D” TEST SYSTEM FOR VISUALIZING FRETTING CORROSION: A STUDY OF THE FRETTING CORROSION BEHAVIOR OF Co-Cr-Mo ALLOY
+
+$DEPARTMENT:
+Biomedical and Chemical Engineering
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+Fretting corrosion, one of the most common forms of mechanically-assisted corrosion (MAC), has become a major concern in orthopedic medical devices. In order to a better understand of the mechanism of fretting corrosion in orthopedic alloys and the ways to prevent implants from corroding, custom test systems need to be developed to simulate fretting corrosion in vitro and to allow visualizing of the process. This study aimed to develop a new “two dimensional” fretting crevice corrosion test system with the capacity to visualize damage progression during systematic controlled fretting corrosion processes. Another goal of the study was to experimentally verify a tribocorrosion heredity integral approach to predict abrasion-current-impedance-voltage relationships by systematic variation of fretting frequency and area. The results of Open Circuit Potential (OCP) tests, fretting current tests and visualization of fretting showed this device could achieve the basic requirement for triboelectrochemical testing and also provided direct evidence of debris generation during fretting corrosion. The fretting region was surrounded by a halo of fretting debris after removal from the solution. One possible explanation for this phenomenon could be the redeposition of fretting product. It was also found that higher fretting frequency and smaller second electrode areas lead to larger and faster voltage drops during abrasion. This is because the smaller area of the second electrode resulted in less surface area for electrons to be reduced. Higher frequency abrasion also resulted in higher film currents and faster electron generation rate which would cause more electrons accumulating at the working electrode.

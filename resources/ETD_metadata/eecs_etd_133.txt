@@ -1,0 +1,11 @@
+$TITLE:
+Estimation of space-time parameters in non-homogeneous environments
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Space-time, Nonhomogeneous environments, Phase estimates, Gaussian noise
+
+$ABSTRACT:
+Adaptive array processing algorithms have received much attention in the past three decades. Space-Time adaptive processing (STAP) works with both spatial and temporal degrees of freedom to estimate signal parameters. Previous techniques have focused on statistical methods based on estimating covariance matrices. However, the estimates are often inaccurate or inapplicable especially in dynamic environments. A novel technique is proposed to simultaneously estimate phase and amplitude (SEPA) of narrow band signals in highly non-homogeneous environments. A geometric interpretation of SEPA as a minimum norm operator is presented and two specific norms are investigated. It is shown for complex additive white Gaussian noise (CAWGN), the estimates are efficient for an equivalent array of half the original length.Signal cancellation is also a serious problem in adaptive nulling. The processor steers to a predefined look angle and Doppler. If the steering vector is slightly off the desired point, the processor will consider the target to be a jammer and null it out. This thesis considers two alternative approaches to adding look direction constraints to a deterministic eigenvalue approach to prevent signal cancellation. Results from real data are presented to demonstrate the efficacy of the algorithm. A convolution method is introduced to increase the degrees of freedom as well.

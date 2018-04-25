@@ -1,0 +1,11 @@
+$TITLE:
+Optical switching and memory using tungsten oxide
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Photochromic, Electrochromic, Optical switching, Tungsten oxide, Optical memory
+
+$ABSTRACT:
+In order to develop optical switches for optical computing, we searched for a candidate optically nonlinear material system that could be optimized for use in the fabrication of a nonlinear interface optical switch (NIOS). We chose thin films of tungsten oxide clusters. While experimentally verifying the optical nonlinearity of tungsten oxide cluster films, we discovered a latching color transition of WO 3 powder from yellow to blue using two wavelengths of light, one blue-green and one infrared. We then experimentally verified the yellow to blue color transition and determined how to recover the yellow state from the blue state using a single infrared wavelength. We used this knowledge to develop a photochromic optical memory system. We explored the optical power dependence of the photochromic process. These studies led us to believe that the writing process involves electronic transitions due to the blue-green wavelength and thermal softening of the lattice due to the infrared wavelength. This leads to reduction of the yellow media during the subsequent cooling into a substoichiometric blue state. This change of state is a latching process, as the blue state remains until it is erased. The erase process involves heating of the medium in contact with O 2 or some other oxidant to return it to the thermodynamic ground state of the tungsten-oxygen system, yellow WO 3 . The NIOS concept was then combined with the results of our new understanding of the photochromism of tungsten oxide to produce latching optical switches.

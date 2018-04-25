@@ -1,0 +1,11 @@
+$TITLE:
+DNA-Mediated Nanoparticle Clustering: Exploring the Role of Size Ratio and DNA Hybridization Energy
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+Understanding the fundamental principles behind biomemetic nanoparticle self- assembly has been under intense focus in chemistry, physics and materials science for fabrication of discrete 3-D structures. One route includes the use of DNA-mediated interactions between nanomaterial interfaces. Nanomaterials such as quantum dots, quantum rods and metal nanoparticles (NPs) can be encoded by DNA sequences and used to assemble a variety of nano-sized architectures. This work, presents a detailed study between DNA-functionalized gold nanoparticles (AuNPs) to produce discrete nanoparticle clusters. AuNPs of 5-50 nm were assembled after manipulating interparticle energetics by changing DNA coverage, length, rigidity and sequence as well as nanoparticle size. Implementation of a ssDNA linker changed the hybridization energy and allowed for tunability in self-assembly kinetics. The work demonstrates that controllable cluster assembly is achievable with a 6 base DNA linker and a decreased assembly temperature. Discrete clustering was observed, revealing assemblies of different size, shape and morphology. Isolation of these AuNP clusters was investigated through the use of gradient ultracentrifugation. Finally, cluster control was extended by utilizing thermoresponsive polymers (p) in addition to DNA, to modify NPs of various morphologies (AuNPs, AuNCs and Au-Pd/Pd). The regulation behavior of the p was considered in light of both the thermal denaturation temperature of DNA and the critical temperature of p, allowing a narrow window for assembly to occur and providing insights into a smart self-assembly system.

@@ -1,0 +1,11 @@
+$TITLE:
+School segregation, social capital, and educational costs
+
+$DEPARTMENT:
+Public Administration
+
+$KEYWORDS:
+Segregation, Social capital, Costs
+
+$ABSTRACT:
+For the past three decades, the American public has wrestled with its inability to reconcile the ideal of ethnic integration with the reality of ethnically segregated neighborhoods and institutions. The complexity of "race relations" has discouraged advocates, politicians, and scholars alike from remaining vigilant in pursuit of this ideal. A major reason for the lack of vigilance in this area is that advocates can only cite "diversity" and "racial harmony" as the primary benefits of integrated schools. This study explicitly measures the minority benefit from ethnic integration in dollar terms, by developing a theoretical construct called assimilative social capital , and measuring it using the appropriate integration index. Placed within an educational cost framework, this model expresses the effect of integration in terms of the costs to educate the average minority child to attain specified levels of outcomes. The major finding is that integration lowers these costs both directly and by mitigating the influence of the educational environment. Redesigned state aid programs and prointegrative choice incentives are recommended as policy approaches that may further the multiple goals of minority educational improvement, ethnic integration, and school choice/decentralization.

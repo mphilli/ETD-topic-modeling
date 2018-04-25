@@ -1,0 +1,11 @@
+$TITLE:
+ADVANCED IMPLEMENTATIONS OF THE ITERATIVE MULTI REGION TECHNIQUE
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Finite-Difference Time-Domain Method, Hybrid Method, Iterative Method, Scattering
+
+$ABSTRACT:
+The integration of the finite-difference time-domain (FDTD) method into the iterative multi-region (IMR) technique, an iterative approach used to solve large-scale electromagnetic scattering and radiation problems, is presented in this dissertation. The idea of the IMR technique is to divide a large problem domain into smaller subregions, solve each subregion separately, and combine the solutions of subregions after introducing the effect of interaction to obtain solutions at multiple frequencies for the large domain. Solution of the subregions using the frequency domain solvers has been the preferred approach as such solutions using time domain solvers require computationally expensive bookkeeping of time signals between subregions. In this contribution we present an algorithm that makes it feasible to use the FDTD method, a time domain numerical technique, in the IMR technique to obtain solutions at a pre-specified number of frequencies in a single simulation. As a result, a considerable reduction in memory storage requirements and computation time is achieved.A hybrid method integrated into the IMR technique is also presented in this work. This hybrid method combines the desirable features of the method of moments (MoM) and the FDTD method to solve large-scale radiation problems more efficiently. The idea of this hybrid method based on the IMR technique is to divide an original problem domain into unconnected subregions and use the more appropriate method in each domain.The most prominent feature of this proposed method is to obtain solutions at multiple frequencies in a single IMR simulation by constructing time-limited waveforms. The performance of the proposed method is investigated numerically using different configurations composed of two, three, and four objects.

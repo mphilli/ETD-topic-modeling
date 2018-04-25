@@ -1,0 +1,11 @@
+$TITLE:
+Optimal robot trajectory planning using dynamic models
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Dynamic Programming, optimal Bezier cubic path
+
+$ABSTRACT:
+This dissertation presents algorithms for the solution of the robot trajectory planning problem. The strategies presented consider two planning approaches: The first is a simple approach with a simple dynamical model that avoids the complicated dynamics of an arm; the second is more sophisticated due to the consideration of the full dynamic equations of the manipulator.The first algorithm developed falls in the first class. No consideration is given to the full dynamics. Instead two time intervals are considered: TA defined as time needed to accelerate from zero to maximum velocity and TJ defined as the time needed to achieve the transition from zero to maximum acceleration. This simple algorithm is developed at the joint level considering bounds on velocity, acceleration and jerk. The simplicity of the scheme makes it an efficient minimum time on-line trajectory generator.The other algorithms developed correspond to the second class; the trajectories generated are governed by considering the complete dynamics. One algorithm considers the problem of optimizing energy while moving the arm's tip along a predefined path in Cartesian coordinates. Using time scaling techniques, the dynamic equations are mapped into the path distance thus reducing the problem into a one degree of freedom motion along the path. The problem is posed as a classical minimum fuel problem. Dynamic Programming is used to achieve the optimal torques which end up to follow the mixed unordered sequences of the control's Bang-Off-Bang policies.Another algorithm considers the problem of finding the optimal cubic Bezier path in configuration space such that the time needed for the transition is minimum. Again the complete dynamics are considered and a search strategy is proposed to find the optimal Bezier cubic path. In this algorithm time scaling is also used to simplify the dimensionality and the concept of optimizing in joint space is introduced.Simulations and examples are presented for the algorithms, whenever possible comparisons are made with related works. Finally some key ideas for future work are presented.

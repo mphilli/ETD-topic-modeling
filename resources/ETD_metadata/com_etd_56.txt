@@ -1,0 +1,11 @@
+$TITLE:
+A topology of concepts unifying design and media terminology in a computerized graphic context
+
+$DEPARTMENT:
+Mass Communications
+
+$KEYWORDS:
+Design terminology, Graphical language, Mass media, Computer science, Art education
+
+$ABSTRACT:
+The Thesis creates a model that identifies and labels graphic media variables and graphic art processes. The model is multi-axis and fuses computational as well as manual techniques. Over 100 primitive graphical variables and processes are identified and placed into this matrix.Graphical classification begins with the construction of elementary computational, graphical, and interaction concepts: dimensionality, continuous vs discrete, input vs output, and the vocabulary/components of a user-machine interaction.A 2D topology is developed which identifies additional key axes of image processing: monadic vs dyadic, local vs global, visualization vs analytic. Virtually all known manual and computational graphical variables and processes are classified into this matrix, including points, lines, pixels, as well as processes like scan conversion, type placement, and compositing. Several color models are described, including the use of table lookup, and conversions between different color models are identified. Transmissive vs reflective and hardcopy vs softcopy media are compared.Two classes of processors convert between the 2D and 3D domains: perspective and reconstruction. In the 3D domain additional classifications distinguish object construction, logical operations between objects, surface properties, lighting, and representation.The benefits of a clear theory of graphical organization lie in its predictive ability when solving problems. Thinking about manipulation replaces thinking about tasks generic to a medium, generalizing learning and migrating design to a more conceptual level. The variables of design may be manipulated in the conceptual domain--the domain of thought--in ways perhaps they are not manipulated in the manual domain. Conversely, computer system architecture may more closely parallel a natural system.

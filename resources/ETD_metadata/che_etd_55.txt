@@ -1,0 +1,11 @@
+$TITLE:
+Thermal isomerizations through [1,5]-hydrogen shifts in mono-deuterium-labeled cis,cis-1,3-cyclononadienes
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Thermal isomerizations, Hydrogen shifts, Deuterium labeling, Cyclononadienes
+
+$ABSTRACT:
+Thermal [1,5] hydrogen shifts in conjugated cycloalkadienes have been recognized isomerization reactions since the early 1960s. Recent studies of isomerizations exhibited by deuterium-labeled 1,3-cyclohexadienes, 1,3-cycloheptadienes and 1,3-cyclooctadienes have provided activation parameters for these [1,5] sigmatropic rearrangements.Activation energies for such reactions determined through experimental studies or theoretical calculations may be strongly conditioned by geometrical constraints in transition structures and by ground state conformational effects. Theory-based and experimental activation energies for the three cyclic dienes that have been investigated are in qualitative agreement, but the calculated values are higher than the observed energy barriers, by some 1.8 to 6.2 kcal/mol---a disquieting disagreement. Towards understanding these discrepancies, a specific mono-deuterium-labeled cis,cis -1,3-cyclononadiene has been synthesized and the thermal isomerizations equilibrating it with its four isomers were followed to secure log A and E a values for the hydrogen shifts involved. The kinetic experiments providing rate constants from 240°C to 287°C led to activation parameters: E a = 37.1 kcal/mol and log A = 11.6. The activation energy is in remarkable agreement with theoretically determined values. Whether variations in transition structure geometries might correlate with reactant specific tunneling effects on reaction rates and activation parameters for cis,cis -1,3-cycloalkadienes remains to be clarified.

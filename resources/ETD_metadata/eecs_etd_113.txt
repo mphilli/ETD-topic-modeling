@@ -1,0 +1,11 @@
+$TITLE:
+A neurogenetic agent system for text categorization and feature selection
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Intelligent agents, Neurogenetic, Text categorization, Feature selection
+
+$ABSTRACT:
+Text categorization is the problem of automatically assigning predefined categories to natural language texts. A major difficulty of this problem stems from the high dimensionality of its feature space, which normally consists of tens or even hundreds of thousands unique words and phrases. It would be a formidable task to train a neural net with so many inputs. Hence, reducing the dimensionality without sacrificing accuracy is of great importance for neural networks to be successfully applied to text categorization. In our research into neurogenetic algorithms, a genetic algorithm with a special crossover operator is used to search the space of all possible subsets of those words. Each 3-layer feedforward neural net is trained based on the given feature subset, and its performance is used as a factor for determining the fitness of the given candidate feature subset. The other factor being used is what we call 'parsimony,' which is the measure of how many features we have managed to 'save.' The Baldwin effect, which concerns the tradeoffs between learning and evolution, is used to guide and improve the evolution of the feature subsets. Due to the nature of this 'wrapper' approach, our system is also a complete, fully functional text categorization system. Experimental results based on the de facto benchmark data, the Reuters 22173 data set, show that its performance can surpass the neural-net based systems, while using much fewer features. Most recent research in machine learning relies more on the wrapper approach rather than the filter approach, our neurogenetic approach can be considered as the first attempt to exploring the wrapper approach in text categorization. Furthermore, our neurogenetic system has also been applied to text mining on the Web, and combined with the agent technology for the Internet. The resulting system is a collaborative multi-agent system that can automatically classify and filter new or existing Web pages and Web sites, and to mine numerical online data. Benchmark results performed on these aspects of the system also show promise.

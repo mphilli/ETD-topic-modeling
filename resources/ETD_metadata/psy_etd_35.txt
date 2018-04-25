@@ -1,0 +1,11 @@
+$TITLE:
+Development of a comprehensive sexually transmitted disease knowledge questionnaire
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Knowledge questionnaire, Sexually transmitted diseases
+
+$ABSTRACT:
+Sexually transmitted disease (STD) education in the past 2 decades has focused primarily on HIV to the detriment of broader STD education. The purpose of this study was to develop an up-to-date, comprehensive Sexually Transmitted Disease Knowledge Questionnaire (STD-KQ) for use with an at-risk population, college students, in research and applied settings. Questionnaire construction involved input from research, STD experts (N = 6) and the target population (N = 40). Qualitative and quantitative reviews were performed. The questionnaire was piloted (N = 50) and tested on a large-scale sample (N = 391) of diverse college students. Item- and test-level analyses informed modifications to the questionnaire. Exploratory and confirmatory factor analyses indicated a two-factor model of STD knowledge, including a Cause/Cure factor and a General Knowledge factor. Six supplemental items were added to the final questionnaire for their public health value and resulted in the 27-item STD-KQ. The questionnaire demonstrated excellent internal consistency (α = .86) and test-retest reliability (r = .88) over a brief period. Support for the construct validity of the questionnaire was provided through a number of activities and evidence of convergent validity was provided through a comparison with a previously validated, HIV-specific knowledge questionnaire (Carey & Schroder, 2002). Treatment outcome sensitivity was demonstrated by students' (N = 80) responses to a brief STD educational program. Use of the STD-KQ will enable researchers and health educators to identify students' STD knowledge deficits, evaluate risk reduction programs and assess treatment response in research and applied settings. The STD-KQ may also serve as a measure of STD knowledge in theoretical research.

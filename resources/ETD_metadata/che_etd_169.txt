@@ -1,0 +1,11 @@
+$TITLE:
+Metal-Citrate Complex Transport in Streptomyces coelicolor
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Citrates, Metal-citrate complexes, Micronutrients
+
+$ABSTRACT:
+As more bacterial genomes are sequenced, there is an increase of interest developing as to which genes are responsible for micronutrients acquisition. Many of these genes encode for complex membrane transport systems that facilitate translocation of critical micronutrients across the cellular membrane. The most critical of which are membrane transport proteins that translocate iron. Inspired by the recent genomic sequencing of Streptomyces coelicolor  , we set out to explore the secondary metal-citrate transporter Cit Sc  .We first functionally characterized what metal-citrate complexes were transported by the native bacterium S. coelicolor , which indicated that Fe 3+ -citrate and Ca 2+ -citrate were readily transported, but Mg 2+ -citrate was not. Then, we identified the gene encoding the metal-citrate transporter through gain of function studies in Escherichia coli . With the successful identification of the gene encoding the metal-citrate transporter, we decided to try to overexpress and purify the secondary metal-citrate transporter. Several expression systems were successfully constructed for overexpression and purification. The most successful construct involved the pFLAG-Cit Sc fusion, which tethered a FLAG·Tag at the C-terminus. Cit Sc _FLAG was semi-purified using antiFLAG antibodies, and Cit Sc _FLAG was identified using Western blot analysis.

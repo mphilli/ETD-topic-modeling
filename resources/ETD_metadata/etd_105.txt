@@ -1,0 +1,11 @@
+$TITLE:
+An Epidemiology of Big Data
+
+$DEPARTMENT:
+Information Science and Technology
+
+$KEYWORDS:
+Big Data, Healthcare Narratives, Information Science, Medical Humanities, Ontologies, Phenomenology
+
+$ABSTRACT:
+Federal legislation designed to transform the U.S. healthcare system and the emergence of mobile technology are among the common drivers that  have contributed to a data explosion, with industry analysts and stakeholders proclaiming this decade the big data decade in healthcare (Horowitz, 2012). But a precise definition of  big data is hazy (Dumbill, 2013). Instead, the healthcare industry mainly relies on metaphors, buzzwords, and slogans that fail to provide information about big data's content, value, or purposes for existence (Burns, 2011). Bollier and Firestone (2010) even suggests "big data does not really exist in healthcare" (p. 29). While federal policymakers and other healthcare stakeholders struggle with the adoption of Meaningful Use Standards, International Classification of Diseases-10 (ICD-10), and electronic health record interoperability standards, big data in healthcare remains a widely misunderstood phenomenon. Borgman (2012) found by "studying how data are created, handled, and managed in multi-disciplinary collaborations, we can inform science policy and practice" (p. 12).Through the narratives of nine leaders representing three key stakeholder classes in the healthcare ecosystem: government, providers and consumers, this phenomenological research study explored a fundamental question: Within and across the narratives of three key healthcare stakeholder classes, what are the important categories of meaning or current themes about big data in healthcare? This research is significant because it: (1) produces new thematic insights about the meaning of big data in healthcare through narrative inquiry; (2) offers an agile framework of big data that can be deployed across all industries; and, (3) makes a unique contribution to scholarly qualitative literature about the phenomena of big data in healthcare for future research on topics including the diffusion and spread of health information across networks, mixed methods studies about big data, standards development, and health policy.

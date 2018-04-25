@@ -1,0 +1,11 @@
+$TITLE:
+Search For Delayed Neutrons From Nuclear Interactions Due To Cosmic Rays
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Nuclear physics, delayed neutron emission, scintillators
+
+$ABSTRACT:
+Discusses an experiment using crystal and liquid scintillators.

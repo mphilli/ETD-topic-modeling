@@ -1,0 +1,11 @@
+$TITLE:
+Functional and Behavioral Product Information Representation and Consistency Validation for Collaboration in Product Lifecycle Activities
+
+$DEPARTMENT:
+Mechanical and Aerospace Engineering
+
+$KEYWORDS:
+Behavior, Collaborative Design, Function, Information Model, Product Information Representation, Product Lifecycle Management
+
+$ABSTRACT:
+Information models that represent the function, assembly and behavior of artifacts are critical in the conceptual development of a product and its evaluation. Much research has been conducted in this area; however, existing models do not relate function, behavior and structure in a comprehensive and consistent way. In this work, NIST's Core Product Model (CPM) and the Open Assembly Model (OAM) are extended to integrate product information including function and behavior, with an emphasis on assembly, throughout all phases of product development. For function and flow classification, the NIST functional taxonomy is used to maintain consistency with the literature.The consistency validation of product information, and the verification of modified product information are discussed; these processes ensure that the product information has no contradictions and allows tracing through associations without any deficiency or disconnection. In other words, the information model has to be complete in terms of traceability of function, behavior, spatial relationships, etc., in order to support all information exchange activities. The product information representation provides a mechanism for capturing product information and storing it in a database. This representation schema also provides necessary information for any future decision making activities in the End of Life (EOL) environment, such as the replacement or reuse of any part or subassembly. When there is a need to replace one artifact with another, one must consider all of the associations of the existing artifact with other artifacts and the environment, not just functional and space requirements, and the relevant modification(s) of the associated objects has to verified. So one can manage product lifecycle activities in different perspectives by knowing how the product information is interconnected in various domains and how its characteristics affect each other.

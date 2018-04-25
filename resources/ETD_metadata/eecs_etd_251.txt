@@ -1,0 +1,11 @@
+$TITLE:
+Dynamic, generic program visualization in a programming language environment
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+operational semantics
+
+$ABSTRACT:
+This research project centered on an investigation of the integration of modern visualization tools with the traditional text-based programming language environment. The purpose of the study was to explore a means to achieve dynamic, generic visualization of a program's execution. Both technical and theoretical aspects of program visualization were examined. A formal operational semantics was developed for an abstract visualization machine using a conceptual framework derived from the classic von Neumann architecture.The model for constructing and executing programs using visual tools was achieved in the development of GROK, Graphic Representation of Operational Knowledge. This prototype system was tested with novice programmers during the development process. Over time, feedback from participants in the testing program was used to guide the evolution of the software system. The resulting system is generic in that the programmer can construct original programs and execute them with the visualization tool. The execution of the program is dynamic, allowing for experimentation as the programmer interacts with the interface. The visualization is automated, so the programmer does not have to learn special algorithms for visualization. The visualization takes place in a familiar windows-based setting.Qualitative data was studied using QUALOG, a logic-based analysis tool. Initial feedback from instructors and students in beginning programming courses was positive. The instructors indicated that the visualization tools were useful in conveying to the students a visual model, relating the operations and underlying architecture of the physical machine to the execution of the program. Student responses indicated an awareness of the contribution of the software to their understanding of how the computer executes a program. In addition, a large percentage of the participants with little or no programming background stated that the understanding they gained from using GROK helped them in learning to write programs. More advanced students indicated an appreciation of the data visualizer component for debugging purposes.

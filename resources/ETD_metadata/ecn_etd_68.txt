@@ -1,0 +1,11 @@
+$TITLE:
+A Theoretical And Empirical Analysis Of Income Tax Evasion And Tax Avoidance
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Economics
+
+$ABSTRACT:
+The problem of income tax evasion and tax avoidance is one which plagues virtually all organized economies of the world. The most obvious implications of such taxpayer behavior are forgone income and payroll tax revenues. Yet it might also be argued that the problem is indicative of a more severe crisis; a breakdown of the implicit contractual relationship between man and state. As policy makers attempt to cope with this problem, it is imperative that they have a better understanding of the factors which may influence the evasion and avoidance propensities of taxpayers.In this study, a joint model of the evasion and avoidance choice process of individual taxpayers is put forth. Since both evasion and avoidance behavior may be expected to be influenced by similar factors, it is only natural to model these processes jointly. This allows for substitute and complementary relationships which have largely been ignored in the theoretical and empirical work on tax evasion and tax avoidance as well as in the discussions of tax reform in the U.S. and abroad.Based on an expected utility model, the factors which influence the evasion and avoidance behavior of taxpayers are identified and specified. These factors are then used in an empirical context to determine the sensitivity of income shares--avoidance (in-kind), evasion and wage income--to variations in such factors. These explanatory variables are alternatively employed as "composite prices" (as suggested by the theoretical model) and independent regressors. Since for many in the sample the relevant income shares (dependent variables) take on limiting values, limited dependent variable techniques are utilized to avoid estimation bias.The results indicate that compensation shares respond in an intuitive fashion to variations in fiscal and tax administration variables including marginal tax rates, penalties, probabilities of detection and marginal payroll tax benefits. The overall effect of these factors is quite small suggesting that minor manipulation of the tax system will do little to reduce the evasion and avoidance propensities of taxpayers. As such, there is support for major tax reform to combat tax evasion and tax avoidance.

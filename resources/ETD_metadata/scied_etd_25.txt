@@ -1,0 +1,11 @@
+$TITLE:
+The design, enactment, and impact of an inquiry-based undergraduate astronomy laboratory learning environment
+
+$DEPARTMENT:
+Science Teaching
+
+$KEYWORDS:
+astronomy, laboratory, teaching assistants
+
+$ABSTRACT:
+This study investigated the design, enactment, and impact of an undergraduate, inquiry-based astronomy laboratory learning environment. The professor, Richard, adopted laboratory materials from the Center for Astronomy and Physics Education Research [CAPER] which were described by the group as inquiry-based. Students worked through these laboratory materials under the supervision of teaching assistants [TAs], and Richard led weekly TA meetings to monitor and instruct the TAs on his expectations. This study suggests that Richard was unsure of laboratory materials' learning goals and had received limited guidance on how to use and implement CAPER's materials. TAs also received limited guidance on how to interact with their students while they worked through the laboratory materials. TAs gave introductions during laboratory sessions that were similar to Richard's introductions given during weekly TA meetings. Data from this study suggests that most students were able to easily complete the laboratory materials without the assistance of their TA. When students did ask questions, questions were focused on obtaining the correct answer which TAs normally supplied though direct responses or questioning. This laboratory learning environment was found to have no impact on students' understanding of the nature of scientific inquiry, as measured by VOSI, which contradicts previous research findings associated with the materials. I suggest that professors should be cautious when adopting curriculum materials. Curriculum designers should provide information related to the design of their materials, the learning goals of those materials, sample student responses, and effective implementation strategies

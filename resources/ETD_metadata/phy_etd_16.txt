@@ -1,0 +1,11 @@
+$TITLE:
+Branching fraction measurements and SU(3) diagrammatic analysis of Cabibbo-suppressed D meson decays
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+D meson, Cabibbo-suppressed decays, Branching fraction, SU(3) singlet
+
+$ABSTRACT:
+Using 281 p b  -1  of data collected using the CLEO-c detector, we present new measurements of Cabibbo-suppressed decays of D  mesons. We report first observations and measurements of the following branching fractions: B  ( D   0  [arrow right] η'π 0  ) = (8.1±1.5±0.6)×10  -4  , B  ( D  0  [arrow right] ηη) = (16.5±1.4±1.1)×10 -4  , B  (  D  0  [arrow right] ηη') = (12.5±2.5±1.1)×10  -4  , B  ( D  0  [arrow right] ηπ  +  π -  ) = (10.9±1.3±1.0)×10  -4  , B  ( D  0  [arrow right] η'π  +  π -  ) = (4.3±1.6±0.6)×10  -4  , B  ( D  +  [arrow right] ηπ  +  π 0  )=(13.8±3.2±1.6)×10  -4  , B  ( D  +  [arrow right] η'π  +  π 0  ) = (15.8±4.3±2.6)×10  -4  . The uncertainties are statistical and systematic, respectively. We also present improved measurements of the branching fractions:  B  ( D  0  [arrow right] ηπ 0  ) = (6.3±1.0±0.4)×10 -4  ,  B  ( D  +  [arrow right] ηπ +  ) = (34.3±1.4±1.7)×10 -4  , and B  (  D  +  [arrow right] η'π +  ) = (44.4±2.5±2.6)×10  -4  . Several other modes are not observed, and we set the following 90% confidence level upper limits: B  ( D   0  [arrow right] ηπ 0  π 0  ) ≤ (11.0×10  -4  ), B  ( D  0  [arrow right] ηηπ  0  ) ≤ (21.0×10 -4  ), B  (  D  0  [arrow right] ηηη) ≤ (8.0×10  -4  ), B  ( D  +  [arrow right] ηK  +  ) ≤ (0.9×10 -4  ), and B  (  D  +  [arrow right] η'K +  ) ≤ (1.1×10  -4  ). We have also performed an SU  (3) topological analysis and find reasonable agreement in the Color-suppressed and Exchange diagram amplitudes between Cabibbo-favored and Cabibbo-suppressed decays. If we allow for an additional singlet Exchange amplitude that couples to the SU(3) singlet part of the η and η', we find two solutions. The small solution which is about two standard deviations from 0, is favored over the larger solution, due to OZI-suppression.

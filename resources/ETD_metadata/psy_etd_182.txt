@@ -1,0 +1,11 @@
+$TITLE:
+Health Consequences of Sexual Hookups for First-Year College Women: A One-Year Prospective Investigation
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+casual sex, college students, mental health, sexual hookups, sexually transmitted diseases, sexual victimization
+
+$ABSTRACT:
+"Hookups" are sexual encounters between partners who are not in a traditional committed romantic relationship. The majority of college students engage in hookup behavior, but little is known about the health consequences of hookups. This longitudinal study examined the effects of sexual hookups on mental health and risk for sexual victimization (SV) and sexually transmitted diseases (STDs) among first-year college women. It was hypothesized that sexual hookup behavior would negatively affect women's mental health and increase their likelihood of experiencing SV and STDs. Participants (N = 483) completed 13 monthly online surveys that assessed sexual behavior (performing oral sex, receiving oral sex, and vaginal sex) with casual and romantic partners, mental health outcomes, SV, and self-reported STD diagnoses. Participants were also tested for three STDs at the end of the academic year. Hookup behavior involving either oral or vaginal sex was reported by 34% prior to college and 40% during the year-long study. Multivariate latent growth curve modeling showed that increases in the probability of oral sex (performed) and vaginal sex hookup behavior during the academic year were associated with increases in perceived stress and decreases in positive affect. Compared to women who did not hook up during the study, women who hooked up were more likely to experience SV, even after controlling for several risk factors for SV and sex in the context of romantic relationships. Engaging in any sexual hookup behavior during the study was not predictive of acquiring a new STD, but power for this logistic regression analysis was limited due to the low base rate of STDs. Lifetime history of sexual hookup behavior was significantly associated with lifetime STD diagnosis. Overall, the results suggest that sexual hookup behavior leads to increased psychological distress for some women and increases risk of experiencing SV and STDs.

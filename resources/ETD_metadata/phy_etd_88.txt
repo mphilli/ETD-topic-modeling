@@ -1,0 +1,11 @@
+$TITLE:
+Space-time as a causal set
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+lorentzian manifolds
+
+$ABSTRACT:
+This thesis describes a proposal for the structure of space-time at the smallest scales. The underlying new "substance" is what we call a causal set, a locally finite set of elements endowed with a partial order relation. It is conjectured that, when suitable causal sets on a large number of elements are considered, there exist unique lorentzian manifolds (up to small changes in the metric), in which the causal sets appear as uniformly distributed points, with metric-induced causal relations which agree with the partial order relation, and which are approximately flat on the length scales determined by the density of embedded points. These manifolds are free of causality violations and time-orientable, and provide a causal macroscopic interpretation of the partial order relation.In an outline of the procedure for constructing the manifold associated with a causal set, we start by looking at small causal sets, thought of as embedded in the larger ones as subsets, which already contain the dimensionality information. We then propose ways of calculating effective dimensionalities for large causal sets, and of using the global structure of the causal set to determine the topology and other properties of the manifold, if it exists. For most causal sets, we expect this procedure not to yield any manifold. In some cases, however, a suitably coarse-grained causal set will admit a good embedding, and its continuum approximation will then consist of a manifold with metric and additional fields, the properties of the geometry and fields depending on the degree of coarse-graining. In particular, the effective dimensionality can vary with length scale.Dynamics is formulated in the sum over histories approach; which causal sets actually contribute most to the total amplitude, and whether these do have a well-defined continuum approximation, will then depend on the choice of basic amplitude for each history, and on how we define the class of histories we sum over. Provided such an approximation exists, a general argument is given, indicating that we can expect general relativity to be reproduced in the classical limit. A few possible choices for the quantities defining the dynamics are proposed.

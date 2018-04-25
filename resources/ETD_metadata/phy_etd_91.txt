@@ -1,0 +1,11 @@
+$TITLE:
+Monopoles And Solitons In Particle Physics
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Particle physics
+
+$ABSTRACT:
+This dissertation is devoted to the study of monopoles and solitons in particle physics. Solitons are field configurations whose identity and stability in quantum field theory are guaranteed by their topology.Monopoles are an important subclass of solitons. Monopoles and solitons are of relevance in particle physics for several reasons. They are a part of the spectrum of the theory and are important as intermediate and final states in collision experiments. They are also of importance in understanding the phase structure of field theories. We study monopoles and solitons in Quantum chromodynamics, the theory of strong interactions.The low energy behaviour of chromodynamics is well described by the non-linear chiral model. The fields are valued in the group SU(2) and there are topologically non trivial mappings from space to SU(2). We study these solitons in detail. We find that they behave as baryon resonances of high baryon number and strangeness (>(, )6). They are expected to be in the mass range 1.8 to 5.6 GeV. The possible interpretation of such solitons as baryons is also discussed.We also discuss a variation of orthodox chromodynamics to accommodate fractionally charged particles. The model has monopoles whose characteristic charges are valued in the cyclic group Z(,2) and solitons whose charges are valued in Z(,4). The mathematical description of solitons and monopoles with non-additive charges is developed. These objects have masses in the range 20 to 60 MeV. Their abundance, production cross section and other characteristics are discussed. The connection of the Z(,4) solitons to the n-vacua of a gauge theory is clarified.

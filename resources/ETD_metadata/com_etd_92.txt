@@ -1,0 +1,11 @@
+$TITLE:
+Race, Class, Risk and Trust: Risk Communication in Post-Katrina New Orleans
+
+$DEPARTMENT:
+Mass Communications
+
+$KEYWORDS:
+class, Katrina, media, race, risk, trust
+
+$ABSTRACT:
+The main focus of this study is on risk communication about dangerous environmental events in post-Katrina New Orleans, and the influence that race and class have on that process. It seeks to determine the assessment of New Orleans residents of the various possible sources of risk information that are available to them, and how race and socioeconomic class affect their level of trust in those sources. A 37-question telephone survey was conducted in Orleans Parish by the Public Policy Research Lab at Louisiana State University in June and July of 2012. There were 414 completed surveys, with 278 landline telephone and 136 cell phone respondents. The overall margin of error was +/- 4.8% at a 95% confidence interval. SPSS software was used to analyze data testing four hypotheses for each of two research questions on risk assessment: the first on race, the second on class (socioeconomic status, or "SES"). An ANCOVA was used to test the hypotheses of the first research question, while Pearson's Product Moment Correlation Coefficient Test was used to test the second. A trust index was constructed by aggregating Likert-scales responses to questions on the elements of trust in sources, and an SES index was constructed by aggregating education and income responses. After controlling for SES, Whites were shown to have significantly more trust in mass media, local community leaders and spokespersons, and interpersonal communication than Blacks did. After controlling for race, SES was found to be negatively correlated with trust in local TV news, non-news websites, and social media sites. Tests of correlation were also run on frequency of media use and trust in sources of risk messages.

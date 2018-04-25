@@ -1,0 +1,11 @@
+$TITLE:
+EXTENSION OF PLURISUBHARMONIC FUNCTIONS AND DYNAMICS OF POLYNOMIAL MAPPINGS
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Dynamics of polynomial automorphisms, Invariant measures, Lelong class, Pluripotential theory
+
+$ABSTRACT:
+Let $X$ be an algebraic subvariety of $\mathbb C^n$ and $\overline X$ be its closure in $\mathbb P^n$. Coman-Guedj-Zeriahi proved that  any plurisubharmonic function with logarithmic growth on $X$ extends to a plurisubharmonic function with logarithmic growth on $\mathbb C^n$ when the germs $(\overline X,a)$ in $\mathbb P^n$ are irreducible for all $a\in \overline X\setminus X.$ In this dissertation, we consider $X$  for which the germ $(\overline X,a)$  is reducible for some $a\in \overline X\setminus X$ and give a necessary and sufficient condition for $X$ so that any plurisubharmonic function with logarithmic growth on $X$ extends to a plurisubharmonic function with logarithmic growth on $\mathbb C^n.$We also study a problem in complex dynamics. Quadratic automorphisms of $\mathbb C^3$ are classified up to affine conjugacy into seven classes by Forn\ae ss and Wu. Five of these classes contain maps with interesting dynamics.  For these maps, Coman and Forn\ae ss estimated the rates of escape of orbits to infinity and described the subsets of $\mathbb C^3$ where they occur. Using these estimates, they constructed invariant measures for the maps in three of these classes. By the work of Coman on the fourth class later, the dynamics of the maps from the first four classes is completely understood. This dissertation  focuses on the dynamics of maps from the fifth class: $$H(x,y,z)= (xy+az, x^2+by, x),\; a\neq0\neq b.$$We investigate the behaviors of $H$ at infinity  and construct a dynamically interesting closed positive current of bidimension $(1,1)$.

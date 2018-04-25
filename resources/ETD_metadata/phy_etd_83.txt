@@ -1,0 +1,11 @@
+$TITLE:
+The precision measurement of the neutron spin structure function using polarized helium-3 target
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+precision measurement, neutron spin structure function, polarized helium-3 target
+
+$ABSTRACT:
+Using a 48.6 GeV polarized electron beam scattering off a polarized $\sp3He$ target at Stanford Linear Accelerator Centre (SLAC), we measured the neutron spin structure function $g\sbsp{1}{n}$ over kinematic(x) ranging $0.014

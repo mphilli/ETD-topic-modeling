@@ -1,0 +1,11 @@
+$TITLE:
+Retrieval of Free Space Radiation Patterns through Measured Data in a Non-Anechoic Environment
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+anechoic chamber, antenna measurement, deconvolution, pattern reconstruction, radiation pattern
+
+$ABSTRACT:
+Antenna pattern measurements are usually carried out in an anechoic chamber. However, a good anechoic chamber is very expensive to construct. Previous research has attempted to compensate for the effects of extraneous fields measured in a non-anechoic environment to obtain a free space pattern that would be measured in an anechoic chamber. Existing compensation techniques are like the Test Zone Field compensation method, the Fast-Fourier-Transform-based method, the Matrix Pencil method, and the Antenna Pattern Comparison technique.This work illustrates and extends a deconvolution methodology which allows the antenna measurement under a non-anechoic test environment and retrieves the free space radiation pattern of an antenna through this measured data; this allows for easier and more affordable antenna measurements.In this work, we modeled the extraneous fields as the system impulse response of the test environment and utilized a reference antenna to extract the impulse response. Then, we used it to remove the extraneous fields for a desired antenna measured under the same environment and retrieved the ideal pattern. The advantage of this process is that it does not require calculating the time delay to gate out the reflections; therefore, it is independent of the bandwidth of the antenna, and there is no requirement for prior knowledge of the test environment.This work contributes to the field not by proposing a new methodology for pattern reconstruction but by showing that the deconvolution methodology can analytically remove the effects of extraneous fields in antenna pattern measurements and by extending this method to antenna pattern measurements under three-dimensional environments. Also, a discussion of the parameters that affect the deconvolution methodology is given in this work. Extensive simulation examples with different environmental settings and with different antennas are presented in this work to demonstrate the applicability of the deconvolution method.

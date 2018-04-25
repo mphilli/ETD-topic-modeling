@@ -1,0 +1,11 @@
+$TITLE:
+Studies toward the synthesis of forskolin and phomactin A using the dihydropyrone Diels-Alder reaction
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Forskolin, Phomactin A, Dihydropyrone, Diels-Alder reaction, Oxadecalin
+
+$ABSTRACT:
+1-Oxadecalin containing natural products have interesting biological activities and have generated a wide variety of interest among synthetic organic chemists. Cycloaddition reactions especially [4+2] cycloadditions, are the most common and important reactions to construct the 1-oxadecalin moiety. The dihydropyrone Diels-Alder reaction, initially developed in our laboratory, features expedient access to the oxadecalone unit and tolerance of diverse functionality.Forskolin is a labdane diterpene isolated from the Indian herb Coleus Forskkolii and is used mainly for increasing the cyclic adenosine monophosphate level in cells. A model study showed that a Lewis acid-mediated dihydropyrone Diels-Alder reaction could provide the tricyclic core of a forskolin model compound. It was found later that the cycloaddition reaction proceeds through an exo transition state. Further investigation focused on introduction of the C7 hydroxy group, the C7,C8 double bond, and removal of an extra carbon at the C9 position. The C7 hydroxy group was successfully incorporated into the core using the Rubottom oxidation. The C7,C8 double bond could not be generated under the reaction conditions explored. The C9 extra carbon could not be removed when the A/B ring is trans fused. In contrast, the C9 extra carbon was successfully excised when the A/B ring is cis fused.Phomactin A, isolated from marine fungus phoma sp. (SANK 11486), was a second target for synthesis. Again the dihydropyrone Diels-Alder chemistry was used to build the 1-oxadecalone moiety of phomactin A. A newly designed dihydropyrone was synthesized and underwent Diels-Alder reaction to generate the 1-oxadecalone core structure. In this way the reaction sequence was shortened and the yield improved. A simplified side chain was introduced to the core structure and cyclized to give a model compound. This work also demonstrated that the cis-fused 1-oxadecalin core was essential to generate the macrocycle. Progress was also made toward the side chain bearing a trisubstituted olefin.

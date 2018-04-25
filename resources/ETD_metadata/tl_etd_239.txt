@@ -1,0 +1,11 @@
+$TITLE:
+High School Teachers' Use of Graphing Calculators When Teaching Linear and Quadratic Functions: Professed Beliefs and Observed Practice
+
+$DEPARTMENT:
+Teaching and Leadership
+
+$KEYWORDS:
+Mathematics Education, High School Education
+
+$ABSTRACT:
+This study was designed to explore secondary mathematics teachers' beliefs about graphing calculators, their practices with the graphing calculators when teaching linear and quadratic functions, and the relationship between the teachers' beliefs and their practices. The study was conducted in two phases. In the first phase, 81 teachers responded to a questionnaire about their beliefs regarding the use of graphing calculators in the teaching and learning of linear and quadratic functions. Six of these teachers then participated in the second phase involving task-based interviews and classroom observations.A major finding from the survey was a possible link between teachers' frequency of calculator use and their views regarding sequencing of function representations. I found that low frequency users held the view that algebraic symbols should always precede tables while high frequency users did not hold a similar view. Teachers in this study were also split on which type of tasks students should be allowed to use graphing calculators. Some teachers stated that they would encourage their students to use the graphing calculator when the students felt it was appropriate regardless of the task while others stated that they would always want their students to learn to solve each type of problem with paper and pencil before they could use a calculator.Findings from the interviews and classroom observations highlighted some differences among the moderate and high frequency users in terms of how they guide their classes - teacher direction and student exploration - and the level of direction they provide to their students when working with graphing calculators. In terms of classroom dynamics, I found that classes taught by high frequency users seemed to involve more student exploration than those taught by moderate frequency users. I also found that when lessons were characterized by teacher direction, the graphing calculator was used as a computational tool and when lessons were characterized by student exploration, the graphing calculator was used as a visualizing tool and checking tool.

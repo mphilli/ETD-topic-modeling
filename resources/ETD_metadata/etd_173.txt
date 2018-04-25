@@ -1,0 +1,11 @@
+$TITLE:
+Topics in Gravitational-Wave Astrophysics
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Black holes, Gravitational waves, Gravity, LIGO, Numerical Relativity, post-Newtonian
+
+$ABSTRACT:
+In this dissertation we study the applicability of different waveform models ingravitational wave searches for comparable mass binary black holes. We determinethe domain of applicability of the computationally inexpensive closed form models,and the same for the semi-analytic models that have been calibrated to NumericalRelativity simulations (and are computationally more expensive). We further explorethe option of using hybrid waveforms, constructed by numerically stitching analyticand numerical waveforms, as filters in gravitational wave detection searches. Beyondmatched-filtering, there is extensive processing of the filter output before a detectioncandidate can be confirmed. We utilize recent results from Numerical Relativity tostudy the ability of LIGO searches to make detections, using (recolored) detector data.Lastly, we develop a waveform model, using recent self-force results, that capturesthe complete binary coalescence process. The self-force formalism was developed inthe context of extreme mass-ratio binaries, and we successfully extend it to modelintermediate mass-ratios.

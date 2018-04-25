@@ -1,0 +1,11 @@
+$TITLE:
+Cluster based classification for semantic role labeling
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Classification, Semantic role labeling, Cluster-based classification, Machine learning
+
+$ABSTRACT:
+The task of Semantic Role Labeling (SRL) in a language is to determine relations among the entities and the events in text. SRL is a difficult task due to frequently occurring variations in a language. The number of relations that may occur between entities and events is large. To address this task, generally a large number of features are selected and large training and validation sets are required.A classification task involving a few classes is easier to handle. If the number of classes is large, the performance of any classification algorithm rapidly deteriorates due to cross-talk among the features that can be used to differentiate them. To reduce the effect of this cross-talk, we propose that similar objects should be grouped together and appropriate features are used to distinguish them within a group.In this dissertation, we propose to use clustering to "naturally" partition the training data into several clusters by using a subset of available features. A local classifier for each cluster is constructed using an "optimum subset" of features determined by an automatic feature selection mechanism. The proposed algorithm is called Cluster Based Classification (CBC).In recent years, it has been proposed that the SRL problem should be solved in two steps, identification step and labeling step. We applied the new classification technique to both steps. This approach gives superior results over the single classifier approaches. An additional benefit of the proposed approach is that it dramatically reduces the testing time for a new example. Thus, our approach can be used in real-time NLP applications.The proposed cluster based classification approach has also been applied to some other well-known classification problems with very promising results.

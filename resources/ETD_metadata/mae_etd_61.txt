@@ -1,0 +1,11 @@
+$TITLE:
+Extending the Passive House Approach with Geoslar Exergy Storage Technology: A Vision for Reducing Purchased Energy Use in Existing and New Construction
+
+$DEPARTMENT:
+Mechanical and Aerospace Engineering
+
+$KEYWORDS:
+Building Envelope, Dynamic Wall, Exergy, Geosolar, Ground Heat Storage, Solar
+
+$ABSTRACT:
+Buildings with double envelope walls having an interstitial space that is coupled to the structure’s basement have been shown to increase overall building heating and cooling efficiency. Low grade heat supplied by the ground surrounding the basement can be transported passively within the walls of these “buffered houses.” This heat can be lost through the outer wall to the atmosphere in lieu of heat supplied by the home heating system, effectively decreasing the ΔT across the wall and thus the energy lost through it. A similar heat exchange mechanism can work in a reverse manner to provide cooling during the summer months.The efficiency gained from this type of building could be further enhanced by artificially controlling the temperature of the basement. This would be accomplished by creating a completely integrated system consisting of the building envelope and the surrounding environment. A blanket of insulation surrounding the structure would allow the seasonal storage of excess heat removed during summer months for use during the winter. Heat would be transferred into the ground via a series of earth- to- water heat exchangers, coupled to coils on the roof of the building. These conduits would be designed to remove heat from the roof to decrease cooling demands beneath it. These same heat exchangers would be coupled to the basement by way of either one or more water to air heat exchangers, and through the basement walls. The ventilation system would also be integrated into the system through the heat reservoir such that ventilation air can be pre-warmed and cleaned before entering the interior.A full scale prototype of a structure incorporating this Geo-solar Energy Storage Technology (GEST) has been constructed in order to prove this hypothesis. Preliminary testing of the building shows that this type of structure can be cost effective.

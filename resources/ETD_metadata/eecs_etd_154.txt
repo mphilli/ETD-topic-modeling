@@ -1,0 +1,11 @@
+$TITLE:
+Algorithms for multimedia object allocation onto heterogeneous storage systems
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Multimedia storage, Object allocation
+
+$ABSTRACT:
+A multimedia storage system may consist of heterogeneous disks as a result of system configuration and expansion. An efficient utilization of storage systems requires even distribution of load among different disks. We present a mathematical model of multimedia object allocation onto heterogeneous storage systems and show that the underlying optimization problem of load balancing is NP-complete. Storage systems are classified into three classes according to the bandwidth and space of their constituent disks. We show that a bandwidth proportional allocation policy for storage systems that have disks with identical bandwidth to space ratio balances the load. Under some conditions this policy successfully balances the load among disks that do not have identical bandwidth-to-space ratios. Several algorithms that attempt to minimize load imbalance in a general storage systems (when the bandwidth to space ratio is not constant) are presented, and their performances are compared. One algorithm, where a heuristic allocation is first applied and then load on a subset of disks is shuffled, gave good results in a reasonable amount of time.Large amounts of data arriving continuously over time add new complexity to problems of storage management. A pure online algorithm assigns a just-arrived object without affecting the allocation of the previously stored objects. Several online allocation algorithms are presented to minimize the load imbalance in heterogeneous storage systems and their performances are compared. We study the effect the degree of heterogeneity and the ratio of the object-size to disk-space, among other factors, have on these algorithms. Performance of the system deteriorates if the object-size to disk-space ratio is high, and one solution is to add more disks. Due to the current technological trends there is a high likelihood that the system will contain heterogeneous disks. When more disks are added to the system data needs to be reorganized on the new configuration. We study the cost of three data reorganization procedures.

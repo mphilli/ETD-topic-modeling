@@ -1,0 +1,11 @@
+$TITLE:
+Change Point Detection and Estimation in Sequences of Dependent Random Variables
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Bootstrap, Change Point, CUSUM, Dependent Random Variables, Likelihood Ratio
+
+$ABSTRACT:
+Two change point detection and estimation procedures for sequences of dependent binary random variables are proposed and their asymptotic properties are explored. The two procedures are a dependent cumulative sum statistic (DCUSUM) and a dependent likelihood ratio test (LRT) statistic, which are generalizations of the independent CUSUM and LRT statistics.A one step Markov dependence is assumed between consecutive variables in the sequence, and the performance of the DCUSUM and dependent LRT are shown to have substantially better size and power performance than their independent counterparts. In most cases, a comparison of the dependent procedures via simulation shows that the dependent LRT provides a more powerful test, while the DCUSUM test has better size performance.The asymptotic distribution of the DCUSUM test is found to be a weighted sum ofsquared Brownian bridge processes and an approximation to calculate p-values is discussed. A Worsley type upper bound for p-values is provided as an alternative. The asymptotic distribution of the dependent LRT is unknown, but the tail probabilities are found to be empirically bounded by chi-square random variables with 6 and 7 degrees of freedom through a simulation study. A bootstrap algorithm to estimate p-values for the dependent LRT is discussed.Extensions of these procedures to multiple sequences and multinomial random variables are discussed, and a new statistic, the maximal change count statistic, is proposed. An application of the multiple sequence procedures to clustered time series models is provided. The asymptotic properties of the generalized procedures are reserved for future research.

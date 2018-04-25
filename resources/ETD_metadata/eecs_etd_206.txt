@@ -1,0 +1,11 @@
+$TITLE:
+A three-dimensional space domain approach for the analysis of printed circuit problems
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Electrical engineering
+
+$ABSTRACT:
+A numerical approach to the solution of printed circuit structures of arbitrary shapes, embedded in a single or multi-layer dielectric medium is presented. The coupled integral equations are derived from the application of the analytical steps of the electromagnetic theory. The electromagnetic fields are described in terms of Sommerfeld integrals. The Green's functions for different structures are obtained in the space domain. The method of moments has been used to solve the derived integral equations for the surface electric and magnetic currents flowing on the conductors and/or the electric field distribution across the apertures.The matrix pencil technique is employed to decompose the current or the voltage waves along the line into their components like the fundamental modes, higher order modes, surface modes, and etc. This provides the secondary information such as propagation constants, the wave amplitude for the fundamental or higher order modes, surface or waveguide modes, etc. for the case of transmission line structures. The finite structures including discontinuities like bend, T junction, crossover, via, etc. are solved for their scattering parameters utilizing this method. The main advantage of this method is the generality which a large variety of problems can be covered. The structures with vertical strips which can not be analyzed in the spectral domain can be considered in this method. This approach also provides a physical insight of the problem, and the regions of validity of different assumptions can be verified. Phenomena such as waveguide modes, higher order modes, etc. have been studied through this method. Several structures are analyzed and numerical results are presented and compared with previously published data.

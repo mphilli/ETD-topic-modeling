@@ -1,0 +1,11 @@
+$TITLE:
+Arterial remodeling and hemodynamic alterations following exercise training in individuals with pre- to stage-1 essential hypertension
+
+$DEPARTMENT:
+Exercise Science
+
+$KEYWORDS:
+Arterial remodeling, Exercise training, Hypertension
+
+$ABSTRACT:
+It is estimated that 55 million Americans have hypertension, a disease defined as having a blood pressure greater than 140 systolic and/or 80 mmHg diastolic. It is well known that aerobic exercise can decrease resting blood pressure, however there are few papers investigating the effects of resistance exercise training and the mechanisms responsible for an exercise induced reduction in blood pressure. The purpose of this experiment was to determine the differences between modes of exercise on resting hemodynamic, autonomic and vascular adaptations in individuals with elevated blood pressure following 4 weeks of resistance versus aerobic training. A total of 30 pre- or stage-1 essential hypertensive subjects completed the blood pressure measurements and 29 subjects completed the autonomic function experiments. Prior to, then immediately following 4-weeks of resistance or aerobic training (3 times/week) we measured body composition and resting central and peripheral arterial stiffness via pulse wave velocity, autonomic function (via modified CM-5 EKG), beat-to-beat blood pressure with a headup tilt perturbation, and the blood flow response to a reactive hyperemia were also measured. These measures helped us gain insight into the mechanisms responsible for the physiological changes within the vascular tree and central nervous system. Four weeks of moderate intensity aerobic and resistance exercise reduced resting blood pressure, however resistance training led to an increase in arterial stiffness, while aerobic exercise decreased arterial stiffness.Within this dissertation the results from the aforementioned experiment are presented. Chapter III and IV present the findings on autonomic and pressor responses and vascular remodeling and blood pressure changes.

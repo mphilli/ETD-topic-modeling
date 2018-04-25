@@ -1,0 +1,11 @@
+$TITLE:
+Beyond Standard Model physics on the lattice
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Standard Model, Supersymmetry, Yang-Mills theory
+
+$ABSTRACT:
+We present numerical studies of two extensions of the Standard Model of particle physics. While there is no evidence which definitively disproves the Standard Model, there is much that hints at the existence of beyond Standard Model physics. The SM extension known as Technicolor seeks to resolve some of the theoretical discomfort with the Standard Model by replacing the elementary Higgs with a new strong sector, modeled closely on QCD. In order for Technicolor to achieve this goal and not be ruled out by experiment, it must exhibit dynamics which are different from QCD. We present simulation results which suggest that the specific model we studied, Minimal Walking Technicolor, has an infrared conformal fixed point, not seen in QCD. The other SM extension studied in this work, Supersymmetry, seeks to resolve issues with the Standard Model by proposing a symmetry between bosons and fermions. The model that we studied, [Special characters omitted.] = 4 Super Yang Mills, is dual to a Type IIB superstring theory in anti-de Sitter space. This superstring theory undergoes a Hawking-Page transition from a space containing a black hole to one without. In the dual SYM theory, one expects to see a phase transition between a confining and nonconfining phase. We present simulation results that hint at such a phase transition.

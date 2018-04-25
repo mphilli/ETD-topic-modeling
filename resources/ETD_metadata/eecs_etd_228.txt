@@ -1,0 +1,11 @@
+$TITLE:
+Adaptive multiband Kalman filtering for target tracking
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Kalman filtering
+
+$ABSTRACT:
+Recent research has shown that multiband (MB) radar systems can significantly outperform singleband (SB) systems in terms of target detection and angle-tracking in interference and clutter. Although adaptive Kalman filtering for SB systems is relatively well developed, much remains unknown for MB systems. The primary objective of this dissertation work is therefore to develop adaptive MB Kalman filtering algorithms for target-trajectory tracking.Five important situations of unknown target and system model parameters are considered, which are (I) dynamic noise variance, (II) measurement noise variance, (III) deterministic acceleration, (IV) dynamic and measurement noise variances, and (V) measurement noise variance and deterministic acceleration. For each situation, three MB algorithms are presented: observation-averaged (OA), noncoherent (NC) and coherent (C) algorithms, except that only the C algorithm is available for Situation V. Under the assumption that the returns of MB subpulses are independent and identically distributed, the MB algorithms for each situation are then compared under the most severe system constraint. The comparison shows that for Situations II and IV, the MB system can significantly outperform the SB system in terms of parameter estimation and trajectory tracking with proper processing. For Situations I and III, the MB system still demonstrates its superior ability of parameter estimation to the SB system. The only exception is that when the maximum likelihood estimation method is directly employed on the probability density function of measurement data, both systems have the same performance. As for Situation V, the performance of the coherent MB algorithm is also studied as a function of the number of the subbands.In addition, an improved OA algorithm for Situation III is proposed. It is found that when the dynamic noise variance is not zero, it outperforms the original OA algorithm.

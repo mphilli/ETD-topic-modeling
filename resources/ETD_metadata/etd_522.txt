@@ -1,0 +1,11 @@
+$TITLE:
+Business Calculus Students’ Reasoning about Optimization Problems: A Study of Quantitative Reasoning in an Economic Context
+
+$DEPARTMENT:
+Teaching and Leadership
+
+$KEYWORDS:
+Algebraic Reasoning, Business Calculus, Marginal Change, Opportunity to Learn, Optimization Problems, Quantitative Reasoning
+
+$ABSTRACT:
+While the opportunity to learn mathematics via textbooks is well documented at the secondary and elementary levels, research on the opportunity to learn mathematics via textbooks at the undergraduate level has received little attention. Furthermore, research that examines the role of mathematics textbooks in students’ learning of important concepts such as marginal change in applied calculus is scarce. Research on students’ quantitative reasoning at the post-secondary level is lacking. This qualitative study investigated the opportunity to learn about optimization problems, marginal change, and quantitative reasoning in an economic context via a business calculus textbook and from lectures in a business calculus course. The study also investigated students’ quantitative reasoning, using task based interviews conducted with 12 pairs of business calculus students, about optimization problems and marginal change in an economic context.This study found that the textbook’s presentation of optimization problems and marginal change was largely procedural with limited attention to the underlying concepts and that opportunities for students to reason about relationships between or among economic quantities such as the relationship between marginal cost and marginal revenue at a profit maximizing quantity received little attention. The presentation of optimization problems and marginal change in course lectures closely followed the presentation of these topics in the textbook. Students’ interpretations of marginal change varied in different contexts and representations depending on the tasks they were given. This study provided insights into students’ quantitative reasoning when analyzing multivariable situations in an economic context: students created new quantities that helped them to solve the problems in the tasks and helped them to reason about relationships among several quantities. Implications for different stakeholders including business calculus instructors and suggestions for further research are included.

@@ -1,0 +1,11 @@
+$TITLE:
+Deformations of plane curve singularities of constant class
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Plane curve, Singularities, Constant class
+
+$ABSTRACT:
+This dissertation considers the geometry of the locus of constant class in the deformation spaces of plane curve singularities. In [DH], Diaz and Harris discuss the geometry of the equisingular ( ES ), equigeneric ( EG ), and equiclassical ( EC ) loci in the same deformation spaces. We define the locus of constant class EK as the locus which parametrizes deformations of constant class. By definition, EK contains EC . We investigate and answer the question: Is EK equal to EC ?We define conditions for EK to be different from EC and then explore the singularities where this might be possible. For y 2 + x n = 0, we are able to show where EK is different from EC . We also compute the tangent cones for the different pieces of EK and hence for EK itself, in many cases. Investigating the y 3 + x n = 0 singularities in search of the extra pieces of EK leads to the definition of the pre-EK loci , each of which possibly contains a piece of EK and other loci. We explore the possibilities for these other loci, finally leading up to the double triple point locus in one of the pre-EK loci for y 3 + x 6 = 0.

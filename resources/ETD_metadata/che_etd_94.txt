@@ -1,0 +1,11 @@
+$TITLE:
+HIV-1 Psi RNA: Dimerization and nucleocapsid protein binding studies
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Immune deficiency, HIV-1, Psi RNA, Dimerization, Nucleocapsid, Protein binding
+
+$ABSTRACT:
+The monomer-dimer equilibrium of three RNAs (19, 27, and 41-mers) containing the dimer initiation site (DIS) from the HIV-1 Ψ-element are studied by non-denaturing polyacrylamide gel electrophoresis and the equilibrium constants are reported. To aid in interpreting experiments differential equations for diffusion, migration, and reaction were solved to simulate gel patterns, showing that if only monomer and dimer peaks were present the equilibrium constant K could be calculated from the spot intensities. If the pattern was more complicated, having streaks, a load-and-run gel was needed to give the value of K . Since equilibrium was rapid in the gel well, a dilution factor was used to estimate the sample concentration in the well. To test our technique, a study of DNA 12-mers was done, which yielded K s comparable to literature values. The dimerization constants, at 5°C, for the 19, 27, and 41-mer RNAs were ∼10 8 , ∼10 6 , and ∼10 5 M -1 at an ionic strength of ∼100 mM. The decrease in K with length is attributed partly to changes in rotational entropy of rigid rod type molecules and conformational entropy of the monomers. The equilibrium between stem-loop 3 (SL3, also from the HIV-1 Ψ-element) and the nucleocapsid protein (NCp7) was also studied by gel electrophoresis, showing at least two different RNA-protein complexes are formed. The gel intensity data was fit to several models, differing in species stoichiometries, giving the best fit for a 2:1 complex (RNA:NCp7 ratio) that self-associates to an 8:4 tetramer. For the dilution experiments, at 5°C and ionic strength of 28 mM, K 1 for the 2:1 complex is ∼10 11 M -2 and K 2 for the 8:4 complex is ∼10 16 M -3 . The titration experiments gave K 1 ∼ 10 7 M -2 (poorly determined) and K 2 ∼ 10 19 M -3 . Considering the importance of RNA dimerization and NCp7 binding to HIV proliferation in vivo, these studies could lay the groundwork to new therapies.

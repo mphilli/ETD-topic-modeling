@@ -1,0 +1,11 @@
+$TITLE:
+The Surficial Geology of the Southeastern Segment of the Lake Ontario Plain, New York
+
+$DEPARTMENT:
+Earth Sciences
+
+$KEYWORDS:
+Surficial deposits, Parent materials, Underlying soils, Sedimentation, Composition, Glacial till
+
+$ABSTRACT:
+The purpose of this investigation is two-fold; first, to map the surficial deposits of the southeastern segment of the Lake Ontario Plain based upon an interpretation of the parent materials of the underlying soils, and second, to determine, employing the techniques of Sedimentation, the composition and the origin of the glacial till in the portion of the Plan lying between Syracuse and Rochester, New York.

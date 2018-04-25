@@ -1,0 +1,11 @@
+$TITLE:
+The voltage dependent anion channel affects mitochondrial cholesterol distribution and function
+
+$DEPARTMENT:
+Biology
+
+$KEYWORDS:
+Mitochondria, Warburg effect, Voltage dependent anion channel, Cholesterol
+
+$ABSTRACT:
+Normal cells of aerobic organisms synthesize the energy they require in the form of ATP via the process of oxidative phosphorylation. This complex system resides in the mitochondria of cells and utilizes oxidizable substrates to fuel the conversion of ADP to ATP and is dependent on molecular oxygen as the final electron acceptor. In humans, 90% of cellular energy is produced by this process. However, in most tumors, especially those with elevated cholesterogenesis, there is an increased reliance on glycolysis for energy, even in conditions where oxygen is available. This aerobic glycolysis (the Warburg effect) has far reaching ramifications on the tumor itself and the cells that surround it. Here, we have observed abnormally high membrane cholesterol levels and a subsequent deficiency of oxidative energy production in mitochondria from cultured Morris hepatoma cells (MH-7777). Using cholesterol affinity chromatography and MALDI-TOF MS, we have identified the voltage dependent anion channel (VDAC) as a necessary component of a protein complex involved in mitochondrial membrane cholesterol distribution and transport. VDAC is known to associate strongly with hexokinase, particularly in glycolytic cancers. By constructing an E72Q mutant form of VDAC that inhibits its binding of hexokinase, we report an increase in OXPHOS activity of MH7777 cells, as well as reduced membrane cholesterol ratios to levels near that of normal liver mitochondria. Work in our laboratory demonstrates that the ability of VDAC to influence mitochondrial membrane cholesterol distribution may have implications on mitochondrial characteristics such as oxidative phosphorylation and induction of apoptosis, as well as the propensity of cancer cells to exhibit a glycolytic phenotype.

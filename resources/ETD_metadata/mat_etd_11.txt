@@ -1,0 +1,11 @@
+$TITLE:
+Biological time series classification via reproducing kernels and sample entropy
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Reproducing kernels, Sample entropy, k-d trees, RKHS, Support vector machines, Randomized k-d trees, Biological time series classification, Entropy
+
+$ABSTRACT:
+In this thesis, we study classification of biological time series and its related theoretical issues. We focus on two issues: fast algorithms for computing the sample entropy of a time series which describes the "complexity" of the time series and reproducing kernels used in the support vector machine for classification. To compute the sample entropy of a time series, we introduce a randomized k-d tree and a fast algorithm based on the randomized k-d tree to compute the sample entropy. We systematically analyze the randomized k-d tree and estimate the time complexity of the fast algorithm. For reproducing kernels, we conduct foundational research, such as giving reproducing kernels of some commonly used function spaces like harmonic function spaces and Sobolev spaces, creating reproducing kernels from integral operators, and clarifying the inner product of reproducing kernel Hilbert spaces associated with reproducing kernels.

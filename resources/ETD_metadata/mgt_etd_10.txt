@@ -1,0 +1,11 @@
+$TITLE:
+Essays on Vulnerability to and Likelihood of Reemergence from Corporate Bankruptcy
+
+$DEPARTMENT:
+Management
+
+$KEYWORDS:
+Bankruptcy, Bureaucratic costs, Corporate governance, Corporate strategy, Directors, Diversification
+
+$ABSTRACT:
+This dissertation makes two important contributions to literature  on organizational failure. The first study explores the relationship between a  firm's corporate (diversification) strategy and its vulnerability to failure  (bankruptcy), and the second study explores the likelihood of reemergence from  the governance perspective.         In the first study, I show that there is a significant difference  between the bureaucratic costs incurred by bankrupt and non-bankrupt firms. My  results suggest that the likelihood of a firm going bankrupt significantly  increases as its bureaucratic costs increase. These results provide robust  support for resource dependence predictions, and highlight the important role  implementation plays in the success of corporate strategy, i.e., if a firm  incurs bureaucratic costs that offset the synergistic benefits it derives from  its diversification profile, its performance is likely to be suboptimal and  prone to failure. My study further shows that higher related diversification,  especially when combined with higher bureaucratic costs, makes firms most  vulnerable to failure.         In the second study, I show that when resourceful directors are  actively involved in the firm's business, a firm's likelihood of reemergence  goes up significantly. Further, the relationship between directors' resourceful  interlinks and reemergence likelihood is curvilinear such that too few or too  many linkages reduce the likelihood of reemergence. Finally, I also show that  nature of resources useful to firms is contingent on the nature of the business  the firm is in, i.e., while resourceful insiders are valuable to firms in  knowledge-intensive industries, resourceful outsiders are more valuable to firms  in knowledge-mundane industries. Overall, this study extends resource dependence  perspective and provides a more robust and contextualized understanding of  directors' impact on firm performance.

@@ -1,0 +1,11 @@
+$TITLE:
+Electromagnetic scattering from an arbitrarily shaped three-dimensional chiral body
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Chiral media, Electromagnetic scattering, Method of moments, Resonant frequency
+
+$ABSTRACT:
+In this dissertation, the method of moments technique for analyzing electromagnetic scattering from an arbitrarily shaped three-dimensional homogeneous chiral body is presented based on the combined field integral equations. The body is assumed to be illuminated by a plane wave. The surface equivalence principle is used to replace the body by equivalent electric and magnetic surface currents. By enforcing the continuity of the tangential components of the total electric and magnetic fields on the surface of the body, a set of coupled integral equations is obtained. The surface of the body is modeled using triangular patches. The triangular rooftop vector expansion functions are used for both equivalent surface currents. The coefficients of these expansion functions are obtained using the method of moments. The mixed potential formulation for a chiral medium is developed and used to obtain explicit expressions for the electric and magnetic fields produced by surface currents. Numerical results for bistatic radar cross sections, the internal field, and the equivalent surface currents along the perimeter of a cross section of the chiral body are presented for three chiral scatterers--a sphere, a finite circular cylinder, and a cube.Numerical results for a sphere are in excellent agreement with the exact ones found by the eigenfunction solution. An analysis of convergence and a possibility of using the right- and left-handed equivalent surface currents as independent unknowns are briefly discussed. Finally, a sufficient condition for obtaining zero cross-polarized backscattering cross section is presented.In an appendix, the exact solutions for a resonant frequency and a Q factor of a chiral sphere are derived.

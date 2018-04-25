@@ -1,0 +1,11 @@
+$TITLE:
+Does One Size Fit All? The Relationship Between A Country's Political Context And Its Rulers
+
+$DEPARTMENT:
+Political Science
+
+$KEYWORDS:
+Comparative politics, Large n, Leadership analysis, Leadership Trait Analysis (LTA), Political context, Political leaders
+
+$ABSTRACT:
+Of interest in this research is the relationship between a country's political context and its leader-its chief executive. The question being investigated is: Who rules in what political context? The premise is that in certain political environments, some skills are required (or at least highly desirable) to be elected or selected and to govern, where others are quickly rebuked. The mechanism theorized to govern the relationship between the political context and the type of leader in charge is the 'degree of constraint.' Components of the political context impose a certain degree of constraint on the leader, which is hypothesized to have an impact on specific leadership qualities that fit best in that situation.This research project is a large n study of the relationship between a country's political context and its leaders. For the period from 1998 through 2008, psychological profiles are constructed for political leaders from four regions in the world (Western Europe, Eastern Europe, the Middle East and North Africa, and Asia), resulting in a dataset with leadership profiles of 247 leaders from 89 countries, for a total sum of 356 observations, or leadership regimes. Information is also collected on the political context of each country: its political system, leadership and electoral structures, processes and outcomes. Using the concept of 'degree of constraint' as the intervening variable, a correlational analysis is done to ascertain the ways in which a country's political context and leadership are related.This study purports to contribute to the scholarship in two major ways, one substantive and one methodological. First: to enhance our understanding of the way in which a country's political context and leaders are related. And second: to demonstrate the feasibility of doing large n leadership studies, and offer a first template of how a large dataset with leadership profiles can be constructed and used in conjunction with other datasets available to investigate research questions.

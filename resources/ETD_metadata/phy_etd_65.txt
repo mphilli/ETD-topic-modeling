@@ -1,0 +1,11 @@
+$TITLE:
+Electroabsorption studies on amorphous and microcrystalline silicon
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Polarization, Electroabsorption, Silicon
+
+$ABSTRACT:
+We report on our studies on the electroabsorption of amorphous silicon and microcrystalline silicon. Particularly, for the mixture of amorphous silicon and microcrystalline silicon, we found electroabsorption peak shifts to higher energy when increasing microcrystalline content in the mixture. We found at the same time when increasing microcrystalline content in our samples that the exponential absorption tail and the polarization effect disappear, which we believe indicates that electroabsorption is dominated by contribution from small crystallites rather than amorphous silicon. We then introduce grazing incidence measurement as a better method for studying polarization effect of electroabsorption. We confirm polarization effect of electroabsorption for amorphous silicon with this method, in fact we found the polarization effect is substantially larger than that was found previously by the co-planar electrode configuration. We found no polarization ratio change due to light-soaking, this effect was found in the co-planar geometry by other groups. We speculate the reason for the difference as two dimensional fields and inhomogeneity of field distribution due to space charge in the co-planar configuration. Finally, we use electroabsorption as a promising tool for studying the built-in potential of heterojunction semiconductor devices. We applied this method with two layer model to pin structure solar cells based on amorphous silicon. We suggest the interface dipole at the p-i interface be accounted for the change of built-in potential due to different intrinsic layers.

@@ -1,0 +1,11 @@
+$TITLE:
+Race, housing prices, and the dynamics of Chicago's housing market, 1975-1979
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Illinois, Economics
+
+$ABSTRACT:
+There is an apparent consensus regarding the effect of race on housing prices: blacks now pay less than whites for housing in most urban ares (or at least they did in the 1970s). The purpose of this dissertation is to reevaluate the consensus of measured racial price discounts by sorting out which of the many possible causes of racial price differentials are dominant. The present study finds that blacks pay less than whites for structurally equivalent housing, as do most other studies. But these discounts are shown to be largely due to (1) non-racial amenities generally omitted from other studies, and (2) temporal changes occurring in the housing market, such as racial transition. Furthermore, since the price differential between blacks and whites varies over racial submarkets and over time, no single and clear conclusion emerges. There is also no clear relationship between housing price and racial concentration, either as a continuous relationship or as an overall price difference between racial submarkets.The one strong and consistent relationship is the price discount to areas of racial transition. The areas in Chicago with the most racial transition between 1975 and 1979 were found to have housing prices about 8 percent lower for renters than racially stable areas; for owners, housing prices were 23 percent lower. The housing price discounts to racially transitional areas, and an overall fall in housing price in integrated areas relative to the ghetto between 1975 and 1979, are consistent with a housing market loosening to blacks. Data are presented which document that this loosening indeed occurred, in the form of the continued movement of whites to the outer suburbs, with blacks acquiring better housing predominantly by occupying the vacated housing in the inner suburbs and in the City of Chicago. The supply of housing to blacks, though undoubtedly improved via Fair Housing laws, is still dependent on the suburbanization of white households.

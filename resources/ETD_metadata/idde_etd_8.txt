@@ -1,0 +1,11 @@
+$TITLE:
+Attrition in distance education: A meta-analysis
+
+$DEPARTMENT:
+Instructional Design, Development and Evaluation
+
+$KEYWORDS:
+Dropout, Retention, Attrition, Distance education
+
+$ABSTRACT:
+This meta-analysis reviews twenty years of research on the effect of attrition predictor variables on distance education post-secondary learners. The predictor variables were derived from a series of attrition models, theories, and studies, and then further identified, defined, and grouped for additional analysis to determine their specific effect on attrition. Thirty studies on distance education attrition met the criteria for inclusion in this meta-analysis. There were seven moderator variables coded for each of 30 studies producing 284 separate ( k  =284) effects. The overall effect size was 0.059, concluding there is no significant pattern in identifying variables that cause or contribute to distance education attrition within the empirical literature reviewed.

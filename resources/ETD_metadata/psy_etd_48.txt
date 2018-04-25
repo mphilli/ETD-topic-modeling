@@ -1,0 +1,11 @@
+$TITLE:
+The relationship between alcohol consumption and alcohol-related problems: An event-level analysis
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+College students, Alcohol
+
+$ABSTRACT:
+Heavy drinking has been identified as a significant problem on college campuses, and students who drink heavily experience a myriad of alcohol-related negative consequences. Previous studies that have examined the relationship between alcohol consumption and alcohol-related consequences have been limited by the fact that researchers collected aggregate data. This study addressed the specific limitations of the aggregate approach by using an alternative data collection and analytic strategy based on event-level data. By examining the event-level relationship, predictions can be made regarding the likelihood of alcohol-related consequences for specific drinking events, as well as regarding potential theoretical predictors of alcohol-related consequences and moderators of the relationship between consumption and consequences. Participants (  N  = 206, 64% female) provided both retrospective event-level data (using a one-month Timeline Follow Back procedure) and prospective event-level data (completing four weekly daily drinking diaries). Only the prospective data are reported. The research questions of this study were (1) what is the event-level relationship between consumption and negative consequences; (2) do specific variables (gender, Greek membership, self-regulation, self-control, impulsivity, and drinking motives) moderate this relationship; (3) do different classes of consequences (e.g., social or legal) show different patterns of risk; and (4) does the 5/4 criterion for binge drinking predict negative consequences at the event level. Results were consistent with most of the predictions. Daily alcohol consumption was significantly associated with increased levels of risk, although this relationship was moderated by average level of consumption (i.e., a tolerance effect). Furthermore, self-regulation, self-control, impulsivity, and negative reinforcement drinking motives also moderated the relationship between daily consumption and likelihood of negative consequences. Finally, evidence of the validity of the 5/4 criterion for binge drinking was inconsistent and depended on the method used to assess validity.

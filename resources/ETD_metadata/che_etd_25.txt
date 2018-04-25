@@ -1,0 +1,11 @@
+$TITLE:
+NMR analysis of structural features of the HIV-1 nucleocapsid protein in response to mutation and interaction with RNA and drug candidates
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+HIV-1, Nucleocapsid protein, Zinc fingers, HSQC, NMR, NCp7 mutation
+
+$ABSTRACT:
+The Human Immunodeficiency Virus (HIV), responsible for the Acquired Immunodeficiency Syndrome (AIDS), is a member of the retroviral family. The nucleocapsid (NC) domain of the Gag precursor is critical for the recognition and packaging of the viral genome and appears to be important for viral particle formation. NC has both specific and non-specific modes of interaction with genomic RNA. When the divalent Mg 2+  replaces univalent Na  +  in buffer it can suppress the non-specific electrostatic interaction to a great extent and does not affect the nature of the complex when the specific binding is most important. Mutants N5A (similar binding affinity as wild type) and F6A (lower binding affinity) were examined by 1  H-  15  N HSQC spectra and Trp titration results, as were the variants of RNA, SL3 GUG and SL1iA. Based on previous research in our group (DeCiantis, 2007), 21 compounds from the NCI Diversity set were found to interfere with NCp7 binding to the HIV-RNA packaging signal. According to the HSQC spectra of a series of ligands bound to NC, we find that 20 of the top 21 hits denature the protein in the presence of a 4 to 16-fold excess of drug. The analyses show that D9 (NSC 107684) binds NCp7 and gradually changes the structure of NCp7 with increasing ratio, and finally denatures the protein. The comparison of HSQC spectra between free NCp7 and NCp7 bound with D17 (NSC 305819) or D19 (NSC 13950) proves that D17 and D19 first react with the second zinc finger, then the first zinc finger, and finally denature the protein. The rest of 20 compounds also can denature NCp7 when the ratio is above 4:1. These results suggest that these compounds may be useful lead compounds for drugs which can interact with zinc fingers and change the structure of NCp7.

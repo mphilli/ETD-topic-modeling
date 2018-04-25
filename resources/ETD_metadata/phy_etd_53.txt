@@ -1,0 +1,11 @@
+$TITLE:
+Thermal noise in low loss flexures
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Flexures, Fused silica fibers, Gravitational waves, Thermal noise
+
+$ABSTRACT:
+Flexures with low mechanical noise are needed in several types of experiment. This dissertation presents a study of the fundamental sources of mechanical noise in flexures at room temperature. Fused silica fibers are perhaps the lowest noise flexure currently avail able, and thermal noise in fused silica fibers is given the largest emphasis. The dissertation has three main sections: (1) Description of a simple sensor capable of monitoring excitations of a thin flexure at the level of thermal noise. The sensor is used to verify the theoretical prediction for the level of thermal noise, and to search for fundamental sources of non-thermal noise occurring in tungsten and fused silica fibers under different loads. (2) Record of measurements of intrinsic dissipation in fused silica fibers as a function of fiber diameter and mode frequency. The results show that in fused silica fibers of diameter less than about 1 mm, most of the loss occurs at the fiber surface. (3) Application of the results of the previous sections to the prediction of thermal noise in advanced interferometric gravitational wave detectors. Thermal noise from the surfaces of fused silica fibers suspending the test masses of such detectors provides a small but not insignificant contribution to the overall noise budget. Application of the formalism developed to treat surface loss in fibers to recent theoretical and experimental results indicates that the loss associated with the reflective optical coatings on the test mass faces may seriously limit the astronomical reach of future gravitational wave detectors.

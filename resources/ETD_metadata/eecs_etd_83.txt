@@ -1,0 +1,11 @@
+$TITLE:
+Coherent radar detection in non-Gaussian clutter
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Coherent detection, Radar, Non-Gaussian clutter
+
+$ABSTRACT:
+New results are presented for coherent detection of radar signals with random parameters in correlated non-Gaussian clutter. Clutter is modeled as a spherically invariant random vector (SIRV) with a known covariance matrix. Non-Gaussian receivers based on this model are nonlinear but still incorporate the linear matched filter used in Gaussian receivers. Closed form solutions for the optimum Neyman-Pearson (NP) receiver in Student-t SIRV clutter and discrete Gaussian mixture (DGM) SIRV clutter are obtained. These examples are used to demonstrate the significant performance improvement of the non-Gaussian receiver over the Gaussian receiver for detecting weak signals in non-Gaussian clutter. Performance of the generalized likelihood ratio test (GLRT) is shown via simulation to be equivalent to that of the NP receiver for cases of interest. This justifies use of the simpler and more easily obtained GLRT for detection in SIRV clutter. A nearly optimum receiver is developed based on using DGM approximations for other types of SIRV clutter. A more intuitive derivation of the normalized matched filter is also given. A two-dimensional graphical representation that provides insight into the nonlinear receiver behavior is presented. For many cases of significance, false alarms are found to arise mostly from points within the body of the input envelope distribution. This supports use of the Öztürk algorithm for approximating the probability density function of the clutter and an adaptive Öztürk-based receiver is shown to perform favorably in comparison to the optimum receiver. Finally, importance sampling is used to develop a very efficient method to estimate the non-Gaussian receiver thresholds for false alarm probabilities on the order of 10 -6  , 10 -7  , and lower using only 1000 to 10,000 simulation trials. The method is validated with known analytical results and the use of extreme value theory.

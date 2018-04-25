@@ -1,0 +1,11 @@
+$TITLE:
+Leadership behaviors and perception in self-managing virtual teams
+
+$DEPARTMENT:
+Information Science and Technology
+
+$KEYWORDS:
+Self-management, Virtual teams, Open source software, Leadership behaviors
+
+$ABSTRACT:
+If we do not know how leadership works in the novel context of self-managing virtual (SMV) teams, how can we train the leaders of these teams? In this study, I reconceptualize leadership in SMV teams and identify reasons for leadership perception. In emergent leadership teams such as the SMV teams, leadership is a socially constructed phenomenon. Individuals' behaviors over time cause them to be perceived as leaders. Since leadership perceptions create followership over time, understanding the reasons behind leadership perceptions over time is the key step to leadership performance. The research questions are: (1) how do task-oriented and relationship-oriented leadership behaviors manifest in self-managing virtual teams? (2) Which leadership behaviors contribute to leadership perceptions in SMV teams? The research questions are addressed with longitudinal case studies of two Free/Libra Open Source Software teams. This study contributes to the SMV team leadership research by (1) identifying leadership behaviors that apply to SMV teams, (2) explicating the sources of leadership perception in SMV teams, (3) reconceptualizing leadership as a dynamic team-level phenomenon, (4) showing how SMV team leadership changes as the level of leadership varies. By investigating real-life teams over a long period of time, this study fills a gap in the virtual team literature for longitudinal studies that reveal the dynamic nature of leadership. The content analysis schema developed for this study is a methodological contribution to the study of leadership in SMV teams, and especially in FLOSS teams.

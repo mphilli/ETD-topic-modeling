@@ -1,0 +1,11 @@
+$TITLE:
+On the aminomethylations of thiols, selenols, and sulfinic acids and the reactions of grignard reagents with (S,N)-acetals
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+thiols, selenols, sulpfinic acidsaminomethylations
+
+$ABSTRACT:
+On the aminomethylations of thiols, selenols, and sulfinic acids and the reactions of grignard reagents with (S,N)-acetals.

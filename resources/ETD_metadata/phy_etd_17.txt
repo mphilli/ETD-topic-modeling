@@ -1,0 +1,11 @@
+$TITLE:
+Toward a quantum dynamics for causal sets
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Causal sets, Quantum gravity, Discrete spacetime, Posets
+
+$ABSTRACT:
+The Causal Set hypothesis for Quantum Gravity asserts that the smooth Lorentzian spacetime manifold of General Relativity is only an approximation to a fundamental microscopic discrete structure: a locally-finite partially-ordered set. The points of this set are akin to the point-events of the spacetime manifold, and the order-relations among these points are akin to the causal-relations among these point-events. The local-finiteness condition implies a fundamental discreteness and provides an important [conformal] factor needed for the continuum approximations.In this dissertation, we address two aspects toward the formulation of a quantum dynamics for causal sets.The first aspect concerns the dynamics of a zero-mass classical scalar field on a background causal set, Poisson-sampled from an Alexandrov interval in (1 + 1)-dimensional Minkowski spacetime. Our numerical simulations suggest that actions can be defined for such a scalar field, expressed solely in terms of the causal set and the scalar field, which approximates the corresponding classical action on the continuum Minkowski spacetime. This result may help us describe matter and gauge fields in a local and Lorentz-invariant way on a causal set, a discrete structure now being considered as the arena for spacetime physics. More importantly, it may help us formulate an action for the causal set itself, which would be used in a sum-over-histories approach to describe the quantum dynamics of causal sets.The second aspect concerns Quantum Measure Theory, a new approach to quantum dynamics inspired by the sum-over-histories approach, which is better suited to formulating the dynamics of causal sets and of other alternative structures for spacetime. To better understand the mathematical structure underlying this new approach, we derive some algebraic identities involving the sum-rules of the Quantum Measure and its generalizations.We conclude with a discussion on possible applications and open problems concerning these aspects.

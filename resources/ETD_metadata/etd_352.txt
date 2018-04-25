@@ -1,0 +1,11 @@
+$TITLE:
+INDIUM TELLURIDE (In2Te3) SEMICONDUCTOR CYLINDER FIBER SENSOR
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Fiber Sensor, Indium Telluride, Laser, Magnetic Field Sensor, Semiconductor, Temperature Sensor
+
+$ABSTRACT:
+Sensors play a very important role in control, monitor and security system. More and more novel technology has been used on a variety of sensors. This thesis investigates using semiconductor cylinder fiber as a new kind of fiber sensor.Our main motive to do this research is based on my interest in optical fiber. After I did some experiments on the semiconductor cylinder fiber, I found some interesting characteristics. When we changed some environmental conditions around the fiber, the output light from it would change accordingly. So I did a systematic research on it.This project uses In2Te3 as a coating layer between the glass core and glass cladding boundary. The layer is a few microns thick and deposited in vacuum. The fiber is industry-standard 125 µm in dimension and with ±5 µm tolerance. Some experiments have been conducted on a 2.5 inches long semiconductor cylinder fiber. As the surrounding temperature changes, the light output would change linearly in log scale. And different magnetic fields also change the light output. These characteristics provide a good potential for the fiber to function as a fiber sensor.Another experiment was conducted to see if there was an amplification or laser effect on this kind of fiber. Wide-spectrum light pumps were used to shine light on the side of this piece of fiber, and so far no obvious amplification was observed.

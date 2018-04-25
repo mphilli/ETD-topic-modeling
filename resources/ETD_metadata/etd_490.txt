@@ -1,0 +1,11 @@
+$TITLE:
+The relationship of cognitive and affective factors with daily somatic complaints: An investigation into response expectancy theory and the symptom perception hypothesis
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+affect, expectancies, recall, somatic complaints, symptom
+
+$ABSTRACT:
+Theories explaining how psychological factors influence somatic complaints have existed for decades; however, few attempts have been made to integrate their predictions. Two such theories are the symptom perception hypothesis and the response expectancy theory. The symptom perception hypothesis suggests that negative affect influences daily somatic complaints, whereas the response expectancy theory surmises relationships with response expectancies. Neurological evidence suggest psychological factors such as these should be integrated to better understand daily somatic complaints. In line with this suggestion, this study aims to examine the combined effects of three psychological factors: namely state negative affect, response expectancies, and recollection of prior symptoms, in predicting daily somatic complaints. Using a sample of 95 college students alongside multilevel modelling, this study examined an integrated model of daily somatic complaints. Daily diary paradigms were used to measure state negative affect and daily somatic complaints. Response expectancies and recalled symptoms were measured as generalized constructs. Additionally, the interaction of state negative affect and response expectancies was examined. Results suggest an additive effect, as state negative affect, response expectancies, and recalled symptoms all predicted daily somatic complaints. The cross level interaction of expectancies and state negative affect was not significant. The results provide support for the coexistence of both the symptom perception hypothesis and response expectancy theory, as well as support for the integration of psychological factors.

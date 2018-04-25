@@ -1,0 +1,11 @@
+$TITLE:
+On the existence and character of Gortler vortices in compressible flow
+
+$DEPARTMENT:
+Mechanical and Aerospace Engineering
+
+$KEYWORDS:
+Compressible flow, Gortler vortices, Boundary layers, Curved ramps
+
+$ABSTRACT:
+This is the first experimental investigation in compressible flow in which Görtler vortices were parametrically identified and characterized. Görtler vortices are counter-rotating pairs of longitudinal vortices that occur as a result of centrifugal instabilities in the boundary layer in flows over curved surfaces with concave curvature. Curved ramp models with a radius of curvature of 25.4 cm or 50.8 cm were mounted in a supersonic blow-down air tunnel with a Re/m of 4.18-5.96 × 10 7  . Mach number was varied from approximately 1.5 to 3.0. Surface roughness effects were examined by applying small vortex generators at 1 mm or 1.57 mm spacing to the leading edge of the models. Micro-carbon particulate surface flow visualization was combined with a novel threshold analysis technique to identify existence and wavelength of Görtler vortices.The results confirm that Görtler vortices do exist in compressible flow, and occur in the regime of flow parameters predicted by compressible stability analyses. A trend of increasing stability with decreasing Mach number does not match the predicted trend, but when vortex generators are added to the model the trend is slightly closer to the predicted trend. It was also found that the dimensional Görtler vortex wavelength does not vary with Mach number, Re number, or radius of curvature. This invariance of Görtler vortex wavelength agrees with experimental results from incompressible flow.

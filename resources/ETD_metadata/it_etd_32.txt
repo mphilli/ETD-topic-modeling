@@ -1,0 +1,11 @@
+$TITLE:
+The study of the effects of electronic storage of government information on the Freedom of Information Act
+
+$DEPARTMENT:
+Information Transfer
+
+$KEYWORDS:
+Electronic storage, Government information, Freedom of Information Act, Decision-making
+
+$ABSTRACT:
+The research investigated the effects of electronic information storage and retrieval on the Freedom of Information Act (FOIA). The study examines decision making by Federal FOIA officers within the theoretical framework of bounded discretion. Time-line interviews were conducted in which FOIA officers discussed recent FOIA decisions they made. The interviews were content-analyzed for instances of constraints on decision-making, as suggested by the theory of bounded discretion. Six categories of constraints were derived from the study. The constraints were used to formulate policy recommendations to improve public access under the FOIA. A major finding of the study was that access under the FOIA is at risk of being eroded as the result of increased computerization in the Federal government. The risk comes largely from Federal information practices rather than shortcomings of the FOIA. The policy recommendations address information management as well as more immediate changes to improve public access. The study also discusses theoretical and methodological implications of the research, future research, and the relationship between theory and policy research.

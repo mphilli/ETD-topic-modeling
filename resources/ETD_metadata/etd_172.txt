@@ -1,0 +1,11 @@
+$TITLE:
+Optical Spring Stabilization
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+The Advanced LIGO detectors will soon be online with enough sensitivity to begin detecting gravitational waves, based on conservative estimates of the rate of neutron star inspirals. These first detections are sure to be significant, however, we will always strive to do better. More questions will be asked about the nature of neutron star material, rates of black hole inspirals, electromagnetic counterparts, etc. To begin to answer all of the questions aLIGO will bring us we will need even better sensitivity in future gravitational wave detectors.This thesis addresses one aspect that will limit us in the future: angular stability of the test masses. Angular stability in advanced LIGO uses an active feedback system. We are proposing to replace the active feedback system with a passive one, eliminating sensing noise contributions. This technique uses the radiation pressure of light inside a cavity as a stable optical spring, fundamentally the same as technique developed by Corbitt, et al. [1] with an additional degree of freedom.I will review the theory of the one dimensional technique and discuss the multidimensional control theory and angular trap setup. I will then present results from the one-dimensional trap which we have built and tested. And propose improvements for the angular trap experiment.Along the way we have discovered an interesting coupling with thermal expansion due to round trip absorption in the high reflective coatings. The front surface HR coating limits our spring stability in this experiment due to the high circulating power and small beam spot size.

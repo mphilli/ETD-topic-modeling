@@ -1,0 +1,11 @@
+$TITLE:
+Formal specification and verification of microprocessor interrupts
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+information security
+
+$ABSTRACT:
+Information security is important in academia, industry and government. The use of formal methods in the design and development of computer hardware and software systems greatly increases the confidence in the security of the information on these systems. Interrupt features are included in most microprocessors and are essential for input/output capabilities. This work uses formal methods to develop and verify correctness properties for well behaved microprocessor interrupts. Several microprocessor architectures are studied to identify common interrupt properties. The well behaved interrupt is then defined and further developed using an abstract state machine and the verification proofs were conducted with the Clio verification system. The abstract concept of program execution where no interrupts occur is compared to program execution in the presence of interrupts and proven to produce the same results. The formal definition and verification of microprocessor interrupts in this work provides a guideline for the formal specification and verification of any computer system with interrupt capabilities and the correctness properties will contribute to the complete formal verification of computer systems.

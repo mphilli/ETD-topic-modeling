@@ -1,0 +1,11 @@
+$TITLE:
+A generic framework for design evolution: From function-to-form mapping to synthesis of tolerances
+
+$DEPARTMENT:
+Mechanical and Aerospace Engineering
+
+$KEYWORDS:
+Design evolution, Function-to-form mapping, Tolerances, Mapping deviation-to-tolerance
+
+$ABSTRACT:
+Design of a new product (artifact) begins with a set of user specifications which are functional requirements (FRs) that the artifact must satisfy. Initially, the set of FRs is almost always incomplete because complete knowledge about the product is not known at the conceptual design stage. In this work, two complementary schemes are presented: a design synthesis scheme for conceptual design and a tolerance synthesis scheme for manufactured parts. In the first phase, a function-to-form mapping process is presented to arrive at a conceptual design that satisfies the FRs. This process is carried out in stages of design evolution and at each stage the product specification (PS) is transformed using FRs as constraints and variation of internal parameters of artifacts as navigator for the mapping process. In the second phase, which starts after the nominal dimensions of the parts of an artifact have been computed (using domain-specific design rules), a method for synthesis of tolerances for manufactured parts is presented as an optimization process for minimizing manufacturing cost subject to constraints of assemblability and functional requirements. A generic deviation-based formulation has been used to represent the variations of features and the entities in the tolerance synthesis process have been modeled in UML using object-oriented representation. A new deviation-based model for manufacturing cost has been introduced. The optimization scheme is used to find a set of optimal deviation parameters, which are then transformed into standard tolerance specifications as per ASME Y 14.5M (1994) tolerancing schemes using a deviation-to-tolerance mapping system. The tolerance synthesis scheme is implemented to serve as a tool that could be linked with standard CAD packages to give the designer a mechanism for iterative solution for product development and tolerance synthesis.

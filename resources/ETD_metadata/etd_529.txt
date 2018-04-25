@@ -1,0 +1,11 @@
+$TITLE:
+On What Consists in What
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+
+
+$ABSTRACT:
+This dissertation explores four metaphysical issues related to the concept of metaphysical analysis. One chapter explains the notion of analysis Leibniz invokes in his infinite-analysis theory of contingency, and defends that theory against a pair of objections. Another argues against a series of counterpossible analyses of essence. A third chapter argues that ontological realists should define Theodore Sider’s notion of fundamentality in terms of real definition, because Sider’s primitivism about fundamentality undermines his arguments for ontological realism, and a better argument for ontological realism can be stated in terms of real definition. The final chapter offers a theory of reduction and realism in terms of metaphysical analysis and ground, and uses that theory to offer some novel reductions of properties, numbers, and morality.

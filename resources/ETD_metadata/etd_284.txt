@@ -1,0 +1,11 @@
+$TITLE:
+Influence of environment on soil carbonate clumped isotope records, Andean piedmont of Central Argentina (32-34⁰S)
+
+$DEPARTMENT:
+Earth Sciences
+
+$KEYWORDS:
+Andean piedmont, arid soils, Clumped isotopes, Geothermometry, Pedogenic carbonate, T(D47)
+
+$ABSTRACT:
+The clumped isotope geothermometer estimates the formation temperature (T(Δ 47)) of carbonates and has tremendous potential to enhance the extraction of environmental data from pedogenic (soil) carbonate in the geologic record. However, the interpretation of pedogenic carbonate T(Δ47) data is limited by uncertainties in our understanding of carbonate formation processes. This study examines the potential for along-strike, same elevation and plant biomass (C3/C4) site variability to influence pedogenic carbonate T(Δ47) data. Pedogenic carbonates were collected from five modern soil pits in the semi-arid eastern Andean piedmont of Argentina under a summer precipitation regime. Three of the five soil pits were instrumented with soil temperature and soil moisture sensors to a depth of 1 m (at 1 km elevation), while a fourth was instrumented with an additional soil CO2 sensor and atmospheric sensors (temperature, relative humidity, insolation and rainfall) (at 0.6 km elevation). T(Δ47) values are statistically indistinguishable between the four instrumented sites and are invariant with depth. The mean T(Δ47) is 31°C ± 4°C (± 1SE), reflecting summer soil temperatures. Soil moisture and temperature data indicate that isothermal conditions are achieved immediately after significant wetting events. Carbonate formation under these conditions could result in our observed hot isothermal T(Δ47) values. The results of this study constrain carbonate formation to the early part of soil drying, with T(Δ47) interpretations biased to soil conditions just after major precipitation events.

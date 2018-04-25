@@ -1,0 +1,11 @@
+$TITLE:
+Mixed Problems and Layer Potentials for Harmonic and Biharmonic Functions
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+biharmonic, boundary value problem, harmonic, layer potential, mixed problem, partial differential equation
+
+$ABSTRACT:
+The mixed problem is to find a harmonic or biharmonic function  having prescribed Dirichlet data on one part of the boundary and prescribed  Neumann data on the remainder. One must make a choice as to the required  boundary regularity of solutions. When only weak regularity conditions are  imposed, the harmonic mixed problem has been solved on smooth domains in the  plane by Wendland, Stephan, and Hsiao. Significant advances were later made on  Lipschitz domains by Ott and Brown. The strain of requiring a square-integrable  gradient on the boundary, however, forces a strong geometric restriction on the  domain. Well-known counterexamples by Brown show this restriction to be a  necessary condition.     This thesis proves that these harmonic counterexamples are an anomaly,  in that the mixed problem can be solved for all data modulo a finite dimensional  subspace. The geometric restriction now required is significantly less stringent  than the one referred to above. This result is proved by representing solutions  in terms of single and double layer potentials, establishing a mixed Rellich  inequality, and applying functional analytic arguments to solve a two-by-two  system of equations. These results are then extended to allow Robin data in  place of Neumann data.    This thesis also establishes counterexamples for the biharmonic mixed  problem with Poisson ratio in the interval [ -1, -.5]. These counterexamples are  biharmonic analogues to the harmonic ones referred to above. Their exact form is  obtained by solving a four-by-four system of equations.

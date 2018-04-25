@@ -1,0 +1,11 @@
+$TITLE:
+On the Design and Analysis of Secure Inference Networks
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Byzantine Attack, Eavesdropping, Inference Networks, Jamming, Security
+
+$ABSTRACT:
+Parallel-topology inference networks consist of spatially-distributed sensing agents that collect and transmit observations to a central node called the fusion center (FC), so that a global inference is made regarding the phenomenon-of-interest (PoI). In this dissertation, we address two types of statistical inference, namely binary-hypothesis testing and scalar parameter estimation in parallel-topology inference networks. We address three different types of security threats in parallel-topology inference networks, namely Eavesdropping (Data-Confidentiality), Byzantine (Data-Integrity) or Jamming (Data-Availability) attacks. In an attempt to alleviate information leakage to the eavesdropper, we present optimal/near-optimal binary quantizers under two different frameworks, namely differential secrecy where the difference in performances between the FC and Eve is maximized, and constrained secrecy where FC’s performance is maximized in the presence of tolerable secrecy constraints. We also propose near-optimal transmit diversity mechanisms at the sensing agents in detection networks in the presence of tolerable secrecy constraints. In the context of distributed inference networks with M-ary quantized sensing data, we propose a novel Byzantine attack model and find optimal attack strategies that minimize KL Divergence at the FC in the presence of both ideal and non-ideal channels. Furthermore, we also propose a novel deviation-based reputation scheme to detect Byzantine nodes in a distributed inference network. Finally, we investigate optimal jamming attacks in detection networks where the jammer distributes its power across the sensing and the communication channels. We also model the interaction between the jammer and a centralized detection network as a complete information zero-sum game. We find closed-form expressions for pure-strategy Nash equilibria and show that both the players converge to these equilibria in a repeated game. Finally, we show that the jammer finds no incentive to employ pure-strategy equilibria, and causes greater impact on the network performance by employing mixed strategies.

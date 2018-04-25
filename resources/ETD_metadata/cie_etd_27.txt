@@ -1,0 +1,11 @@
+$TITLE:
+Influence Of Surfactants On The Dewatering Of Coal
+
+$DEPARTMENT:
+Civil and Environmental Engineering
+
+$KEYWORDS:
+Energy, Materials science, Hydrophobic, Hydrophilic
+
+$ABSTRACT:
+The presence of water in coal prior to its utilization as a source of energy can, for the most part, be considered as an undesirable impurity. The reasons are almost too numerous to list; however, one needs only to consider that the purpose of coal is energy conversion, and water present during this conversion consumes energy for evaporation.  ...[Surfactants] are known to decrease the interfacial tension of the air-water interface drastically at extremely low concentrations. In terms of overcoming the capillary forces of a bed of small granulated particles this interfacial tension is proportional to the work required to displace the liquid. Any improvement is worthwhile.... similar molecules have been used by the mineral industry in the area of ore flotation. In this case the molecules are absorbed at the surface of a mineral and render it hydrophobic such that through the attachment of air bubbles the particles are caused to float to the surface of the liquid where they are recovered. Such molecules change a hydrophilic surface to hydrophobic.

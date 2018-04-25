@@ -1,0 +1,11 @@
+$TITLE:
+Data fusion with multiple queries in single information retrieval scheme
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+Data fusion, Multiple queries, Information retrieval
+
+$ABSTRACT:
+Information overload becomes an immediate issue as the Internet prospers. To improve information retrieval (IR) effectiveness, we propose a hybrid IR technique that builds on two well-known IR search approaches-- data fusion and query expansion via relevance feedback . Data fusion improves performance by integrating the multiple search results yielded by running multiple search techniques or by running a single search technique on several different user queries reflecting the same information need. Relevance feedback runs a single search technique on a user query to obtain initial retrieval results, based on which it then revises, or expands, the user query for further retrieval runs. While our proposed IR technique is based on a hybrid approach that exploits the strengths of both data fusion and relevance-feedback, it is also designed to resolve some of the weaknesses of these approaches. In our technique, given a user's original query, multiple surrogate queries are generated. Multiple retrieval runs are then carried out for these surrogated queries. Finally the results from these runs are integrated using a sum-cosine similarity measure. We show formally that our hybrid IR technique is theoretically sound and we identify conditions under which it should be expected to perform well. Additionally, we offer an elaborated empirical investigation of our proposed technique, showing that it improves retrieval performance relative to the vector space model and is a good alternative to relevance feedback. We verify the conditions under which such improvement should be expected as well.

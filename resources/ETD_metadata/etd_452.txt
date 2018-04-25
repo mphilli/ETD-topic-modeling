@@ -1,0 +1,11 @@
+$TITLE:
+mLearning in the organizational innovation process
+
+$DEPARTMENT:
+Instructional Design, Development and Evaluation
+
+$KEYWORDS:
+Activity Theory, Diffusion of Innovation, mLearning, Organizational Adoption, Participant Observation, Qualitative
+
+$ABSTRACT:
+Mobile devices have connected seven billion users across the world (Sanou, 2015) reaching areas that go beyond the electrical grid (Nique and Smertnik, 2015). The ubiquity of mobile devices has created an advantage for organizations to leverage hardware compatible with reaching their target audiences. A strategic response is necessary to address the complexity of employing mobile technology for mobile learning (mLearning) in order to reach it’s full potential as a new learning medium (Peters, 2009). The purpose of this research study was to explore the process by which an organization adopted and engaged in an mLearning initiative.Built on Rogers (2003) diffusion of innovation research, the case study reports on the contextual factors within the organization and department that informed the mLearning adoption process. The researcher gathered observational data over one-year through active participant- observation within an organization’s technology solutions department. Serving as an instructional designer and gathering data as an academic researcher in the same setting allowed the researcher to gain an intimate view of the adoption process. To collect meaningful data the author used Activity Theory as a critical analysis lens and employed a research framework based on the stages of organizational adoption to understand the data in a longitudinal manner.The findings of this study suggest that the initial adoption of mLearning in the organization studied did not reach sustainable implementation because 1) no clear champion for mLearning existed and; 2) an untested mLearning product was heavily relied upon even though it was being developed in parallel to the mLearning implementation efforts. Interest in mLearning at the organization continued, outside departments desired an mLearning learning management system (LMS) to deliver content as soon as possible. Yet the organization simply was not prepared to accommodate due to delays in the mLearning product development.Keywords: Diffusion of Innovation, Technology Adoption, Activity Theory, Mobile Learning

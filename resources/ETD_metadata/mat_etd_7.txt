@@ -1,0 +1,11 @@
+$TITLE:
+Sampling with reproducing kernels
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Kernels, Sampling theory, Optimal reconstruction, Band-limited signals, Hilbertspaces
+
+$ABSTRACT:
+The theme of sampling is the reconstruction of a function from its values at a set of points in its domain. It is arguable that the functions to be reconstructed should be from a reproducing kernel Hilbert space (RKHS), where point evaluations are continuous linear functionals. Under this setting, we prove that the minimal norm interpolation always provides the optimal reconstruction operator. It is also shown that the approximation error converges to zero as the number of samplings tends to infinity if and only if the sampling set is a uniqueness set for the RKHS. Uniqueness sets in various RKHS are investigated.  We then turn to perfect reconstruction formulas like the Shannon sampling theorem for the Paley-Wiener space. By the frame theory, such formulas exist if the RKHS has a Riesz sampling set. Consequences, properties, and existence of Riesz sampling sets in RKHS are explored. In particular, it is shown that the RKHS of the widely used Gaussian kernels do not possess a Riesz sampling set.  The last part of the thesis centers around optimal reconstruction of a function in the Paley-Wiener spaces from its localized samples. Several equivalent formulations for the approximation error of the optimal algorithm are established, followed by favorable upper and lower bound estimates. The estimates show that the approximation error decays exponentially (but not faster) as the number of localized samplings increases. We also provide an explicit and practical reconstruction formula whose approximation error satisfies the upper bound estimate.

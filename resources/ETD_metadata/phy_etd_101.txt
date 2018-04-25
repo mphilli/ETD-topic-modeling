@@ -1,0 +1,11 @@
+$TITLE:
+Representations of Some Non-Compact Groups and Applications of Non Invariance Groups to Particle Physics
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Physics, nuclear
+
+$ABSTRACT:
+In the first part of this thesis, a prescription is given for obtaining the representations of certain non-compact groups – of the kind that have been found useful in the analysis of classical systems. Well known techniques have been used in a systematic fashion, and is necessarily mathematical. However, we apply this technique in the second part to study properties of strongly interacting particles. Results that one obtains is compared against experiment.

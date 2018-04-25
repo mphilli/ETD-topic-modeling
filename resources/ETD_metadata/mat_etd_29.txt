@@ -1,0 +1,11 @@
+$TITLE:
+Representations of semisimple Hopf algebras
+
+$DEPARTMENT:
+Mathematics
+
+$KEYWORDS:
+Hopf algebras, Drinfeld double, Semisimple
+
+$ABSTRACT:
+Let H  be a cosemisimple Hopf algebra over an algebraically closed field. In the first chapter of the thesis, it is shown that if  H  has a simple subcoalgebra of dimension 9 and has no simple subcoalgebras of even dimension, then H  contains either a grouplike element of order 2 or 3, or a family of simple subcoalgebras whose dimensions are the squares of each positive odd integer. In particular, if H  is odd dimensional, then its dimension is divisible by 3.In the second chapter, the induced representations from H and H * to the Drinfel'd double D ( H ) are studied. The product of two such representations is a sum of copies of the regular representation of D ( H ). The action of certain irreducible central characters of H * on the simple modules of H is considered. The modules that receive trivial action from each such irreducible central character are precisely the constituents of the tensor powers of the adjoint representation of H .

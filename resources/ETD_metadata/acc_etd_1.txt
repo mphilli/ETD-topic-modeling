@@ -1,0 +1,11 @@
+$TITLE:
+Empirical evidence on the impact of a material weakness
+
+$DEPARTMENT:
+Accounting
+
+$KEYWORDS:
+Audit fees, Market reaction, Remediation, Sarbanes-Oxley, Internal control, Material weakness
+
+$ABSTRACT:
+The implementation of compliance procedures associated with the Sarbanes-Oxley Act of 2002 came at a great cost to most publicly-traded firms, in large part due to the internal control disclosures required by Section 404 of the Act. This paper investigates the effect of disclosing a material weakness on the market, the firm and the firm's auditor. Firms that disclose a material weakness in the financial reporting process are more likely to have material misstatements in their financial statements and thus are more likely to restate future financial statements. The disclosure of an ineffective control environment prior to the announcement of a restatement is associated with less negative cumulative abnormal returns at the time of the restatement announcement. Disclosing an ineffective control environment also has an effect on the manner in which firms choose to disclose a pending restatement. Auditors benefit from the requirements of the Sarbanes-Oxley by capitalizing on the added testing requirements in the case of clients with internal control weaknesses through additional revenues. A persistent ineffective control environment is also found to have a positive effect on audit fees. This study also finds that audit fees remain high in the years following the remediation of an internal control weakness suggesting that the increase in fees is due to a risk premium as well as an increase in auditor effort. This result also suggests that audit fees are "sticky".

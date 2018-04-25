@@ -1,0 +1,11 @@
+$TITLE:
+Heavy alkaline earth metal amides: Synthetic and structural investigations
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Alkaline earth metals, Nontoxic reagents, Primary and secondary amines, Redox transmetallation/ligand exchange, Organoamides, Coordination chemistry
+
+$ABSTRACT:
+During the last decade, heavy alkaline earth organometallic chemistry has emerged from obscurity to becoming a vibrant area of research, owing to a number of synthetic pathways that provide reliable access to these highly reactive target compounds. Nevertheless, synthetic methodologies are all associated with various disadvantages. Thus, the development of improved synthetic routes will have a significant impact on the further development of alkaline earth metal chemistry.Further, analysis of recent work emphasizes difficulties associated with the predictions of the coordination chemistry of these large metals, thus preventing the urgently needed structure/function correlation. As such, the study of ligand and donor effects on the coordination chemistry of these metals provides an avenue for further advancement of alkaline earth organometallics. Part I of this thesis analyzes, in detail, parameters responsible for the coordination chemistry of alkaline earth metal amides, ultimately providing the tools for the development of novel materials for chemical vapor deposition to allow the preparation of advanced precursor materials.Part II evaluates a novel synthetic methodology that provides facile, reliable, inexpensive access to alkaline earth metal amides circumventing many of the known synthetic difficulties associated with the well-established procedures. Importantly, this synthetic methodology represents an environmentally conscious synthetic route, that is amenable towards other ligand systems (i.e. N(R)(SiMe 3 ) (R = SiMe 3 ; 2,4,6-Me 3 C 6 H 2 ; 2,6- i Pr 2 C 6 H 3 ) thus providing unprecedented access to organo alkaline earth metal derivatives.The final part of this work reports on preliminary studies geared to preparing non silylated amides in an attempt to address the commonly observed problem of N-Si bond cleavage in the silylated complexes. This work will ultimately provide attractive precursors for synthetic and solid-state applications.

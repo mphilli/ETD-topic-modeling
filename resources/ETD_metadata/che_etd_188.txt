@@ -1,0 +1,11 @@
+$TITLE:
+Investigating Novel Hydrothermal Synthesis Methods and Surface Chemistry Approaches in order to Better Integrate Quantum Dots into Applications in Biomimetic Self-Assembly and Energy Transfer
+
+$DEPARTMENT:
+Chemistry
+
+$KEYWORDS:
+Energy Transfer, Nanomaterials, Quantum Dots
+
+$ABSTRACT:
+In this thesis, I explain the synthesis, photophysical properties, self-assembly, and energy transfer of quantum dots (qdots). Firstly, I demonstrate the core and core/shell type qdots synthesis using microwave-induced hydrothermal approach and discussed their optical properties. Hydrothermal temperature could be achieved and aqueous processing was greatly facilitated, allowing for the qdot size control, narrowing size distributions, and improved quantum yields. I next discuss the DNA-mediated self-assembly study of qdots in the view of the resonance energy transfer. The ssDNA was firstly functionalized on the CdSe/ZnS qdots and gold nanoparticle (AuNP) surface through several different approaches. In chapter three, Förster resonance energy transfer (FRET) method was applied to explain the qdot PL spectral changes when it is combined with the organic fluorophore and elucidate this qdot-DNA-fluorophore structure. In chapter four, CdSe/ZnS qdot PL quenching and recovery system was demonstrated by introducing the DNA functionalized AuNPs. Here, the DNA-mediated self-assembly was applied and nanometal surface energy transfer (NSET) analysis performed to explain this qodt-AuNP interactions. PL quenching and recovery was detected and the separation distance was considered for qdot-AuNP assembly structures. In chapter five, I discuss on the qdot PL quenching with Au, Au/Ag, and Au/Pd NPs, considering surface plasmon resonance (SPR) signatures. Further inner filter effect was considered with specific Stern-Volmer constatns. Lasty, I demonstrate the solid support assembly of multi-color qdot clusters using DNA-mediated self-assembly. CdSe/ZnS qdot was phase-transferred into aqueous buffers through amphiphilic polymer wrapping and ssDNA was functionalized on resulting aqueous qdots. PL recovery of two qdot peaks was clearly shown, indicating the successful formation of multi-color qdot clusters and qdot to qdot ratio can be systematically regulated upon initial introducing amounts of qdots.

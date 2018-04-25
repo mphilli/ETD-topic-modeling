@@ -1,0 +1,11 @@
+$TITLE:
+Performance assessment of space-range processing against hot clutter
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Electrical engineering, radar jamming
+
+$ABSTRACT:
+The term "Hot Clutter" refers to jammer energy reaching a radar through paths other than the direct path, experiencing reflections off of the ground. It can be particularly damaging to the radar performance since this scattering area can be very large, effectively jamming a wide angular extent with one jammer.This work assesses the performance of space-range processing for some typical cases of hot clutter geometries. An interference model is developed for hot clutter which is a direct computation of the interference covariance matrix from the jammer and scatterer geometry. An evaluation technique for analyzing the cancellation mechanism is presented using signal-to-interference ratio after processing.It is found that there are efficient collections of range delays for space-range processing which are non-uniform. The processing can be effective against the hot clutter threat at jammer ranges of less than 100 miles. It will have an effect on pulse-to-pulse coherent processing which must be evaluated. It will also affect resolution in a multi-target environment. It is hoped that this work will provide useful performance predictions and useful analysis techniques for further development of such a radar system.

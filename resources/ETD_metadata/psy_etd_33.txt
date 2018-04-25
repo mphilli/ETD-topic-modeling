@@ -1,0 +1,11 @@
+$TITLE:
+Not so fast: Using speed to differentiate high and average readers
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Processing speed, Reading rate, Postsecondary
+
+$ABSTRACT:
+Increasing numbers of postsecondary students have sought psychoeducational evaluations for disabilities based on purported deficits in processing speed that impact reading. However, research to date has only begun to explore this relationship. The present study examined the concurrent and predictive validity of measures of speed and reading and explored the relationship of perceptions about speeded performance to actual scores. One hundred twenty-five postsecondary students without any reported disabilities completed a battery of speed, reading, cognitive, and demographic measures. Results indicated that there were weak correlations among measures of speed and reading, and that both standardized and experimental speed measures were not predictive of reading comprehension performance. Examinees' perceptions about their reading performance under timed conditions explained a significant proportion of variance in reading comprehension. The present study supports previous research underscoring the limited relationship between speed and reading in this population, with the exception of relatively good predictive validity of a standardized measure of reading fluency and self-reported speed skills. Until further research elucidates the speed-reading relationship in both typical and clinical populations clinicians should use caution when interpreting speeded measures in the context of postsecondary psychoeducational evaluations.

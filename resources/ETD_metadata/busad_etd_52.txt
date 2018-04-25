@@ -1,0 +1,11 @@
+$TITLE:
+Modeling multivariate time series with applications in financial data
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+Forecasting, Scalar component model, Nested reduced-rank model, Multivariate time series, Financial data
+
+$ABSTRACT:
+Given multiple time series, analyzing many variables at the same time is meaningful for finding relationships among the variables and for forecasting improvement when lead-lag relationships exist. However, multivariate analysis also has the difficulty of complex estimation. To relax the estimation problem simplifying methods, the scalar component model (SCM) and the nested reduced-rank model (NRR), are introduced by Tiao and Tsay (1985, 1989) and Ahn and Reinsel (1988), respectively. After the variables are transformed by linear transformations, the resulting structures are simpler and reveal some hidden relationships among the variables. In this study, these methods are addressed and applied along with traditional multivariate time series models. Due to the non-nested nature of the SCM and the NRR, the comparison is limited to structural changes and forecasting performance. The robustness of the multivariate methods is examined by the comparison of root mean squared errors of forecasting in the presence of outliers. The simulation results support the hypothesis is that the simplified multivariate method provides accurate forecasting even with the impact of outliers. The real-world data, the flour price index and the interest rates, also provide the possibility of applying simplifying structures for simpler interpretation of relationships and for improvement in forecasting accuracy.

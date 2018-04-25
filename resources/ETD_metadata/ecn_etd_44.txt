@@ -1,0 +1,11 @@
+$TITLE:
+Two essays on personnel mobility from public schools in New York State
+
+$DEPARTMENT:
+Economics
+
+$KEYWORDS:
+Personnel mobility, Public schools, New York
+
+$ABSTRACT:
+In the first chapter, we study teachers in their second spell of teaching. We examine teachers' commitment to stay in the new school and try to relate some of the factors that might have caused teacher mobility from the old school to the new one on the decision to stay in the new school.In the second chapter, we are interested in examining the factors that might cause principals and assistant principals to leave their school. We use the same method used by Hanushek et al., 2002 to understand the determinants that might influence the mobility of principals and assistant principals. Our study is focused on public schools in New York State for the years 1980-1990. A hazard survival model is used to help us in examining the relationship between the determinants of mobility and the length of stay in the public school.

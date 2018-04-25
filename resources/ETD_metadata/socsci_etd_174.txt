@@ -1,0 +1,11 @@
+$TITLE:
+Three Essays on Nonprofit Competition in Grant Markets
+
+$DEPARTMENT:
+Social Sciences
+
+$KEYWORDS:
+Nonprofit, Transaction cost economics, Grant markets, Contract markets, Organizational ecology, Nongovernmental organizations
+
+$ABSTRACT:
+The following dissertation consists of three essays around the theme of  nonprofit competition. The first essay develops an empirical framework  for study of performance in contract markets, an important context for  nonprofits since they receive much of their funding from contracts and  grants. The essay uses transaction data from an online marketplace for  custom software projects to address questions related to market risk and  project failure. The second essay explores one specific aspect of  nonprofit competition--organizational survival. Organizations within the  international sector are observed over a 20-year time horizon to see  how resources influence rates of organizational failure. The third essay  presents a theoretical treatment of volatility in nonprofit grant  markets. Numerical analysis and computer simulation are used to show  that the grant-to-nonprofit ratio is an important determinant of market  volatility, and that market volatility can cause organizations to fail  even when they are performing at adequate levels.

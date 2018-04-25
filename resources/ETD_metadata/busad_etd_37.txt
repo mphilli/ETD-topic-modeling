@@ -1,0 +1,11 @@
+$TITLE:
+Volatility, volume and trade size
+
+$DEPARTMENT:
+Business Administration
+
+$KEYWORDS:
+Volatility, Volume, Trade size, Information content
+
+$ABSTRACT:
+The main objective of this study is twofold. First, we investigate the relationship between volume and return volatility and their interaction with daily information flow. Second, we examine the trade size information content.In the first part we examine the variation in daily trading data of the Dow Jones 30 stocks. Under the setup of the mixture of distributions hypothesis, information induces trading and price change. We extract the latent information variable and find that positive trading volume and return volatility co-movement is primarily induced by information flow. Trading volume, return volatility and information flow exhibit a significant day-of-week pattern. We further investigate the commonalities among trading volume, return volatility, and information flows. Principal component analysis and canonical analysis show that the extracted latent information variable captures well the information arrival intensity. These results also show a single common factor among information flow, trading volume and return volatility.In the second part, we propose a model with multiple traders and signals, and a continuous size distribution to examine the information content of trade size. We find that the effect of trade-size information on pricing efficiency, bid-ask spreads and price volatility is contingent on market conditions. Empirical analysis on the trade size of the Dow Jones 30 stocks shows that both information and inventory effects of trade size exist.

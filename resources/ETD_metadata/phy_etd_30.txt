@@ -1,0 +1,11 @@
+$TITLE:
+Absolute branching fraction measurements and electron spectrum of inclusive charged and neutral D meson semileptonic decays
+
+$DEPARTMENT:
+Physics
+
+$KEYWORDS:
+Branching fraction, Electron spectrum, Semileptonic decays, D mesons, CLEO
+
+$ABSTRACT:
+We present a measurement of the inclusive branching fractions for the decays D  +  [arrow right] Xe   +  ν  e   and D   0  [arrow right] X e   +  ν   e   , using 281 pb -1  of data collected on the ψ(3770) resonance with the CLEO-c detector. We find [Special characters omitted.] ( D  0  [arrow right] X e    +  ν  e   ) = (6.46 ± 0.17 ± 0.13)% and [Special characters omitted.] ( D  +  [arrow right] X e    +  ν  e   ) = (16.13 0.20 ± 0.33)%.

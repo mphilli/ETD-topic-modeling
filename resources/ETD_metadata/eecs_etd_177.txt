@@ -1,0 +1,11 @@
+$TITLE:
+Dynamic pointer swizzling to support adaptable persistent programming
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Computer science
+
+$ABSTRACT:
+Persistent programming is a known efficient programming model that allows the creation of powerful scientific and data intensive applications. Persistent programming is also an excellent tool to support heterogeneous environments such as the Internet. In order to provide efficient and portable very large scale persistent storage systems, we must provide mechanisms that permit efficient use of the system resources. We propose new efficient pointer swizzling schemes to support persistent spaces larger than processor address spaces. We introduce dynamic swizzling, a new page-fault driven swizzling policy, which reduces excessive page reservation in static alternatives, and it has better performance than software based policies due to a special mechanism for flipping pointers at runtime. Dynamic swizzling as opposed to static-based policies is also non-optimistic which allows objects to be unswizzled during the course of a transaction. The issue of how much and when to swizzle is also examined. Pure eager and lazy polices which will swizzle all or nothing receptively, have serious drawbacks, and do not provide adaptable solutions that are applicable to general scenarios. Based on dynamic swizzling, a new model is introduced that allows the fine tuning of swizzling operations by providing a new swizzling layer of adaptable operations. This new mechanism does not suffer from being so static as previous implementations that provided software assisted swizzling, and provides a new tag resolution scheme which guarantees that conflicts will be resolved at runtime and will not create inconsistent states. In addition, a new model based on the interface description and the interface access probability is proposed to provide automatic assessment for objects that do not provide swizzling functions. This information is of extreme importance because it can be used by the data server to pre-fetch or defer the loading of related objects. Finally, Flipper, a prototype persistent store is proposed with support for orthogonal persistency, and secure persistency by reference without having to redesign the kernel.

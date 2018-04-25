@@ -1,0 +1,11 @@
+$TITLE:
+Obesity Indices and Cognitive Function in Veterans
+
+$DEPARTMENT:
+Psychology
+
+$KEYWORDS:
+Body Mass Index, Cognitive Function, Neuropsychological Function, Obesity, Veteran, Waist Circumference
+
+$ABSTRACT:
+Obesity is linked to many chronic health conditions and middle-aged obesity is associated with later-life dementia. Obesity rates in veterans are higher than in the civilian population. Research examining body mass index (BMI) and cognitive function has demonstrated that young to middle-aged obese adults consistently demonstrate deficits in memory and executive function. Waist circumference (WC) is another measure of obesity that has been investigated as it relates to cognitive function; however, a clear pattern of deficit has not yet emerged. This study's purpose was to investigate the relationship among BMI, WC, and cognitive function in male veterans aged 18-55. One hundred and seventeen veterans participated in this one-session study. Participants had their height and weight measured, completed questionnaires that assessed demographic information and other health-related variables, and completed a battery of cognitive tests. A chart review of each participant's medical record was conducted, and relevant diagnoses and medications were extracted. A factor analysis (FA) of the cognitive outcome variables was conducted for data reduction purposes and FA results were used to create the following factors: Speeded Measures, Verbal Fluency, Memory, and Executive Function. Then, four-step hierarchical regression analyses were conducted with BMI and WC entered as the main predictor variables. Results revealed no significant relationship between obesity indices and cognitive function after controlling for relevant variables. Post hoc analyses were then conducted. Composite scores were created based on the conceptual basis of the neuropsychological outcome measures: Memory, Executive Function, Verbal Fluency, Attention, and Psychomotor Speed. Regression analyses were rerun using these scores. Results revealed no significant relationship between any index of obesity and cognitive function. Implications of these findings are discussed.

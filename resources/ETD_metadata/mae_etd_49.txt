@@ -1,0 +1,11 @@
+$TITLE:
+Oil whirl and critical instabilities in rotor-bearing systems
+
+$DEPARTMENT:
+Mechanical and Aerospace Engineering
+
+$KEYWORDS:
+oil whirl
+
+$ABSTRACT:
+Two different models are used to study the phenomenon of oilw whirl and to determine the damped natural frequencies of the system.  In the whirl analysis, the captivated fluid film is represented by eight linearized  coefficients.  The supports have an analagous representation and the governing equations of motion are tested for stability using the original Routh criterion. For the determinationof the damped critical speeds, a transfer matrix scheme is developed and the complex eigenvalues extracted through an interactice procedure.

@@ -1,0 +1,11 @@
+$TITLE:
+A Case Study of the United States Weather Satellite Program: the Interaction of Science and Politics
+
+$DEPARTMENT:
+Political Science
+
+$KEYWORDS:
+Political science, weather satellites, decision making, government agencies
+
+$ABSTRACT:
+The scope of this study has been limited to investigating the question: what was involved with the United States government’s decision to base the first operational meteorological  satellite system upon the TIROS rather than the more advanced NIMBUS satellite, as originally planned? Science meets politics in this paper, which covers the period from 1946-1965, with the main focus of the years from 1961-1963 when the fate of the NIMBUS operational system was decided upon, and rejected.

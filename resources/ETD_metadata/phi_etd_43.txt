@@ -1,0 +1,11 @@
+$TITLE:
+Intention, interpretation, and truth
+
+$DEPARTMENT:
+Philosophy
+
+$KEYWORDS:
+artwork, ethics, Philosophy, Fine Arts, Literature
+
+$ABSTRACT:
+There have been two dominant views regarding the relationship between truth and the interpretation of works of art. The first, which I call "compatibilism", claims that interpretations do not have the value 'true' attached to them. In addition to the value 'false', they hold truth-values such as 'plausible', 'apt', and 'interesting'. The second view, "incompatibilism", states that interpretations do have the value 'true', and that for any work of art, there is one, and only one, true interpretation, while the rest are false.In this dissertation, I argue that compatibilism, in its many diverse forms, is a mistaken view, and that incompatibilism is true. Furthermore, I give a model in which I attempt to reconcile the richness of artworks, which is the motivation behind compatibilism, and the claim that incompatibilism is a correct view. I also argue that the true interpretation of an artwork is the one intended by its artist, and I try to establish this conclusion by arguing that artworks are conversational entities.The above claims are found in Chapters 1 through 5. In Chapter 6 I demarcate the logical connections between the concepts of description, interpretation, and evaluation, concepts central to the understanding of art. Chapter 7 explores the connections between literature--a specific form of art--and ethics. I argue that under a theory of virtue ethics, broadly conceived to include central notions of feminist ethics, literature emerges as an essential vehicle of doing moral philosophy.

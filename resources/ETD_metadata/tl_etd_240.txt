@@ -1,0 +1,11 @@
+$TITLE:
+Engineering A Place for Women: A Study of How Departmental Climate Influences the Career Satisfaction of Female Mechanical Engineering Faculty Members
+
+$DEPARTMENT:
+Teaching and Leadership
+
+$KEYWORDS:
+departmental climate, faculty satisfaction, higher education
+
+$ABSTRACT:
+The purpose of this mixed-methods study was to better understand how female mechanical engineering faculty members' career experiences in academia affect their satisfaction. Specifically, the research considered differences in satisfaction reported by female and male mechanical engineering faculty members in terms of: a) departmental climate, b) nature of work, c) resource allocations, d) departmental policies/practices, and e) overall satisfaction. The study compared the levels of satisfaction reported in survey data collected from 2005-2010 with interview data collected from a subset of the survey population. The survey sample included 237 mechanical engineering faculty members who responded to an online survey developed by the Collaborative on Academic Careers in Higher Education (COACHE). A subset of the survey participants was interviewed to gain nuanced descriptions of faculty member worklife in order to refine the quantitative analysis. The interview sample included 28 faculty members from ten institutions across the U.S. The study used chi-square analyses to compare the survey responses of female and male mechanical engineering faculty members, and in some cases to compare the survey responses by academic rank. Themes were developed from the interview data and the theory of gendered organizations was used to give erspective on the analyses.The results of this study identified the role of gendered divisions of labor, gendered divisions of allowed behavior, gendered symbols, and gendered interactions as reasons why female mechanical engineering faculty members are less satisfied than their male colleagues with employment in academia and the nature of their work. Recommendations for how mechanical engineering leadership can improve the climate in the department include transparency in decision-making, leading by example, increasing empathy toward colleagues, and encouraging senior faculty members to engage in constructive and collaborative research conversations with junior faculty members.

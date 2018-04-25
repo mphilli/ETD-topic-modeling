@@ -1,0 +1,11 @@
+$TITLE:
+Methodologies for designing synchronous CSCW environments
+
+$DEPARTMENT:
+Electrical Engineering and Computer Science
+
+$KEYWORDS:
+Distributed systems, Collaboration, Computer-supported cooperative work, Transparent windows
+
+$ABSTRACT:
+Computer Supported Cooperative Work (CSCW) research focuses on the role of computers to support group work. CSCW systems that handle real-time interaction are synchronous. This dissertation presents methodologies for easing the incorporation of some existing single-user applications, for which the source code is not available, into collaboration environments without attempting to enable their whole functionality, but rather focusing only on their capabilities to display their associated information. This is accomplished using a replicated architecture and meaningful event broadcast, minimizing loss of information and presentation quality while maximizing performance. Additional services are provided to facilitate collaborative activities without modifying the original information. The research focuses on Windows platforms and broadly used applications for these platforms.A transparency layer is proposed as a centric concept for interacting with the user and addressing collaboration-related problems, without discriminating between single-user and new collaboration-aware applications.For the incorporation of single-user applications result in their interaction with the hosting collaboration environment, a lot of problems arise when transferring information and synchronizing actions across process boundaries, including the interaction with the transparency layer. For addressing these problems, a methodology based on a COM framework is proposed to establish a two-way communications channel between processes that might originally not be even aware of COM.COMETS is proposed as an architecture for supporting the development of collaboration-aware applications and the incorporation of single-user applications and is built based on the main ideas introduced in this research.
