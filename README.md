@@ -5,6 +5,11 @@ repository, [SURFACE](http://surface.syr.edu/etd). Topic modeling was performed 
 [Non-negative Matrix Factorization (NMF)](https://en.wikipedia.org/wiki/Non-negative_matrix_factorization) via 
 [scikit-learn](http://scikit-learn.org/stable/), a Python library for Machine Learning.
 
+This project helps to provide an understanding of the top research interests at Syracuse University, as well as which departments are the most diverse in terms of the topics that represent them. 
+
+Poster (from iSchool Poster day presentation)
+<img src="resources/topicPoster.PNG">
+
 #### Running the code
 
 Download the project, install the requirements (`python -m pip install -r requirements.txt`), and run the topic_modeling.py script
