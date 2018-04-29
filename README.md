@@ -3,12 +3,12 @@ on a self-collected dataset of all 4,032 ETDs (electronic theses and dissertatio
 repository, [SURFACE](http://surface.syr.edu/etd). Topic modeling was performed using two algorithms: [Latent Dirichlet Allocation
 (LDA)](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation) and 
 [Non-negative Matrix Factorization (NMF)](https://en.wikipedia.org/wiki/Non-negative_matrix_factorization) via 
-[scikit-learn](http://scikit-learn.org/stable/), a Python library for Machine Learning.
+[scikit-learn](http://scikit-learn.org/stable/), a Python library for machine learning.
 
 This project helps to provide an understanding of the top research interests at Syracuse University, as well as which departments are the most diverse in terms of the topics that represent them. 
 
-Poster (from iSchool Poster day presentation)
-<img src="resources/topicPoster.PNG">
+Poster (from iSchool poster day presentation)
+<img src="resources/topicPoster.PNG" height="70%" width="70%">
 
 #### Running the code
 
