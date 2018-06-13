@@ -23,7 +23,6 @@ documents = KeystractExtractor.load_keystracts()
 
 
 class TopicHandler(object):
-    """A class for taking a """
 
     WORDS_PER_TOPIC = 10
 
